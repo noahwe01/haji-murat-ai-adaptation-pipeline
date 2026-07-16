@@ -32,6 +32,8 @@ mcp-server/index.json
 projects/*/output/*
 !projects/*/output/adaptation_log.json
 !projects/*/output/adaptation_log.pre_E.json
+!projects/haji-murat/output/hadji_murat_t6_final.md
+!projects/haji-murat/output/hadji_murat_treatment_oneshot.md
 
 # Material outside the pipeline run
 evaluation/
