@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "filmability_validator report caps (Q1.1 report-only)",
+  "type": "object",
+  "properties": {
+    "filmability_report": {
+      "type": "object",
+      "properties": {
+        "scene_scores":     {"type": "array", "maxItems": 200},
+        "failed_scene_ids": {"type": "array", "maxItems": 200, "items": {"type": "string", "maxLength": 40}}
+      }
+    }
+  }
+}

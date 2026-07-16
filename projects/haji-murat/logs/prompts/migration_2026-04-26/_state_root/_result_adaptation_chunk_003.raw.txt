@@ -1,0 +1,187 @@
+ADAPTATION OUTPUT — CHUNK 003
+Hadji Murat | novel-to-screenplay
+Generated: 2026-04-24
+
+SOURCE COVERAGE:
+Chunk 003 covers the narrator's thistle-memory transition and Hadji Murad's arrival in the
+Chechen aoul of Makhmet, November 1851 — his approach through the narrow side street,
+stopping at the second saklya, and rousing the old man from the rooftop with a whip handle.
+
+SCENE DECISIONS:
+
+SCENE S001 — EXT. MAKHMET AOUL, NARROW SIDE STREET — DUSK
+The narrator's "What vitality!" exclamation is translated into a VISUAL PROLOGUE:
+the thistle alone on the roadside margin, filmed close — then a rack-focus pull to the
+approaching horsemen in the distance (NF-04: auktorial narrator dissolved into image).
+The narrator's literary apparatus is eliminated; the thistle becomes the opening image
+that the audience reads without explanation.
+
+Hadji Murad rides in from the right, tight against the mud-brick wall of the aoul's
+outer lane, his murid half a length behind. He is hooded. His rifle barrel catches
+last light beneath the burka. He does not look at the square — he turns LEFT, away
+from it, choosing the side street. This single navigation choice communicates fugitive
+status without dialogue.
+
+Physical anchor: Hadji Murad guides his horse with knee pressure only — his hands are
+inside the burka. The horse's breath steams. He passes two women drawing water from
+a stone trough; they do not look up. He notes them noting him.
+
+SCENE S002 — EXT. SAKLYA ROOFTOP / PENTHOUSE — DUSK INTO DARK
+The arrival at the second saklya cut into the hillside. The penthouse below is empty.
+On the flat roof, barely visible above the chimney rim, the mound of a sheepskin.
+Hadji Murad stops, reads the emptiness of the yard, then raises the plaited whip handle
+and taps the chimney lip — a quiet, coded signal, not a strike.
+
+The old man rises from under the sheepskin: greasy beshmet, nightcap. He looks down
+without speaking. Hadji Murad looks up without speaking. The old man's eyes go left
+(the alley), right (the slope), back down. He nods once. A beat.
+
+This is the full exchange before dialogue begins.
+
+---
+
+{
+  "scenes": [
+    {
+      "scene_id": "S001",
+      "slug": "EXT. MAKHMET AOUL - NARROW SIDE STREET - DUSK",
+      "action": "A dry thistle stands at the road's edge — stem broken mid-stalk, head intact, burgundy against grey mud brick. The wind moves it. A horse rounds the corner from the upland track: Hadji Murad, hooded, burka drawn tight, rifle barrel a dark line beneath the wool. One murid rides behind him, close. They hug the left wall, away from the central square and the sound of voices. Hadji Murad's eyes move without his head moving — two women at a stone trough, a boy stacking wood, a dog asleep across a threshold. He does not stop. He turns into the side street.",
+      "dialog_draft": [],
+      "emotional_beats": [
+        {
+          "beat": "The thistle stands alone, roadside, undefeated",
+          "audience_feels": "Something irreducible is about to be witnessed",
+          "character_feels": "Not yet present — this beat belongs to the image"
+        },
+        {
+          "beat": "Hadji Murad chooses the side street over the square",
+          "audience_feels": "Danger and calculated control — this man knows exactly where he is",
+          "character_feels": "Alert, calculating; every glance is inventory"
+        }
+      ],
+      "emotional_core": "Controlled flight — the dignity of a man who refuses to look hunted even while being hunted",
+      "visual_note": "End-of-day amber light flat against mud brick. The thistle in the foreground, slightly out of focus, before the riders emerge from the upland track behind it. Colors: dust-grey wall, burgundy thistle, black burka, the dirty white of the murid's horse. The aoul sounds: muezzin echo fading, cattle, children from the fountain below — all heard but not seen. Hadji Murad's face: only the lower half visible beneath the hood. No fire lit yet — the moment before dark.",
+      "characters": ["Hadji Murad", "Hadji Murad's Murid (unnamed, active)"],
+      "duration_minutes": 1.5,
+      "confidence": 0.88,
+      "confidence_breakdown": {
+        "narrative_coherence": 0.92,
+        "character_consistency": 0.90,
+        "visual_filmability": 0.90,
+        "dialog_quality": 1.0,
+        "show_dont_tell": 0.92
+      },
+      "show_dont_tell_score": 0.92,
+      "inner_monologue_converted": [
+        {
+          "original": "Narrator's 'What vitality!' exclamation over the thistle — authorial admiration for unsubmitting life",
+          "converted_to": "The thistle as opening image, held in frame before the riders appear — the audience reads the emblem without commentary; NF-04 applied"
+        },
+        {
+          "original": "'He rode, a fugitive with one murid only, trying to attract as little attention as possible'",
+          "converted_to": "The left turn away from the square, the wall-hugging path, the eyes-moving-not-head-moving — fugitive status read from behavior, not stated"
+        },
+        {
+          "original": "Narrator noting Hadji Murad 'peering with his quick black eyes into the faces of those he met'",
+          "converted_to": "Hadji Murad's silent inventory of the women, the boy, the dog — a continuous body-language read"
+        }
+      ],
+      "on_the_nose_risk": [],
+      "subplot_threads": ["HM_flight_from_Shamil", "HM_family_rescue_imperative"],
+      "source_chunks": [3],
+      "transition": "The side street narrows; the sound of the square falls away; only the horse hooves on dry earth and, ahead, the scrape of a saklya door. Cuts on silence to S002."
+    },
+    {
+      "scene_id": "S002",
+      "slug": "EXT. SAKLYA ROOFTOP / PENTHOUSE - MAKHMET - NIGHT FALLING",
+      "action": "Hadji Murad stops at the second saklya, cut into the hillside. The penthouse below is empty — a cold firepit, a coil of rope. He looks up. On the flat roof, behind the freshly plastered chimney, the shape of a man under sheepskin, still. Hadji Murad lifts his whip handle and taps the chimney rim twice — quiet, precise, a signal not a knock. The sheepskin shifts. An old man rises: greasy beshmet, nightcap pushed sideways. He looks down at Hadji Murad. His eyes go left along the alley, right up the slope, then return. He says nothing. Hadji Murad says nothing. The murid remains mounted behind, hand loose near the rifle stock.",
+      "dialog_draft": [
+        {
+          "character": "Old man on the saklya roof",
+          "line": "Alone?",
+          "subtext": "Have you brought death to my household tonight?",
+          "action_before": "He has scanned the alley both ways, has seen only the murid, pulls the sheepskin around his shoulders rather than setting it aside — the posture of a man who has not decided yet whether to stand up fully"
+        },
+        {
+          "character": "Hadji Murad",
+          "line": "Two.",
+          "subtext": "I am not a threat — I am a guest asking the code to hold",
+          "action_before": "Raises two fingers from inside the burka — visible just below the hood. Does not dismount."
+        },
+        {
+          "character": "Old man on the saklya roof",
+          "line": "Come down from the roof. As Allah wills.",
+          "subtext": "You are under my protection until morning. I will not name what that costs me.",
+          "action_before": "Stands fully. Tucks the sheepskin under his arm. Does not look at the murid again."
+        }
+      ],
+      "emotional_beats": [
+        {
+          "beat": "The double tap on the chimney — the code recognized",
+          "audience_feels": "Relief mixed with dread: someone knows he is here; someone is now implicated",
+          "character_feels": "Calculation: this threshold is safe enough; the old man has not called out"
+        },
+        {
+          "beat": "Old man's silent scan — left, right, back",
+          "audience_feels": "The weight of what hospitality costs in an occupied territory",
+          "character_feels": "Measuring the price of letting this man in"
+        },
+        {
+          "beat": "'Two.' — the minimum answer",
+          "audience_feels": "Hadji Murad's economy as discipline, not coldness",
+          "character_feels": "He trusts the code more than he trusts words"
+        },
+        {
+          "beat": "The old man stands and tucks the sheepskin — the decision made without speech",
+          "audience_feels": "Quiet moral courage; the world pressing on a single old man on a rooftop",
+          "character_feels": "The cost is clear; he steps into it anyway"
+        }
+      ],
+      "emotional_core": "The sacred debt of hospitality — two men transacting across silence in a world where words are surveillance",
+      "visual_note": "The saklya cut into the hillside: its rooftop is nearly at eye level with a mounted rider. The chimney, freshly plastered, white against the darkening sky — the one clean surface in the frame. The old man's nightcap: faded, slightly too large, canted to one side — the intimacy of a man caught in sleep, not in readiness. The murid behind: motionless, a dark volume. No fire, no lamp; the scene is lit by last sky-light from the west, faces half in shadow. The alley: close mud walls on both sides, perhaps two horse-widths across.",
+      "characters": ["Hadji Murad", "Hadji Murad's Murid (unnamed, active)", "Old man on the saklya roof"],
+      "duration_minutes": 2.0,
+      "confidence": 0.86,
+      "confidence_breakdown": {
+        "narrative_coherence": 0.90,
+        "character_consistency": 0.88,
+        "visual_filmability": 0.87,
+        "dialog_quality": 0.84,
+        "show_dont_tell": 0.88
+      },
+      "show_dont_tell_score": 0.88,
+      "inner_monologue_converted": [
+        {
+          "original": "The old man 'rose from under the sheepskin' — the novel's neutral observation",
+          "converted_to": "The sheepskin tucked under the arm as a decision-gesture: he is now standing, committed, the warmth of retreat physically set aside"
+        },
+        {
+          "original": "Hadji Murad 'looked round' — general vigilance",
+          "converted_to": "The double tap on the chimney: not violence, not greeting — a code that implies prior relationship or shared knowledge of custom; the audience infers the hospitality-bond"
+        }
+      ],
+      "on_the_nose_risk": [
+        "Old man's 'As Allah wills' must not sound like resignation — it must sound like a locked door, a finality that protects both men from having to say more"
+      ],
+      "subplot_threads": ["HM_flight_from_Shamil", "hospitality_code_as_resistance"],
+      "source_chunks": [3],
+      "transition": "The old man descends from the roof — his footsteps on the clay ladder, slow. The alley darkens. Inside: the smell of warm bread and kizyak smoke. The door closes behind Hadji Murad."
+    }
+  ],
+  "skipped_elements": [
+    "Narrator's full thistle-field meditation ('Ah, what a destructive creature is man!') — auktorial philosophical excursion; translated into the opening image only (NF-04, SS-04)",
+    "Narrator's explicit framing device ('I had partly seen myself, partly heard from eye-witnesses, and in part imagined') — eliminated per NF-04; the hybrid-testimony disclaimer would undercut dramatic immediacy on screen",
+    "The aoul's full acoustic inventory (muezzin, lowing cattle, bleating sheep, women at fountain, disputing men) — compressed into ambient sound design note in visual_note rather than dramatized action; SS-03 applied",
+    "The broader description of Makhmet's layout (honeycomb saklyas, location 15 miles from Russian territory) — world-exposition without protagonist action; reduced to atmospheric detail in S001 action line (SS-03)"
+  ],
+  "continuity_warning": "Old man on the saklya roof introduced here. His name is not given in the source text for this chunk. If later chunks reveal a name (Sado is a separate character — the old man here is a distinct figure), continuity must be tracked. Currently registered as 'Old man on the saklya roof' per character bible. Hadji Murad's murid (Eldar per later source material) appears unnamed here — consistent with source. No prior scenes to check against."
+}
+
+DECISIONS:
+- TRANSLATE_TO_VISUAL narrator_thistle_exclamation: auktorial meditation → opening image; no VO → NF-04, SS-04
+- DISSOLVE_FRAME narrator_hybrid_testimony: disclaimer destroys dramatic immediacy, no dramatic stakes → NF-03, NF-04
+- CUT aoul_acoustic_inventory: world-exposition without protagonist action, compressed to sound design → SS-03
+- CUT makhmet_geographic_exposition: 15-miles-from-Russian-territory context, no protagonist action → SS-03
+- KEEP S001_thistle_image: carries central theme (unsubmitting life = Hadji Murad); M-02 overrides any cut temptation → M-02, SC-07
+- KEEP S002_hospitality_exchange: value-shift (stranger → guest under protection) is atomic dramatic unit → SC-03
+- DEVIATION silence_as_primary_dialog: source has no dialogue in this passage; invented minimal exchange (Alone? / Two. / Come down.) to create filmable value-shift while honoring voice profiles and hospitality-code theme — no SC or CF rule covers pure-silence scenes requiring minimal invented bridge; bridge kept to 3 lines per SC-10 inversion (compression mode: invented bridge is transitional only)

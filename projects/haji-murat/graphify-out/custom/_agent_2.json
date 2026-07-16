@@ -1,0 +1,544 @@
+{
+  "agent_number": 2,
+  "chapters_analyzed": [6, 7, 8, 9, 10],
+  "characters": [
+    {
+      "canonical_name": "Hadji Murad",
+      "aliases": ["Hadji Murat"],
+      "narrative_function": "protagonist",
+      "historical": true,
+      "appearances": [6, 9, 10],
+      "dialogue_volume": "high",
+      "description": "Avar warrior and former naib of Shamil who has defected to the Russians. Proud, watchful, and strategic; seeks Russian help to destroy Shamil and free his family."
+    },
+    {
+      "canonical_name": "Simon Vorontsov",
+      "aliases": ["Young Vorontsov", "Prince Vorontsov (the younger)", "Simon"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [6, 9],
+      "dialogue_volume": "medium",
+      "description": "Young Russian prince and officer at Vozdvizhensk who personally receives Hadji Murad's surrender. Son of the Viceroy; anxious about protocol but ambitious."
+    },
+    {
+      "canonical_name": "Marya Vasilevna",
+      "aliases": ["Princess Marya Vasilevna", "Princess Vorontsova (the younger)"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [6],
+      "dialogue_volume": "medium",
+      "description": "Elegant wife of young Vorontsov. Charms Hadji Murad, defuses the conflict with Meller-Zakomelsky, and mediates the social scene."
+    },
+    {
+      "canonical_name": "Bulka",
+      "aliases": ["little Bulka", "Vorontsov's stepson"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [6],
+      "dialogue_volume": "low",
+      "description": "Six-year-old curly-headed stepson of young Vorontsov. Admires Hadji Murad's dagger and receives it as a kunak gift."
+    },
+    {
+      "canonical_name": "Meller-Zakomelsky",
+      "aliases": ["General Meller-Zakomelsky", "Baron", "the Baron"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [6],
+      "dialogue_volume": "medium",
+      "description": "Russian general commanding at Vozdvizhensk, offended that Hadji Murad's surrender bypassed him. Pompous and status-obsessed, ultimately placated by Marya Vasilevna."
+    },
+    {
+      "canonical_name": "Meller-Zakomelsky's wife",
+      "aliases": ["Meller-Zakomelsky's wife", "madame la generale"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [6],
+      "dialogue_volume": "none",
+      "description": "Model-looking little lady, wife of the general, briefly present during the confrontation."
+    },
+    {
+      "canonical_name": "Eldar",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [6],
+      "dialogue_volume": "low",
+      "description": "One of Hadji Murad's murids. Reports on the state of the horses and men after the surrender."
+    },
+    {
+      "canonical_name": "Avdeev",
+      "aliases": ["Peter Avdeev", "Peterkin", "Peter"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [7, 8],
+      "dialogue_volume": "medium",
+      "description": "Russian private from the Kurin regiment, mortally wounded in a skirmish. Dies in the fort hospital; had enlisted in place of his married brother."
+    },
+    {
+      "canonical_name": "Panov",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [7],
+      "dialogue_volume": "medium",
+      "description": "Comrade of Avdeev who sits with him at his deathbed and records his last message home."
+    },
+    {
+      "canonical_name": "Serogin",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [7],
+      "dialogue_volume": "low",
+      "description": "Fellow soldier who volunteers to write Avdeev's final letter home."
+    },
+    {
+      "canonical_name": "Poltoratsky",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [7],
+      "dialogue_volume": "low",
+      "description": "Russian officer who visits the dying Avdeev in the hospital to inquire after his soldier."
+    },
+    {
+      "canonical_name": "Old Avdeev",
+      "aliases": ["Avdeev's father", "the old man"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [8],
+      "dialogue_volume": "medium",
+      "description": "Peasant father of Peter Avdeev, head of the Kurenkov household. Regrets Peter's conscription and nags his elder son Akim."
+    },
+    {
+      "canonical_name": "Akim Avdeev",
+      "aliases": ["Akim", "the eldest son"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [8],
+      "dialogue_volume": "medium",
+      "description": "Peter's elder brother, a family man of four children, in whose stead Peter enlisted. Drinks and is compared unfavorably to his brother."
+    },
+    {
+      "canonical_name": "Old Avdeeva",
+      "aliases": ["the old woman", "Peter's mother", "the old man's wife"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [8],
+      "dialogue_volume": "medium",
+      "description": "Peter's mother, who dictates a tearful letter with a ruble enclosed to her son. Grieves publicly and arranges a requiem after news of his death."
+    },
+    {
+      "canonical_name": "Akim's wife",
+      "aliases": ["the daughter-in-law"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [8],
+      "dialogue_volume": "low",
+      "description": "Akim's wife, threshing at dawn with the family. Tries to smooth over father-son conflict."
+    },
+    {
+      "canonical_name": "Aksinya",
+      "aliases": ["Peter's wife", "Peter's widow"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [8],
+      "dialogue_volume": "low",
+      "description": "Peter Avdeev's young wife. Has left the Kurenkov household to live with a shopman by whom she is pregnant; secretly relieved by Peter's death."
+    },
+    {
+      "canonical_name": "Vanka",
+      "aliases": ["little orphaned Vanka"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [8],
+      "dialogue_volume": "none",
+      "description": "Aksinya's little orphaned child mentioned in her lament for Peter."
+    },
+    {
+      "canonical_name": "Michael Vorontsov",
+      "aliases": ["Michael Semenovich Vorontsov", "Prince Vorontsov", "Vorontsov senior", "the Commander-in-Chief", "the Sirdar", "Viceroy"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [9, 10],
+      "dialogue_volume": "high",
+      "description": "Aging Russian Viceroy of the Caucasus, father of young Vorontsov. English-educated, ambitious courtier who receives Hadji Murad in Tiflis and distrusts him privately while flattering him publicly."
+    },
+    {
+      "canonical_name": "Elizabeth Vorontsova",
+      "aliases": ["Princess Elizabeth Ksaverevna Vorontsova", "Princess Vorontsova", "the Sirdar's wife", "Countess Branitski"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [9, 10],
+      "dialogue_volume": "low",
+      "description": "Wife of the Viceroy Vorontsov. Hosts the Tiflis dinner and evening ball and greets Hadji Murad through the interpreter."
+    },
+    {
+      "canonical_name": "Manana Orbelyani",
+      "aliases": ["Princess Manana Orbelyani"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [9],
+      "dialogue_volume": "medium",
+      "description": "Handsome Georgian princess of about forty-five who dines beside Vorontsov and tactfully deflects the carroty general's dangerous anecdote about Dargo."
+    },
+    {
+      "canonical_name": "Countess Choiseuil",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [9],
+      "dialogue_volume": "low",
+      "description": "French friend of Princess Vorontsova at the Tiflis dinner; reacts in French to the Akhmet Khan widow story."
+    },
+    {
+      "canonical_name": "Doctor Andreevsky",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [9, 10],
+      "dialogue_volume": "none",
+      "description": "Aide-de-camp and physician at Vorontsov's court noted for his great behind-the-scenes influence. Partner at the ombre table."
+    },
+    {
+      "canonical_name": "Carroty General",
+      "aliases": ["the red-haired general", "the carroty general with the bristly mustaches", "the brave general"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [9, 10],
+      "dialogue_volume": "medium",
+      "description": "Visiting Russian general whose tactless Dargo 'rescue' anecdote embarrasses Vorontsov at dinner. Returns next day in full uniform to take leave."
+    },
+    {
+      "canonical_name": "Georgian Prince",
+      "aliases": ["the stupid Georgian prince"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [9],
+      "dialogue_volume": "medium",
+      "description": "Refined flatterer at Vorontsov's table who redirects the conversation to Hadji Murad's exploits and compares him to Napoleon."
+    },
+    {
+      "canonical_name": "Armenian General",
+      "aliases": ["an Armenian general"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [9],
+      "dialogue_volume": "none",
+      "description": "Plays ombre with Vorontsov after dinner; learned the game from the prince's valet."
+    },
+    {
+      "canonical_name": "Shamil",
+      "aliases": ["the Imam"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [6, 9, 10],
+      "dialogue_volume": "none",
+      "description": "Imam of the mountaineers and Hadji Murad's sworn enemy. Holds Hadji Murad's family hostage; referenced but not present in these chapters."
+    },
+    {
+      "canonical_name": "Kozlovsky",
+      "aliases": ["General Kozlovsky", "general in command of the left flank"],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [6, 9],
+      "dialogue_volume": "none",
+      "description": "Russian general at Grozny commanding the left flank. Referenced as the recipient of Vorontsov's reports."
+    },
+    {
+      "canonical_name": "Akhmet Khan",
+      "aliases": ["Akhmet Khan of Mekhtuli"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [9, 10],
+      "dialogue_volume": "none",
+      "description": "Deceased Avar rival who calumniated Hadji Murad to General Klugenau, forcing him to flee to Shamil. His widow was carried off by Hadji Murad."
+    },
+    {
+      "canonical_name": "Klugenau",
+      "aliases": ["General Klugenau"],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [10],
+      "dialogue_volume": "none",
+      "description": "Russian general who formerly arrested Hadji Murad on Akhmet Khan's denunciation, precipitating his flight to Shamil."
+    },
+    {
+      "canonical_name": "Nicholas I",
+      "aliases": ["White Tsar", "the great Tsar", "sovereign", "master"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [10],
+      "dialogue_volume": "none",
+      "description": "Russian Tsar referenced as the ultimate authority to whom Hadji Murad pledges service and to whom Vorontsov will appeal for pardon."
+    },
+    {
+      "canonical_name": "Aleksandr I",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [9],
+      "dialogue_volume": "none",
+      "description": "Former Tsar whose portrait decorates Vorontsov's gold snuff-box; purely iconographic appearance."
+    },
+    {
+      "canonical_name": "Colonel Zolotukhin",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [9],
+      "dialogue_volume": "none",
+      "description": "Russian colonel killed by Hadji Murad during General Pahlen's 1843 campaign, mentioned in the carroty general's anecdote."
+    },
+    {
+      "canonical_name": "General Pahlen",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [9],
+      "dialogue_volume": "none",
+      "description": "Russian commander whose 1843 detachment was attacked by Hadji Murad after the capture of Gergebel."
+    },
+    {
+      "canonical_name": "Prince Tarkhanov",
+      "aliases": ["the prince's interpreter"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [10],
+      "dialogue_volume": "low",
+      "description": "Vorontsov's official interpreter in Tiflis who mediates between Hadji Murad and the Viceroy."
+    },
+    {
+      "canonical_name": "Loris-Melikov",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [10],
+      "dialogue_volume": "low",
+      "description": "Vorontsov's aide-de-camp placed in charge of Hadji Murad. Accompanies him to the opera and the ball."
+    },
+    {
+      "canonical_name": "Kumyk Prince",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [10],
+      "dialogue_volume": "none",
+      "description": "Local Kumyk noble in the Viceroy's waiting room lodging a complaint against a police official."
+    }
+  ],
+  "co_appearances": [
+    {
+      "chars": ["Hadji Murad", "Simon Vorontsov"],
+      "chapters": [6],
+      "interaction_type": "transactional"
+    },
+    {
+      "chars": ["Hadji Murad", "Marya Vasilevna"],
+      "chapters": [6],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Hadji Murad", "Bulka"],
+      "chapters": [6],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Simon Vorontsov", "Marya Vasilevna"],
+      "chapters": [6],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Simon Vorontsov", "Meller-Zakomelsky"],
+      "chapters": [6],
+      "interaction_type": "antagonist"
+    },
+    {
+      "chars": ["Marya Vasilevna", "Meller-Zakomelsky"],
+      "chapters": [6],
+      "interaction_type": "transactional"
+    },
+    {
+      "chars": ["Hadji Murad", "Meller-Zakomelsky"],
+      "chapters": [6],
+      "interaction_type": "antagonist"
+    },
+    {
+      "chars": ["Hadji Murad", "Eldar"],
+      "chapters": [6],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Avdeev", "Panov"],
+      "chapters": [7],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Avdeev", "Serogin"],
+      "chapters": [7],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Avdeev", "Poltoratsky"],
+      "chapters": [7],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Panov", "Serogin"],
+      "chapters": [7],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Old Avdeev", "Akim Avdeev"],
+      "chapters": [8],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Old Avdeev", "Old Avdeeva"],
+      "chapters": [8],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Old Avdeev", "Akim's wife"],
+      "chapters": [8],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Akim Avdeev", "Akim's wife"],
+      "chapters": [8],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Old Avdeeva", "Akim Avdeev"],
+      "chapters": [8],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Aksinya", "Vanka"],
+      "chapters": [8],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Elizabeth Vorontsova"],
+      "chapters": [9, 10],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Manana Orbelyani"],
+      "chapters": [9],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Carroty General"],
+      "chapters": [9, 10],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Georgian Prince"],
+      "chapters": [9],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Doctor Andreevsky"],
+      "chapters": [9],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Armenian General"],
+      "chapters": [9],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Elizabeth Vorontsova", "Carroty General"],
+      "chapters": [9],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Elizabeth Vorontsova", "Countess Choiseuil"],
+      "chapters": [9],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Manana Orbelyani", "Carroty General"],
+      "chapters": [9],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Georgian Prince", "Countess Choiseuil"],
+      "chapters": [9],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Michael Vorontsov", "Simon Vorontsov"],
+      "chapters": [9],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Hadji Murad", "Michael Vorontsov"],
+      "chapters": [10],
+      "interaction_type": "transactional"
+    },
+    {
+      "chars": ["Hadji Murad", "Prince Tarkhanov"],
+      "chapters": [10],
+      "interaction_type": "transactional"
+    },
+    {
+      "chars": ["Hadji Murad", "Loris-Melikov"],
+      "chapters": [10],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Hadji Murad", "Elizabeth Vorontsova"],
+      "chapters": [10],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Hadji Murad", "Carroty General"],
+      "chapters": [10],
+      "interaction_type": "incidental"
+    }
+  ],
+  "fusion_hints": [
+    {
+      "characters": ["Panov", "Serogin"],
+      "reason": "Both are Avdeev's comrades at the deathbed with nearly interchangeable functions (sit with him, take the letter). Merging into a single comrade tightens the hospital scene without losing emotional weight.",
+      "confidence": 0.85
+    },
+    {
+      "characters": ["Georgian Prince", "Armenian General"],
+      "reason": "Both are minor courtier figures at Vorontsov's Tiflis table serving the same narrative function (flatterers/atmosphere). A single composite Caucasian courtier can carry the Napoleon-flattery beat and the ombre game.",
+      "confidence": 0.7
+    },
+    {
+      "characters": ["Countess Choiseuil", "Manana Orbelyani"],
+      "reason": "Both are elite women at the Vorontsov dinner who react to the Hadji Murad stories. Orbelyani already carries the functional beat (deflecting the Dargo anecdote); Choiseuil's 'Quelle horreur!' can be absorbed.",
+      "confidence": 0.6
+    },
+    {
+      "characters": ["Prince Tarkhanov", "Loris-Melikov"],
+      "reason": "Both serve as Vorontsov's buffer to Hadji Murad in Tiflis (interpreter vs. aide-de-camp). Consolidating into one handler keeps Hadji Murad's Russian-court arc legible. Caveat: Loris-Melikov is historically significant and may warrant preservation for source accuracy.",
+      "confidence": 0.5
+    },
+    {
+      "characters": ["Kozlovsky", "Meller-Zakomelsky"],
+      "reason": "Both are mid-level Russian generals in the chain of custody over Hadji Murad after surrender. Kozlovsky is only a name on a report; his function can collapse into Meller-Zakomelsky or be cut entirely.",
+      "confidence": 0.8
+    },
+    {
+      "characters": ["Akhmet Khan", "Klugenau"],
+      "reason": "Both exist only in backstory exposition about why Hadji Murad fled to Shamil. A single antagonist figure (or a single line of dialogue) can compress this backstory beat.",
+      "confidence": 0.55
+    },
+    {
+      "characters": ["Akim's wife", "Old Avdeeva"],
+      "reason": "Both are female voices in the Avdeev family chapter whose lines smooth over the father-son conflict or lament Peter. Consolidating into one matriarch figure keeps the peasant-family beat without three speaking women.",
+      "confidence": 0.55
+    },
+    {
+      "characters": ["Colonel Zolotukhin", "General Pahlen"],
+      "reason": "Both appear only inside the carroty general's single anecdote as names attached to Hadji Murad's past exploit. One name suffices; the other can be cut.",
+      "confidence": 0.9
+    }
+  ]
+}

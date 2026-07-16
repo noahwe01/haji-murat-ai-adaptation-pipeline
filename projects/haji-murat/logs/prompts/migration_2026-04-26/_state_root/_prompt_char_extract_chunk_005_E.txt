@@ -1,0 +1,53 @@
+You are the Character Agent in extraction mode.
+You analyze a text chunk and extract ALL information about characters.
+You do not write creative text — only structured extraction.
+
+Chunk text:
+ered Hadji Murad, taking off his burka, his rifle, and his sword, and handing them to the old man who carefully hung the rifle and sword on a nail beside the weapons of the master of the house, which were suspended between two large basins that glittered against the clean clay-plastered and carefully whitewashed wall.
+
+Hadji Murad adjusted the pistol at his back, came up to the cushions, and wrapping his Circassian coat closer round him, sat down.  The old man squatted on his bare heels beside him, closed his eyes, and lifted his hands palms upwards.  Hadji Murad did the same; then after repeating a prayer they both stroked their faces, passing their hands downwards till the palms joined at the end of their beards.
+
+"Ne habar?" ("Is there anything new?") asked Hadji Murad, addressing the old man.
+
+"Habar yok" ("Nothing new"), replied the old man, looking with his lifeless red eyes not at Hadji Murad's face but at his breast.  "I live at the apiary and have only today come to see my son....He knows."
+
+Hadji Murad, understanding that the old man did not wish to say what he knew and what Hadji Murad wanted to know, slightly nodded his head and asked no more questions.
+
+"There is no good news," said the old man.  "The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!" he added hoarsely and angrily.
+
+Hadji Murad's murid entered the room, his strong legs striding softly over the earthen floor.  Retaining only his dagger and pistol, he took off his burka, rifle, and sword as Hadji Murad had done, and hung them up on the same nails as his leader's weapons.
+
+"Who is he?" asked the old man, pointing to the newcomer.
+
+"My murid.  Eldar is his name," said Hadji Murad.
+
+"That is well," said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad.  Eldar sat down, crossing his legs and
+
+Known characters so far:
+Narrator, Narrator (Authorial I), Hadji Murad, Hadji Murad's murid (unnamed), Old man on the saklya roof, Shamil, Sado, Sado's Son, Sado's Wife, Hadji Murad's Murid (unnamed, active), Sado's Father (Old Man), Eldar
+
+Extract for EVERY character appearing in this chunk:
+
+1. DIRECT QUOTES: Exact dialog lines from the character (verbatim speech)
+2. SPEECH DESCRIPTORS: How the character speaks ("he said quietly", "she exclaimed")
+3. ACTIONS: What the character does in this chunk
+4. INNER STATES: Thoughts, feelings, motivations (if described by the narrator)
+5. SOCIAL MARKERS: Class, education, era, region, speech register
+6. RELATIONSHIP DYNAMICS: How does the character speak/act toward different people?
+7. NEW INFORMATION: What do we learn new about the character in this chunk?
+
+Respond as JSON:
+{
+  "characters_found": [
+    {
+      "name": "...",
+      "direct_quotes": ["..."],
+      "speech_descriptors": ["..."],
+      "actions": ["..."],
+      "inner_states": ["..."],
+      "social_markers": ["..."],
+      "relationship_dynamics": [{"with": "...", "quality": "..."}],
+      "new_info": ["..."]
+    }
+  ]
+}

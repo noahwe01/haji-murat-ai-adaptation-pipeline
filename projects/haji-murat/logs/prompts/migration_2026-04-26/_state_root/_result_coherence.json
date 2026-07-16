@@ -1,0 +1,53 @@
+{
+  "coherence_score": 54,
+  "momentum": {
+    "score": 62,
+    "stall_points": [
+      "Fragment — Act II/III absent",
+      "Saklya weapons-surrender ritual duplicated without escalation",
+      "Hare-eagle parable arrives underprepared"
+    ],
+    "surge_points": [
+      "Dual thistle prologue thematically strong",
+      "HM alley entrance economical"
+    ]
+  },
+  "emotional_architecture": {
+    "score": 48,
+    "peak_moment": "Cannot identify — screenplay ends before climax.",
+    "earned_ending": false,
+    "audience_feeling": "Indeterminate"
+  },
+  "thematic_coherence": {
+    "score": 71,
+    "themes_shown_not_told": true,
+    "crystallizing_moment": "Third thistle: upright in black-earth field, touched once.",
+    "formal_echoes": [
+      "Thistle triptych",
+      "Weapons-wall as colonial microcosm",
+      "Single light sources in darkness"
+    ]
+  },
+  "character_ecosystem": {
+    "score": 51,
+    "redundant_characters": [
+      "Old Man / Sado's Father possibly same",
+      "Unnamed Murid / Eldar possibly same"
+    ],
+    "interlocking_arcs": false,
+    "transformation_visible": "No transformation in fragment"
+  },
+  "dangling_threads": [
+    "Narrator authorial-I disappears after prologue",
+    "Sado named but absent",
+    "Sado's Wife arc undeclared",
+    "Eldar perspective not integrated"
+  ],
+  "missed_opportunities": [
+    "Intercut thistle prologues instead of sequential",
+    "Weapons wall asymmetry not interrogated",
+    "Boy messenger's arc not paid off"
+  ],
+  "why_this_film": "Thistle frame is the argument — if full screenplay holds this register, it is worth producing.",
+  "overall_assessment": "Fragment shows genuine craft but cannot be evaluated for full coherence. Character ecosystem labeling errors flag pipeline issue."
+}

@@ -1,0 +1,43 @@
+You are the Character Agent in extraction mode.
+You analyze a text chunk and extract ALL information about characters.
+You do not write creative text — only structured extraction.
+
+Chunk text:
+Hadji Murad touched him with the handle of his leather-plaited whip and clicked his tongue, and an old man, wearing a greasy old beshmet and a nightcap, rose from under the sheepskin.  His moist red eyelids had no lashes, and he blinked to get them unstuck.  Hadji Murad, repeating the customary "Selaam aleikum!" uncovered his face.  "aleikum, selaam!" said the old man, recognizing him, and smiling with his toothless mouth.  And raising himself on his thin legs he began thrusting his feet into the wooden-heeled slippers that stood by the chimney.  Then he leisurely slipped his arms into the sleeves of his crumpled sheepskin, and going to the ladder that leant against the roof he descended backwards, while he dressed and as he climbed down he kept shaking his head on its thin, shrivelled sunburnt neck and mumbling something with his toothless mouth.  As soon as he reached the ground he hospitably seized Hadji Murad's bridle and right stirrup; but the strong active murid had quickly dismounted and motioning the old man aside, took his place. Hadji Murad also dismounted, and walking with a slight limp, entered under the penthouse.  A boy of fifteen, coming quickly out of the door, met him and wonderingly fixed his sparkling eyes, black as ripe sloes, on the new arrivals.
+
+"run to the mosque and call your father," ordered the old man as he hurried forward to open the thin, creaking door into the saklya.
+
+As Hadji Murad entered the outer door, a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions.
+
+"May thy coming bring happiness!" said she, and bending nearly double began arranging the cushions along the front wall for the guest to sit on.
+
+"May thy sons live!" answered Hadji Murad, taking off his burka, his rifle, and his sword, and handing them to the old man who carefully hung the rifle and sword on a nail beside the weapons of the master of the house, which were suspended between two l
+
+Known characters so far:
+Narrator, Narrator (Authorial I), Hadji Murad, Hadji Murad's murid (unnamed), Old man on the saklya roof, Shamil, Sado, Sado's Son, Sado's Wife, Hadji Murad's Murid (unnamed, active), Sado's Father (Old Man), Eldar
+
+Extract for EVERY character appearing in this chunk:
+
+1. DIRECT QUOTES: Exact dialog lines from the character (verbatim speech)
+2. SPEECH DESCRIPTORS: How the character speaks ("he said quietly", "she exclaimed")
+3. ACTIONS: What the character does in this chunk
+4. INNER STATES: Thoughts, feelings, motivations (if described by the narrator)
+5. SOCIAL MARKERS: Class, education, era, region, speech register
+6. RELATIONSHIP DYNAMICS: How does the character speak/act toward different people?
+7. NEW INFORMATION: What do we learn new about the character in this chunk?
+
+Respond as JSON:
+{
+  "characters_found": [
+    {
+      "name": "...",
+      "direct_quotes": ["..."],
+      "speech_descriptors": ["..."],
+      "actions": ["..."],
+      "inner_states": ["..."],
+      "social_markers": ["..."],
+      "relationship_dynamics": [{"with": "...", "quality": "..."}],
+      "new_info": ["..."]
+    }
+  ]
+}

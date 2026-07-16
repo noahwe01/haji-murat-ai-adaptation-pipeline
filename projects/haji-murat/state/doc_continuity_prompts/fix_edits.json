@@ -1,0 +1,98 @@
+[
+  {
+    "finding_id": "F12",
+    "old_string": "HADJI MURAD\nA horse. A black one.\n\nHadji Aga plants his boot on the corpse's back, lifts the dagger.\n\nHADJI AGA\nMove the foot. Not the shoe — the head. Clean. Clean.\n\nKhan Mahoma jerks his chin toward the boot on the body.\n\nKHAN MAHOMA\nLook — they roll his head like a melon. Careful, dog, do not scuff your boots.\n\nHadji Murad's body shudders. He pushes once from the trunk.\n\nHADJI MURAD\nHadji Murad has stood.\n\nGAMZALO, bound, leans toward the body, jaw set, lips moving in prayer.\n\nGAMZALO\nHadji Agha. I come. One step before. As I swore.\n\nHadji Aga rolls the severed head away with the side of his foot.\n\nHADJI AGA\nHe ran to them first. Remember that.\n\nKhanefi, bound beside Gamzalo, watches the tree. He sets his back to Gamzalo's.\n\nKHANEFI\n(singing, low)\nThe earth dried on Hamzad's grave — the avenger did not sleep.\n\nHadji Murad's palms try to draw down the beard. They fall.\n\nHADJI MURAD\nAllah knows.\n\nHe is still.",
+    "new_string": "HADJI MURAD\nA horse. A black one.\n\nHadji Murad's body shudders. He pushes once from the trunk.\n\nHADJI MURAD (CONT'D)\nHadji Murad has stood.\n\nHis palms try to draw down the beard. They fall.\n\nHADJI MURAD (CONT'D)\nAllah knows.\n\nHe is still.\n\nHadji Aga plants his boot on the corpse's back, lifts the dagger.\n\nHADJI AGA\nMove the foot. Not the shoe — the head. Clean. Clean.\n\nKhan Mahoma jerks his chin toward the boot on the body.\n\nKHAN MAHOMA\nLook — they roll his head like a melon. Careful, dog, do not scuff your boots.\n\nHadji Aga rolls the severed head away with the side of his foot.\n\nHADJI AGA\nHe ran to them first. Remember that.\n\nGAMZALO, bound, leans toward the body, jaw set, lips moving in prayer.\n\nGAMZALO\nHadji Agha. I come. One step before. As I swore.\n\nKhanefi, bound beside Gamzalo, watches the tree. He sets his back to Gamzalo's.\n\nKHANEFI\n(singing, low)\nThe earth dried on Hamzad's grave — the avenger did not sleep.",
+    "note": "Reordered the death block so all of Hadji Murad's speech and movement (shudder, stands, palms fall, 'Allah knows.') precede 'He is still.'; only after his death does Hadji Aga behead the corpse and the bound murids react — no line deleted."
+  },
+  {
+    "finding_id": "F1",
+    "old_string": "A volley. Smoke rolls across the ditch. Men shout in the shrubs, closer now.",
+    "new_string": "A volley. Smoke rolls across the ditch. Men shout in the shrubs, closer now. Eldar half-rises, leans past the earth wall — a bullet takes him. He reels back and falls across Hadji Murad's leg; their eyes hold once before Hadji Murad draws the leg slowly free.",
+    "note": "Moved Eldar's death forward into the firefight with the canonical leg-fall detail, matching the character list and Sc. 43, so he no longer dies last in the Key Scene."
+  },
+  {
+    "finding_id": "F1",
+    "old_string": "The shrubs erupt. Muzzle-flash from every side. Eldar goes down at the earth wall. Khanefi is dragged back, his pistol struck from his hand.",
+    "new_string": "The shrubs erupt. Muzzle-flash from every side. Khanefi is dragged back, his pistol struck from his hand.",
+    "note": "Removed the second, late Eldar death during Hadji Murad's charge so Eldar does not die twice."
+  },
+  {
+    "finding_id": "F1",
+    "old_string": "who dies first in the ditch, falling onto his master's leg",
+    "new_string": "who falls early in the ditch, onto his master's leg",
+    "note": "Softened the character-list 'dies first' to 'falls early' so it stays consistent with the Key Scene (Eldar dies mid-fight, Bata sooner) while keeping the leg-fall detail."
+  },
+  {
+    "finding_id": "F2",
+    "old_string": "As the guests put on their coats he draws Poltoratsky aside: his company is ordered to the forest tomorrow.",
+    "new_string": "As the guests put on their coats he draws Poltoratsky aside: his company rides a routine patrol of the forest road tomorrow — nothing more said, nothing of why.",
+    "note": "Stripped the viceroy's concrete foreknowledge of the Hadji Murad meeting in Sc. 7 so his surprise at the defection news in Sc. 18 no longer contradicts it."
+  },
+  {
+    "finding_id": "F3",
+    "old_string": "It is Akhmet Khan. He rode at your stirrup once.",
+    "new_string": "It is Akhmet Khan's son. His father rode at your stirrup once.",
+    "note": "Reassigned the ridge rider to Akhmet Khan's son (per Sc. 45), keeping Akhmet Khan dead as established in Sc. 19."
+  },
+  {
+    "finding_id": "F13",
+    "old_string": "Bata sits hard in the dirt, throat ragged, spits red, goes still.",
+    "new_string": "Bata, sent first over the bank to loose a riderless horse as a lure, is shot before he clears the lip and drops back into the mud, still.",
+    "note": "Changed Bata's Sc. 43 death from an unspecific neck wound in the general fight to being shot at the wall while sent forward as a decoy, matching the Key Scene."
+  },
+  {
+    "finding_id": "F4",
+    "old_string": "After a silence the length of a prayer, Hadji Murad draws a gold repeater watch from his breast pocket and presses the spring: twelve delicate chimes from a different world. Never after that, he says",
+    "new_string": "After a silence the length of a prayer, Hadji Murad lays his hand flat on the worn bone hilt of his kindjal and holds it there — the one weight that has never left him. Never after that, he says",
+    "note": "Removed Hadji Murad's own gold repeater watch in Sc. 23 (replaced with his established kindjal) so the gold repeater remains solely Vorontsov's, per Sc. 15/26."
+  },
+  {
+    "finding_id": "F5",
+    "old_string": "He works the small silver coin Yusuf gave him from his belt, presses it once, drops it into Khanefi's palm.",
+    "new_string": "He lifts the small silver coin Yusuf gave him from the leather thong at his throat, presses it once, drops it into Khanefi's palm.",
+    "note": "Aligned the coin's carry to Sc. 37 — taken from the leather thong at the throat, not from the belt."
+  },
+  {
+    "finding_id": "F6",
+    "old_string": "The gold he was paid sits untouched in a bright heap on the floor.",
+    "new_string": "The gold he was paid he tipped from his sleeve onto the floor uncounted, and it lies there in a bright heap, untouched.",
+    "note": "Reconciled Sc. 37 with Sc. 36 — the gold he swept into his sleeve is now shown tipped out and left untouched, not sitting there as if never taken."
+  },
+  {
+    "finding_id": "F7",
+    "old_string": "the old spy adds that Yusuf has been moved deeper — Vedeno, then beyond, the pit already dug.",
+    "new_string": "the old spy adds that Yusuf has been sunk deeper still — a new pit beneath Vedeno, already dug.",
+    "note": "Fixed the pit location to beneath Vedeno, matching the Summary and Sc. 44, removing the 'beyond Vedeno' contradiction."
+  },
+  {
+    "finding_id": "F8",
+    "old_string": "White Kabarda mare, five Cossack mounts flanking close. NAZAROV (28) rides at his stirrup.",
+    "new_string": "White Kabarda mare, five Cossack mounts flanking close — the dawn watch of the honor guard, the rest still bedded down in the fort. NAZAROV (28) rides at his stirrup.",
+    "note": "Explained why only five of the demanded twenty-Cossack honor guard (Sc. 25) ride on the dawn breakout, removing the unexplained number jump."
+  },
+  {
+    "finding_id": "F9",
+    "old_string": "He takes Hadji Murad's wives, mother, and Yusuf prisoner, forces the boy to write a letter under duress, and sentences Hadji Murad to death by any hand that can reach him.",
+    "new_string": "His men intercept Hadji Murad's wife, mother, and son Yusuf as they try to slip across to the Russian line and hold all three at Vedeno; he forces the boy to write a letter under duress and sentences Hadji Murad to death by any hand that can reach him.",
+    "note": "Aligned the Summary with Sc. 32 — the family is intercepted attempting to reach the Russian line, not simply seized where already held."
+  },
+  {
+    "finding_id": "F10",
+    "old_string": "Five horses in frost-burned scrub, breath steaming, girths tight.",
+    "new_string": "Six horses in frost-burned scrub, breath steaming, girths tight.",
+    "note": "Set the breakout party to six horses in Sc. 39 to match the six men in the ditch (Sc. 42)."
+  },
+  {
+    "finding_id": "F11",
+    "old_string": "SHAMIL (mid 50s; ~38 in flashback)",
+    "new_string": "SHAMIL (mid 50s; ~33 in flashback)",
+    "note": "Set Shamil's flashback age to ~33 so the elapsed span (mid-50s minus 33 ≈ 22 years) matches Hadji Murad's (47 minus 25 = 22) for the same event."
+  },
+  {
+    "finding_id": "F11",
+    "old_string": "SHAMIL (~38) stands two paces behind, beard still, eyes moving once to Hadji Murad and away.",
+    "new_string": "SHAMIL (~33) stands two paces behind, beard still, eyes moving once to Hadji Murad and away.",
+    "note": "Matched Shamil's flashback age in Sc. 22 to the corrected ~33 in the character list."
+  }
+]

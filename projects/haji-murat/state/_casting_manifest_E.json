@@ -1,0 +1,47 @@
+[
+  {
+    "character": "Narrator (Authorial I)",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_narrator_authorial_i_E.txt"
+  },
+  {
+    "character": "Hadji Murad",
+    "historical": true,
+    "prompt_file": "state/_prompt_casting_hadji_murad_E.txt"
+  },
+  {
+    "character": "Old man on the saklya roof",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_old_man_on_the_saklya_roof_E.txt"
+  },
+  {
+    "character": "Shamil",
+    "historical": true,
+    "prompt_file": "state/_prompt_casting_shamil_E.txt"
+  },
+  {
+    "character": "Sado",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_sado_E.txt"
+  },
+  {
+    "character": "Sado's Son",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_sado_s_son_E.txt"
+  },
+  {
+    "character": "Sado's Wife",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_sado_s_wife_E.txt"
+  },
+  {
+    "character": "Hadji Murad's Murid (unnamed, active)",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_hadji_murad_s_murid_unnamed,_active_E.txt"
+  },
+  {
+    "character": "Eldar",
+    "historical": false,
+    "prompt_file": "state/_prompt_casting_eldar_E.txt"
+  }
+]

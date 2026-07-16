@@ -1,0 +1,45 @@
+{
+  "new_characters": [
+    {"name": "Hadji Murad", "initial_description": "Shamil's former naib, famous warrior, now a fugitive traveling incognito with a single murid, wrapped in hood and burka, walks with a slight limp, has quick black eyes.", "role": "protagonist"},
+    {"name": "Sado", "initial_description": "Implied host and kunak of Hadji Murad (father of the 15-year-old boy sent to the mosque to fetch him); owner of the saklya cut into the hillside.", "role": "supporting"},
+    {"name": "The Old Man (Sado's father)", "initial_description": "Toothless elder in greasy beshmet and nightcap, with moist red lashless eyelids; sleeps on the saklya roof, greets Hadji Murad with reverence and hospitality.", "role": "supporting"},
+    {"name": "The Boy (Sado's son)", "initial_description": "A fifteen-year-old with sparkling eyes black as ripe sloes; sent running to the mosque to summon his father.", "role": "supporting"},
+    {"name": "Sado's Wife", "initial_description": "Slight, spare, middle-aged woman in yellow smock, red beshmet, and wide blue trousers; greets the guest with ritual blessing and arranges cushions.", "role": "supporting"},
+    {"name": "Hadji Murad's Murid", "initial_description": "Strong, active companion who dismounts quickly and takes charge of the horses, displacing the old man's hospitality gesture.", "role": "supporting"}
+  ],
+  "plot_elements": [
+    {"description": "Hadji Murad enters the aoul incognito, avoiding the open square, riding instead into a narrow side street to reach a specific saklya cut into the hillside.", "act": 1, "subplot_id": null},
+    {"description": "Hadji Murad signals the sleeping old man on the roof with his whip; recognition and ritual greeting 'Selaam aleikum' establish trust and kunak bond.", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "The old man sends the fifteen-year-old boy to the mosque to fetch Sado, setting up the pivotal reunion of protagonist with his host-kunak.", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "The women of the household receive Hadji Murad with ritual hospitality ('May thy coming bring happiness!'), arranging cushions for the honored guest.", "act": 1, "subplot_id": null}
+  ],
+  "new_locations": [
+    {"name": "Sado's Aoul", "description": "Mountain Chechen village entered by Hadji Murad. He avoids the central square and takes a narrow side street — conveys clandestine entry and local geography."},
+    {"name": "Sado's Saklya", "description": "Traditional Chechen dwelling cut into the hillside, with a penthouse in front, a freshly plastered clay chimney, a flat roof used for sleeping, and a ladder against the wall. Moral core location per graph (weight=10)."}
+  ],
+  "tension": 0.55,
+  "act_estimation": 1,
+  "filmability_score": 0.9,
+  "theme_hints": ["hospitality as sacred bond", "fugitive identity vs. former glory", "kunak loyalty across ethnic-political lines", "ritual as social glue"],
+  "symbols": ["the hood and burka concealing the famous naib", "the roof sleeper blinking awake — dormant loyalty re-activated", "the whip-handle tap as silent summons", "the 15-year-old son as messenger between worlds"],
+  "notes": "Strongly cinematic chunk — pure behavior, gesture, and ritual dialogue with almost no interiority. The contrast between the opening sentence (past glory with banner and dozens of murids) and the present (one murid, hood, furtive entry) is a ready-made montage/transition beat. Location graph confirms Sado's Aoul as weight=10 setpiece; this chunk establishes its moral-core function. The old man and boy are graph-flagged as one-scene incidentals — ritual functions absorbable into Sado's household composite.",
+  "fusion_candidates": [
+    {"chars": ["The Old Man (Sado's father)", "Sado's Wife"], "reason": "Both serve the single function of 'household that ritually receives Hadji Murad'; neither is historical; fusing into 'Sado's household' removes one named speaker while preserving the hospitality beat."},
+    {"chars": ["The Boy (Sado's son)", "Hadji Murad's Murid"], "reason": "Both execute one errand-function (messenger / horse-handler) in this chunk. Low-weight incidentals; messenger function could be carried by the murid to reduce named minors. Propose only — boy may gain weight later."}
+  ],
+  "cuttable": [
+    {"element": "Old man's descending-the-ladder sequence (backwards climb, slipper-fumbling, mumbling)", "reason": "Charming novelistic texture but non-load-bearing for protagonist's trajectory; compressible to a single gesture."},
+    {"element": "Opening expository recap of Hadji Murad's past retinue (banner, dozens of caracoling murids)", "reason": "Authorial backstory; non-dramatized. Translate-to-visual via a single prologue image or cut; not scene material."}
+  ],
+  "refocalize": [
+    {"scene": "Opening authorial summary of Hadji Murad's former glory as Shamil's naib", "current_pov": "omniscient narrator", "recommended_pov": "Hadji Murad's embodied present — show the contrast cinematically (then/now cut), not via narration."}
+  ]
+}
+
+DECISIONS:
+- KEEP Hadji Murad as sole POV anchor for chunk: historical protagonist, graph dramatic_weight=91.65 → CF-04, M-03
+- TRANSLATE_TO_VISUAL opening_naib_recap: authorial digression describing past glory, non-dramatized → NF-04, SS-04
+- FUSE old_man + sado_wife → sado_household: both one-function ritual-hospitality figures, non-historical, <1 scene each → CF-01, CF-09
+- CUT ladder_descent_business: novelistic texture fails all three Seger tests (no drive, no theme, redundant) → SC-01
+- KEEP sado_kunak_reception_beat: carries value-shift (fugitive→received-as-honored-guest), atomic dramatic unit → SC-03, M-02
+- DEVIATION fusion_boy+murid: proposed but low-confidence — boy may gain weight in later chunks per graph; flag only, defer to human-in-loop → CF-10

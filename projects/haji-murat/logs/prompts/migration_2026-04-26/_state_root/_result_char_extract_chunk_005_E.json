@@ -1,0 +1,136 @@
+{
+  "characters_found": [
+    {
+      "name": "Hadji Murad",
+      "direct_quotes": [
+        "Ne habar?",
+        "My murid.  Eldar is his name"
+      ],
+      "speech_descriptors": [
+        "asked Hadji Murad, addressing the old man",
+        "said Hadji Murad"
+      ],
+      "actions": [
+        "takes off his burka, rifle, and sword and hands them to the old man",
+        "adjusts the pistol at his back",
+        "comes up to the cushions",
+        "wraps his Circassian coat closer round him and sits down",
+        "mirrors the old man's prayer posture — closes eyes, lifts hands palms upwards",
+        "repeats a prayer and strokes his face, palms joining at the end of his beard",
+        "understands the old man does not wish to say what he knows",
+        "slightly nods his head and asks no more questions",
+        "introduces his murid Eldar to the old man"
+      ],
+      "inner_states": [
+        "understands (tacitly reads) that the old man is withholding information he wants to know",
+        "exercises restraint — chooses not to press further after picking up the signal"
+      ],
+      "social_markers": [
+        "Caucasian Muslim warrior — carries burka, rifle, sword, and concealed pistol",
+        "ritually observant — performs the shared prayer gesture with the old man",
+        "wears a Circassian coat",
+        "travels with a murid (disciple/bodyguard), marking him as a figure of rank",
+        "uses Avar/Turkic greeting formula (\"Ne habar?\")"
+      ],
+      "relationship_dynamics": [
+        {"with": "Sado's Father (Old Man)", "quality": "respectful, ritually synchronized, patient; reads the old man's reticence and defers without confrontation"},
+        {"with": "Eldar", "quality": "leader to disciple — introduces and vouches for him; Eldar mirrors his disarming ritual exactly"}
+      ],
+      "new_info": [
+        "carries a pistol concealed at his back in addition to the weapons he surrenders",
+        "wears a Circassian coat",
+        "observes a shared Muslim prayer ritual with his host before conversing",
+        "speaks the local greeting formula \"Ne habar?\"",
+        "reads subtle social cues and withdraws questions rather than pushing for information",
+        "his murid is named Eldar"
+      ]
+    },
+    {
+      "name": "Sado's Father (Old Man)",
+      "direct_quotes": [
+        "Habar yok",
+        "I live at the apiary and have only today come to see my son....He knows.",
+        "There is no good news",
+        "The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!",
+        "Who is he?",
+        "That is well"
+      ],
+      "speech_descriptors": [
+        "replied the old man, looking with his lifeless red eyes not at Hadji Murad's face but at his breast",
+        "said the old man",
+        "he added hoarsely and angrily",
+        "asked the old man, pointing to the newcomer",
+        "said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad"
+      ],
+      "actions": [
+        "carefully hangs Hadji Murad's rifle and sword on a nail beside the master of the house's weapons",
+        "squats on his bare heels beside Hadji Murad",
+        "closes his eyes and lifts his hands palms upwards in prayer",
+        "strokes his face, palms joining at the end of his beard",
+        "avoids eye contact — looks at Hadji Murad's breast rather than his face",
+        "points to Eldar when asking who he is",
+        "motions Eldar to a place on a piece of felt beside Hadji Murad"
+      ],
+      "inner_states": [
+        "withholds something he knows but does not wish to say",
+        "bitter, angry grief over Russian depredations — curses \"May their faces be torn!\"",
+        "resigned fatalism expressed through the hares-and-eagles parable"
+      ],
+      "social_markers": [
+        "elderly Caucasian Muslim villager — goes barefoot, squats on heels",
+        "beekeeper — lives at the apiary",
+        "ritually observant Muslim (prayer gesture, beard-stroke)",
+        "uses proverbial/allegorical speech (hares vs. eagles)",
+        "speaks local formulaic phrases (\"Habar yok\")",
+        "refers to Russians pejoratively as \"Russian dogs\"",
+        "hoarse, angry register when speaking of Russian atrocities"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "deferential yet guarded — performs the host's ritual duties (hanging weapons, shared prayer) but avoids eye contact and withholds information"},
+        {"with": "Sado (his son)", "quality": "father of the house's master; defers knowledge of current affairs to his son (\"He knows\")"},
+        {"with": "Eldar", "quality": "cautiously accepting — questions his identity, then approves (\"That is well\") and assigns him a place"},
+        {"with": "the Russians", "quality": "hostile, grieving, cursing — treats them as destructive predators"}
+      ],
+      "new_info": [
+        "is the father of Sado (the master of the house)",
+        "lives at an apiary and only came today to visit his son",
+        "has \"lifeless red eyes\" — physical detail of age/fatigue",
+        "speaks in proverbs (hares/eagles) to describe the Caucasian–Russian conflict",
+        "reports a recent Russian atrocity: burning of hay in the Mitchit aoul",
+        "performs the host's ritual of hanging a guest's weapons",
+        "defers current news to his son, signalling limited personal knowledge of Hadji Murad's situation"
+      ]
+    },
+    {
+      "name": "Eldar",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "enters the room, his strong legs striding softly over the earthen floor",
+        "retains only his dagger and pistol",
+        "takes off his burka, rifle, and sword, mirroring Hadji Murad's disarming",
+        "hangs his weapons on the same nails as his leader's",
+        "sits down on the piece of felt indicated by the old man, crossing his legs"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Caucasian Muslim warrior / murid — armed with dagger, pistol, rifle, sword, burka",
+        "physically strong — \"strong legs\"",
+        "moves quietly despite his strength (\"striding softly\")",
+        "junior rank — mirrors his leader's actions rather than initiating",
+        "accepts a lesser seat (piece of felt beside Hadji Murad, not cushions)"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "murid/disciple — follows and mirrors him exactly, defers in seating and ritual"},
+        {"with": "Sado's Father (Old Man)", "quality": "silent subordinate — is questioned about, not addressed; obeys the old man's motion to sit"}
+      ],
+      "new_info": [
+        "is named Eldar",
+        "is Hadji Murad's murid",
+        "has physically strong legs but moves softly — a quiet, capable warrior",
+        "carries dagger, pistol, rifle, sword, and burka",
+        "seated on felt (lower status) next to Hadji Murad on the cushions"
+      ]
+    }
+  ]
+}

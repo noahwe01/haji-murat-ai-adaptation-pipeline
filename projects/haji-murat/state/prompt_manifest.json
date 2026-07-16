@@ -1,0 +1,1138 @@
+{
+  "migration_date": "2026-04-26",
+  "step": "B.4",
+  "source_dir": "state/ (root + 6 subdirs)",
+  "target_dir": "logs/prompts/migration_2026-04-26/",
+  "file_count": 141,
+  "total_bytes": 1810985,
+  "files": [
+    {
+      "path": "logs/prompts/migration_2026-04-26/_adaptation_prompts/chunk_001.txt",
+      "hash_sha256": "0128609c79cae04d368539da36ba94949ed5d89d0db95a55dd525589ca31571c",
+      "bytes": 73705,
+      "tokens_est": 18426,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_adaptation_prompts/chunk_002.txt",
+      "hash_sha256": "ec63ef96ddcfe918f8406d598d8c22e808629f477e4daf403b7ad84613f68da4",
+      "bytes": 73719,
+      "tokens_est": 18430,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_adaptation_prompts/chunk_003.txt",
+      "hash_sha256": "2a52c220a6dc1f9177cddc2c160d971c57534c2974ccd2c7832eedfb71c2bdfb",
+      "bytes": 72487,
+      "tokens_est": 18122,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_adaptation_prompts/chunk_004.txt",
+      "hash_sha256": "70fab811fb40a3681d575ef76cf6dd7d8913d426f63fd9c8b02022a187a7c655",
+      "bytes": 72486,
+      "tokens_est": 18122,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_adaptation_prompts/chunk_005.txt",
+      "hash_sha256": "a71eb025af15bd61946ef0f22f87868c1c55632bc1e78749b4d6835ec9502f04",
+      "bytes": 72488,
+      "tokens_est": 18122,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_impro_prompts/chunk_003_tension_0_55.txt",
+      "hash_sha256": "75c52a7f88041dd51c82f59b1f18f36473d8367a163cb492c9e25f5f19c1a740",
+      "bytes": 7148,
+      "tokens_est": 1787,
+      "agent": "character_agent",
+      "phase": "phase_4_dialog_impro"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_impro_prompts/chunk_004_tension_0_55.txt",
+      "hash_sha256": "ead5a6d3ce13987d06155a5430a148ed72d0a5dd58c1e8871bf465fbc832e415",
+      "bytes": 7153,
+      "tokens_est": 1788,
+      "agent": "character_agent",
+      "phase": "phase_4_dialog_impro"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_impro_prompts/chunk_005_tension_0_55.txt",
+      "hash_sha256": "2e75f33c939b9f6c5569e78363e9cf30a66ee8c45a1576bd926c67f113cd8f0f",
+      "bytes": 7155,
+      "tokens_est": 1789,
+      "agent": "character_agent",
+      "phase": "phase_4_dialog_impro"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/coherence.txt",
+      "hash_sha256": "cdd75d7a66d627896d144781a1be1f54dac2cd38ad38603c01e69875d0a47da5",
+      "bytes": 41196,
+      "tokens_est": 10299,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/coverage.txt",
+      "hash_sha256": "f2cde344402324b417cba748e73e3026b44d5edf92bf03e7dbb69ad79842f61c",
+      "bytes": 21421,
+      "tokens_est": 5355,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/pacing.txt",
+      "hash_sha256": "d1feef1fcfbc3f1bc11d497764c5446b8e9639d21ab87500eaa31910b2ae6b7b",
+      "bytes": 13684,
+      "tokens_est": 3421,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/subtext.txt",
+      "hash_sha256": "b1d8f8369931446017f55c59176b901201c949f8e499493a2db33dcd1fa85856",
+      "bytes": 32835,
+      "tokens_est": 8209,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/table_read.txt",
+      "hash_sha256": "c7863620c5297abbd63d7b83e55b4368c7fa3d64487f9c55d8dfc4f98feae700",
+      "bytes": 33521,
+      "tokens_est": 8380,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/thread.txt",
+      "hash_sha256": "6cf955944a98270f24d59abab10f18ac5091695320dec32b4083f2d636aa3be7",
+      "bytes": 32256,
+      "tokens_est": 8064,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_qa_prompts/transition.txt",
+      "hash_sha256": "8cb39f7565ca59589114f3d8a8e09e360bfee2a1eefbaab3fe895ba4e3020286",
+      "bytes": 9185,
+      "tokens_est": 2296,
+      "agent": "qa_agents",
+      "phase": "phase_7_or_9_5"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_raw_adaptation/chunk_001.txt",
+      "hash_sha256": "0c1f66e2ae7f9350ac4cf950775b26208bb6b920a2311f5b4e45dc73f9cfc4cc",
+      "bytes": 3357,
+      "tokens_est": 839,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_raw_adaptation/chunk_002.txt",
+      "hash_sha256": "e8c7ffa7391b18baf36160465088b55670eda2eef730a56806809b2d9460157c",
+      "bytes": 3250,
+      "tokens_est": 812,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_raw_adaptation/chunk_003.txt",
+      "hash_sha256": "f4e4cecb53c3ed0b354bfe7ad648ad52662f1e7f6faa897d4025e3a3f16cfaa4",
+      "bytes": 5452,
+      "tokens_est": 1363,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_raw_adaptation/chunk_004.txt",
+      "hash_sha256": "07a2b8f5de7a0c59e4f3114b526d881c3fd1c74aa67fd4b15471075f9dc2ddfa",
+      "bytes": 4110,
+      "tokens_est": 1028,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_raw_adaptation/chunk_005.txt",
+      "hash_sha256": "b02561dbd838afcf065cc9aa78ef6d135347a662af9390350674dfd39b15b8ad",
+      "bytes": 4725,
+      "tokens_est": 1181,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_screenplay_prompts/batch_01.txt",
+      "hash_sha256": "75093620502f48053a932c07c9e2efb89f1edfb447cf2e1490d3ca1926398743",
+      "bytes": 37796,
+      "tokens_est": 9449,
+      "agent": "script_writer",
+      "phase": "phase_9_screenplay"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_screenplay_prompts/batch_02.txt",
+      "hash_sha256": "2f33fbe6c4732f5a297f77d85a36c99abaa7e86a2d00b7376504c05f534c6c51",
+      "bytes": 32561,
+      "tokens_est": 8140,
+      "agent": "script_writer",
+      "phase": "phase_9_screenplay"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_screenplay_results/batch_01.txt",
+      "hash_sha256": "739f738e89123f3695f7188a85dceadcef59151c89ee276f52079a6d72ed72ee",
+      "bytes": 6612,
+      "tokens_est": 1653,
+      "agent": "script_writer",
+      "phase": "phase_9_screenplay"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_screenplay_results/batch_02.txt",
+      "hash_sha256": "48c28cdb3fc5d814e3d62c21cf4f0fa2ebebf952b1e0f20e91e9f137ba06702a",
+      "bytes": 1950,
+      "tokens_est": 488,
+      "agent": "script_writer",
+      "phase": "phase_9_screenplay"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_eldar_E.txt",
+      "hash_sha256": "a9c8f3338ff7814f6bec89631f535d65259c3eb5ba7daeeca51a82e380af652f",
+      "bytes": 3991,
+      "tokens_est": 998,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_hadji_murad_E.txt",
+      "hash_sha256": "316708eb98f54faf339ec3fa8057ac35189bb6472f7b1dc3a79ef528dd9ad1fa",
+      "bytes": 7374,
+      "tokens_est": 1844,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_hadji_murad_s_murid_unnamed,_active_E.txt",
+      "hash_sha256": "9a8207f8f24728fa8107485454104f4efbf4347d43b59e3e2a0826acfdeff774",
+      "bytes": 4917,
+      "tokens_est": 1229,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_narrator_authorial_i_E.txt",
+      "hash_sha256": "8701c6f9222709521ba72344942a832266143c658297cbb0cb059964b6c8856c",
+      "bytes": 5868,
+      "tokens_est": 1467,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_old_man_on_the_saklya_roof_E.txt",
+      "hash_sha256": "7e17d16ab246dcfff66b8da6debcb92cd1aa3742f285cef7ebb79779801478d1",
+      "bytes": 5182,
+      "tokens_est": 1296,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_sado_E.txt",
+      "hash_sha256": "5d3555f448019b3cbd9a2345496119670724f91cd8a68604e1d069099b148636",
+      "bytes": 4012,
+      "tokens_est": 1003,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_sado_s_son_E.txt",
+      "hash_sha256": "ca6f2d07921d53718e8d465214912341a2e12d1d0761809465f69d8a05922b7d",
+      "bytes": 4947,
+      "tokens_est": 1237,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_sado_s_wife_E.txt",
+      "hash_sha256": "f3c28d9778f5a9cabce693f7e3fd785bd2ae20fb5fd01cd7bca12cb2b17e3274",
+      "bytes": 4978,
+      "tokens_est": 1244,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_casting_shamil_E.txt",
+      "hash_sha256": "0afc435e261b1b95a3fca084a787b627372e37f5828a9d02c93af8a6ae14ba67",
+      "bytes": 5824,
+      "tokens_est": 1456,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_001.txt",
+      "hash_sha256": "e6b00da9c3a930d16803379312088a28ad663163e6f41cdf246dd71c59447201",
+      "bytes": 4070,
+      "tokens_est": 1018,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_001_E.txt",
+      "hash_sha256": "02df0dcbba91e8278cb98fb67fc5fab7d969d649dd0c824800e9b0a75d188314",
+      "bytes": 3342,
+      "tokens_est": 836,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_002.txt",
+      "hash_sha256": "6af211830134227ae710496ef6ccf5634a2ee9cf8e9b1f9554ab5a4bdeda8cf6",
+      "bytes": 4069,
+      "tokens_est": 1017,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_002_E.txt",
+      "hash_sha256": "36b23f46df68fbd3f16e7f4ac5e2600aa8c55d8cee745fb4a6a75bcffec62f7e",
+      "bytes": 3340,
+      "tokens_est": 835,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_003.txt",
+      "hash_sha256": "2cd746d8d013aa244ddec98097a4a50ad57982c1ecf3c6f863a31920817a2aa2",
+      "bytes": 4070,
+      "tokens_est": 1018,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_003_E.txt",
+      "hash_sha256": "822e83f3b040b8f01d4ea866ef7e1f03c533b1722a8046d15fad6d190bf34fcb",
+      "bytes": 3342,
+      "tokens_est": 836,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_004.txt",
+      "hash_sha256": "ed30aec80e847a7b164912ab60c27e6fe438bce1072828c02aecf7e1fcbed0bd",
+      "bytes": 4070,
+      "tokens_est": 1018,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_004_E.txt",
+      "hash_sha256": "6c33b3812128df75a4f93bd10358d0f67418e89b5a49a8451274a88eb0d38977",
+      "bytes": 3341,
+      "tokens_est": 835,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_005.txt",
+      "hash_sha256": "4c939404ba77f4f565ac9a216ea9af4466445128789b782d5d806706488a0551",
+      "bytes": 4070,
+      "tokens_est": 1018,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_extract_chunk_005_E.txt",
+      "hash_sha256": "e6dc94cf894df6ad50a3c6ce1e3a8b7163af6fcccf1b28b2a939a22ce50fb023",
+      "bytes": 3343,
+      "tokens_est": 836,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_synth_eldar.txt",
+      "hash_sha256": "cd1c33913be45df638aca260c89fc0ac8a657a3623deae7c2f319a15efb44c35",
+      "bytes": 12877,
+      "tokens_est": 3219,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_synth_hadji_murad.txt",
+      "hash_sha256": "7830592b0fd868c21c2f0e83b27d6406a814759b5ebf3a4d12040d092b7317db",
+      "bytes": 18816,
+      "tokens_est": 4704,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_char_synth_sado.txt",
+      "hash_sha256": "81828686d3afa625e0c7c59e9d8b63eaf7d2419aab621b597ce2da0cb86a1680",
+      "bytes": 12604,
+      "tokens_est": 3151,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_001.txt",
+      "hash_sha256": "04f68914a671fa5047b3c040a0183a0e94cdd236c1ba0a4d708c626edc1d2a9a",
+      "bytes": 13069,
+      "tokens_est": 3267,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_001_C1.txt",
+      "hash_sha256": "1f7182f00949048d900f10902360e502a4be756d02147b383ffecf1a7d14c940",
+      "bytes": 43009,
+      "tokens_est": 10752,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_001_E.txt",
+      "hash_sha256": "34883a5de1407c0e98f4862ebba267af9852ca8b4113aa2b4771dd3dfb51497d",
+      "bytes": 42509,
+      "tokens_est": 10627,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_002.txt",
+      "hash_sha256": "8e8b02f5bb20cdef6c6a140d1c23999adacc7716642d47986924ff22bf336083",
+      "bytes": 13068,
+      "tokens_est": 3267,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_002_C1.txt",
+      "hash_sha256": "c85548fc583d8d49e48dd700410c794839844444715c47397ee6d123f39b3d1a",
+      "bytes": 43008,
+      "tokens_est": 10752,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_002_E.txt",
+      "hash_sha256": "f09df3ce9b881f9c3a00b7fde430ab154b64e04f91017d80644bef320a19058b",
+      "bytes": 42507,
+      "tokens_est": 10627,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_003.txt",
+      "hash_sha256": "4a81dd9b02ffbb3895eb36faa11a83cdc2a90ab4c003521e0e9fbe319c4e7f3f",
+      "bytes": 13069,
+      "tokens_est": 3267,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_003_C1.txt",
+      "hash_sha256": "954ff58c6bc9dbf6bbb7b8ac34908bf051ba0405f658bbf637cd1fce9beca858",
+      "bytes": 43009,
+      "tokens_est": 10752,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_003_E.txt",
+      "hash_sha256": "26a669b324d2f07ecf35c8d623d570b0e51544922f8cf73f67a359a288c878be",
+      "bytes": 42509,
+      "tokens_est": 10627,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_004.txt",
+      "hash_sha256": "e1992b90be5580c95f79fd4381ba1af5a54a5e6cc53ea855b9a035b73917275e",
+      "bytes": 13069,
+      "tokens_est": 3267,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_004_C1.txt",
+      "hash_sha256": "f4abb876f598c22e58335f70343e53be22eb8f54ca3ced3cb57f69e698400065",
+      "bytes": 43009,
+      "tokens_est": 10752,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_004_E.txt",
+      "hash_sha256": "8cbbdc6f7441a62520fc1a59eb1c5cf7eac3a3ec9e7191c7f04d11bc41b1d7d8",
+      "bytes": 42508,
+      "tokens_est": 10627,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_005.txt",
+      "hash_sha256": "c3a4d6e9ea69ad15e319f03611b5a60843ac7eeb70c88628307964d9d0d79af3",
+      "bytes": 13069,
+      "tokens_est": 3267,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_005_C1.txt",
+      "hash_sha256": "16a26631d53915bbd51de79ca576594ab1c85b5384f278bda28d9e5bfa23c966",
+      "bytes": 43009,
+      "tokens_est": 10752,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_story_analyst_chunk_005_E.txt",
+      "hash_sha256": "e875c655e99d2e3befb700a85ecdf2862a9e8c655d36eacf28280fc617415fee",
+      "bytes": 42510,
+      "tokens_est": 10628,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_eldar_E.txt",
+      "hash_sha256": "79699e00fc114db35de744a5e43615493b527e6a37a7354fbc43402b6ba54d03",
+      "bytes": 10659,
+      "tokens_est": 2665,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_hadji_murad_E.txt",
+      "hash_sha256": "cdab4be20f3fec78376746b893158bf46888dec3342efde55b1be517457a5c3b",
+      "bytes": 14822,
+      "tokens_est": 3706,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_hadji_murad_s_murid_unnamed,_active_E.txt",
+      "hash_sha256": "0fe2c2b7ef88c5a44ed6d729e72bfb1a903a4760145456787df38f5bad63855e",
+      "bytes": 10556,
+      "tokens_est": 2639,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_narrator_authorial_i_E.txt",
+      "hash_sha256": "4f5a69cce345c59d834b9c278c35a2a781d2f03bd715f726e02328fd31dc8615",
+      "bytes": 16037,
+      "tokens_est": 4009,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_old_man_on_the_saklya_roof_E.txt",
+      "hash_sha256": "8f339bfd7ccae8941b343b0a3be74c6606006afc58390742bdd16357a256f360",
+      "bytes": 10322,
+      "tokens_est": 2580,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_sado_E.txt",
+      "hash_sha256": "51dadac73aa30f336e202e0e50d2d0be9cda2d9ea5469d3b990ba8a8fceaba50",
+      "bytes": 9198,
+      "tokens_est": 2300,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_sado_s_father_old_man_E.txt",
+      "hash_sha256": "dcc92e70da97bee3d83d11406176aeab2c24365c91bc73ffb4edc99e9e244e12",
+      "bytes": 14406,
+      "tokens_est": 3602,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_sado_s_son_E.txt",
+      "hash_sha256": "d70bf254de13e34f02b7a2f8a500f5014b14e413dc4e15f561046bb6027b666d",
+      "bytes": 10178,
+      "tokens_est": 2544,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_sado_s_wife_E.txt",
+      "hash_sha256": "3d9245514acefe682f2952c17e835bb7458338fffe4cd1f633f9defec7dfa9e9",
+      "bytes": 10306,
+      "tokens_est": 2576,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_wantneed_shamil_E.txt",
+      "hash_sha256": "9200513791aea0bcef8b8e48d0a3c8b8a8cc3a16863d132450f0613b1f05ac0a",
+      "bytes": 9200,
+      "tokens_est": 2300,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_world_extract_chunk_001.txt",
+      "hash_sha256": "dfde96a85529c65122e5889828f8a1386916640f4ad7befdd6e345c9b7eceef8",
+      "bytes": 5207,
+      "tokens_est": 1302,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_world_extract_chunk_002.txt",
+      "hash_sha256": "114c5c6264113679ab1a54d8fd749b53eb87232f3fc68907ead65cc5b937917d",
+      "bytes": 5206,
+      "tokens_est": 1302,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_world_extract_chunk_003.txt",
+      "hash_sha256": "4b722ddfa4c456b86b90e03e9783d4e14edcf4ab9d9d365053431bad47ebfe74",
+      "bytes": 5207,
+      "tokens_est": 1302,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_world_extract_chunk_004.txt",
+      "hash_sha256": "735e8a90167677ea7c36e91c0f44019fe2cafd14da32bd68fed78bbc687388f7",
+      "bytes": 5207,
+      "tokens_est": 1302,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_world_extract_chunk_005.txt",
+      "hash_sha256": "ce80480e5bb9527fa2a6c70c0bfbcc285d1cb9a349ebd1d9fca63344728039e9",
+      "bytes": 5207,
+      "tokens_est": 1302,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_prompt_world_synth.txt",
+      "hash_sha256": "5c84737071643cea152aebf7cfbad8444804434437e3cf7eed96edb03c387678",
+      "bytes": 18547,
+      "tokens_est": 4637,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_adaptation_chunk_001.raw.txt",
+      "hash_sha256": "ee2743393846953a3e21e2c6d3ccf7f849beca0148dc5b90c052e32b53885b87",
+      "bytes": 6923,
+      "tokens_est": 1731,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_adaptation_chunk_002.raw.txt",
+      "hash_sha256": "7f915d24fb6de5f595a9b2ff531c45e052edf49263edea61b2d47417079aa900",
+      "bytes": 1706,
+      "tokens_est": 426,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_adaptation_chunk_003.raw.txt",
+      "hash_sha256": "a7e895295bf4f8b6c17c132724fdbac59d49a84d55347c27839755fafd0b0247",
+      "bytes": 13397,
+      "tokens_est": 3349,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_adaptation_chunk_004.raw.txt",
+      "hash_sha256": "add82b4b7dffbd437cc8227ed9993157839e7926acbd5e578d137c18072788b5",
+      "bytes": 8529,
+      "tokens_est": 2132,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_adaptation_chunk_005.raw.txt",
+      "hash_sha256": "c6eee01826dfeb801253033c0eb2d8fa2ce83835bd967b49e2a968b0ce9692a8",
+      "bytes": 4662,
+      "tokens_est": 1166,
+      "agent": "adaptation_agent",
+      "phase": "phase_5_adaptation"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_eldar_E.json",
+      "hash_sha256": "c4129fb7e42a59028122eef209322a0294d7d554033f6fedd06db3b860680ff3",
+      "bytes": 708,
+      "tokens_est": 177,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_hadji_murad_E.json",
+      "hash_sha256": "b126d0b05892e1f62cd0b9f92c4897d0863225cdd7bd3ee6f494e18c4b034024",
+      "bytes": 1645,
+      "tokens_est": 411,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_murid_E.json",
+      "hash_sha256": "38692f866f4ad3a301facf90c9e36bc32b121a5c2853504da45d05fb6d485fd3",
+      "bytes": 813,
+      "tokens_est": 203,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_narrator_E.json",
+      "hash_sha256": "09cb5649f25839528745b82e8bc5a8cd82a335161b975f95bd451c132c56d735",
+      "bytes": 813,
+      "tokens_est": 203,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_old_man_saklya_roof_E.json",
+      "hash_sha256": "b8bf7ed01543b2bca3e398394221968d20aecced6e01a18e921b36411d16b452",
+      "bytes": 886,
+      "tokens_est": 222,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_sado_E.json",
+      "hash_sha256": "baa04e55250a3abadaa98d784540cbe2bbc788feeb74a9bdc654ecd5dc8f7160",
+      "bytes": 789,
+      "tokens_est": 197,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_sado_son_E.json",
+      "hash_sha256": "0d795be71698dbe986826016406ac540030dfa213bd3e301d6e479ea4b1c4c55",
+      "bytes": 904,
+      "tokens_est": 226,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_sado_wife_E.json",
+      "hash_sha256": "6fa85b776586029749ee53086a9429884444916ba221d0913bbae15b49ba86f3",
+      "bytes": 960,
+      "tokens_est": 240,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_casting_shamil_E.json",
+      "hash_sha256": "a8056a68e71a006c0a6e369dedcb9d3cc0ecc0e0a26543b5f5e5295b9c5ccccc",
+      "bytes": 1741,
+      "tokens_est": 435,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_casting"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_001.json",
+      "hash_sha256": "ee1efba2462c07c1fd9bec87c7ca05107ecb26283e47f9b894f6ad318b77f247",
+      "bytes": 2589,
+      "tokens_est": 647,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_001_E.json",
+      "hash_sha256": "84f223b99756ce27a30088ce9893359cb6ce44ad4569c18aafdf270a57b80390",
+      "bytes": 2783,
+      "tokens_est": 696,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_002.json",
+      "hash_sha256": "0bcdffeb8f78f16024e0328433a823f3f51489fc57dc6a28b581e262546e0477",
+      "bytes": 3635,
+      "tokens_est": 909,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_002_E.json",
+      "hash_sha256": "6ed59abe75a62b8406a98b5291712d08b0eb0751b43e5e214f69d8211903907d",
+      "bytes": 3357,
+      "tokens_est": 839,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_003.json",
+      "hash_sha256": "2ccb58677966de5dc67ec6440eb0c432f84a865510338c9253b200fe587f94fd",
+      "bytes": 7483,
+      "tokens_est": 1871,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_003_E.json",
+      "hash_sha256": "773fbb7ca2bfdff6fdcc63bbeb9fc355a08e1bed86ac138edf1afa637d23a290",
+      "bytes": 5927,
+      "tokens_est": 1482,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_004.json",
+      "hash_sha256": "f1e86a57ee3caab7a98bd3612caa5ba1dc1b9800ca5d88025104439d1d71478b",
+      "bytes": 9961,
+      "tokens_est": 2490,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_004_E.json",
+      "hash_sha256": "df6e57ae3ef7fe602291b25baa279a5faaf7a0e3aaa76d4543c3bf1637b5d95a",
+      "bytes": 7072,
+      "tokens_est": 1768,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_005.json",
+      "hash_sha256": "be60a290a991691149b89b6dc7c029b4e766c63df220dc35016751eae7a7623c",
+      "bytes": 9867,
+      "tokens_est": 2467,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_extract_chunk_005_E.json",
+      "hash_sha256": "54e63683471b8c592cf6faf569045f6414ae8f3b7387e2a2273da54f6ab7cd4c",
+      "bytes": 7210,
+      "tokens_est": 1802,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_synth_eldar.json",
+      "hash_sha256": "401d350fd8a9e2f9e1460424396081c4652e1127f9440dc52fca9026b56f0417",
+      "bytes": 6204,
+      "tokens_est": 1551,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_synth_hadji_murad.json",
+      "hash_sha256": "7409a994088a55d1a1ce38b023abba69b7fe46f68b5e4abea8c8699a872df4bc",
+      "bytes": 10284,
+      "tokens_est": 2571,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_char_synth_sado.json",
+      "hash_sha256": "d8627716c88e287dbcf7db4e570171b18d0c0de2c06b1a4c7d7167719b6a4d38",
+      "bytes": 6158,
+      "tokens_est": 1540,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_coherence.json",
+      "hash_sha256": "1c76bbc05df6693fdb798497a6c7b3fb6d1e75f3a953899abdc4974a886d7656",
+      "bytes": 1783,
+      "tokens_est": 446,
+      "agent": "narrative_coherence",
+      "phase": "phase_9_5_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_pacing.json",
+      "hash_sha256": "b56507c4889f416256adbf996aaa204faa49a20b72d15b802e73c2eb858e2c9f",
+      "bytes": 755,
+      "tokens_est": 189,
+      "agent": "pacing_analyzer",
+      "phase": "phase_9_5_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_001.json",
+      "hash_sha256": "3d7b9982e3dabbb2e69d81dbdd4cae1b6f60f5550064a55cb1a3526750aa7c7c",
+      "bytes": 6437,
+      "tokens_est": 1609,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_001_C1.raw.txt",
+      "hash_sha256": "0f06f94052df16efc85a86c79b6c68f8b4c2d74d81d99fc9f3db68f4c29a7700",
+      "bytes": 5721,
+      "tokens_est": 1430,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_001_E.raw.txt",
+      "hash_sha256": "6059c0dfa8aa15225ff7fbfa5bc489e099563ab8e833cdeae5be0efbd3ce2d3e",
+      "bytes": 5630,
+      "tokens_est": 1408,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_002.json",
+      "hash_sha256": "83f84be9f69fac53870c89e8fe332886d682b3d6a488df2101b83b8c085f9196",
+      "bytes": 11126,
+      "tokens_est": 2782,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_002_C1.raw.txt",
+      "hash_sha256": "ee018824c7bfa3b6ecc6ebf7989eb49687a01c72cedd962b706d8e43a6346dbe",
+      "bytes": 6122,
+      "tokens_est": 1530,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_002_E.raw.txt",
+      "hash_sha256": "ed17bea60092280930368f3e7d51d34f913cf998564d9121126ff2f62d3ccf37",
+      "bytes": 3585,
+      "tokens_est": 896,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_003.json",
+      "hash_sha256": "c9c2f40ab9b24d6a66e3d5b0a3f39aad25d7df99c194a5b0b799372ea4f69016",
+      "bytes": 7552,
+      "tokens_est": 1888,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_003_C1.raw.txt",
+      "hash_sha256": "ed05302687e4fb1096583ab3e13e2a75ae57012e4ed02a0c37eb9cc41b0960ee",
+      "bytes": 5879,
+      "tokens_est": 1470,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_003_E.raw.txt",
+      "hash_sha256": "51f38992e11a93aaef2dce8e800706d05e1e7ff205f1261dfb9d3fe649330523",
+      "bytes": 6898,
+      "tokens_est": 1724,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_004.json",
+      "hash_sha256": "dd0189c241c73ffc869064a2f16d06861fbac738de0e987ca3bb5f4f458b5643",
+      "bytes": 7078,
+      "tokens_est": 1770,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_004_C1.raw.txt",
+      "hash_sha256": "0703f6b30c260b3f09ea6e6fded860d9d04ce8555b83ba8da8d7df8346c1c669",
+      "bytes": 6934,
+      "tokens_est": 1734,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_004_E.raw.txt",
+      "hash_sha256": "4386d402cb2335f71e37e8630743b81942e4a0dd88501f563261518619d62d55",
+      "bytes": 5744,
+      "tokens_est": 1436,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_005.json",
+      "hash_sha256": "f38cd292a1f7763d51eed07369e7cd9a79dd7a980ee7217a8b4cdc3d882fd529",
+      "bytes": 20766,
+      "tokens_est": 5192,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_005_C1.raw.txt",
+      "hash_sha256": "8ed26d3794bf96d69aae344a53a28c230884294aa4e1b5845d7c24ec1abdc379",
+      "bytes": 5299,
+      "tokens_est": 1325,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_story_analyst_chunk_005_E.raw.txt",
+      "hash_sha256": "f5f98417ba369e7f8f91a2f66fed44f96668db051c0d4233ce2fb0fbefe36e22",
+      "bytes": 4145,
+      "tokens_est": 1036,
+      "agent": "story_analyst",
+      "phase": "phase_1_deep_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_subtext.json",
+      "hash_sha256": "49a6b81d805af7a2391ae4874cb0c553df4bde9b983e9e91737a95124daeab9d",
+      "bytes": 493,
+      "tokens_est": 123,
+      "agent": "subtext_auditor",
+      "phase": "phase_9_5_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_table_read.json",
+      "hash_sha256": "5074c50ee4265b298a2971b86a83c7312cb5d7db128edceb47359236ca948f07",
+      "bytes": 736,
+      "tokens_est": 184,
+      "agent": "table_read",
+      "phase": "phase_9_5_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_thread.json",
+      "hash_sha256": "8a1a8f10ec83617981784420a9bbf51539c2a40d3a1246fac5bec93418c6cb65",
+      "bytes": 766,
+      "tokens_est": 192,
+      "agent": "dialog_thread_checker",
+      "phase": "phase_9_5_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_transitions.json",
+      "hash_sha256": "e7d4cf3c89c58b67da45b6418625ba53858debc49306f62eb06f788f5bff6fde",
+      "bytes": 1288,
+      "tokens_est": 322,
+      "agent": "transition_mapper",
+      "phase": "phase_9_5_analysis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_eldar_E.json",
+      "hash_sha256": "f4ba4fd2522ca1bc1c1a0f060d1521472b8976629cf218c58b47964501e7b87c",
+      "bytes": 4114,
+      "tokens_est": 1028,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_hadji_murad_E.json",
+      "hash_sha256": "63b1e49eb01e530d3ed9f5e8125bbae265ebbb6c7b20196636ca52c702e07f03",
+      "bytes": 11594,
+      "tokens_est": 2898,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_murid_E.json",
+      "hash_sha256": "fc3a216884e36c98b9704bca61c1830cbc1247d41d95b7ca8227f8c504f89c02",
+      "bytes": 6176,
+      "tokens_est": 1544,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_narrator_E.json",
+      "hash_sha256": "52d17bc898665a3bdd9b16a5c229a360c9c0c39453ca281ac7bca4c734d1885f",
+      "bytes": 8235,
+      "tokens_est": 2059,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_old_man_saklya_roof_E.json",
+      "hash_sha256": "b20a9bd504bc5588289911289820fed82f7a9d32a5edceb3f4dbc6a30237275b",
+      "bytes": 6771,
+      "tokens_est": 1693,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_sado_E.json",
+      "hash_sha256": "035bc55f8899dbbef27fcdcb0a09e108bbf030d42fae2314a40558283f2ee1d1",
+      "bytes": 5287,
+      "tokens_est": 1322,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_sado_father_E.json",
+      "hash_sha256": "c11de20ef0a1dff8727d1636327ebef93d8fb8835b3cd10b734f160f79f4fca5",
+      "bytes": 8412,
+      "tokens_est": 2103,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_sado_son_E.json",
+      "hash_sha256": "549d374ea6d2c9e53626f0b38dd902b5fc2e47eefb2cf7148de5fdb94ce659c9",
+      "bytes": 6551,
+      "tokens_est": 1638,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_sado_wife_E.json",
+      "hash_sha256": "8d2952ae2177a2ae67a51b2cdd35b07a4e96aab7986ab83304b7a414947ee8d6",
+      "bytes": 5542,
+      "tokens_est": 1386,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_wantneed_shamil_E.json",
+      "hash_sha256": "cec9ed80c1db89ede14120c79493b2359df693be48dc91ef7e817e77cf26164f",
+      "bytes": 9127,
+      "tokens_est": 2282,
+      "agent": "character_agent",
+      "phase": "phase_2_synthesis_wantneed"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_world_extract_chunk_001.json",
+      "hash_sha256": "32f990cb05e174b97ed0d7efd7b345c52b0b52fb47f12c8e4a480d5f881dc6a9",
+      "bytes": 5974,
+      "tokens_est": 1494,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_world_extract_chunk_002.json",
+      "hash_sha256": "c9a7bb4773b220f16e8bcbc8c8b70340ad8b812e8b8446966afc3ba634f93665",
+      "bytes": 5050,
+      "tokens_est": 1262,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_world_extract_chunk_003.json",
+      "hash_sha256": "fa14c45196efe57e69865dff2fd33f14d4d89854920fcfdd455112a329c52115",
+      "bytes": 5530,
+      "tokens_est": 1382,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_world_extract_chunk_004.json",
+      "hash_sha256": "2e2d4d1cf27d22f528aeadde68ef9ba0f3bbf441bd624942caf18f01b8d36667",
+      "bytes": 2507,
+      "tokens_est": 627,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_world_extract_chunk_005.json",
+      "hash_sha256": "54a7ff3024a37ca3113b69842abb6a7e769c761200dfe7ba232dcc5cd56e9df6",
+      "bytes": 2555,
+      "tokens_est": 639,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    },
+    {
+      "path": "logs/prompts/migration_2026-04-26/_state_root/_result_world_synth.json",
+      "hash_sha256": "b21933746f8e90e0d16a5c7b12170c39e8df463990554a99d0c4e1e3306ae23f",
+      "bytes": 23922,
+      "tokens_est": 5980,
+      "agent": "world_agent",
+      "phase": "phase_2_synthesis"
+    }
+  ]
+}

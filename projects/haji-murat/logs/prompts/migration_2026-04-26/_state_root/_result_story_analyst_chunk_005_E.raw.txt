@@ -1,0 +1,40 @@
+{
+  "new_characters": [
+    {"name": "Sado's Father (Old Man)", "initial_description": "Elderly Chechen beekeeper, Sado's father; lifeless red eyes, speaks in proverbs of hares and eagles; lives at the apiary, carries news indirectly, evades direct answers while signaling Russian atrocities (burnt hay at Mitchit aoul).", "role": "supporting"},
+    {"name": "Eldar", "initial_description": "Hadji Murad's murid; strong-legged, silent, disciplined; mirrors his leader's weapon-hanging ritual; loyal second presence entering Sado's saklya.", "role": "supporting"}
+  ],
+  "plot_elements": [
+    {"description": "Hadji Murad disarms on arrival in Sado's saklya, hanging burka, rifle and sword on nails beside the master's weapons — ritual act of kunak-trust and provisional safety.", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "Hadji Murad and the old man perform the shared prayer gesture (palms upward, stroking faces) — establishes religious-cultural frame and mutual recognition.", "act": 1, "subplot_id": null},
+    {"description": "The ritual exchange 'Ne habar?' / 'Habar yok' opens a coded dialogue: the old man withholds the real news, signaling Hadji Murad is under surveillance or embedded in danger.", "act": 1, "subplot_id": "hm_defection"},
+    {"description": "The old man reports Russian burning of hay at Mitchit aoul and curses the 'Russian dogs' — establishes the war's ambient cruelty and the hares/eagles parable as thematic backbone.", "act": 1, "subplot_id": null},
+    {"description": "Eldar enters, repeats Hadji Murad's disarming ritual, is formally introduced and accepted — the first of the four murids is on stage, loyalty-chain begins to form.", "act": 1, "subplot_id": "hm_murids_introduced"}
+  ],
+  "new_locations": [
+    {"name": "Sado's Saklya (interior)", "description": "Chechen mountain dwelling: clean clay-plastered, whitewashed walls; two large glittering basins framing the master's weapons nailed to the wall; cushions, earthen floor, felt mats — intimate, ritualized domestic space, moral core of the sequence."}
+  ],
+  "tension": 0.55,
+  "act_estimation": 1,
+  "filmability_score": 0.85,
+  "theme_hints": [
+    "hospitality and kunak-loyalty under occupation",
+    "coded speech as survival in wartime",
+    "hares versus eagles — asymmetric colonial violence",
+    "ritual as political identity"
+  ],
+  "symbols": [
+    "weapons hung side-by-side on the wall (trust / equality of guest and host)",
+    "two large glittering basins framing the arsenal (domestic peace bracketing war)",
+    "the shared prayer gesture (cultural-religious unity)",
+    "hares and eagles (oppressed natives vs. imperial predators)"
+  ],
+  "notes": "Chapter 5 high-tension hinge of the slice: compressed, deeply filmable chamber scene — almost entirely external action and ritual dialogue, minimal interiority. The old man is a classic Tolstoi authorial mouthpiece disguised as peasant wisdom (hares/eagles), which is filmable through the line itself (no VO needed). Eldar's entrance mirrors HM's — visual rhyme usable as the film's first 'murid ritual' beat. Sado's father is a low-weight functional figure whose single thematic contribution (the parable) can be absorbed into Sado himself for compression. No historical-anchor risk here (father is fictional)."
+}
+
+DECISIONS:
+- FUSE Sado's Father → Sado: <5 scenes, shares kunak-host function, parable line transferable → CF-01, CF-09
+- TRANSLATE_TO_VISUAL weapon-hanging ritual: keep as wordless signature beat of trust between HM and host → SC-06, M-05
+- KEEP Eldar introduction: first murid on-screen, load-bearing for hm_murids_introduced arc → SS-06
+- CUT hares-and-eagles parable as standalone line: fold into Sado's dialogue or a single visual (burnt hay smoke on horizon) → NF-04, SC-06
+- KEEP "Ne habar? / Habar yok" exchange: Voice-signature ritual of HM, irreplaceable cultural beat → M-05, SC-03
+- DEVIATION old man's red-eyed evasiveness: no rule covers non-verbal withholding as scene engine; retained as staging note for actor/director — Werkgeist (Tolstoi's ambiguity of allegiance) demands preservation

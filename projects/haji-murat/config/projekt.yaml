@@ -1,0 +1,141 @@
+# =============================================================
+# PROJEKT-KONFIGURATION — Hadji Murat
+# =============================================================
+# 15-Agenten-Architektur (Pipeline v3.2) mit Kompressions-Modus
+
+# -------------------------------------------------------------
+# QUELLE
+# -------------------------------------------------------------
+projekt:
+  titel: "Hadji Murat"
+  titel_original: "Хаджи-Мурат"
+  autor_roman: "Lev Tolstoi"
+  quelldatei: "sources/hadji_murat.txt"
+  output_modus: "screenplay"        # direkt Drehbuch — HM braucht Fountain-Disziplin, Treatment optional als Zwischenstufe
+  source_language: "en"             # englische Übersetzung der Quelle
+  output_language: "en"
+  ziel_laufzeit: 120                # Feature, episch; 90 wäre zu eng für 30+ Figuren
+
+# -------------------------------------------------------------
+# STIL & TON
+# -------------------------------------------------------------
+style:
+  genre: "historical war tragedy / anti-imperial fable"
+  ton: "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance"
+  referenzfilme:
+    - "Lawrence of Arabia"
+    - "The Last Duel (2021)"
+    - "The English Patient"
+    - "War and Peace (Bondarchuk 1966)"
+    - "Come and See"
+    - "Ran"
+  referenzautoren:
+    - "Tolstoi (source author — see adaptions-brain/autoren/tolstoi.md once created)"
+  besonderheiten: >-
+    Novel-to-feature compression: 46.290 words → 120 min. Original features a frame
+    narrative (the thistle) — keep or cut is an explicit directorial choice, not default.
+    Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM
+    as central protagonist; other POVs become relationships to him. 30+ named figures
+    — fusion-candidates will be identified by Story Analyst + Graphify preprocessor.
+    Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.
+  language: "English"
+
+# -------------------------------------------------------------
+# CHARACTER CASTING (Voice-Profile-Anchor; optional aber dringend empfohlen)
+# -------------------------------------------------------------
+casting:
+  "Hadji Murat": "Mads Mikkelsen"           # tragische, lautlose Präsenz; trägt moralische Ambivalenz
+  "Shamil": "Oscar Isaac"                    # charismatischer religiöser Führer mit politischem Kalkül
+  "Vorontsov": "Ralph Fiennes"               # imperialer Aristokrat, kultivierte Grausamkeit
+  "Nikolaus I.": "Stellan Skarsgård"         # autokratisch, kalt, bürokratisch-brutal
+  # Weitere Rollen werden vom Character Agent vorgeschlagen
+
+# -------------------------------------------------------------
+# CHUNKING
+# -------------------------------------------------------------
+chunking:
+  chunk_groesse: 2500                 # größer als Schneesturm (2000); produziert 119 chunks (gemessen)
+  chunk_overlap: 300                  # mehr overlap für Kontext bei komplexem Text
+  debug_chunks: null                  # null processes all 119 measured chunks
+
+# -------------------------------------------------------------
+# AGENTEN-KONFIGURATION
+# -------------------------------------------------------------
+agents:
+  model_override: null                # null = adaptives Routing; Modellname erzwingt festes Routing
+  confidence_threshold: 0.75
+  max_revision_cycles: 2
+  impro_tension_threshold: 0.6
+  scene_budget: 60                    # 120 min / 2 min pro Szene = 60 (epische Szenen länger)
+  tension_opus_threshold: 0.7         # entspricht dem im Routing verwendeten Schwellenwert
+
+script_writer:
+  batch_treatment: 8
+  batch_screenplay: 5
+
+# -------------------------------------------------------------
+# COVERAGE — evaluation thresholds
+# -------------------------------------------------------------
+coverage:
+  verdict_thresholds:
+    recommend: 80
+    consider: 65
+    pass: 50
+  top_n_issues: 5
+
+# -------------------------------------------------------------
+# COMPRESSION — novel to feature adaptation strategy
+# -------------------------------------------------------------
+expansion:
+  mode: "novel_to_feature"
+  composition_targets:
+    source_compression_pct: 25        # Kernszenen aus dem Roman
+    cuttable_material_pct: 60         # Subplots/Nebenfiguren/Exkurse → gestrichen
+    restructured_pct: 10              # Figurenfusion, umgestellte Akte
+    invented_bridges_pct: 5           # nur Übergangsszenen, keine neuen Plots
+
+# -------------------------------------------------------------
+# PACING — Tolstoi-Tempo-Elastizität
+# -------------------------------------------------------------
+# Tolstois Erzählrhythmus wechselt zwischen epischen Tableaus (Kap. 15 Nikolaus-Hof,
+# Kap. 19 Shamil-Hof, Kap. 9 Vorontsov-Dinner) und stillen Close-Up-Momenten.
+# expected_variance > 1.2 signalisiert dem Pacing Analyzer, dass lange kontemplative
+# Szenen (Slow-Cinema-Register) legitim sind und nicht als Dead Zones geflagt werden
+# sollen. Siehe adaptions-brain/konzepte/tolstoi-erzaehlstil.md Regel 3.
+pacing:
+  expected_variance: 1.8
+
+# -------------------------------------------------------------
+# OBSIDIAN — SECOND BRAIN
+# -------------------------------------------------------------
+obsidian:
+  vault_pfad: "HM_obsidian-vault"
+  auto_sync: true
+  sync_after_phases:
+    - "phase_2_synthesis"
+    - "phase_7_coverage"
+  log_level: "normal"
+
+# -------------------------------------------------------------
+# GRAPHIFY — Pre-processor artifacts (T1.3)
+# -------------------------------------------------------------
+graphify:
+  enabled: true
+  output_dir: "graphify-out"
+  artifacts:
+    - "characters.json"     # Figuren-Graph, Co-Occurrence, Centrality
+    - "locations.json"      # Schauplatz-Graph
+    - "plotlines.json"      # Szenen-Cluster nach narrativer Funktion
+  consume_by:
+    - "story_analyst"       # für Fusions-Kandidaten-Vorschläge
+    - "adaptation_agent"    # für Figurenfusion-Entscheidungen
+    - "world_agent"         # für Location-Reduktion
+
+# -------------------------------------------------------------
+# METADATEN
+# -------------------------------------------------------------
+meta:
+  erstellt_am: "2026-04-22"
+  letzter_lauf: ""
+  version: "3.2-compression"
+  architektur: "15-Agenten (Pipeline v3.2, Kompressions-Modus, Graphify-Präprozessor)"

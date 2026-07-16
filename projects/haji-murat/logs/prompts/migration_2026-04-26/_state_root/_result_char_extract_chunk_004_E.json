@@ -1,0 +1,159 @@
+{
+  "characters_found": [
+    {
+      "name": "Hadji Murad",
+      "direct_quotes": ["Selaam aleikum!", "May thy sons live!"],
+      "speech_descriptors": ["repeating the customary 'Selaam aleikum!'", "answered Hadji Murad"],
+      "actions": [
+        "touched the old man with the handle of his leather-plaited whip",
+        "clicked his tongue to rouse the old man",
+        "uncovered his face when greeting",
+        "dismounted",
+        "walked with a slight limp",
+        "entered under the penthouse",
+        "took off his burka, rifle, and sword",
+        "handed his weapons to the old man"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "observes Muslim greeting ritual ('Selaam aleikum')",
+        "carries rifle, sword, burka — mounted warrior",
+        "uses leather-plaited whip (Caucasian horseman equipment)",
+        "walks with a slight limp (physical marker, possible war wound)"
+      ],
+      "relationship_dynamics": [
+        {"with": "Sado's Father (Old Man)", "quality": "courteous, familiar — uses traditional greeting, is recognized"},
+        {"with": "Sado's Wife", "quality": "formal, respectful — exchanges ritualized blessing"},
+        {"with": "Hadji Murad's Murid", "quality": "commanding presence; murid moves quickly to attend the horse"}
+      ],
+      "new_info": [
+        "walks with a slight limp",
+        "is personally recognized by Sado's father on sight",
+        "observes the ritual of uncovering his face when greeting",
+        "hands over weapons to be hung beside those of the house master — sign of trust/hospitality"
+      ]
+    },
+    {
+      "name": "Sado's Father (Old Man)",
+      "direct_quotes": ["aleikum, selaam!", "run to the mosque and call your father"],
+      "speech_descriptors": [
+        "said the old man, recognizing him",
+        "smiling with his toothless mouth",
+        "mumbling something with his toothless mouth",
+        "ordered the old man"
+      ],
+      "actions": [
+        "rose from under the sheepskin on the roof",
+        "blinked to get his moist red eyelids unstuck",
+        "uncovered / raised himself on his thin legs",
+        "thrust his feet into wooden-heeled slippers by the chimney",
+        "slipped arms into sleeves of crumpled sheepskin",
+        "descended backwards down the ladder from the roof",
+        "shook his head and mumbled while climbing down",
+        "seized Hadji Murad's bridle and right stirrup hospitably",
+        "was motioned aside by the murid",
+        "hurried forward to open the creaking door into the saklya",
+        "ordered the boy to fetch his father from the mosque",
+        "received Hadji Murad's rifle and sword and hung them on a nail"
+      ],
+      "inner_states": [
+        "hospitable impulse (tries to hold bridle and stirrup despite frailty)"
+      ],
+      "social_markers": [
+        "wears greasy old beshmet and nightcap — elderly peasant/household elder",
+        "toothless, lashless, sunburnt — visibly aged",
+        "lives/sleeps on the roof under a sheepskin (Caucasian mountain-village custom)",
+        "knows Muslim greeting etiquette",
+        "authority over the boy (commands him to the mosque)"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "reverent, hospitable — recognizes him and tries to serve him personally"},
+        {"with": "The Boy (fifteen-year-old)", "quality": "authoritative elder — issues orders"},
+        {"with": "Hadji Murad's Murid", "quality": "deferential — yields when motioned aside"}
+      ],
+      "new_info": [
+        "sleeps on the roof of the saklya under a sheepskin",
+        "physically frail (thin legs, shrivelled sunburnt neck, toothless, lashless)",
+        "commands the boy with clear authority (implies he is the boy's grandfather / household elder)",
+        "performs the role of gatekeeper and weapon-keeper in the saklya"
+      ]
+    },
+    {
+      "name": "Hadji Murad's Murid (unnamed, active)",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "quickly dismounted",
+        "motioned the old man aside",
+        "took the old man's place at the bridle/stirrup to attend Hadji Murad's horse"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "described as 'strong active murid' — young, fit warrior-disciple",
+        "prioritizes service to his master over local hospitality custom"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "devoted attendant — preempts others to serve him"},
+        {"with": "Sado's Father (Old Man)", "quality": "respectful but firm — displaces him without speaking"}
+      ],
+      "new_info": [
+        "physically strong and active",
+        "takes charge of Hadji Murad's horse personally, not letting the host serve"
+      ]
+    },
+    {
+      "name": "Sado's Son",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "came quickly out of the door",
+        "met Hadji Murad",
+        "fixed his sparkling eyes wonderingly on the new arrivals"
+      ],
+      "inner_states": [
+        "wonder / astonishment at the unexpected guests"
+      ],
+      "social_markers": [
+        "fifteen years old",
+        "eyes 'black as ripe sloes' — Caucasian youth",
+        "lives in the saklya; is sent to fetch his father from the mosque"
+      ],
+      "relationship_dynamics": [
+        {"with": "Sado's Father (Old Man)", "quality": "obedient grandson — receives orders"},
+        {"with": "Sado", "quality": "son; sent to summon him"},
+        {"with": "Hadji Murad", "quality": "awestruck observer of the arriving guest"}
+      ],
+      "new_info": [
+        "exact age given as fifteen",
+        "distinctive feature: sparkling eyes, black as ripe sloes",
+        "is the one dispatched to call Sado from the mosque"
+      ]
+    },
+    {
+      "name": "Sado's Wife",
+      "direct_quotes": ["May thy coming bring happiness!"],
+      "speech_descriptors": ["said she", "bending nearly double"],
+      "actions": [
+        "came through an inner door carrying cushions",
+        "bent nearly double in greeting",
+        "began arranging cushions along the front wall for the guest"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "slight, spare, middle-aged",
+        "wears yellow smock, red beshmet, wide blue trousers — traditional Avar/Caucasian female dress",
+        "uses formulaic blessing — knows guest-ritual etiquette",
+        "performs the hostess role (preparing seating)"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "honors him as high-status guest — deep bow, blessing, prepares seat of honor"}
+      ],
+      "new_info": [
+        "physical description: slight, spare, middle-aged",
+        "specific dress colors (yellow smock, red beshmet, blue trousers)",
+        "first spoken line assigned to her: 'May thy coming bring happiness!'",
+        "carries cushions to arrange the guest's seating place"
+      ]
+    }
+  ]
+}

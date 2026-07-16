@@ -1,0 +1,113 @@
+{
+  "new_characters": [
+    {
+      "name": "Old man (unnamed host)",
+      "initial_description": "Elderly Chechen villager with moist red lashless eyelids, greasy beshmet, nightcap. Wakened from sleep on rooftop. Hospitable, immediately recognises Hadji Murad.",
+      "role": "supporting"
+    },
+    {
+      "name": "Boy (host's grandson/son)",
+      "initial_description": "Fifteen-year-old with sparkling black eyes likened to ripe sloes. Sent to fetch his father from the mosque.",
+      "role": "supporting"
+    },
+    {
+      "name": "Woman of the house (unnamed)",
+      "initial_description": "Slight, spare, middle-aged woman in yellow smock, red beshmet, wide blue trousers. Greets Hadji Murad with traditional welcome phrase, begins arranging cushions.",
+      "role": "supporting"
+    },
+    {
+      "name": "Murid (unnamed, single companion)",
+      "initial_description": "Strong, active murid who accompanies Hadji Murad in his fugitive state. Displaces the old man from holding Hadji Murad's bridle and stirrup.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Hadji Murad, formerly Shamil's naib with dozens of murids, now rides as a fugitive with only one murid, concealed under hood and burka, scanning faces warily.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad enters the aoul via a narrow side street, avoiding the main road — deliberate evasion that underscores fugitive status and instinct for concealment.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad stops at a specific saklya, wakes the old man with his whip handle — indicating prior knowledge of a trusted contact or safe house in this village.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Old man immediately recognises Hadji Murad and welcomes him warmly, confirming he has a network of loyal supporters even in his fallen state.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Boy is sent to fetch his father from the mosque — the household head is absent, suggesting Hadji Murad will need to negotiate or wait for the key decision-maker.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Woman of the house greets Hadji Murad with the traditional phrase 'May thy coming bring happiness' and begins arranging cushions — conventional hospitality ritual that implicitly accepts him into the saklya.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Chechen aoul side street / safe saklya",
+      "description": "Narrow side street in an unnamed aoul. A saklya cut into the hillside with a penthouse (covered porch), rooftop accessible by ladder, chimney. Interior implied with inner door and cushions. Functions as a clandestine safe-house for Hadji Murad."
+    }
+  ],
+  "tension": 0.45,
+  "act_estimation": 1,
+  "filmability_score": 0.8,
+  "theme_hints": [
+    "Fall from power — the once-magnificent naib reduced to a fugitive with one companion",
+    "Hospitality as political allegiance — welcoming Hadji Murad is a dangerous act of loyalty",
+    "Concealment and surveillance — Hadji Murad's wary scanning of faces, deliberate avoidance of the main road",
+    "Trust networks in occupied territory — knowing exactly which door to knock on",
+    "Pride stripped to survival — the banner and murids replaced by a burka and one man"
+  ],
+  "symbols": [
+    "Hood and burka — concealment of former glory",
+    "The slight limp — physical mark of past battles and vulnerability",
+    "Single murid vs. dozens — numerical reduction as dramatisation of political fall",
+    "Rifle protruding from burka — concealed danger beneath disguise",
+    "Boy's sloe-black eyes — innocence and wonder at a living legend",
+    "Cushions being arranged — domesticity and safety contrasting the fugitive exterior"
+  ],
+  "notes": "Chunk 3 is a tightly cinematic scene of arrival and concealment. The passage contrasts Hadji Murad's former grandeur (banner, dozens of murids) with his present abjection (one murid, hood, burka, limp) in a single economical paragraph — a compression gift for the film. The safe-house sequence is wordless in action: waking the old man, the boy sent off, the woman greeting. Almost no inner monologue; everything is exteriorised behaviour. Highly filmable as-is. The unnamed old man, boy, and woman are atmospheric supporting figures with no independent arc — classic cuttable or purely functional presences. The village/aoul itself overlaps with the 'Sado's Aoul' location cluster (cinematic anchor, weight=10) and may be the same or an earlier stop. Needs confirmation in subsequent chunks. The chunk ends mid-sentence ('and bending nearly double began arranging') — scene continues into chunk 4.",
+  "fusion_candidates": [
+    {
+      "chars": ["Old man (unnamed host)", "Boy (host's grandson/son)", "Woman of the house (unnamed)"],
+      "reason": "All three are pure atmosphere/hospitality functions in this safe-house scene with no individual arc or name. In a film, the household can be represented by a single figure (e.g., a trusted elder or the woman alone) who wakes, recognises, and welcomes Hadji Murad. Fusing them loses nothing dramaturgically."
+    }
+  ],
+  "cuttable": [
+    {
+      "element": "Old man descending the ladder — detailed description of dressing, mumbling, shaking head",
+      "reason": "Tolstoyan naturalistic detail (the toothless mumbling, shrivelled neck, wooden-heeled slippers) is non-load-bearing for the plot. The act of recognition and welcome is what matters; the visual comedy of the slow descent can be compressed to a cut."
+    },
+    {
+      "element": "Boy with sloe-black eyes sent to fetch father",
+      "reason": "The boy is a single-function messenger. His physical description and the errand are minor texture. In a compressed film, the father/host can simply already be present or arrive without the relay."
+    },
+    {
+      "element": "Narrator's retrospective contrast of Hadji Murad's former retinue (dozens of murids, banner) vs. current state",
+      "reason": "This is an authorial digression summarising past grandeur. In film, the contrast must be shown visually (e.g., a brief flashback or an establishing scene earlier in the film) rather than narrated. The paragraph itself is cuttable as voiceover; its content should be embedded in staging."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Opening paragraph — narrator describes Hadji Murad's former glory as Shamil's naib vs. current fugitive state",
+      "current_pov": "Omniscient narrator / retrospective authorial summary",
+      "recommended_pov": "Restage as Hadji Murad's own visceral present-tense experience: we see only what he sees — the faces he scans, the side street he chooses, the saklya he stops at. Former glory surfaces as a brief involuntary memory (visual flash) triggered by the old man's recognition, not narrator summary."
+    },
+    {
+      "scene": "Old man waking, dressing, descending ladder — observed from outside",
+      "current_pov": "External observer / narratorial description",
+      "recommended_pov": "Hadji Murad's POV waiting impatiently below — tight on the old man's slow movements as seen through Hadji Murad's eyes, conveying urgency and concealment anxiety without cutting the warmth of the welcome."
+    }
+  ]
+}

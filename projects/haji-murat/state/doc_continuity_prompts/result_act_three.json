@@ -1,0 +1,147 @@
+{"segment": "ACT THREE", "scene_facts": [
+{"scene": "36", "characters_active": ["HADJI MURAD", "KIRILLOV"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "Enters his Nukha reception room in riding dress, does not sit", "quote": "Hadji Murad enters in riding dress, dust on his boots"},
+{"position": 2, "who": "KIRILLOV", "event": "object_transfer", "detail": "Counts seven piles of ten gold coins onto the table", "quote": "counts seven piles of ten gold coins onto the table"},
+{"position": 3, "who": "HADJI MURAD", "event": "object_transfer", "detail": "Sweeps the gold coins into his sleeve in one motion", "quote": "sweeps them into his sleeve in one motion"},
+{"position": 4, "who": "HADJI MURAD", "event": "departure", "detail": "Slaps Kirillov's bald pate and walks out of the room", "quote": "slaps Kirillov's bald pate with the flat of his hand"}
+], "objects": [
+{"object": "spy's report", "action": "introduced", "holder": "HADJI MURAD", "detail": "Folded, set on the table between the two men"},
+{"object": "sealed dispatch", "action": "introduced", "holder": "KIRILLOV", "detail": "Extended toward Hadji Murad, who refuses to take it"},
+{"object": "gold coins", "action": "transferred", "holder": "HADJI MURAD", "detail": "Seven piles of ten swept into his sleeve"},
+{"object": "leather satchel", "action": "introduced", "holder": "KIRILLOV", "detail": "Kirillov arrives carrying the satchel"}
+], "counts": [
+{"what": "gold coin piles", "value": 7, "quote": "seven piles of ten gold coins"},
+{"what": "coins per pile", "value": 10, "quote": "seven piles of ten gold coins"}
+], "time_markers": ["DAY"], "injuries": []},
+
+{"scene": "37", "characters_active": ["HADJI MURAD", "ELDAR", "SPIES", "MESSENGERS"], "characters_inert": ["SHAMIL", "YUSUF"], "ordered_events": [
+{"position": 1, "who": "SPIES", "event": "arrival", "detail": "Two hooded spies enter Hadji Murad's quarters at dusk", "quote": "Two SPIES enter hooded"},
+{"position": 2, "who": "MESSENGERS", "event": "arrival", "detail": "Two road-dusted messengers report Shamil's watchers everywhere", "quote": "Two road-dusted messengers add that Shamil's watchers are on every road"},
+{"position": 3, "who": "HADJI MURAD", "event": "object_transfer", "detail": "Slides a gold coin across the carpet to each man", "quote": "slides a gold coin across the carpet to each man"},
+{"position": 4, "who": "HADJI MURAD", "event": "departure", "detail": "Rises, prepares gear, orders Eldar to saddle two horses", "quote": "tells Eldar to saddle the bay and the second horse"}
+], "objects": [
+{"object": "gold coins", "action": "transferred", "holder": "SPIES/MESSENGERS", "detail": "One coin slid to each of the four visitors"},
+{"object": "silver coin (Yusuf's token)", "action": "used", "holder": "HADJI MURAD", "detail": "On leather thong at throat, closed in his hand"},
+{"object": "saddle blanket", "action": "used", "holder": "HADJI MURAD", "detail": "Lifted down, folded once, set beside his sword"},
+{"object": "sword", "action": "used", "holder": "HADJI MURAD", "detail": "Set beside the folded saddle blanket"}
+], "counts": [
+{"what": "hooded spies", "value": 2, "quote": "Two SPIES enter hooded"},
+{"what": "road-dusted messengers", "value": 2, "quote": "Two road-dusted messengers"}
+], "time_markers": ["DUSK TO NIGHT", "Grey-blue dusk", "Hours later"], "injuries": []},
+
+{"scene": "38", "characters_active": ["KHANEFI", "BATA", "GAMZALO"], "characters_inert": [], "ordered_events": [], "objects": [], "counts": [], "time_markers": ["BEFORE FIRST LIGHT"], "injuries": []},
+
+{"scene": "39", "characters_active": ["HADJI MURAD", "COSSACKS"], "characters_inert": ["ELDAR"], "ordered_events": [
+{"position": 1, "who": "COSSACKS", "event": "arrival", "detail": "Cossacks approach fast on the ridge at first light", "quote": "Hoofbeats on the ridge — Cossacks, coming fast"},
+{"position": 2, "who": "HADJI MURAD", "event": "departure", "detail": "Swings into the saddle with dagger drawn, rides out at dawn", "quote": "He swings into the saddle, dagger already drawn"}
+], "objects": [
+{"object": "dagger", "action": "used", "holder": "HADJI MURAD", "detail": "Already drawn as he mounts"}
+], "counts": [
+{"what": "horses", "value": 5, "quote": "Five horses in frost-burned scrub"}
+], "time_markers": ["FIRST GREY LIGHT", "dawn"], "injuries": []},
+
+{"scene": "40", "characters_active": ["HADJI MURAD", "NAZAROV", "GAMZALO", "COSSACKS"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "NAZAROV", "event": "arrival", "detail": "Rides at Hadji Murad's stirrup with the escort", "quote": "NAZAROV (28) rides at his stirrup"},
+{"position": 2, "who": "HADJI MURAD", "event": "physical_action", "detail": "Veers toward the ridge a mile out, draws pistol", "quote": "A pistol clears the burka"},
+{"position": 3, "who": "COSSACKS", "event": "death", "detail": "Four escorting Cossacks shot down in three heartbeats", "quote": "four Cossacks down in the dust"},
+{"position": 4, "who": "COSSACKS", "event": "escape", "detail": "The fifth Cossack rides hard for the watchtower", "quote": "the fifth bent low over his horse's neck, riding hard"}
+], "objects": [
+{"object": "pistol", "action": "used", "holder": "HADJI MURAD", "detail": "Cleared from the burka, kills four Cossacks"}
+], "counts": [
+{"what": "Cossack mounts flanking", "value": 5, "quote": "five Cossack mounts flanking close"},
+{"what": "Cossacks down", "value": 4, "quote": "four Cossacks down in the dust"},
+{"what": "Cossack escaped", "value": 1, "quote": "the fifth bent low over his horse's neck"},
+{"what": "distance before veer", "value": 1, "quote": "A mile out, Hadji Murad veers toward the ridge"}
+], "time_markers": ["MORNING"], "injuries": [
+{"character": "COSSACKS (four of the escort)", "injury": "shot dead by Hadji Murad's pistol", "quote": "four Cossacks down in the dust"}
+]},
+
+{"scene": "41", "characters_active": ["HADJI MURAD", "ELDAR", "MURIDS"], "characters_inert": ["HAMZAD"], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "physical_action", "detail": "Turns left toward the flooded rice-fields against instinct", "quote": "Hadji Murad turns left"},
+{"position": 2, "who": "PURSUERS", "event": "arrival", "detail": "Many horses heard approaching the night camp", "quote": "horses, many of them"}
+], "objects": [
+{"object": "burkas", "action": "used", "holder": "MURIDS", "detail": "Spread like dark altars on the only dry ground"}
+], "counts": [], "time_markers": ["DAY TO DEEP NIGHT", "Deep night now", "last night"], "injuries": []},
+
+{"scene": "42", "characters_active": ["HADJI MURAD", "KARGANOV", "MURIDS"], "characters_inert": ["ELDAR"], "ordered_events": [
+{"position": 1, "who": "MURIDS", "event": "physical_action", "detail": "Six men cut branches and throw earth onto a low bank", "quote": "Six men cut branches with daggers, throw earth onto a low bank"},
+{"position": 2, "who": "KARGANOV", "event": "arrival", "detail": "His surrender call drifts across the shrubs", "quote": "KARGANOV's (~40) surrender call drifts across the shrubs"}
+], "objects": [
+{"object": "daggers", "action": "used", "holder": "MURIDS", "detail": "Used to cut branches for the earth bank"}
+], "counts": [
+{"what": "men digging in", "value": 6, "quote": "Six men cut branches with daggers"}
+], "time_markers": ["PRE-DAWN"], "injuries": []},
+
+{"scene": "43", "characters_active": ["HADJI AGA", "HADJI MURAD", "ELDAR", "BATA", "KHAN MAHOMA", "KHANEFI"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "HADJI AGA", "event": "arrival", "detail": "Reins in twenty paces off with two hundred riders, calls out", "quote": "reins in twenty paces off, two hundred riders behind him"},
+{"position": 2, "who": "HADJI MURAD", "event": "speech", "detail": "Lowers rifle, recalls Hadji Aga once ate from his dish", "quote": "once Hadji Aga ate from his dish"},
+{"position": 3, "who": "HADJI MURAD", "event": "wound", "detail": "Wedged behind bank, beshmet torn, cotton wool in wound", "quote": "beshmet torn, blackened cotton wool in the wound"},
+{"position": 4, "who": "ELDAR", "event": "death", "detail": "A bullet takes him as he leans past the bank, falls onto Hadji Murad's leg", "quote": "a bullet takes him; he reels back onto Hadji Murad's leg"},
+{"position": 5, "who": "BATA", "event": "death", "detail": "Sits hard in dirt, throat ragged, spits red, goes still", "quote": "throat ragged, spits red, goes still"}
+], "objects": [
+{"object": "rifle", "action": "used", "holder": "HADJI MURAD", "detail": "Passed by Khanefi; he sights without hurry"},
+{"object": "powder flask", "action": "used", "holder": "KHANEFI", "detail": "Last flask set within reach at the bank wall"},
+{"object": "dagger", "action": "used", "holder": "ELDAR", "detail": "Drawn as he half-rises and leans past the bank"}
+], "counts": [
+{"what": "riders behind Hadji Aga", "value": 200, "quote": "two hundred riders behind him"},
+{"what": "distance Hadji Aga reins in", "value": 20, "quote": "reins in twenty paces off"},
+{"what": "open road offered", "value": 1, "quote": "the road back open for one hour"}
+], "time_markers": ["CONTINUOUS", "Spring greens", "today"], "injuries": [
+{"character": "HADJI MURAD", "injury": "gunshot wound packed with blackened cotton wool", "quote": "beshmet torn, blackened cotton wool in the wound"},
+{"character": "ELDAR", "injury": "shot dead, falls onto Hadji Murad's leg", "quote": "a bullet takes him; he reels back onto Hadji Murad's leg"},
+{"character": "BATA", "injury": "throat wound, spits red and dies", "quote": "throat ragged, spits red, goes still"}
+]},
+
+{"scene": "44", "characters_active": ["MICHAEL VORONTSOV", "SHAMIL", "YUSUF"], "characters_inert": ["HADJI MURAD"], "ordered_events": [
+{"position": 1, "who": "MICHAEL VORONTSOV", "event": "speech", "detail": "Dictates that the dispatch say Hadji Murad fell bravely, refusing surrender", "quote": "Hadji Murad fell bravely, surrounded, refusing surrender"},
+{"position": 2, "who": "COURIER", "event": "object_transfer", "detail": "Kneels before Shamil with a cloth bundle on the carpet", "quote": "a courier kneels with a cloth bundle on the carpet"},
+{"position": 3, "who": "SHAMIL", "event": "physical_action", "detail": "Does not look up, strokes his beard once, turns a Quran page", "quote": "does not look up, strokes his beard once, turns a page"},
+{"position": 4, "who": "YUSUF", "event": "physical_action", "detail": "Presses ear to cold stone, then turns his face to the wall", "quote": "Yusuf presses his ear to cold stone and listens upward"}
+], "objects": [
+{"object": "folded telegram", "action": "used", "holder": "MICHAEL VORONTSOV", "detail": "Read before dictating the official dispatch"},
+{"object": "cloth bundle (severed head)", "action": "transferred", "holder": "SHAMIL", "detail": "Delivered by kneeling courier onto the carpet"},
+{"object": "Quran", "action": "used", "holder": "SHAMIL", "detail": "Across his knees; he turns a page"},
+{"object": "untouched bowl", "action": "introduced", "holder": "YUSUF", "detail": "Sits beside Yusuf in the pit"}
+], "counts": [], "time_markers": ["CONTINUOUS"], "injuries": []},
+
+{"scene": "45", "characters_active": ["HADJI MURAD", "HADJI AGA", "YOUNG RIDER"], "characters_inert": ["KHANEFI", "KHAN MAHOMA", "GAMZALO"], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "physical_action", "detail": "Drags himself out, fires pistol once, walks forward on broken leg", "quote": "walks forward on the broken leg — dagger in hand, straight at the guns"},
+{"position": 2, "who": "HADJI MURAD", "event": "speech", "detail": "Speaks his son's name once into the open air", "quote": "speaks his son's name once into the open air"},
+{"position": 3, "who": "HADJI MURAD", "event": "death", "detail": "Second volley takes him against a young tree's trunk", "quote": "before the second volley takes him"},
+{"position": 4, "who": "HADJI AGA", "event": "object_transfer", "detail": "Kneels, takes the head with two clean strokes, rolls it away", "quote": "Two clean strokes, eyes on the middle distance, and the head comes free"},
+{"position": 5, "who": "KHANEFI", "event": "capture", "detail": "Stands bound with Khan Mahoma and Gamzalo, watching", "quote": "stand bound, watching, naming nothing"},
+{"position": 6, "who": "KHAN MAHOMA", "event": "capture", "detail": "Stands bound with Khanefi and Gamzalo, watching", "quote": "stand bound, watching, naming nothing"},
+{"position": 7, "who": "GAMZALO", "event": "capture", "detail": "Stands bound with Khanefi and Khan Mahoma, watching", "quote": "stand bound, watching, naming nothing"}
+], "objects": [
+{"object": "pistol", "action": "used", "holder": "HADJI MURAD", "detail": "Fired once as he drags himself from the bank"},
+{"object": "dagger", "action": "used", "holder": "HADJI AGA", "detail": "Two clean strokes take the head free"},
+{"object": "severed head", "action": "transferred", "holder": "HADJI AGA", "detail": "Rolled away with the side of his foot"}
+], "counts": [
+{"what": "clean strokes to take the head", "value": 2, "quote": "Two clean strokes, eyes on the middle distance"}
+], "time_markers": ["DAY"], "injuries": [
+{"character": "HADJI MURAD", "injury": "shot by rifles then killed by second volley, decapitated", "quote": "blood at his side and shoulder and face"}
+]},
+
+{"scene": "46", "characters_active": ["KAMENEV", "BUTLER", "MARYA DMITRIEVNA", "PETROV", "COSSACK", "CORPORAL"], "characters_inert": ["AVDEEV"], "ordered_events": [
+{"position": 1, "who": "KAMENEV", "event": "arrival", "detail": "Dismounts in moonlit yard, lifts a heavy linen sack", "quote": "KAMENEV (~40) dismounts in the moonlit yard"},
+{"position": 2, "who": "KAMENEV", "event": "object_transfer", "detail": "Hauls out the severed head by the shaven skull", "quote": "He hauls out the head by the shaven skull"},
+{"position": 3, "who": "CORPORAL", "event": "object_transfer", "detail": "Seals Avdeev's death notice packet for the post", "quote": "a corporal seals a thin packet for the post"},
+{"position": 4, "who": "PETROV", "event": "physical_action", "detail": "Sways toward the head, presses his mouth to the dead forehead", "quote": "presses his mouth to the dead forehead"}
+], "objects": [
+{"object": "linen sack", "action": "used", "holder": "KAMENEV", "detail": "Lifted from saddle-bag, holds the severed head"},
+{"object": "severed head", "action": "used", "holder": "KAMENEV", "detail": "Hauled out by skull, later slid back into canvas by Cossack"},
+{"object": "Avdeev death notice packet", "action": "introduced", "holder": "CORPORAL", "detail": "Sealed for the post, addressed to a snow-covered village"}
+], "counts": [], "time_markers": ["NIGHT", "moonlit", "At the same dim hour"], "injuries": []},
+
+{"scene": "47", "characters_active": ["MARYA DMITRIEVNA", "BUTLER"], "characters_inert": ["KAMENEV", "PETROV"], "ordered_events": [
+{"position": 1, "who": "BUTLER", "event": "arrival", "detail": "Steps out onto the porch and reaches for a word", "quote": "Butler steps out and reaches for a word"},
+{"position": 2, "who": "MARYA DMITRIEVNA", "event": "speech", "detail": "Says they are all cut-throats; a head belongs in the earth", "quote": "They are all cut-throats, she says, flat and final"},
+{"position": 3, "who": "MARYA DMITRIEVNA", "event": "departure", "detail": "Stands, descends the last step, walks toward the dark", "quote": "walks toward the dark without looking back"}
+], "objects": [
+{"object": "white burka", "action": "used", "holder": "MARYA DMITRIEVNA", "detail": "Carried out, laid across her knees, smoothed once by hand"}
+], "counts": [], "time_markers": ["NIGHT"], "injuries": []},
+
+{"scene": "48", "characters_active": [], "characters_inert": [], "ordered_events": [], "objects": [
+{"object": "thistle", "action": "introduced", "holder": "none", "detail": "Bent and bloodied at ditch edge, then upright and flowering"}
+], "counts": [], "time_markers": ["DAY", "midsummer light"], "injuries": []}
+]}

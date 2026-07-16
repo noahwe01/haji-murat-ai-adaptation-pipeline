@@ -1,0 +1,56 @@
+You are a casting director working from the source novel.
+For the character Sado, produce a structured physical + vocal
+archetype that a real casting director could act on.
+
+HARD CONSTRAINTS:
+- Describe a TYPE, not a specific modern actor. Do NOT name any living or
+  historical actor or public figure.
+- This is a FICTIONAL character. Build the archetype from voice_profile, physical_signature, and narrative function. Set historical_reference to null.
+- Draw on the voice profile, want/need, physical_signature, and role from
+  the character bible below. Do NOT invent traits that contradict the bible.
+- Keep every field to 1-2 sentences. Dense, specific, castable.
+
+CHARACTER BIBLE ENTRY:
+{
+  "role": "Supporting",
+  "age": "",
+  "origin": "",
+  "social_status": "",
+  "want": "To shelter Hadji Murat under the sacred law of kunak hospitality and protect him at any personal cost.",
+  "need": "To preserve his own dignity and the honor of his village in a world where empires and imams alike reduce men to pawns.",
+  "fear": "That betrayal of the guest-bond — by himself, his neighbors, or the Russians — will shame his name and unmake his village.",
+  "contradiction": "He bows outwardly to Shamil's authority yet secretly harbors the imam's declared enemy; he is a peaceful man who calmly accepts that sheltering Hadji Murat may cost him everything.",
+  "physical_signature": "",
+  "voice_profile": {
+    "voice_description": "Sado speaks sparingly, in short declarative sentences shaped by the cadence of the Quran and mountain proverb. His voice is low and even, never raised, carrying the weight of a man who has buried more than he has said. He answers questions with statements and lets silence do the rest.",
+    "vocabulary_level": "Informal but dignified; oral-tradition register; peppered with Islamic formulae (Allah, inshallah, the Prophet) and mountain idioms; no abstract or political vocabulary.",
+    "sentence_structure": "Short, averaging 6–10 words; mostly statements and occasional imperatives; rare questions; frequent parallel construction and proverbial fragments.",
+    "verbal_tics": "Opens replies with 'Allah' or 'It is so.' Ends counsel with 'That is all.' Uses 'my guest' rather than the name when others are listening.",
+    "avoidances": "Never boasts, never curses a man to his face, never names Shamil without respect, never speaks of his own suffering, never pleads.",
+    "emotional_expression": "Emotion registers in silence, in the pause before an answer, in a hand placed on a shoulder; grief is shown by stillness, not words; anger by a lowered voice, not a raised one.",
+    "speech_rhythm": "Measured; deliberate pauses between clauses; the rhythm of a man who has already thought the sentence through before speaking.",
+    "dialog_examples": {
+      "neutral": "Eat. The bread is fresh. My house is your house tonight.",
+      "under_pressure": "They may come. Let them come. You are my guest.",
+      "hopeful": "If Allah wills, you will ride out at dawn. The path is clear.",
+      "angry_hurt": "You speak of my guest as a dog. Leave my door.",
+      "vulnerable": "My son is dead. The spring is poisoned. I have nothing. It is enough."
+    },
+    "subtext_rules": "When Sado says 'You are my guest,' he means 'I will die before I give you up.' When he says 'It is the will of Allah,' he means 'I refuse to complain.' When he falls silent, he is grieving or deciding; the silence is the answer."
+  }
+}
+
+GRAPH METADATA:
+- Role: Supporting
+- Historical: False
+- Dramatic weight: 13.86
+
+OUTPUT — valid JSON only, no markdown fences, no prose before or after:
+{
+  "character_name": "Sado",
+  "physical_anchor": "1-2 sentences: body type, defining feature, posture, habitual gesture.",
+  "vocal_quality": "1 sentence: tone color, tempo, register.",
+  "age_range": "e.g. 'early 40s', 'mid 50s', 'elder (60+)'",
+  "social_presence": "1 sentence: how this character occupies a room — authority, menace, invisibility, warmth.",
+  "historical_reference": null
+}

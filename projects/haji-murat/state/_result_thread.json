@@ -1,0 +1,248 @@
+{
+  "threads": [
+    {
+      "character": "Hadji Murad",
+      "scene_count": 51,
+      "continuity_score": 89,
+      "issues": [
+        {
+          "from_scene": "S033",
+          "to_scene": "S044",
+          "issue_type": "emotional_gap",
+          "description": "S033 shows HM reduced and humiliated in Meller-Zakomelsky's anteroom ('I have waited before' — contained contempt). S044 is his formal presentation to Vorontsov in Tiflis — a large scene gap with no bridging scene showing the journey or the processing of that humiliation. The emotional register shifts from suppressed rage to calibrated diplomacy without transition.",
+          "severity": "medium",
+          "fix_suggestion": "Add a brief beat — even a single action line — between S033 and S044 showing HM composing himself on the road to Tiflis, or a murids-tent moment where he privately acknowledges the insult."
+        },
+        {
+          "from_scene": "S065",
+          "to_scene": "S084",
+          "issue_type": "emotional_gap",
+          "description": "S065 ends with HM still bargaining for active deployment ('Twenty Cossacks. Thirty. Picked men.'). S084 finds him in the ruins of Sado's aoul, digging a child's grave and expressing profound guilt. The shift from tactical urgency to moral reckoning is dramatically correct but needs a bridging indication that time and events have intervened — the raid on Mahket is the causal link but no scene shows it.",
+          "severity": "medium",
+          "fix_suggestion": "Ensure a preceding scene (or a strong action-line bridge) shows the Russian raid on Mahket as a direct consequence of HM's presence — making S084's guilt land with full weight."
+        },
+        {
+          "from_scene": "S097",
+          "to_scene": "S098",
+          "issue_type": "escalation_stutter",
+          "description": "S097 is domestic stillness — HM is 'household' now, performing the role of settled guest ('Allah knows. Do not ask again today'). S098 introduces the death-song and forward-motion declaration. These are consecutive scenes; the pivot from routine domesticity to death-acceptance is abrupt without an intervening trigger visible in HM's dialog thread.",
+          "severity": "low",
+          "fix_suggestion": "Add a brief external event (arrival of bad news, a letter, a messenger) in or before S098 to motivate the tonal shift from settled to death-ready."
+        },
+        {
+          "from_scene": "S108",
+          "to_scene": "S118",
+          "issue_type": "promise_escalation",
+          "description": "In S108 HM says 'Three thousand rubles to my friends in Daghestan. Tell the Sardar — Hadji Murad has said it.' — a covert ransom channel being opened. In S118 he rides out without any resolution to whether that channel produced results. The gap leaves the audience uncertain whether the escape is triggered by the channel failing or HM simply losing patience.",
+          "severity": "medium",
+          "fix_suggestion": "Add a line in S118 (or the scene preceding it) making clear whether the Daghestan channel failed or was blocked — this sharpens HM's decision from 'impatience' to 'I have tried every option and been denied.'"
+        }
+      ],
+      "strongest_thread": "S002→S022: HM's flight-and-surrender arc — emotionally consistent escalation from refuge-seeker to strategic defector, each scene tightening the noose while HM's register stays controlled and ceremonious. The 'Allah knows' and 'It is well' closures track perfectly as a grief-management ritual. S129→S134: The final stand — HM's voice is fully consistent, terse, command-register, no self-pity, the Yusuf wound opening only at the last breath. Strongest voice-consistency in the entire screenplay.",
+      "voice_consistency": 94
+    },
+    {
+      "character": "Eldar",
+      "scene_count": 9,
+      "continuity_score": 92,
+      "issues": [
+        {
+          "from_scene": "S055",
+          "to_scene": "S101",
+          "issue_type": "voice_drift",
+          "description": "S055 shows Eldar at his most interior ('The horses are watered. I will sleep by them.' — complete withdrawal from the group). S101 gives him a single line 'Agha —' as pure protective vow. These are consistent, but S055 to S101 is a very long gap (46 scenes) with no Eldar dialog in between — his presence in scenes S086-S100 is implied but invisible. The jump from S055's Tiflis night to S101's porch-feud risks making him feel like a different character to the audience.",
+          "severity": "low",
+          "fix_suggestion": "At least one brief Eldar line in the Fort Petrov section (S088-S100) would anchor his continued presence — even a single 'As Allah wills, Agha' would suffice."
+        }
+      ],
+      "strongest_thread": "S131→S132: Eldar's final two scenes — 'No. We stay. Where you stay, Agha.' and 'The swords, Agha. Now. Inshallah.' — are a perfect micro-arc of absolute loyalty consummated in death. The voice is exactly calibrated: no elaboration, no self-reference, pure devotional commitment. The Inshallah at the end is the correct capstone for a character defined by faith-as-action.",
+      "voice_consistency": 91
+    },
+    {
+      "character": "Sado",
+      "scene_count": 9,
+      "continuity_score": 93,
+      "issues": [
+        {
+          "from_scene": "S018",
+          "to_scene": "S084",
+          "issue_type": "emotional_gap",
+          "description": "S018 is Sado's farewell — 'Go. The road is yours.' — a final act of protection and permanent severance. S084 is the reunion at the ruins: 'My house was your house. What is left, Allah saw.' This gap spans 66 scenes and represents a massive narrative leap for Sado. The emotional logic is correct (the hospitality vow holds even through catastrophe), but there is no visible processing of the destruction between 'Go' and the ruins. The reunion lands hard but without buildup.",
+          "severity": "low",
+          "fix_suggestion": "No new scenes required. However, in S084 a single action line before Sado speaks — showing him still digging without looking up, or placing the child's body — would give the audience time to register what has happened to him before he speaks."
+        }
+      ],
+      "strongest_thread": "S002→S018: Sado's arc from host to failed protector is one of the most consistent minor threads in the screenplay. His voice never wavers from the short-declarative, Quranic-inflected hospitality register. 'My house is your house' in S002 directly echoes 'My house was your house. What is left, Allah saw.' in S084 — the callback is structurally perfect. No voice drift at all across 9 scenes.",
+      "voice_consistency": 96
+    },
+    {
+      "character": "Bata",
+      "scene_count": 6,
+      "continuity_score": 87,
+      "issues": [
+        {
+          "from_scene": "S011",
+          "to_scene": "S129",
+          "issue_type": "escalation_stutter",
+          "description": "Bata's last appearance before S129 is S011 — the border-crossing scene where he speaks broken Russian to Russian soldiers, playing the 'friendly Chechen' role. S129 shows him in the final stand, terrified but faithful: 'Brother — bad ditch. Shallow. The wolf does not sleep where the hunter sees his ear.' The gap is enormous (118 scenes) and Bata goes from comic-pragmatist guide to a man facing death with proverbs. The emotional escalation is justified but invisible — we have no scenes of Bata in the middle stretch of the screenplay.",
+          "severity": "medium",
+          "fix_suggestion": "Bata's reappearance in S129 would land harder if preceded by one brief scene in the Nukha or Fort section where his pragmatic loyalty is established again — even a single action line naming him present would re-introduce him before the final act."
+        }
+      ],
+      "strongest_thread": "S004→S011: Bata's early negotiation-and-delivery arc is tight and consistent. His voice is exactly the terrain-guide register throughout — practical, self-promoting but not dishonest, fragment-heavy. The 'Two smokes to the ford' in S004 and 'Letter. For prince. Hadji Murat sends.' in S010 are both perfect character voice — maximum information, minimum words, oriented entirely to the task.",
+      "voice_consistency": 88
+    },
+    {
+      "character": "Simon Vorontsov",
+      "scene_count": 3,
+      "continuity_score": 91,
+      "issues": [],
+      "strongest_thread": "S027→S031: Simon's arc from field greeting to drawing-room host is compact and consistent. The French-inflected salon register holds through both military and domestic contexts. 'You will dine with us tonight' arrives as the natural conclusion of 'Sardar. Hadji Murad has come' — the same performative courtesy operating in two different registers.",
+      "voice_consistency": 92
+    },
+    {
+      "character": "Loris-Melikov",
+      "scene_count": 8,
+      "continuity_score": 86,
+      "issues": [
+        {
+          "from_scene": "S053",
+          "to_scene": "S057",
+          "issue_type": "escalation_stutter",
+          "description": "S053 ends with HM closing the session ('It is time for me to pray') and Loris-Melikov receiving a gift. S057 opens with HM actively directing Loris-Melikov ('Loris-Melikov. Sit. Eldar is young…'). Loris-Melikov has no audible voice in S057 — he is entirely a listener. This is consistent with his 'Permit me' deferential register but across two consecutive story-sessions his transition from interviewer to audience is not commented on, which slightly flattens his arc.",
+          "severity": "low",
+          "fix_suggestion": "A single Loris-Melikov clarifying question in S057 before HM takes control would re-establish him as an active interlocutor rather than a passive vessel."
+        }
+      ],
+      "strongest_thread": "S047→S053: Loris-Melikov's interviewer function is well-maintained throughout the testimony scenes. His measured, non-confrontational register — 'Permit me', 'As the Prince commands' — creates exactly the right container for HM's self-disclosure. The voice is consistent and the subtext (he disagrees with the pace of diplomacy but will not say so) is correctly encoded through absence of pushback rather than explicit statement.",
+      "voice_consistency": 89
+    },
+    {
+      "character": "Michael Vorontsov",
+      "scene_count": 4,
+      "continuity_score": 88,
+      "issues": [
+        {
+          "from_scene": "S044",
+          "to_scene": "S045",
+          "issue_type": "voice_drift",
+          "description": "S044 shows Vorontsov at his most controlled — 'courtesy as the first cut.' S045 opens with the full subtext of mutual calculation. Both scenes are internally consistent but the gap between S044's ceremonial register and S045's 'two forms of calculation' framing suggests a slight shift in psychological register that is not grounded in a visible external event between the scenes.",
+          "severity": "low",
+          "fix_suggestion": "A single action-line beat between S044 and S045 showing Vorontsov stepping outside or exchanging a word with an aide would establish the passage of time and justify the shift from ceremonial to calculation mode."
+        }
+      ],
+      "strongest_thread": "S044→S046: Vorontsov's three Tiflis scenes form a consistent portrait of a man who wields courtesy as power. His register never breaks, his subtext is always legible through what he does not say, and the callbacks between scenes (the theater evening in S046 directly answering HM's family anxiety from S044) show strong thread management.",
+      "voice_consistency": 90
+    },
+    {
+      "character": "Marya Vasilevna",
+      "scene_count": 2,
+      "continuity_score": 90,
+      "issues": [],
+      "strongest_thread": "S030→S032: Marya Vasilevna's brief arc from curious observer to active hostess is consistent. Her salon register never slips. The phonograph scene in S032 (implied by HM's 'Again.') shows her reading HM's fascination correctly and encouraging it — exactly in-character for someone who uses social grace as intelligence-gathering.",
+      "voice_consistency": 91
+    },
+    {
+      "character": "Butler",
+      "scene_count": 5,
+      "continuity_score": 85,
+      "issues": [
+        {
+          "from_scene": "S086",
+          "to_scene": "S089",
+          "issue_type": "emotional_gap",
+          "description": "S086 shows Butler encountering HM on the fort street — a public, observed meeting. S089 shows HM confiding in Butler about Yusuf still being in Vedeno — a surprisingly intimate exchange given that only one or two scenes have passed. The transition from formal military encounter to trusted confidant is rapid and not fully justified by visible scenes of relationship-building in between.",
+          "severity": "medium",
+          "fix_suggestion": "If S087 or S088 contains a shared meal or a patrol scene establishing rapport, ensure Butler has at least one line that demonstrates growing ease with HM before S089's intimacy. If no such scene exists, add a brief hospitality beat."
+        }
+      ],
+      "strongest_thread": "S098→S100: Butler's leave-taking arc is emotionally precise. His courtesy holds even as he registers HM's death-song for what it is — his refusal to name the obvious ('the song is about his own death') is perfectly in-register for a man who 'never names his debts aloud.' The gift-giving scene in S100 closes the Butler thread cleanly.",
+      "voice_consistency": 87
+    },
+    {
+      "character": "Major Petrov",
+      "scene_count": 3,
+      "continuity_score": 88,
+      "issues": [],
+      "strongest_thread": "S088→S097: Petrov's evolution from formal military host to accepting HM as household presence is compact and consistent. His blunt-provincial register holds throughout, and his decision not to push back on HM's domestic integration ('Allah knows. Do not ask again today' receives no correction from Petrov) is correct for a man whose authority is primarily performative.",
+      "voice_consistency": 89
+    },
+    {
+      "character": "Marya Dmitrievna",
+      "scene_count": 2,
+      "continuity_score": 90,
+      "issues": [],
+      "strongest_thread": "S089: Marya Dmitrievna's silent defection — her heart going to HM's side when she hears of Yusuf — is one of the strongest single-scene character moments in the Fort section. Her register (warm, slightly coarse, direct) is exactly calibrated against the aristocratic Vorontsov women, and the contrast works without her needing to say anything overtly political.",
+      "voice_consistency": 92
+    },
+    {
+      "character": "Nicholas I",
+      "scene_count": 3,
+      "continuity_score": 94,
+      "issues": [],
+      "strongest_thread": "The Nicholas scenes form a thematically perfect counterpoint to HM's captivity arc. His single-word verdicts and third-person self-reference are consistent across all appearances. No voice drift. The bureaucratic finality of his decisions ('The report. Read it.') mirrors the emptiness of HM's waiting in anterooms — the structural parallel is intentional and well-executed.",
+      "voice_consistency": 95
+    },
+    {
+      "character": "Shamil",
+      "scene_count": 2,
+      "continuity_score": 91,
+      "issues": [],
+      "strongest_thread": "Shamil's appearances are brief but voice-consistent — the 'dry scholar's baritone' register holds, and his deliberate weight ('Sit. Speak. Shamil hears…') creates the correct counterweight to HM's terse mountain warrior register. The two men share a structural tic (both close with single-word finalities) that underscores their mirroring without making it explicit.",
+      "voice_consistency": 93
+    },
+    {
+      "character": "Khanefi",
+      "scene_count": 3,
+      "continuity_score": 90,
+      "issues": [],
+      "strongest_thread": "S131→S132: Khanefi's role in the final stand is correctly calibrated — receiving orders ('Khanefi — the long gun. Load the short one after.') and providing materiel support ('The powder. Keep it dry.') without once speaking of himself. The Bismillah before action is correctly deployed. His silence is the strongest voice-consistency marker in the screenplay.",
+      "voice_consistency": 93
+    },
+    {
+      "character": "Gamzalo",
+      "scene_count": 2,
+      "continuity_score": 89,
+      "issues": [],
+      "strongest_thread": "Gamzalo's two appearances are entirely consistent with the 'every word costs a cartridge' profile. His implicit presence in the final stand — acting rather than speaking — is correct. No voice drift.",
+      "voice_consistency": 91
+    }
+  ],
+  "unresolved_promises": [
+    {
+      "scene_id": "S006",
+      "character": "Sado",
+      "promise": "It shall be done. [Forwarding HM's note to his son]",
+      "resolved": false,
+      "resolution_scene": null,
+      "note": "Sado commits to being HM's courier to his son in S006. There is no scene showing whether the note was delivered or whether HM's son ever received it. Given that S084 shows Sado's house destroyed, this thread is plausibly interrupted but not explicitly resolved on screen."
+    },
+    {
+      "scene_id": "S044",
+      "character": "Hadji Murad",
+      "promise": "My mother. My wives. My son Yusuf. They are in the imam's hand. [Implicit demand for rescue]",
+      "resolved": false,
+      "resolution_scene": null,
+      "note": "HM's repeated demand that the Russians act to rescue his family is never resolved — no scene shows an attempt, a failure, or a diplomatic overture. The screenplay correctly leaves this unresolved as a structural wound, but it should be confirmed as intentional rather than an oversight."
+    },
+    {
+      "scene_id": "S065",
+      "character": "Hadji Murad",
+      "promise": "Twenty Cossacks. Thirty. Picked men. They guard me from enemies, and you from doubt.",
+      "resolved": false,
+      "resolution_scene": null,
+      "note": "HM's explicit request for a Cossack escort to reach his family is never granted or denied on screen. The audience does not see a formal Russian refusal — HM simply escapes in S118 without any scene showing the request was processed. This is a continuity gap: the decision that forces S118's escape is implicit rather than dramatized."
+    },
+    {
+      "scene_id": "S108",
+      "character": "Hadji Murad",
+      "promise": "Three thousand rubles to my friends in Daghestan. Tell the Sardar — Hadji Murad has said it.",
+      "resolved": false,
+      "resolution_scene": null,
+      "note": "The covert ransom channel through Daghestan contacts is opened in S108 but never shown to succeed, fail, or receive a Russian response. S118's escape does not reference whether this channel produced any result, leaving the motivation for the final breakout ambiguous between 'ransom failed' and 'HM simply chose freedom.'"
+    }
+  ],
+  "overall_continuity_score": 89,
+  "critical_breaks": 0,
+  "summary_notes": "Dialog thread continuity is strong across the full screenplay. The primary protagonist (Hadji Murad, 51 scenes) maintains exceptional voice consistency — the 'Allah knows' / 'It is well' closure system and the short-declarative register hold from S002 to S134 without drift. The four main issues flagged are all emotional-gap or promise-resolution problems rather than voice breaks; none rise to critical severity. The largest structural gap is the unresolved Russian-response-to-family-rescue thread (S065→S118), which leaves HM's escape motivation partially implicit. Secondary characters (Eldar, Sado, Khanefi) are voice-consistent throughout; Bata has the most jarring reappearance gap (S011→S129, 118 scenes) but his final-act voice holds. The Nicholas I counterpoint thread and the Shamil mirror-scenes are highlights of structural thread management."
+}

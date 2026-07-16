@@ -1,0 +1,98 @@
+{
+  "canonical_name": "Shamil",
+  "name": "Shamil",
+  "role": "Antagonist",
+  "basic_data": {
+    "age": "approximately 54 (in 1851)",
+    "origin": "Avar, Dagestan, Caucasus",
+    "social_status": "Imam of Chechnya and Dagestan, supreme political-religious leader of the Caucasian resistance against the Russian Empire",
+    "education": "Islamic scholar, trained in Arabic, Quranic law, Sufi tariqat"
+  },
+  "physical_signature": "A stillness of the hands. Shamil keeps his hands folded and motionless inside his wide sleeves when others shout or gesture; when the hands finally emerge, they carry only the Quran or the sentence of death. The reddish-grey beard dyed with henna frames a face that almost never moves — the body is an icon, not a man. For casting: an actor who can hold complete physical silence while the room erupts.",
+  "psychology": {
+    "want": "To crush Russian imperial advance in the Caucasus, preserve the Imamate as an independent theocratic state under Sharia, and bring Hadji Murat back under his authority — dead or alive — before the defection poisons the loyalty of every other naib.",
+    "need": "To recognize that he has become the mirror of the Tsar he fights — ruling by fear, hostages, and the execution of his own sons-in-faith — and that the holy war has eaten the holiness. He will not recognize this.",
+    "fear": "That Hadji Murat's defection proves what Shamil secretly suspects: that his own tyranny, not Russian power, is what breaks his best men. If the second-best warrior of the Caucasus walks to the enemy, the legitimacy of the Imamate bleeds from that wound.",
+    "contradiction": "He preaches submission to God's law while ruling by personal terror. He condemns Russian cruelty while holding Hadji Murat's mother, wives, and son as hostages. He demands total loyalty from men whose families he has imprisoned.",
+    "justification": "Hadji Murat was my best warrior and my brother in the ghazavat; now he runs to the infidel to save his own blood, and if I let one man buy his family with treason, every naib from Vedeno to the sea will learn that the Imam can be bargained with — so he returns, or his son's eyes are the price, and there is no third road in a war that God Himself is watching."
+  },
+  "arc": {
+    "starting_state": "Act 1 — Supreme, uncontested, at the height of his power in Vedeno. Hadji Murat's flight arrives as an insult, not yet a crisis. Shamil responds with bureaucratic cruelty: seize the family, send assassins.",
+    "change": "Act 2 — The defection lingers. Russian indecision gives Shamil time, but also forces him to escalate against Hadji Murat's son Yusuf. Each escalation (blinding threatened, then half-executed, mother humiliated) costs him something he does not name: the silent consent of his own people. He wins the power struggle and feels it hollow out.",
+    "end_state": "Act 3 — Hadji Murat dies in a Russian ambush without ever returning to Shamil's justice. Shamil receives the news as triumph and receives it as defeat: the enemy killed his enemy. He retains the Imamate, loses the warrior he could never replace, and the war grinds on toward his own eventual surrender in 1859 — offstage of this film, but visible in his final eyes.",
+    "arc_type": "Stagnation / Pyrrhic Fall — no transformation, no recognition. The antagonist wins the immediate objective and confirms his own spiritual bankruptcy without admitting it."
+  },
+  "voice_profile": {
+    "voice_description": "Shamil speaks in short, parabolic sentences weighted with Quranic cadence; he does not raise his voice because he has not needed to for twenty years. Every word is a verdict — even greetings sound like judgments, even judgments sound like prayers. He uses silence as a weapon and quotes scripture the way a general quotes orders.",
+    "vocabulary_level": "formal, elevated, Arabic-inflected religious register; educated in Quran, hadith, Sufi poetry; never colloquial; era: mid-19th century Islamic scholarly",
+    "sentence_structure": "Short to medium (6–14 words). Declarative dominant. Frequent parallelism and antithesis ('He rode with me; now he rides away.'). Rare questions — when he asks, the answer is already known. Fragments used for verdicts.",
+    "verbal_tics": [
+      "'Allah knows.' — used to close any argument",
+      "'It is written.' — used to legitimize personal decisions as divine",
+      "'My son...' — addressed to naibs as a softening before a hard order",
+      "Long pauses before naming a man who has disappointed him"
+    ],
+    "avoidances": [
+      "Never raises his voice",
+      "Never swears or curses",
+      "Never speaks Russian, even when he understands it",
+      "Never uses Hadji Murat's name without the honorific on first mention of a scene — the omission, later, is itself a sentence",
+      "Never admits doubt in front of subordinates",
+      "Never laughs"
+    ],
+    "emotional_expression": "Suppression by design. Anger appears as slowed speech and lengthened silences. Grief appears as increased scriptural citation. Fear appears nowhere — he has trained it out of his face. Affection surfaces only toward his sons, and only in private, as a single touch on the shoulder.",
+    "speech_rhythm": "measured, slow, with deliberate pauses; the rhythm of a man who has never been interrupted",
+    "example_lines": {
+      "neutral_everyday": "Bring the messenger. Let him eat first. A man on an empty stomach lies without intending to.",
+      "under_pressure": "The Russians wait. Hadji Murat waits. I wait longer. Patience is also a weapon — it is written.",
+      "hopeful_joyful": "My son Jemal-Eddin read the Quran today without stumbling. Allah has not forgotten this house.",
+      "angry_hurt": "He broke bread at my table. He kissed my hand. Now tell me again — slowly — which road he took.",
+      "vulnerable_honest": "A man alone in the mountains hears his own heart. I hear mine. It is not always the voice of God."
+    },
+    "subtext_rules": {
+      "when_he_says_Allah_knows": "means: the conversation is over and you will obey",
+      "when_he_asks_a_question": "means: he already has the answer and is testing whether you will lie",
+      "when_he_calls_a_man_'my_son'": "means: that man is about to be ordered to do something he will not survive",
+      "when_he_quotes_scripture": "means: he is justifying a decision he made on personal grounds",
+      "when_he_is_silent": "means: someone has just been sentenced"
+    }
+  },
+  "relationships": {
+    "Hadji Murat": {
+      "type": "former second-in-command, blood-brother in ghazavat, now deserter",
+      "quality": "possessive love curdled into murderous betrayal — the intimacy of two men who fought together for twenty years now weaponized",
+      "power_dynamic": "Shamil holds the family, Hadji Murat holds the public shame of defection — a standoff where each has the other's throat",
+      "speech_register_shift": "when speaking ABOUT Hadji Murat: drops the honorific progressively across the film; when speaking TO messengers from him: icy formality, never uses the name at all"
+    },
+    "Yusuf (Hadji Murat's son)": {
+      "type": "hostage, leverage, substitute body for the father's punishment",
+      "quality": "cold instrumentalization masked as religious duty",
+      "power_dynamic": "total — the boy is a letter Shamil writes to his father",
+      "speech_register_shift": "formal, almost gentle in the boy's presence; brutal in the orders given about him"
+    },
+    "Patimat (Hadji Murat's mother) / wives": {
+      "type": "hostages, symbols of the traitor's shame",
+      "quality": "contempt wrapped in scriptural propriety",
+      "power_dynamic": "total; they are furniture of his justice",
+      "speech_register_shift": "does not address them directly if avoidable — speaks through naibs"
+    },
+    "Jemal-Eddin (Shamil's own son, held by Russians)": {
+      "type": "biological son, mirror-hostage to Hadji Murat's son",
+      "quality": "suppressed grief, the one wound he will not name",
+      "power_dynamic": "none — the Russians hold the boy, and this is the private ache that shapes every public decision about Hadji Murat's family",
+      "speech_register_shift": "never speaks his name in council; speaks it only in prayer"
+    },
+    "the Naibs (his commanders)": {
+      "type": "subordinates, potential next defectors",
+      "quality": "watchful — every order regarding Hadji Murat is also a warning to them",
+      "power_dynamic": "total but fragile; the defection has planted doubt in the room",
+      "speech_register_shift": "paternal 'my sons' when giving hard orders; full honorific ceremony in public audience"
+    },
+    "The Russian Empire / Vorontsov": {
+      "type": "enemy, mirror, fellow tyrant",
+      "quality": "pure military hatred overlaid with grim recognition",
+      "power_dynamic": "protracted stalemate tilting against him year by year",
+      "speech_register_shift": "never addresses Russians directly on-screen; refers to them collectively as 'the infidel' — never individualizes"
+    }
+  }
+}

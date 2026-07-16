@@ -1,0 +1,51 @@
+{
+  "new_characters": [
+    {"name": "Eldar", "initial_description": "Hadji Murad's murid (loyal disciple/bodyguard), young, with fine ram-like eyes, silent and reverent in elders' presence", "role": "supporting"},
+    {"name": "Sado", "initial_description": "Master of the house, about forty, small beard, long nose, black eyes; Hadji Murad's kunak (sworn friend); pious, practical, willing to risk his life to shelter his guest against Shamil's order", "role": "supporting"},
+    {"name": "Sado's son", "initial_description": "Fifteen-year-old boy with glittering black eyes; nimble, obedient messenger; earlier ran to fetch his father, now fetches Bata", "role": "supporting"},
+    {"name": "Bata", "initial_description": "Sado's brother; sinewy, short-legged Chechen, sunburnt almost black, wearing a worn yellow Circassian coat; cheerful guide willing to lead Eldar to the Russians", "role": "supporting"},
+    {"name": "the old man", "initial_description": "Village elder present in Sado's saklya; tells of local fighters capturing Russian soldiers and sending one to Shamil in Veden; functions as chorus/atmosphere", "role": "supporting"}
+  ],
+  "plot_elements": [
+    {"description": "Eldar is formally introduced to the elders as Hadji Murad's murid and takes his place on the felt beside him, sealing loyalty in the circle", "act": 1, "subplot_id": "hm_murids_introduced"},
+    {"description": "The old man recounts the capture of two Russian soldiers the week before — one killed, one sent to Shamil in Veden — establishing wartime stakes and Shamil's reach", "act": 1, "subplot_id": "historical_context"},
+    {"description": "Sado enters, performs the ritual prayer gesture, then reports that Shamil has ordered Hadji Murad taken alive or dead and that envoys left only yesterday", "act": 1, "subplot_id": "hm_defection"},
+    {"description": "Sado declares the kunak-bond: inside his house no one will harm Hadji Murad while he lives — open fields are the real danger", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "Hadji Murad decides to send a letter to the Russians via his murid Eldar, triggering the envoy mission to Vorontsov", "act": 1, "subplot_id": "envoy_mission"},
+    {"description": "Sado offers his brother Bata as guide; the son is dispatched and returns within minutes with Bata, who cheerfully accepts the mission", "act": 1, "subplot_id": "envoy_mission"}
+  ],
+  "new_locations": [
+    {"name": "Sado's Saklya (interior)", "description": "Interior of Sado's house in the aoul: felt-covered floor, door with creaking hinge, penthouse steps outside; ritual space where elders pray, sit cross-legged, and decide fates"}
+  ],
+  "tension": 0.75,
+  "act_estimation": 1,
+  "filmability_score": 0.85,
+  "theme_hints": [
+    "kunak-loyalty versus imperial decree",
+    "hospitality as sacred law against Shamil's command",
+    "the decision to defect — crossing the line to the Russians",
+    "ritual and prayer as frame for political action"
+  ],
+  "symbols": [
+    "the felt seat (acceptance into the circle)",
+    "the prayer gesture (palms up, stroking face downward — Islamic ritual marking every speech-act)",
+    "the door / penthouse steps (threshold between safety and open field)",
+    "the letter to the Russians (physical token of defection)",
+    "Bata's frayed yellow coat (poverty of the loyal guide)"
+  ],
+  "notes": "Chunk is the hinge of Hadji Murad's defection: his arrival at Sado's is framed, a credible threat (Shamil's order) is named, a kunak-oath is spoken, and the first outreach to the Russians is launched. Chunk text is truncated mid-line at Bata's reply ('I can c...'). Dense dialogue, ritual gesture, and spatial geography (interior saklya + imagined open field) make it highly filmable. All named characters here — Hadji Murad, Sado, Eldar, Bata — are historical anchors per graph context (CF-04 immune). Scene is Sado's Aoul/Sado's Saklya, weight=10 setpiece per location graph. High-tension: Shamil's death-order is fresh and time-pressured.",
+  "fusion_candidates": [],
+  "cuttable": [
+    {"element": "The old man's anecdote about the two captured Russian soldiers (one killed, one sent to Shamil in Veden)", "reason": "Pure historical-context digression; no protagonist involvement, can be compressed into a single atmospheric line or cut entirely. SS-03 / SS-09."}
+  ],
+  "refocalize": []
+}
+
+DECISIONS:
+- KEEP Sado: historical anchor, Tier-1 kunak host, weight-10 location owner, drives M-03 immunity → CF-04, M-03
+- KEEP Eldar: mirror-arc to HM's loyalty conflict, must-keep thread hm_murids_introduced → SS-06
+- KEEP Bata: historical anchor per graph, envoy-mission driver; do not fuse with other guides here → CF-04
+- CUT old-man-anecdote about captured Russian soldiers: world-exposition digression, no protagonist stake → SS-03, SS-09
+- KEEP prayer-gesture ritual beat (palms up, stroke face): Sado's voice-profile signature, only shown here so far → M-05, SC-03
+- KEEP Sado's kunak-declaration ("no one shall injure my kunak while I live"): values-shift from fear to protection, atomic dramatic beat → SC-03, M-02
+- DEVIATION truncated-chunk-end (Bata's reply cut mid-sentence): no rule covers incomplete source text; flagged for continuity watcher to reconcile with chunk 6 boundary

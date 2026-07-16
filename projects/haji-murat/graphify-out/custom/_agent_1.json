@@ -1,0 +1,341 @@
+{
+  "agent_number": 1,
+  "chapters_analyzed": [1, 2, 3, 4, 5],
+  "characters": [
+    {
+      "canonical_name": "Hadji Murad",
+      "aliases": ["Hadji Murad", "Shamil's naib", "the terrible mountain chief", "Shamil's right hand"],
+      "narrative_function": "protagonist",
+      "historical": true,
+      "appearances": [1, 2, 3, 4, 5],
+      "dialogue_volume": "high",
+      "description": "Famous Avar naib and fugitive rebel, formerly Shamil's right hand, now defecting to the Russians. POV character of the framing tale; his arrival at the Russian fort drives the chapters."
+    },
+    {
+      "canonical_name": "Eldar",
+      "aliases": ["Eldar", "the strong active murid", "the Lesghian", "my murid"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [1, 4, 5],
+      "dialogue_volume": "low",
+      "description": "Hadji Murad's loyal young Lesghian murid with ram-like eyes. Silent bodyguard who accompanies him from Sado's saklya to the Russian meeting."
+    },
+    {
+      "canonical_name": "Sado",
+      "aliases": ["Sado", "the master of the house", "the host"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [1, 4],
+      "dialogue_volume": "high",
+      "description": "Chechen kunak who shelters Hadji Murad in the hostile aoul of Makhmet despite Shamil's death decree. Warns him of the aoul elders and helps him escape."
+    },
+    {
+      "canonical_name": "Sado's father",
+      "aliases": ["the old man", "Sado's father"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [1],
+      "dialogue_volume": "medium",
+      "description": "Toothless greasy-bearded father of Sado who lives at the apiary. Greets Hadji Murad and mutters about Russian incursions."
+    },
+    {
+      "canonical_name": "Sado's son",
+      "aliases": ["the boy", "a boy of fifteen", "the black-eyed boy"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [1, 4],
+      "dialogue_volume": "none",
+      "description": "Sado's fifteen-year-old son with sloe-black sparkling eyes who runs errands, fetches Bata and brings the horses on the night escape."
+    },
+    {
+      "canonical_name": "Sado's wife",
+      "aliases": ["Sado's wife", "the thin middle-aged woman", "a slight, spare, middle-aged woman"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [1],
+      "dialogue_volume": "low",
+      "description": "Sado's wife who arranges cushions and serves food to the visitors in the guest chamber."
+    },
+    {
+      "canonical_name": "Sado's daughter",
+      "aliases": ["the young girl", "quite a young girl"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [1],
+      "dialogue_volume": "none",
+      "description": "Young daughter of Sado in red trousers and green beshmet with a silver coin necklace, carrying the ewer and basin."
+    },
+    {
+      "canonical_name": "Bata",
+      "aliases": ["Bata", "brother Bata", "friendly Chechen", "the shorter one"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [1, 2, 4, 5],
+      "dialogue_volume": "medium",
+      "description": "Sinewy sun-blackened Chechen guide hired by Sado to lead Khan Mahoma to the Russians. Carries out the night mission to Vorontsov."
+    },
+    {
+      "canonical_name": "Shamil",
+      "aliases": ["Shamil"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [1, 4],
+      "dialogue_volume": "none",
+      "description": "Imam of Chechnya and Dagestan, referenced only — he has issued a death decree against Hadji Murad after their quarrel. Offstage antagonist whose pursuit frames Hadji Murad's flight."
+    },
+    {
+      "canonical_name": "Khan Mahoma",
+      "aliases": ["Khan Mahoma", "the rosy, round-faced fellow", "the merry, black-eyed, lashless Chechen"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [1, 4, 5],
+      "dialogue_volume": "low",
+      "description": "One of Hadji Murad's four horsemen; rosy and beaming Chechen envoy. Carries the surrender message to Vorontsov alongside Bata."
+    },
+    {
+      "canonical_name": "Khanefi",
+      "aliases": ["Khanefi", "the Avar", "the hairy Avar", "Hadji Murad's sworn brother"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [4, 5],
+      "dialogue_volume": "low",
+      "description": "Hadji Murad's Avar sworn brother who manages his household; thick-set and hairy. Keeps the stud-bred horse with the saddle bags."
+    },
+    {
+      "canonical_name": "Gamzalo",
+      "aliases": ["Gamzalo", "a Chechen", "the red-haired Gamzalo", "the red one"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [4, 5],
+      "dialogue_volume": "none",
+      "description": "Scarred one-eyed red-bearded Chechen murid who stands watch at the forest camp. Soldiers remark on his beast-like squint when he meets the Russians."
+    },
+    {
+      "canonical_name": "Panov",
+      "aliases": ["Panov", "the non-commissioned officer"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [2, 5],
+      "dialogue_volume": "high",
+      "description": "Russian non-commissioned officer in the ambush party at Vozvizhensk. Accepts Bata and the envoy and serves Avdeev after he is wounded."
+    },
+    {
+      "canonical_name": "Avdeev",
+      "aliases": ["Avdeev", "Avdeef", "the cheerful soldier", "the broadcheeked soldier"],
+      "narrative_function": "foil",
+      "historical": false,
+      "appearances": [2, 5],
+      "dialogue_volume": "high",
+      "description": "Cheerful Russian soldier who went to war in his brother's place and nurses homesickness. Mortally wounded in the stomach during the skirmish around Hadji Murad's meeting with Vorontsov."
+    },
+    {
+      "canonical_name": "Nikitin",
+      "aliases": ["Nikitin", "the morose soldier", "the dissatisfied one"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [2],
+      "dialogue_volume": "medium",
+      "description": "Gloomy Russian soldier in Panov's ambush party who distrusts the company commander's handling of the cashbox."
+    },
+    {
+      "canonical_name": "Bondarenko",
+      "aliases": ["Bondarenko", "the third soldier", "an Ukrainian"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [2],
+      "dialogue_volume": "low",
+      "description": "Ukrainian soldier in the ambush party who jokes about jackals and helps escort the Chechen scouts back to the Colonel."
+    },
+    {
+      "canonical_name": "Prince Vorontsov",
+      "aliases": ["Prince Vorontsov", "Prince Simon Mikhailovich Vorontsov", "the prince", "Vorontsov", "the Colonel", "the Russian Commander"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [2, 3, 4, 5],
+      "dialogue_volume": "high",
+      "description": "Commander of the Kurin Regiment, Imperial Aide-de-Camp and son of the Caucasus Commander-in-Chief. Receives Hadji Murad's envoys and formally accepts his surrender in the Shalin glade."
+    },
+    {
+      "canonical_name": "Marya Vasilevna",
+      "aliases": ["Marya Vasilevna", "Princess Vorontsov", "Princess Marya Vasilevna", "the princess", "marya"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [3],
+      "dialogue_volume": "high",
+      "description": "Vorontsov's wife, a famous Petersburg beauty with crinoline and flirtatious smile. Flirts with Poltoratsky at cards and pries the Hadji Murad news out of her husband."
+    },
+    {
+      "canonical_name": "Poltoratsky",
+      "aliases": ["Poltoratsky", "a company commander", "a broad, red-faced man"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [3, 5],
+      "dialogue_volume": "high",
+      "description": "Former Guards company commander smitten by Marya Vasilevna. Leads the wood-cutting detail the next morning and first encounters Hadji Murad face-to-face."
+    },
+    {
+      "canonical_name": "the regimental adjutant",
+      "aliases": ["the regimental adjutant", "the adjutant"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [3, 5],
+      "dialogue_volume": "medium",
+      "description": "Stiff, handsome-faced adjutant who plays cards against Poltoratsky and later rides with Vorontsov to the meeting."
+    },
+    {
+      "canonical_name": "the tutor",
+      "aliases": ["the tutor", "a shaggy young man of gloomy appearance", "a graduate of Petersburg University"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [3],
+      "dialogue_volume": "none",
+      "description": "Gloomy Petersburg University graduate sent to the Caucasus by Princess Vorontsov as tutor to her son from her first marriage."
+    },
+    {
+      "canonical_name": "Vovilo",
+      "aliases": ["Vovilo", "a domestic serf"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [3],
+      "dialogue_volume": "medium",
+      "description": "Poltoratsky's over-forty domestic serf who was taken up as a boy and now leads a campaigning life. Drunk on the ordnance sergeant's name day when his master returns."
+    },
+    {
+      "canonical_name": "Ivan Petrovich",
+      "aliases": ["Ivan Petrovich", "the ordnance sergeant"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [3],
+      "dialogue_volume": "none",
+      "description": "Ordnance sergeant whose name day party Vovilo attended. Referenced only — married with a salary, envied by Vovilo."
+    },
+    {
+      "canonical_name": "Tikhonov",
+      "aliases": ["Tikhonov", "his comrade Tikhonov", "his subaltern Tikhonov"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [3, 5],
+      "dialogue_volume": "low",
+      "description": "Poltoratsky's subaltern and bedroom-mate at the fort. Present at the wood-felling detail the next morning."
+    },
+    {
+      "canonical_name": "Baron Freze",
+      "aliases": ["Baron Freze", "Kostya", "an ex-officer of the Guards"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [5],
+      "dialogue_volume": "none",
+      "description": "Ex-Guards officer reduced to the ranks for duelling; Poltoratsky's former Cadet College comrade. Drinks with the officers on the drums before being sent back to his company."
+    },
+    {
+      "canonical_name": "General Sleptsov",
+      "aliases": ["General Sleptsov"],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [5],
+      "dialogue_volume": "none",
+      "description": "Russian general whose recent death in action is the topic of conversation among the officers at the wood-felling. Referenced only as a valorous fallen comrade."
+    },
+    {
+      "canonical_name": "the Chechen interpreter",
+      "aliases": ["the Chechen interpreter", "a Chechen interpreter"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [5],
+      "dialogue_volume": "low",
+      "description": "Interpreter riding with Vorontsov who renders Hadji Murad's Tartar surrender speech into Russian during the Shalin glade meeting."
+    }
+  ],
+  "co_appearances": [
+    {"chars": ["Hadji Murad", "Eldar"], "chapters": [1, 4, 5], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Sado"], "chapters": [1, 4], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Sado's father"], "chapters": [1], "interaction_type": "incidental"},
+    {"chars": ["Hadji Murad", "Bata"], "chapters": [1], "interaction_type": "transactional"},
+    {"chars": ["Hadji Murad", "Sado's son"], "chapters": [1, 4], "interaction_type": "incidental"},
+    {"chars": ["Sado", "Sado's father"], "chapters": [1], "interaction_type": "family"},
+    {"chars": ["Sado", "Sado's son"], "chapters": [1, 4], "interaction_type": "family"},
+    {"chars": ["Sado", "Sado's wife"], "chapters": [1], "interaction_type": "family"},
+    {"chars": ["Sado", "Sado's daughter"], "chapters": [1], "interaction_type": "family"},
+    {"chars": ["Sado", "Bata"], "chapters": [1], "interaction_type": "transactional"},
+    {"chars": ["Eldar", "Sado"], "chapters": [1, 4], "interaction_type": "ally"},
+    {"chars": ["Eldar", "Sado's father"], "chapters": [1], "interaction_type": "incidental"},
+    {"chars": ["Panov", "Avdeev"], "chapters": [2, 5], "interaction_type": "ally"},
+    {"chars": ["Panov", "Nikitin"], "chapters": [2], "interaction_type": "ally"},
+    {"chars": ["Panov", "Bondarenko"], "chapters": [2], "interaction_type": "ally"},
+    {"chars": ["Avdeev", "Nikitin"], "chapters": [2], "interaction_type": "ally"},
+    {"chars": ["Avdeev", "Bondarenko"], "chapters": [2], "interaction_type": "ally"},
+    {"chars": ["Nikitin", "Bondarenko"], "chapters": [2], "interaction_type": "ally"},
+    {"chars": ["Panov", "Bata"], "chapters": [2], "interaction_type": "transactional"},
+    {"chars": ["Avdeev", "Bata"], "chapters": [2], "interaction_type": "transactional"},
+    {"chars": ["Bondarenko", "Bata"], "chapters": [2], "interaction_type": "transactional"},
+    {"chars": ["Bata", "Khan Mahoma"], "chapters": [2, 4], "interaction_type": "ally"},
+    {"chars": ["Prince Vorontsov", "Marya Vasilevna"], "chapters": [3], "interaction_type": "family"},
+    {"chars": ["Prince Vorontsov", "Poltoratsky"], "chapters": [3, 5], "interaction_type": "transactional"},
+    {"chars": ["Prince Vorontsov", "the regimental adjutant"], "chapters": [3, 5], "interaction_type": "ally"},
+    {"chars": ["Prince Vorontsov", "the tutor"], "chapters": [3], "interaction_type": "incidental"},
+    {"chars": ["Marya Vasilevna", "Poltoratsky"], "chapters": [3], "interaction_type": "incidental"},
+    {"chars": ["Marya Vasilevna", "the regimental adjutant"], "chapters": [3], "interaction_type": "incidental"},
+    {"chars": ["Marya Vasilevna", "the tutor"], "chapters": [3], "interaction_type": "incidental"},
+    {"chars": ["Poltoratsky", "the regimental adjutant"], "chapters": [3], "interaction_type": "incidental"},
+    {"chars": ["Poltoratsky", "the tutor"], "chapters": [3], "interaction_type": "incidental"},
+    {"chars": ["Poltoratsky", "Vovilo"], "chapters": [3], "interaction_type": "transactional"},
+    {"chars": ["Poltoratsky", "Tikhonov"], "chapters": [3, 5], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Khanefi"], "chapters": [4, 5], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Gamzalo"], "chapters": [4, 5], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Khan Mahoma"], "chapters": [4, 5], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Bata"], "chapters": [4, 5], "interaction_type": "transactional"},
+    {"chars": ["Eldar", "Khanefi"], "chapters": [4, 5], "interaction_type": "ally"},
+    {"chars": ["Eldar", "Gamzalo"], "chapters": [4, 5], "interaction_type": "ally"},
+    {"chars": ["Eldar", "Khan Mahoma"], "chapters": [4, 5], "interaction_type": "ally"},
+    {"chars": ["Poltoratsky", "Avdeev"], "chapters": [5], "interaction_type": "ally"},
+    {"chars": ["Poltoratsky", "Panov"], "chapters": [5], "interaction_type": "ally"},
+    {"chars": ["Poltoratsky", "Baron Freze"], "chapters": [5], "interaction_type": "ally"},
+    {"chars": ["Poltoratsky", "Tikhonov"], "chapters": [5], "interaction_type": "ally"},
+    {"chars": ["Hadji Murad", "Prince Vorontsov"], "chapters": [5], "interaction_type": "transactional"},
+    {"chars": ["Hadji Murad", "Poltoratsky"], "chapters": [5], "interaction_type": "incidental"},
+    {"chars": ["Hadji Murad", "the Chechen interpreter"], "chapters": [5], "interaction_type": "transactional"},
+    {"chars": ["Prince Vorontsov", "the Chechen interpreter"], "chapters": [5], "interaction_type": "transactional"}
+  ],
+  "fusion_hints": [
+    {
+      "characters": ["Nikitin", "Bondarenko"],
+      "reason": "Both are nameless-crowd Russian soldiers in Panov's ambush party with a single incidental scene; Nikitin's grumbling and Bondarenko's jackal joke can be folded into one composite ambush-comrade without losing narrative weight.",
+      "confidence": 0.9
+    },
+    {
+      "characters": ["Sado's father", "Sado"],
+      "reason": "The old man exists mainly as a greeter and exposition voice at Sado's door; his mutterings about Russian incursions and his hospitality ritual can be absorbed into Sado himself, simplifying the Makhmet-host function to one figure.",
+      "confidence": 0.75
+    },
+    {
+      "characters": ["Sado's wife", "Sado's daughter"],
+      "reason": "Both appear only in the single silent serving sequence in Chapter 1; they perform the same non-speaking hospitality function and can be merged into one female household presence.",
+      "confidence": 0.7
+    },
+    {
+      "characters": ["Bata", "Khan Mahoma"],
+      "reason": "Both serve as paired envoys on the same night-mission to Vorontsov with effectively interchangeable messenger functions in Chapters 2 and 4; a single envoy/guide carrying Hadji Murad's surrender offer streamlines the defection plot.",
+      "confidence": 0.6
+    },
+    {
+      "characters": ["the regimental adjutant", "Tikhonov"],
+      "reason": "Both are mid-rank Russian officers orbiting Poltoratsky with no individuated arc — one plays cards, the other shares a bedroom. They can be fused into one officer-peer figure for Poltoratsky.",
+      "confidence": 0.55
+    },
+    {
+      "characters": ["Baron Freze", "Tikhonov"],
+      "reason": "Both are Poltoratsky's peer-level comrades in Chapter 5 with minimal dialogue and no independent storyline; either can absorb the other's function at the wood-felling drinking scene.",
+      "confidence": 0.5
+    },
+    {
+      "characters": ["Ivan Petrovich", "Vovilo"],
+      "reason": "Ivan Petrovich exists only as an off-screen reference point for Vovilo's self-pity; the comparison can be internalised in Vovilo's monologue or dropped entirely.",
+      "confidence": 0.85
+    },
+    {
+      "characters": ["the tutor", "the regimental adjutant"],
+      "reason": "Both are single-scene supporting faces at the Vorontsov card table with no later narrative function; a film adaptation can drop or merge them into a generic guest role.",
+      "confidence": 0.45
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+Create a complete location bible and timeline
+from the collected extraction data.
+
+All extracted locations:
+[
+  {
+    "name": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+    "literary_description": "It was midsummer, the hay harvest was over and they were just beginning to reap the rye. At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening.",
+    "cinematic_description": "Wide establishing shot: rolling meadow in peak midsummer light, shallow depth of field pulling focus through layers of wildflowers. Color palette rich and saturated — blues, reds, whites, yellows. A lone figure (the Narrator) moves through the field collecting flowers. Natural golden-hour or high noon light. Handheld camera, slow drift. The world is abundant, unguarded, alive.",
+    "atmosphere": "Pastoral abundance; deceptive serenity before violence; the beauty that will be destroyed. Functions as ironic counterpoint to the story of Hadji Murat — a frame of natural grace enclosing imperial brutality.",
+    "recurring": false,
+    "timeframe": "Frame narrative — pre-Act I / prologue. Midsummer, daytime.",
+    "production_notes": [
+      "Wildflower palette: crimson, white, blue, lilac, yellow — maximum chromatic richness",
+      "Thistle (crimson 'Tartar' variety) must be practical prop, prominently placed in ditch",
+      "Bumble-bee on flower: suggests undisturbed natural world, quiet life of small creatures",
+      "Nosegay of delicate flowers contrasts with single, tough thistle — central visual motif",
+      "Ditch where thistle grows slightly recessed from the main meadow — isolates the thistle spatially",
+      "Late-season feel: hay already cut, rye just beginning — transitional moment, end of something"
+    ]
+  },
+  {
+    "name": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+    "literary_description": "The way home led across black-earth fields that had just been ploughed up. I ascended the dusty path. The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth. The land was well tilled and nowhere was there a blade of grass or any kind of plant.",
+    "cinematic_description": "Cut from the flower field to stark, desolate ploughed earth. Wide shot: the Narrator a small figure on a dust-white path crossing endless dark furrows to a hill horizon. No colour, no life — only uniformity. The richness of the meadow is brutally absent. Camera could be mounted high (drone or crane) to emphasise scale and erasure of nature. Dust rises from the path.",
+    "atmosphere": "Erasure, domination, order imposed on nature. Visual echo of empire's logic: the landed proprietor's will made visible in the land. Transition space between the living world and the dead. Thematically pre-figures Russian imperial flattening of Chechen culture.",
+    "recurring": false,
+    "timeframe": "Frame narrative — prologue, directly after the meadow, midsummer, daytime.",
+    "production_notes": [
+      "Dusty path cutting through the field — worn, cartwheel tracks visible",
+      "Overcast or harsh midday light — no romantic golden hour",
+      "All-black soil, no green visible anywhere except the thistle",
+      "Props: the thistle itself is a key object — must be practical, not CGI",
+      "This location functions as visual bridge from pastoral prologue to the main story",
+      "Horizon is a hill — Narrator ascends, suggesting a threshold / liminal crossing",
+      "No vegetation, no colour except earth and sky — palette stripped to monochrome",
+      "Thistle: three branches, one broken, two bearing blackened flowers, soiled with mud but erect",
+      "Path is dusty-white against the dark earth — strong graphic contrast for wide shots",
+      "Black earth (chernozem): deep brown-black, moist, freshly turned — high contrast against dusty path",
+      "Scale of the field emphasises the proprietor's ownership — land as political statement"
+    ]
+  },
+  {
+    "name": "EXT. MAKHMET AOUL - NIGHT",
+    "literary_description": "On a cold November evening Hadji Murad rode into Makhmet, a hostile Chechen aoul that lay some fifteen miles from Russian territory and was filled with the scented smoke of burning Kizyak. The strained chant of the muezzin had just ceased, and though the clear mountain air, impregnated with kizyak smoke, above the lowing of the cattle and the bleating of the sheep that were dispersing among the saklyas (which were crowded together like the cells of honeycomb), could be clearly heard the guttural voices of disputing men, and sounds of women's and children's voices rising from near the fountain below.",
+    "cinematic_description": "Establishing shot from ridge: the aoul as a tight cluster of stone saklyas on a mountainside, smoke rising from every roof in the cold air. Blue-black night sky, mountain peaks behind. Cut to street level: Hadji Murad on horseback moving through narrow lanes, his silhouette lit by the ember-glow from doorways. Sound design is dense — cattle, sheep, voices, silence of the muezzin just ended. The village feels enclosed, watchful, hostile.",
+    "atmosphere": "Tense arrival. The aoul is hostile territory — for Russians and potentially for Hadji Murad both. Cold mountain night, smoke as sensory marker of inhabited danger. Epic scale with intimate unease.",
+    "recurring": true,
+    "timeframe": "Act 1 — late November 1851, cold evening/night.",
+    "production_notes": [
+      "Kizyak smoke: dense, aromatic, low-hanging — practical smoke effect, not digital",
+      "Saklyas packed tight 'like cells of honeycomb' — cramped stone architecture, narrow lanes",
+      "Livestock dispersing through streets — practical animals needed",
+      "Fountain below village — sound cue, not yet visible",
+      "Cold breath visible on actors and horses",
+      "Hadji Murad arrives on horseback with retinue — banner not yet described in this chunk",
+      "Color palette: ochre stone, black shadow, orange ember-glow from interiors",
+      "Reference: Come and See for oppressive village atmosphere; Lawrence of Arabia for mountain arrival scale"
+    ]
+  },
+  {
+    "name": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+    "literary_description": "he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round",
+    "cinematic_description": "Tight, shadowed alley between stone saklyas carved into a hillside. Low angle on Hadji Murad's horse moving cautiously. His eyes scan doorways and rooftops. The street is deserted — a deliberate choice by a man who knows what surveillance looks like.",
+    "atmosphere": "Paranoia and concealment. A fugitive threading the needle between visibility and safety. The narrowness of the street mirrors his narrowing options.",
+    "recurring": true,
+    "timeframe": "Act 1 — daytime, arrival sequence",
+    "production_notes": [
+      "Stone and clay construction, buildings carved directly into hillside — emphasizes organic, fortress-like quality",
+      "Penthouse (covered porch/overhang) in front of the saklya is key architectural element",
+      "Freshly plastered clay chimney — detail of domestic life amid danger",
+      "Sheepskin as universal prop: bedding, cloak, marker of poverty and simplicity"
+    ]
+  },
+  {
+    "name": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+    "literary_description": "on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin",
+    "cinematic_description": "Flat roof, midday heat. An old man asleep behind a chimney — a sentinel who has stopped watching. Hadji Murad taps him awake with a whip handle. The contrast between the dormant old man and Hadji Murad's coiled alertness captures the scene's tension.",
+    "atmosphere": "Fragile safety. The trust network Hadji Murad relies on is aging and slow. A quiet dread beneath the mundane.",
+    "recurring": false,
+    "timeframe": "Act 1 — daytime, arrival sequence",
+    "production_notes": [
+      "Wooden-heeled slippers by the chimney — costume/prop detail signaling unhurried village life",
+      "Old man's greasy beshmet and nightcap: poverty, comfort, age",
+      "Ladder leaning against roof: vertical movement possible, escape route implied",
+      "Sunburnt, shrivelled neck — physical decay contrasting with Hadji Murad's vitality"
+    ]
+  },
+  {
+    "name": "INT. OLD MAN'S SAKLYA - DAY",
+    "literary_description": "a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions",
+    "cinematic_description": "Dark interior, low ceiling. Warm colour burst as the woman enters — yellow, red, blue against stone grey. She brings cushions: a gesture of hospitality that is also a ritual, almost liturgical. The space contracts around Hadji Murad as he crosses the threshold, limping.",
+    "atmosphere": "Brief sanctuary. Domesticity as refuge. The hospitality ritual creates a fragile bubble of safety — the audience knows it cannot last.",
+    "recurring": false,
+    "timeframe": "Act 1 — daytime, interior arrival",
+    "production_notes": [
+      "Thin, creaking door — sound design opportunity: the creak announces every entry",
+      "Outer door and inner door structure — staging depth, character blocking",
+      "Woman's costume: yellow smock, red beshmet, wide blue trousers — vivid colour palette, cinematically striking against grey stone interiors",
+      "Cushions as prop: comfort offered in a dangerous moment",
+      "Hadji Murad's slight limp — established here, recurring physical motif"
+    ]
+  }
+]
+
+All timeline events:
+[
+  {
+    "event": "Narrator walks home through midsummer meadow, gathers nosegay of wildflowers, notices crimson thistle ('Tartar') in a ditch, struggles to pluck it, finally breaks it free — stalk frayed, flower diminished. Reflects on the thistle's tenacity and energy in defending itself.",
+    "time": "Midsummer, afternoon/daytime. Frame narrative — before the main story begins.",
+    "location": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+    "characters": [
+      "Narrator (unnamed, first-person)"
+    ],
+    "chunk_id": "chunk_001"
+  },
+  {
+    "event": "Narrator walks home across vast black-earth ploughed field on dusty path toward a hill. Transition from the living meadow to barren, cultivated land.",
+    "time": "Midsummer, daytime. Immediately follows thistle encounter.",
+    "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+    "characters": [
+      "Narrator (unnamed, first-person)"
+    ],
+    "chunk_id": "chunk_001"
+  },
+  {
+    "event": "Narrator walks through a black-earth ploughed field, notices a thistle plant that has survived being crushed by a cartwheel — this triggers his memory of the Hadji Murad episode.",
+    "time": "Present day of narrator (frame narrative). Daytime, midsummer implied.",
+    "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+    "characters": [
+      "Narrator"
+    ],
+    "chunk_id": "002"
+  },
+  {
+    "event": "Hadji Murad rides into Makhmet, a hostile Chechen aoul 15 miles from Russian territory. The muezzin's evening chant has just ended. The village is filled with kizyak smoke, livestock sounds, and disputing voices.",
+    "time": "Cold November evening, end of 1851.",
+    "location": "EXT. MAKHMET AOUL - NIGHT",
+    "characters": [
+      "Hadji Murad"
+    ],
+    "chunk_id": "002"
+  },
+  {
+    "event": "Hadji Murad and his single murid ride into the aoul, avoiding the main square by taking a narrow side street",
+    "time": "Daytime — exact date unspecified, post-defection, Act 1",
+    "location": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+    "characters": [
+      "Hadji Murad",
+      "Murid (unnamed)"
+    ],
+    "chunk_id": "003"
+  },
+  {
+    "event": "Hadji Murad stops at the second saklya cut into the hillside; finds an old man asleep on the roof under a sheepskin; wakes him with his whip handle",
+    "time": "Daytime — continuous from arrival",
+    "location": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+    "characters": [
+      "Hadji Murad",
+      "Old Man (unnamed)"
+    ],
+    "chunk_id": "003"
+  },
+  {
+    "event": "Old man recognizes Hadji Murad, exchanges Selaam greeting; descends ladder; orders his grandson (boy of fifteen) to fetch the boy's father from the mosque",
+    "time": "Daytime — continuous",
+    "location": "EXT. OLD MAN'S SAKLYA ROOF / PENTHOUSE - DAY",
+    "characters": [
+      "Hadji Murad",
+      "Old Man",
+      "Boy (grandson, ~15 years old)"
+    ],
+    "chunk_id": "003"
+  },
+  {
+    "event": "Hadji Murad enters the saklya; middle-aged woman comes through inner door with cushions to receive him",
+    "time": "Daytime — continuous",
+    "location": "INT. OLD MAN'S SAKLYA - DAY",
+    "characters": [
+      "Hadji Murad",
+      "Middle-Aged Woman (unnamed, of the household)"
+    ],
+    "chunk_id": "003"
+  },
+  {
+    "event": "Old man sends child to mosque to fetch his son; Hadji Murad enters the saklya through creaking outer door.",
+    "time": "Night (arrival under cover of darkness, consistent with preceding chunks)",
+    "location": "Interior of the Old Man's Saklya",
+    "characters": [
+      "Hadji Murad",
+      "Old Man",
+      "unnamed middle-aged woman (wife/daughter of household)",
+      "child (unnamed)"
+    ],
+    "chunk_id": "004"
+  },
+  {
+    "event": "Woman arranges cushions for the guest. Hadji Murad and old man exchange traditional greetings ('May thy coming bring happiness' / 'May thy sons live').",
+    "time": "Night — continuous with arrival",
+    "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+    "characters": [
+      "Hadji Murad",
+      "Old Man",
+      "unnamed woman"
+    ],
+    "chunk_id": "004"
+  },
+  {
+    "event": "Hadji Murad removes burka, rifle, sword — old man hangs weapons on wall beside household weapons. Hadji Murad adjusts pistol, sits on cushions. Both men pray together (palms upward, stroking faces/beards).",
+    "time": "Night — continuous",
+    "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+    "characters": [
+      "Hadji Murad",
+      "Old Man"
+    ],
+    "chunk_id": "004"
+  },
+  {
+    "event": "Old man cryptically reports no good news; speaks in parable ('hares and eagles') about Russian oppression; mentions Russians burned hay in Mitchit Aoul.",
+    "time": "Night — continuous",
+    "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+    "characters": [
+      "Hadji Murad",
+      "Old Man"
+    ],
+    "chunk_id": "004"
+  },
+  {
+    "event": "Eldar (Hadji Murad's murid) enters the saklya, removes weapons, hangs them beside his leader's. Old man seats him on felt beside Hadji Murad.",
+    "time": "Night — continuous",
+    "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+    "characters": [
+      "Hadji Murad",
+      "Old Man",
+      "Eldar"
+    ],
+    "chunk_id": "004"
+  },
+  {
+    "event": "Old man introduces Eldar to Sado's household; tells story of two Russian soldiers captured the week before — one killed, one sent to Shamil in Veden.",
+    "time": "Night (same evening as HM's arrival at Chechen aoul); reference event 'week before'",
+    "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+    "characters": [
+      "Old Man",
+      "Hadji Murad",
+      "Eldar"
+    ],
+    "chunk_id": "005"
+  },
+  {
+    "event": "Sado (master of house) enters with his son. Informs Hadji Murad that Shamil has ordered him seized alive or dead; envoys departed the day before. Warns that people fear disobeying Shamil but pledges HM's safety under his roof.",
+    "time": "Night — present action",
+    "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+    "characters": [
+      "Sado",
+      "Sado's son",
+      "Hadji Murad",
+      "Old Man",
+      "Eldar"
+    ],
+    "chunk_id": "005"
+  },
+  {
+    "event": "Hadji Murad requests a guide to escort Eldar with a letter to the Russians. Sado nominates his brother Bata; son is sent to fetch him and returns ~10 minutes later with Bata.",
+    "time": "Night — present action, ~10 minutes after Sado's account",
+    "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+    "characters": [
+      "Hadji Murad",
+      "Sado",
+      "Sado's son",
+      "Eldar",
+      "Bata"
+    ],
+    "chunk_id": "005"
+  },
+  {
+    "event": "Hadji Murad asks Bata directly whether he can conduct Eldar to the Russians. Bata agrees. (Text truncated at 'I can c...')",
+    "time": "Night — present action",
+    "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+    "characters": [
+      "Hadji Murad",
+      "Bata",
+      "Eldar"
+    ],
+    "chunk_id": "005"
+  }
+]
+
+Style manifest:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "English",
+  "special_notes": "Novel-to-feature compression: 46.290 words → 120 min. Original features a frame narrative (the thistle) — keep or cut is an explicit directorial choice, not default. Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM as central protagonist; other POVs become relationships to him. 30+ named figures — fusion-candidates will be identified by Story Analyst + Graphify preprocessor. Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.",
+  "title": "Hadji Murat",
+  "expansion_mode": "novel_to_feature",
+  "scene_budget": 60,
+  "pacing_expected_variance": 1.8
+}
+
+Create:
+1. LOCATION BIBLE: Each location with cinematic description, atmosphere, and production notes
+2. CHRONOLOGICAL TIMELINE: All events in chronological order
+3. RECURRING LOCATIONS: Which places appear multiple times? (important for set planning)
+4. ATMOSPHERE MAP: How does the visual mood change throughout the film?
+
+Respond as JSON.

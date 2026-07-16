@@ -1,0 +1,67 @@
+{
+  "transitions": [
+    {
+      "from_scene": "S001",
+      "to_scene": "S002",
+      "proposed_type": "contrast_cut",
+      "priority": "high"
+    },
+    {
+      "from_scene": "S002",
+      "to_scene": "S003",
+      "proposed_type": "sound_bridge",
+      "priority": "high"
+    },
+    {
+      "from_scene": "S003",
+      "to_scene": "S004",
+      "proposed_type": "thematic_cut",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S004",
+      "to_scene": "S005",
+      "proposed_type": "match_cut",
+      "priority": "high"
+    },
+    {
+      "from_scene": "S005",
+      "to_scene": "S006",
+      "proposed_type": "sound_bridge",
+      "priority": "medium"
+    }
+  ],
+  "act_break_transitions": [],
+  "motif_connections": [
+    {
+      "motif": "thistle / indomitable vitality",
+      "scenes_connected": [
+        "S001",
+        "S002",
+        "S003"
+      ]
+    },
+    {
+      "motif": "lateral surveillance",
+      "scenes_connected": [
+        "S003",
+        "S004",
+        "S005"
+      ]
+    },
+    {
+      "motif": "small light in hostile dark",
+      "scenes_connected": [
+        "S004",
+        "S005",
+        "S006"
+      ]
+    }
+  ],
+  "stats": {
+    "total_transitions": 5,
+    "technique_transitions": 5,
+    "technique_pct": 100,
+    "simple_cuts": 0
+  }
+}

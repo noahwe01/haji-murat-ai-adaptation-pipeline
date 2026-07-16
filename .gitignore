@@ -1,0 +1,41 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+mcp-server/extracted/
+mcp-server/index.json
+
+# Local application state
+.DS_Store
+.idea/
+.vscode/
+.claude/
+.obsidian/
+*.swp
+
+# Rendered or standalone deliverables
+*.docx
+*.dotx
+*.pdf
+projects/*/output/*
+!projects/*/output/adaptation_log.json
+!projects/*/output/adaptation_log.pre_E.json
+
+# Material outside the pipeline run
+evaluation/
+reviews/
+feedback/
+personal/
+drafts/

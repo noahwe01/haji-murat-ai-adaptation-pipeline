@@ -1,0 +1,46 @@
+{
+  "locations_new": [],
+  "locations_updated": [
+    {
+      "name": "Interior of the Old Man's Saklya",
+      "update": "Detailed interior confirmed: clay-plastered, whitewashed walls; weapons hung on nails between two large glittering basins; cushions arranged along front wall; earthen floor; thin creaking outer door leads to inner rooms. Visual palette: bright white walls, polished metal basins catching light, dark earth floor, muted textile cushions. This is the primary scene location for Chunk 4 — Hadji Murad's clandestine meeting with the old man and Eldar."
+    }
+  ],
+  "timeline_events": [
+    {
+      "event": "Old man sends child to mosque to fetch his son; Hadji Murad enters the saklya through creaking outer door.",
+      "time": "Night (arrival under cover of darkness, consistent with preceding chunks)",
+      "location": "Interior of the Old Man's Saklya",
+      "characters": ["Hadji Murad", "Old Man", "unnamed middle-aged woman (wife/daughter of household)", "child (unnamed)"],
+      "chunk_id": "004"
+    },
+    {
+      "event": "Woman arranges cushions for the guest. Hadji Murad and old man exchange traditional greetings ('May thy coming bring happiness' / 'May thy sons live').",
+      "time": "Night — continuous with arrival",
+      "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+      "characters": ["Hadji Murad", "Old Man", "unnamed woman"],
+      "chunk_id": "004"
+    },
+    {
+      "event": "Hadji Murad removes burka, rifle, sword — old man hangs weapons on wall beside household weapons. Hadji Murad adjusts pistol, sits on cushions. Both men pray together (palms upward, stroking faces/beards).",
+      "time": "Night — continuous",
+      "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+      "characters": ["Hadji Murad", "Old Man"],
+      "chunk_id": "004"
+    },
+    {
+      "event": "Old man cryptically reports no good news; speaks in parable ('hares and eagles') about Russian oppression; mentions Russians burned hay in Mitchit Aoul.",
+      "time": "Night — continuous",
+      "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+      "characters": ["Hadji Murad", "Old Man"],
+      "chunk_id": "004"
+    },
+    {
+      "event": "Eldar (Hadji Murad's murid) enters the saklya, removes weapons, hangs them beside his leader's. Old man seats him on felt beside Hadji Murad.",
+      "time": "Night — continuous",
+      "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+      "characters": ["Hadji Murad", "Old Man", "Eldar"],
+      "chunk_id": "004"
+    }
+  ]
+}

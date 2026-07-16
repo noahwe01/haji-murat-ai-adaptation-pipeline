@@ -1,0 +1,266 @@
+You are a film editor analyzing the PACING of a screenplay.
+You have the quantitative metrics below. Your job is to INTERPRET them
+and identify pacing problems a human reader would feel.
+
+PACING METRICS:
+{
+  "per_act": {
+    "?": {
+      "scene_count": 6,
+      "total_words": 794,
+      "avg_dialog_pct": 11,
+      "silent_scenes": 3,
+      "estimated_minutes": 8.0
+    }
+  },
+  "dead_zones": [],
+  "variation_score": 28.6,
+  "scene_count": 6,
+  "momentum_curve_summary": {
+    "start": [
+      {
+        "scene_id": "S001",
+        "momentum": 0.93
+      },
+      {
+        "scene_id": "S002",
+        "momentum": 0.92
+      },
+      {
+        "scene_id": "S003",
+        "momentum": 0.93
+      }
+    ],
+    "peak": {
+      "scene_id": "S006",
+      "momentum": 1.23
+    },
+    "end": [
+      {
+        "scene_id": "S004",
+        "momentum": 0.97
+      },
+      {
+        "scene_id": "S005",
+        "momentum": 0.99
+      },
+      {
+        "scene_id": "S006",
+        "momentum": 1.23
+      }
+    ]
+  }
+}
+
+SCENE LIST (for context):
+S001 [?] 168w (dialog 0%, tension 0.9) [SILENT]
+S002 [?] 140w (dialog 0%, tension 0.9) [SILENT]
+S003 [?] 76w (dialog 0%, tension 0.9) [SILENT]
+S004 [?] 91w (dialog 11%, tension 0.9)
+S005 [?] 138w (dialog 14%, tension 0.9)
+S006 [?] 181w (dialog 39%, tension 0.9)
+
+───────────────────────────────────────────────
+
+Analyze:
+
+1. **ACT BALANCE**: Are the three acts proportioned correctly?
+   - Standard: 25% / 50% / 25% (give or take 5%)
+   - Is any act too long or too short?
+
+2. **DIALOG DENSITY CURVE**: Does dialog increase toward emotional peaks?
+   - Silent scenes in Act I (world-building) = fine
+   - Silent scenes in Act III (climax) = problem unless intentional
+
+3. **DEAD ZONES**: The metrics flagged potential dead zones. Are they:
+   - Deliberate pacing choices (calm before storm)?
+   - Or momentum killers that should be cut/compressed?
+
+4. **ACCELERATION**: Do scenes get shorter toward the climax?
+   - Act III scenes should average shorter than Act I
+   - The last 10 scenes should be the fastest
+
+5. **SCENE LENGTH VARIATION**: Is there enough contrast?
+   - All same-length scenes = monotonous
+   - Variation score > 40 = good dynamic range
+
+OUTPUT as valid JSON:
+{
+  "pacing_score": 82,
+  "act_balance": {
+    "balanced": true,
+    "act_1_pct": 28,
+    "act_2_pct": 48,
+    "act_3_pct": 24,
+    "issues": []
+  },
+  "dialog_density_issues": [
+    "Act III has 4 silent scenes — consider adding dialog to at least 2"
+  ],
+  "dead_zone_verdict": [
+    {
+      "zone": "S012-S014",
+      "verdict": "deliberate — mourning sequence, but could lose one scene"
+    }
+  ],
+  "acceleration_check": {
+    "act3_faster_than_act1": true,
+    "last_10_avg_words": 180,
+    "act1_avg_words": 250
+  },
+  "variation_verdict": "Good — variation score 45 indicates dynamic scene rhythm",
+  "cut_suggestions": [
+    "S014 repeats S013's emotional territory — merge or cut"
+  ]
+}
+
+METHODOLOGY SKILLS (mandatory application):
+
+### coverage-volltext-evaluation
+# Coverage: Volltext-Evaluation statt Truncation
+
+## Das Problem
+
+Ein Coverage Agent, der nur die ersten 50.000 Zeichen eines Screenplays sieht, bewertet blind:
+- **Akt III fehlt komplett** — Resolution, Climax, Denouement werden nicht gelesen
+- **Pacing-Score ist falsch** — kann nur den Aufbau bewerten, nicht ob er sich auszahlt
+- **Struktur-Score ist blind** — der entscheidende Plot Point 2 liegt bei ~75% des Textes
+- **Dialog-Score verfälscht** — Figuren-Entwicklung zeigt sich erst im letzten Drittel
+- **Marktfähigkeit nicht bewertbar** — ohne Ending kein Urteil über "satisfying resolution"
+
+Bei einem 19.000-Wort-Screenplay (~96k chars) schneidet `[:50000]` exakt 48% ab.
+
+## Lösung: Intelligente Kompression
+
+### Algorithmus
+1. **Wenn Text passt** (≤ 50k chars): unverändert zurückgeben
+2. **Szenen-Boundaries erkennen** (Regex: `INT.`, `EXT.`, `--- S`)
+3. **Pro Szene behalten:**
+   - Scene Header (Slugline)
+   - Erste 3 Action-Sätze
+   - Alle Dialog-Cues mit erster Zeile
+   - Letzter Satz
+4. **Falls immer noch zu lang:** Middle-Scenes auf Header-only komprimieren, Anfang (20%) und Ende (30%) volle Kompression behalten
+
+### Warum NICHT Multi-Pass?
+Multi-Pass (jeden Chunk einzeln evaluieren, dann aggregieren) verdoppelt die Token-Kosten. Bei einem $100/Monat Budget ist das kritisch. Die Kompression verliert ~50% Text, behält aber die dramatische Struktur (Headers, Dialog-Stimmen, Schlüsselszenen).
+
+### Ergebnis (Der Schneesturm, 2026-04-07)
+- Original: 65.640 chars → Komprimiert: 30.296 chars (53% Reduktion)
+- 49 Szenen erhalten
+- ACT THREE bei 79% des komprimierten Textes (vorher: abgeschnitten)
+- Bourmin (entscheidende Figur für Resolution) ab 59% sichtbar
+
+## Anwendungsregel
+**Nie `[:50000]` verwenden.** Immer `_compress_for_coverage()` nutzen. Die Kompression ist deterministisch (kein LLM nötig) und kostet 0 Tokens.
+
+## Warnung (Anti-Pattern)
+Multi-Pass klingt eleganter, aber: 
+- Doppelte Kosten (2× Sonnet-Call)
+- Aggregation von Teilscores ist mathematisch fragwürdig (ein Pacing-Score aus dem Mittelteil sagt nichts über das Gesamtpacing)
+- Der Coverage Agent braucht die Gesamtstruktur, nicht die Summe der Teile
+
+
+BRAIN KNOWLEDGE (retrieved for this context):
+
+### [konzepte] pacing-rhythmus
+# Pacing-Rhythmus — Variation, nicht Geschwindigkeit
+
+Pacing ist kein Tempomesser. Es ist das kontrollierte Wechselspiel von Spannung und Atempause, Dialog und Stille, Szenen-Länge und -Kürze. Ein Film "zieht vorbei", wenn dieser Wechsel hörbar atmet — und er "zieht sich", wenn alles gleich lang und gleich laut ist. Gloria Kempton: *"Pacing is not about speed but about the variation of speed."*
+
+**Variation als Grundregel.** Monotone Szenenlängen sind der häufigste Pacing-Fehler. Drei 400-Wort-Szenen hintereinander töten den Rhythmus, auch wenn jede einzelne gut ist. Ein messbarer Indikator: der Scene-Length Variation Score (Standardabweichung / Mittelwert × 100). Werte über 40 deuten auf dynamische Variation, Werte darunter auf monoton gleichmäßige Schläge. Das Auge merkt es, bevor der Kopf es benennt.
+
+**Dialog-Dichte als Kurve.** Die Dialog-Dichte sollte über den Verlauf eines Drehbuchs erkennbar ansteigen, mit Peaks an den emotionalen Wendepunkten (Midpoint, All Is Lost, Klimax). Stille Szenen in Akt I sind Worldbuilding — erwartbar und funktional. Stille Szenen in Akt III sind Alarmzeichen, außer der Film hat Slow-Cinema-Vertrag (siehe [[slow-cinema-pacing]]). Wenn Dialog gegen Ende zurückgeht, muss es eine thematische Rechtfertigung geben — sonst verliert der Klimax seine Stimme.
+
+**Dead-Zone-Heuristik.** Eine Dead Zone ist ein Fenster von drei oder mehr aufeinanderfolgenden Szenen mit niedriger Tension (< 0.5) UND niedriger Dialog-Dichte (< 20 %). Dead Zones sind nicht automatisch Fehler — aber sie sind immer Verdachtsfälle. Entscheidungsbaum: Ist die Stille thematisch funktional (Trauer, Warten, Rückzug vor dem Sturm, Erschöpfung)? → Keep. Wiederholt sie emotionales Territorium, das schon etabliert ist? → Merge mit der nächsten Szene. Bleibt Handlung einfach stehen, ohne dass sich ein Wert verschiebt? → Cut. Siehe [[story-values-rhythmus]] zur Wertverschiebungs-Logik.
+
+**Acceleration-Regel.** Szenen werden Richtung Klimax kürzer — nicht nur im Plot, auch in der Worte-pro-Szene-Metrik. Die letzten zehn Szenen eines Drehbuchs sollten im Schnitt kürzer sein als die ersten zehn. Syd Field und Blake Snyder sind sich hier einig: Akt III fühlt sich schneller an, weil er *tatsächlich schneller geschnitten ist*. Faustwert: Akt III im Schnitt 15–20 % kürzere Szenen als Akt I. Wenn die Metriken das umgekehrt zeigen, hat der Klimax ein Tempo-Problem.
+
+**Dialog-Pacing innerhalb der Szene.** Kempton: Pacing passiert nicht nur auf Szenen-Ebene, sondern in der Rhythmik der Dialog-Zeilen selbst. Kurze Repliken schneller Schlagabtausch → hohes Tempo. Lange Monologe → ruhiger Takt. Wechsel zwischen beiden im selben Dialog = Drama. Gleichförmiger Dialog = Lesung.
+
+## Anwendungsregel für Adaptation
+
+Bei der Adaption einer literarischen Vorlage ist Pacing die am häufigsten unterschätzte Qualität. Ein Roman atmet durch Absätze, Kapitel, interne Zeitsprünge — ein Drehbuch atmet durch Szenenlänge, Dialog-Dichte und Schnittfrequenz. Prüfung vor dem Script Writer: Wo im Beat Sheet fehlt ein kurzer Kontrapunkt zu einer langen Szene? Wo ist der Dialog zu gleichmäßig verteilt, statt in Wellen zu steigen? Wo sitzt eine Dead Zone, die thematisch nicht rechtfertigbar ist? Jede dieser Fragen ist besser vor der ersten Fassung gestellt als nach der dritten.
+
+## Quellen
+
+- Syd Field: *Screenplay* — Akt-Proportionen, Paradigma als Rhythmus-Raster
+- Blake Snyder: *Save the Cat!* — Beat-Sheet als Pacing-Skelett, Acceleration Richtung Klimax
+- Hannes Stoehr: *Eight Sequences* — Sequenzen als Mikro-Rhythmus-Einheiten
+- Gloria Kempton: *Dialogue* — Dialog-Dichte und innere Szenenrhythmik
+
+## Verknüpfte Konzepte
+
+- [[spannungskurve]]
+- [[beat-sheet]]
+- [[drei-akt-struktur]]
+- [[slow-cinema-pacing]]
+- [[story-values-rhythmus]]
+- [[stille-als-dialog]]
+
+#konzept #pacing #rhythmus
+
+
+REFERENCE EXCERPTS (retrieved from MCP corpus):
+
+### [theory] Gloria Kempton Dialogue — chunk 160/274  (score=4)
+ch or move at a
+snail's pace. You're the one who can press hard on the gas to propel the dialogue
+into motion or hard on the brakes to slow it way down. Every story has its own
+rhythm and motion, and pacing your dialogue to pace your story will give your
+reader an easy and smooth ride.
+The next chapter is closely connected to this one in that it, too, is about
+controlling your dialogue so it's always full of tension and suspense, ensuring that
+your reader will keep turning pages from beginning to end.
+Pacing your story. Focus on just one scene in a story you're writing. Now
+answer the following questions as honestly as you can:
+• Is this a slow-paced or a fast-paced scene? Or neither?
+• In relation to the entire story, what kind of pace do I want this scene to have?
+• What is making this scene move so slowly (or quickly)?
+• How much dialogue have I used in this scene, as compared to action and
+narrative?
+• Using more or less dialogue, how can I adjust the pacing of the scene.
+• Are the scenes on either side of this one slow or fast-paced?
+• How much dialogue have I used in the scenes on either side of this one? Do
+either one of them need more or less dialogue to make them move better, so they're
+in rhythm with this one?
+Now rewrite the scene so it moves at the pace you want it to.
+Creating momentum. Choose one or all three of the following scenarios. Start
+the scene out slowly and then, through dialogue, gather momentum as you write.
+You also may want to do this with a scene or scenes in your own story.
+• A father and his daughter are stuck in rush hour traffic. She's fiddling with the
+radio, and he's talking on his cell phone. Suddenly the phone goes dead and the
+girl's favorite radio station won't come in. They have to talk. Write this scene from
+either the father's or the daughter's viewpoint, or try one of each.
+• A man and woman are having an affair, but up until now, it's been only
+physical. One of the two decides the relationship needs to be taken to the next
+
+### [theory] Robert McKee Dialogue — chunk 214/282  (score=4)
+r’s scheme.
+As husband and wife block each other’s conscious desires (force of antagonism), the
+scene shapes an asymmetrical conflict. Walter compels the action and the turning points
+happen to him. Ruth does her best to avoid conflict.
+That’s the surface conflict, but taking the scene deeper, what do these characters
+really want? Walter Lee is a chauffeur, a dead-end job if there ever was one. The liquor
+store, he feels, will give him money and with that will come pride, independence, and
+
+the admiration of his wife and their son, Travis. Walter Lee wants: to gain self-respect
+(super-intention).
+What Walter Lee does not know, however, is that his wife is two months pregnant
+with  a  second  child.  Because  they  live  in  poverty,  she  secretly  contemplates  an
+abortion. Like her husband, she also works for rich white people, as a domestic. She
+dreams of a decent life with a regular income in a home of their own. Ruth desperately
+needs: to find security (super-intention).
+Once again, the scene is printed in bold, interspaced with my notes on its beats and
+writing techniques. First read the bold passages straight through as Hansberry wrote the
+scene. Listen to the language in your mind, or better yet, read it aloud to yourself. Note
+the vocabulary with its short, punchy words; note the stripped-down grammar, and in
+particular,  note  the  cadence  of  Hansberry’s  language  and  how  the  rhythm  of  her
+phrasings matches the rhythms of her characters’ emotions. Once you have a feeling for
+how the scene plays, reread it against my analysis.
+A RAISIN IN THE SUN
+Act 1, Scene 1
+The Younger apartment kitchen. As Ruth makes breakfast, her husband, Walter Lee, enters.
+It’s useful, I believe, to think of scenes as mini-dramas, often triggered by a mini–
+inciting incident of their own. In this case, Walter throws the morning out of balance by
+brin...

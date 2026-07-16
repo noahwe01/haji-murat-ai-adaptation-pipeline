@@ -1,0 +1,316 @@
+{
+  "agent_number": 4,
+  "chapters_analyzed": [16, 17, 18, 19, 20],
+  "characters": [
+    {
+      "canonical_name": "Hadji Murad",
+      "aliases": ["Hadji Murat", "the naib", "murshid"],
+      "narrative_function": "protagonist",
+      "historical": true,
+      "appearances": [17, 18, 19, 20],
+      "dialogue_volume": "medium",
+      "description": "Avar naib who has defected to the Russians. Now lodged under guard in Major Petrov's fort awaiting action, he charms Butler and Marya Dmitrievna while worrying about his captive family."
+    },
+    {
+      "canonical_name": "Butler",
+      "aliases": ["the tall handsome officer"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [16, 18, 20],
+      "dialogue_volume": "high",
+      "description": "Young Russian officer recently exchanged from the Guards to the Caucasus to escape gambling debts. Romantic about war and the mountaineer life, befriends Hadji Murad during his fort stay."
+    },
+    {
+      "canonical_name": "Major Petrov",
+      "aliases": ["Ivan Matveich", "Ivan Matveich Petrov", "the major"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [16, 18, 20],
+      "dialogue_volume": "medium",
+      "description": "Hard-drinking Russian fort commander who lives with Marya Dmitrievna as common-law wife. Receives Hadji Murad under orders and hosts him, treating him with gruff pragmatism."
+    },
+    {
+      "canonical_name": "Marya Dmitrievna",
+      "aliases": ["Masha", "Marya"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [16, 18, 20],
+      "dialogue_volume": "high",
+      "description": "Former surgeon's-orderly daughter, now Major Petrov's faithful freckled common-law wife. Warm, simple-hearted, takes a particular liking to Hadji Murad and defends his character."
+    },
+    {
+      "canonical_name": "Trezorka",
+      "aliases": ["the shaggy grey dog"],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [16],
+      "dialogue_volume": "none",
+      "description": "Company mascot dog that runs ahead of Butler's returning column with its tail curled up like a commander."
+    },
+    {
+      "canonical_name": "Shamil",
+      "aliases": ["the Imam", "the Prophet's voice"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [19],
+      "dialogue_volume": "medium",
+      "description": "Imam of Chechnya and Dagestan, returning to Vedeno after a disputed battle. Holds Hadji Murad's family hostage and threatens Yusuf with blinding to force Hadji Murad's return."
+    },
+    {
+      "canonical_name": "Sado",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [17],
+      "dialogue_volume": "none",
+      "description": "Chechen villager who had sheltered Hadji Murad. Returns to find his saklya destroyed and his son bayoneted to death by Russian soldiers."
+    },
+    {
+      "canonical_name": "Patimat",
+      "aliases": ["Hadji Murad's mother", "the old mother"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [19],
+      "dialogue_volume": "none",
+      "description": "Hadji Murad's grey-haired, fiery-eyed old mother held with the family at Vedeno. Refuses even to watch Shamil's triumphal entry, having always hated him."
+    },
+    {
+      "canonical_name": "Yusuf",
+      "aliases": ["Hadji Murad's son"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [19],
+      "dialogue_volume": "medium",
+      "description": "Hadji Murad's handsome eighteen-year-old son imprisoned in a seven-foot pit at Vedeno. Admires Shamil out of defiance to his father; forced to write a coercive letter, then tries to stab himself."
+    },
+    {
+      "canonical_name": "Ibrahim Raschid",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [19],
+      "dialogue_volume": "none",
+      "description": "Shamil's officer in whose saklya Hadji Murad's women and children are held under guard at Vedeno."
+    },
+    {
+      "canonical_name": "Jemal Eddin",
+      "aliases": ["Shamil's father-in-law", "the teacher"],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [19],
+      "dialogue_volume": "medium",
+      "description": "Shamil's tall, white-bearded father-in-law, teacher and chief advisor. Drafts the proclamation against surrender and counsels on Hadji Murad's case."
+    },
+    {
+      "canonical_name": "Aminal",
+      "aliases": ["Shamil's favorite wife"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [19],
+      "dialogue_volume": "none",
+      "description": "Shamil's black-eyed eighteen-year-old favorite wife. Sulks in Zeidat's room because Shamil gave silk to Zeidat instead of her, refusing to come to him."
+    },
+    {
+      "canonical_name": "Zeidat",
+      "aliases": ["Shamil's eldest wife"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [19],
+      "dialogue_volume": "none",
+      "description": "Shamil's dark, sharp-nosed, disagreeable eldest wife whom he does not love. Serves him dinner and has been favored with silk over the younger Aminal."
+    },
+    {
+      "canonical_name": "Khanefi",
+      "aliases": ["the shaggy Khanefi", "Hadji Murad's sworn brother"],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [20],
+      "dialogue_volume": "low",
+      "description": "One of the two murids Hadji Murad brought with him to the fort. Sworn brother and tenor singer who performs mountain songs for Butler."
+    },
+    {
+      "canonical_name": "Eldar",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [18, 20],
+      "dialogue_volume": "low",
+      "description": "The second of Hadji Murad's murids at the fort. Serves Butler attentively, hands Hadji Murad his burka and sword on departure."
+    },
+    {
+      "canonical_name": "Petrovsky",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [20],
+      "dialogue_volume": "low",
+      "description": "Lively Russian officer meeting Hadji Murad for the first time at his farewell gathering. Questions him about Tiflis and later calls him a rogue."
+    },
+    {
+      "canonical_name": "Arslan Khan",
+      "aliases": [],
+      "narrative_function": "antagonist",
+      "historical": false,
+      "appearances": [20],
+      "dialogue_volume": "low",
+      "description": "Small Kumukh prince from Tash-Kichu with a blood-feud against Hadji Murad. Ambushes him at the major's porch with a pistol; misses and is disarmed."
+    },
+    {
+      "canonical_name": "Bondarenko",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [18],
+      "dialogue_volume": "none",
+      "description": "Major Petrov's orderly who appears and is sent to open the front door when Hadji Murad arrives."
+    },
+    {
+      "canonical_name": "Nicholas I",
+      "aliases": ["Nicholas"],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [16],
+      "dialogue_volume": "none",
+      "description": "Tsar of Russia, referenced as the issuer of the January 1852 command that triggers the raid into Chechnya opening chapter 16."
+    }
+  ],
+  "co_appearances": [
+    {
+      "chars": ["Butler", "Major Petrov"],
+      "chapters": [16, 18, 20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Butler", "Marya Dmitrievna"],
+      "chapters": [16, 18, 20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Major Petrov", "Marya Dmitrievna"],
+      "chapters": [16, 18, 20],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Butler", "Hadji Murad"],
+      "chapters": [18, 20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Major Petrov", "Hadji Murad"],
+      "chapters": [18, 20],
+      "interaction_type": "transactional"
+    },
+    {
+      "chars": ["Marya Dmitrievna", "Hadji Murad"],
+      "chapters": [18, 20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Hadji Murad", "Khanefi"],
+      "chapters": [20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Hadji Murad", "Eldar"],
+      "chapters": [18, 20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Butler", "Khanefi"],
+      "chapters": [20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Butler", "Eldar"],
+      "chapters": [20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Hadji Murad", "Arslan Khan"],
+      "chapters": [20],
+      "interaction_type": "antagonist"
+    },
+    {
+      "chars": ["Butler", "Arslan Khan"],
+      "chapters": [20],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Major Petrov", "Arslan Khan"],
+      "chapters": [20],
+      "interaction_type": "antagonist"
+    },
+    {
+      "chars": ["Butler", "Petrovsky"],
+      "chapters": [20],
+      "interaction_type": "ally"
+    },
+    {
+      "chars": ["Hadji Murad", "Petrovsky"],
+      "chapters": [20],
+      "interaction_type": "incidental"
+    },
+    {
+      "chars": ["Shamil", "Jemal Eddin"],
+      "chapters": [19],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Shamil", "Yusuf"],
+      "chapters": [19],
+      "interaction_type": "antagonist"
+    },
+    {
+      "chars": ["Shamil", "Zeidat"],
+      "chapters": [19],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Shamil", "Aminal"],
+      "chapters": [19],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Zeidat", "Aminal"],
+      "chapters": [19],
+      "interaction_type": "family"
+    },
+    {
+      "chars": ["Patimat", "Yusuf"],
+      "chapters": [19],
+      "interaction_type": "family"
+    }
+  ],
+  "fusion_hints": [
+    {
+      "characters": ["Khanefi", "Eldar"],
+      "reason": "The two murids accompanying Hadji Murad into the fort function as an undifferentiated loyal-retainer pair. Khanefi sings and is the sworn brother; Eldar serves. A screenplay can fuse their functions into one composite murid without losing plot.",
+      "confidence": 0.75
+    },
+    {
+      "characters": ["Zeidat", "Aminal"],
+      "reason": "Shamil's two named wives serve a single dramatic function: illustrating his domestic frustration after the battle. Can be collapsed into one wife who both serves dinner and sulks, preserving the scene beat.",
+      "confidence": 0.7
+    },
+    {
+      "characters": ["Bondarenko", "Eldar"],
+      "reason": "Bondarenko is a one-line orderly cameo who only opens a door. Easily cut entirely or merged with another servant/orderly role; not a fusion with Eldar per se but absorbable into the household.",
+      "confidence": 0.6
+    },
+    {
+      "characters": ["Ibrahim Raschid", "Jemal Eddin"],
+      "reason": "Ibrahim Raschid is a pure setting-label (the officer whose saklya holds the family). His function can be absorbed into Jemal Eddin or an unnamed guard-officer in Shamil's court without narrative loss.",
+      "confidence": 0.8
+    },
+    {
+      "characters": ["Petrovsky", "Butler"],
+      "reason": "Petrovsky is a one-scene interlocutor at the farewell party who voices suspicion of Hadji Murad. His lines could be redistributed to Butler or the Major; he exists only to provide a dissenting opinion.",
+      "confidence": 0.55
+    },
+    {
+      "characters": ["Sado", "Patimat"],
+      "reason": "Both are grief-stricken parental figures mourning Russian-caused destruction within the same narrative beat (chapter 17 / chapter 19 framing). A film could fuse the destroyed-village grief with the mother's grief into one representative lament.",
+      "confidence": 0.4
+    }
+  ]
+}

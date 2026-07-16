@@ -1,0 +1,104 @@
+{
+  "canonical_name": "Hadji Murad",
+  "role": "Protagonist",
+  "basic_data": {
+    "age": "Mature adult warrior (exact age not given in source; presented as a seasoned, battle-hardened man in late 1851)",
+    "origin": "Caucasus; Avar Muslim from the mountain regions under Imam Shamil's imamate",
+    "social_status": "Naib (lieutenant) of Shamil, famed warrior and commander; at story open reduced from entourage of caracoling murids and banner to a hunted fugitive traveling with a single murid"
+  },
+  "physical_signature": "Quick, restless black eyes scanning faces from beneath a hood, paired with a slight limp when he dismounts — the predator's gaze above a wounded gait, visible in every scene he enters.",
+  "psychology": {
+    "want": "To secure protection and military support from the Russians so he can return to the mountains, destroy Shamil, and liberate his family (wife, mother, son Yusuf) from Shamil's captivity in Vedeno.",
+    "need": "To accept that no power — neither Shamil nor the Tsar — will grant him both honor and his family intact, and to reclaim his own moral center as an Avar man of faith rather than as a tool of rival empires; in short, to stop trading one master for another and stand, even alone, as himself.",
+    "fear": "That his family — above all his son Yusuf — will be killed or maimed by Shamil while he is stranded between two worlds, rendering every compromise and humiliation meaningless.",
+    "contradiction": "He is a man of ritual courtesy, Muslim observance, and deep tribal honor who nevertheless walks willingly into the camp of the infidel enemy, asking the Russian Tsar — whose soldiers burn his people's aouls — for help against his own Imam.",
+    "justification": null
+  },
+  "arc": {
+    "start_state": "A famed naib reduced overnight to a hunted fugitive; outwardly composed, inwardly calculating — still believing he can outmaneuver Shamil by allying with the Russians and that honor and family can both be saved.",
+    "change": "As Russian promises curdle into polite captivity and news from the mountains worsens, he grasps that he has been used as a political trophy, not aided as a warrior, and that every day in Russian hands is a day his son moves closer to the blade.",
+    "end_state": "Choosing action over waiting, he breaks from the Russians in a doomed attempt to rescue his family himself — dying in the fields as the man he was born to be (warrior, father, Avar), not as Shamil's naib nor as the Tsar's guest.",
+    "arc_type": "Fall (tragic) with flashes of Revelation — he dies knowing what he truly needed, but too late to live it."
+  },
+  "voice_profile": {
+    "voice_description": "Hadji Murad speaks with the economy of a mountain warrior: short, measured sentences weighted with ritual courtesy and silence where other men would elaborate. His speech moves through formal Muslim-Caucasian greetings and proverbial turns, then drops into flat, practical statements about horses, weapons, routes, and men. When he reads that a host is withholding something, he does not press; he nods and the sentence ends.",
+    "vocabulary_level": "Formal but unliterary; oral tradition rather than schooling. Caucasian Muslim register — Avar/Turkic greeting formulas ('Selaam aleikum', 'Ne habar?', 'May thy sons live!'), ritual blessings, and concrete martial/household nouns (rifle, sword, burka, saklya, murid, naib). Early-to-mid 19th century, pre-modern.",
+    "sentence_structure": "Average 4–10 words. Declarative or brief interrogative. Often fragments ('My murid. Eldar is his name.'). Questions are short and instrumental ('Ne habar?'). Almost no subordinate clauses; complexity lives in what is left unsaid, not in syntax.",
+    "verbal_tics": [
+      "Ritual openers: 'Selaam aleikum' before any substantive exchange",
+      "Blessing-formulas toward elders and women: 'May thy sons live'",
+      "The probing one-liner 'Ne habar?' ('What news?') as his real conversational opener once courtesies are done",
+      "Introducing his people by naming them plainly: 'My murid. Eldar is his name.'",
+      "Invocation of God as punctuation rather than theology ('Inshallah', 'Allah is great') at the hinge of a decision"
+    ],
+    "avoidances": [
+      "Never boasts of his exploits aloud — his reputation speaks, he does not",
+      "Never complains about physical pain, hunger, cold, or his limp",
+      "Never curses Shamil in another man's house; betrayal is shown by action, not vented in words",
+      "No sentimental or romantic declarations about his wife or mother — love is coded as duty and rescue, not confession",
+      "No ironic or joking register; no sarcasm aimed at hosts, no flippancy about faith",
+      "Never volunteers his plans; refuses to narrate his own strategy even when asked"
+    ],
+    "emotional_expression": "Feelings surface through body and ritual, not vocabulary. Anger tightens his sentences and shortens answers to one or two words. Grief is a silence, broken only by a prayer gesture — palms up, then drawn down the beard. Love is expressed as naming (his son, his murid, his horse) and as the insistence on rescue. When moved, he looks away, adjusts a weapon, or touches his beard; the line that follows is quieter and more courteous, not more emotive.",
+    "speech_rhythm": "Measured, with pronounced pauses. Rhythm alternates between slow ceremonial openings and sudden clipped bursts of practical command; under threat it becomes shorter and drier, never faster.",
+    "dialog_examples": {
+      "neutral_everyday": "Selaam aleikum. Ne habar? — Your roof is well. The horse can stand here tonight.",
+      "under_pressure": "No. Not that road. We ride through the wood, before the moon. Eldar — the saddles.",
+      "hopeful_joyful": "May thy sons live, old father. If Allah wills, my son Yusuf will sit at such a hearth again, and eat from thy hand.",
+      "angry_hurt": "Shamil eats with the wolves now. I do not speak his name in thy house. Tell me only this: is my mother alive?",
+      "vulnerable_honest": "I have ridden with a banner and with fifty murids. Tonight I ride with one. A man learns late what he truly had — and later still, what he was willing to lose."
+    },
+    "subtext_rules": {
+      "when_he_says_Ne_habar": "He already knows something is wrong; he is testing how much the other man will tell him unprompted.",
+      "when_he_falls_silent_and_nods": "He has registered a lie or a withholding and is filing it away; the conversation is over in his mind.",
+      "when_he_invokes_Allah": "He has decided. The religious formula is a lock on a choice already made, not an appeal for guidance.",
+      "when_he_speaks_of_horses_or_weapons": "He is really speaking of escape, of his family, or of the man across from him — the object stands in for the strategy.",
+      "when_he_uses_elaborate_courtesy_with_Russians": "He trusts them less, not more; politeness scales with suspicion.",
+      "when_he_names_his_son_Yusuf": "He is reminding himself, not his listener, why he must not break."
+    }
+  },
+  "relationships": {
+    "Shamil": {
+      "type": "Former sovereign / current hunter",
+      "quality": "Shattered bond between naib and Imam; once warrior-brothers in jihad, now executioner and prey. Holds Hadji Murad's family as hostage-leverage.",
+      "power_dynamic": "Shamil holds the family and the moral authority of the imamate; Hadji Murad holds only his own skill, name, and the Russian card. Asymmetric in Shamil's favor so long as the family lives.",
+      "speech_register_shift": "Hadji Murad does not address Shamil directly on-page; when forced to name him to others he drops ritual courtesy and goes flat and clipped ('Shamil eats with the wolves'). Religious formulas around the name are withheld — a deliberate refusal of blessing."
+    },
+    "Tsar Nicholas I / Russian command (Vorontsov, Loris-Melikov)": {
+      "type": "Negotiated patrons / political captors",
+      "quality": "Official alliance dressed as hospitality; he is a prize, not a partner. Outward courtesy on both sides; mutual instrumentalization underneath.",
+      "power_dynamic": "Russians hold territory, troops, and his physical freedom; he holds only intelligence value and prestige. The longer he waits, the weaker his leverage.",
+      "speech_register_shift": "Hyper-formal, ceremonious register; longer ritual phrases, more honorifics, slower cadence. The courtesy becomes thicker as his distrust grows — a reliable warning sign to anyone who can read him."
+    },
+    "Eldar (his murid)": {
+      "type": "Master to disciple / commander to bodyguard",
+      "quality": "Absolute loyalty downward, protective authority upward. Eldar mirrors his disarming ritual exactly — Hadji Murad is a template as much as a leader.",
+      "power_dynamic": "Total hierarchical command, softened by shared danger; Eldar's life is in his hands, and his back is in Eldar's.",
+      "speech_register_shift": "Shortest, driest register of all. One- or two-word orders, names only, no blessings wasted. Introduces Eldar to others with two clipped sentences: 'My murid. Eldar is his name.'"
+    },
+    "Sado (host in Makhmet) and Sado's father": {
+      "type": "Covert ally / traditional host",
+      "quality": "Pre-arranged contact in hostile aoul; trust grounded in Caucasian hospitality code rather than politics. Recognizes Hadji Murad on sight and shelters him at risk to his own house.",
+      "power_dynamic": "Ritually equal under the laws of hospitality; practically Hadji Murad is the one who brings danger through the door, so the real debt flows from him to them.",
+      "speech_register_shift": "Full ceremonial register — 'Selaam aleikum', 'May thy sons live', shared prayer gesture. Softer, warmer rhythm than anywhere else; this is the only register where his courtesy is not also a weapon."
+    },
+    "Sado's wife and the women of the household": {
+      "type": "Protected household members",
+      "quality": "Respectful distance governed by custom; ritualized blessings, no private exchange.",
+      "power_dynamic": "He is the honored, dangerous guest; they are the keepers of the hearth whose dignity he must not compromise.",
+      "speech_register_shift": "Formal blessing-formulas only ('May thy sons live'), no questions, no commands; voice lowered, eyes not held."
+    },
+    "His family — mother, wife, son Yusuf (off-page hostages)": {
+      "type": "Blood bond / reason for every move",
+      "quality": "The true north of the character; unseen but governing every decision. Source of his deepest fear and his only unconditional love.",
+      "power_dynamic": "They are powerless in Shamil's hands; he is powerful everywhere except where they are. The relationship is the one place he is the weaker party.",
+      "speech_register_shift": "Names are spoken rarely and quietly, never with adjectives. 'My son Yusuf' functions almost as prayer — the sentence around it tightens, slows, and usually ends there."
+    },
+    "The hostile Chechen aoul Makhmet (collective)": {
+      "type": "Enemy terrain / ambient threat",
+      "quality": "Not a relationship of dialogue but of concealment; he moves through it hooded, off the main square, eyes in motion.",
+      "power_dynamic": "Numerically and territorially against him; he survives by invisibility and by the one house that will open.",
+      "speech_register_shift": "Near-silence. Only the minimum ritual greeting to passers-by if unavoidable; otherwise gesture, not speech — whip-handle, tongue-click, a nod."
+    }
+  }
+}

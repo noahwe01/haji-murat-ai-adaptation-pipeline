@@ -1,0 +1,654 @@
+{
+  "transitions": [
+    {
+      "from_scene": "S001",
+      "to_scene": "S002",
+      "current_transition": "The muezzin's dying call bleeds into the creak of a gate opening in darkness",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: The muezzin's dying call bleeds into the creak of a gate opening in darkness",
+      "thematic_link": "Willed exposure — a man stepping deliberately into the open → Refuge granted under an unspoken, irreversible covenant",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S002",
+      "to_scene": "S003",
+      "current_transition": "The bolted gate — close on iron against wood — carries into the next scene as the sound of a Russian patrol horse echoes in a distant valley",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: The bolted gate — close on iron against wood — carries into the next scene as the sound of a Russian",
+      "thematic_link": "Refuge granted under an unspoken, irreversible covenant → Sacred hospitality as a quiet act of defiance against overwhelming force",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S003",
+      "to_scene": "S004",
+      "current_transition": "The lamp flame holds on Eldar's watchful face as voices outside the saklya — wind, a distant dog — press against the silence.",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: The lamp flame holds on Eldar's watchful face as voices outside the saklya — wind, a distant dog — p",
+      "thematic_link": "Sacred hospitality as a quiet act of defiance against overwhelming force → Options narrowing — HM sets his single gambit in motion through a stranger",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S004",
+      "to_scene": "S005",
+      "current_transition": "The saklya door closes on Bata's silhouette; the lamp gutters — cut to darkness, then mountain trail pre-dawn",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"door\": find matching door in next scene and cut on exact visual match. Existing logic: The saklya door closes on Bata's silhouette; the lamp gutters — cut to darkness, then moun",
+      "thematic_link": "Options narrowing — HM sets his single gambit in motion through a stranger → A trap being sprung in the dark — each man playing his role with precision while the household goes on around them.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S005",
+      "to_scene": "S006",
+      "current_transition": "The low table is set. Firelight holds. Sound of wind through the saklya door carries into the dark hillside outside — Khan Mahoma waiting somewhere beyond the treeline.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: The low table is set. Firelight holds. Sound of wind through the saklya door carries into the dark h",
+      "thematic_link": "A trap being sprung in the dark — each man playing his role with precision while the household goes on around them. → Sacred obligation exchanged in the language of bread and honey — the kunak bond made binding",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S006",
+      "to_scene": "S007",
+      "current_transition": "Sado's hand pressing flat over the cartridge-pocket — over the note — holds for a beat; then sound of wind against the roof tiles carries into the dark mountain exterior",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Sado's hand pressing flat over the cartridge-pocket — over the note — holds for a beat; then sound o",
+      "thematic_link": "Sacred obligation exchanged in the language of bread and honey — the kunak bond made binding → The empire's indifferent machinery — soldiers in the dark, doing their duty, not knowing what moves through the forest nearby.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S007",
+      "to_scene": "S008",
+      "current_transition": "Pipe ember fades to black — cut to interior warmth of Sado's saklya",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"ember\": find matching ember in next scene and cut on exact visual match. Existing logic: Pipe ember fades to black — cut to interior warmth of Sado's saklya",
+      "thematic_link": "The empire's indifferent machinery — soldiers in the dark, doing their duty, not knowing what moves through the forest nearby. → Brief human warmth against a cold empire's indifference — these men sustain each other where the institution fails them",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S008",
+      "to_scene": "S009",
+      "current_transition": "Ember dies in the earth; darkness resettles over the four men; the stars do not move",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"ember\": find matching ember in next scene and cut on exact visual match. Existing logic: Ember dies in the earth; darkness resettles over the four men; the stars do not move",
+      "thematic_link": "Brief human warmth against a cold empire's indifference — these men sustain each other where the institution fails them → Quiet dissolution — men enduring a slow erasure they can name but not cure",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S009",
+      "to_scene": "S010",
+      "current_transition": "Panov's pipe-smoke rises into stars; dissolves to the same stars seen from a different hillside — HM's world, or the fort ramparts at dawn",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"smoke\": find matching smoke in next scene and cut on exact visual match. Existing logic: Panov's pipe-smoke rises into stars; dissolves to the same stars seen from a different hil",
+      "thematic_link": "Quiet dissolution — men enduring a slow erasure they can name but not cure → The empire's smallest soldiers — dulled by sacrifice and routine — become the accidental first link in Hadji Murat's gamble.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S010",
+      "to_scene": "S011",
+      "current_transition": "Bata's extended letter holds in the frame — then Panov's hand reaches across and takes it; the paper passes between empires",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"letter\": find matching letter in next scene and cut on exact visual match. Existing logic: Bata's extended letter holds in the frame — then Panov's hand reaches across and takes it;",
+      "thematic_link": "The empire's smallest soldiers — dulled by sacrifice and routine — become the accidental first link in Hadji Murat's gamble. → The small human warmth that survives at the border of two killing systems",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S011",
+      "to_scene": "S012",
+      "current_transition": "The single lit window in the commander's house holds — then MATCH CUT to interior: Simon Vorontsov at his writing table, candle burning low.",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: The single lit window in the commander's house holds — then MATCH CUT to interior: Simon Vorontsov a",
+      "thematic_link": "The small human warmth that survives at the border of two killing systems → Empire-decadence: a Petersburg salon transplanted to a war zone, desire replacing vigilance",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S012",
+      "to_scene": "S013",
+      "current_transition": "Candle flame gutters as someone opens a door; cold air from the Caucasus night enters the warm room",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"candle\": find matching candle in next scene and cut on exact visual match. Existing logic: Candle flame gutters as someone opens a door; cold air from the Caucasus night enters the ",
+      "thematic_link": "Empire-decadence: a Petersburg salon transplanted to a war zone, desire replacing vigilance → Vorontsov's controlled foreknowledge vs. Poltoratsky's social blindness — the empire's machinery hums while its officers play cards",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S013",
+      "to_scene": "S014",
+      "current_transition": "Poltoratsky steps into cold night air, Marya Vasilevna's handshake still warm in his palm — cut to the dark tree-line of the forest at dawn",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"hand\": find matching hand in next scene and cut on exact visual match. Existing logic: Poltoratsky steps into cold night air, Marya Vasilevna's handshake still warm in his palm ",
+      "thematic_link": "Vorontsov's controlled foreknowledge vs. Poltoratsky's social blindness — the empire's machinery hums while its officers play cards → Ambition dressed as intimacy — a private moment that is really about power.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S014",
+      "to_scene": "S015",
+      "current_transition": "The candle Simon pinches out — darkness snaps in. Cut to: a different darkness. Sado's saklya.",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: The candle Simon pinches out — darkness snaps in. Cut to: a different darkness. Sado's saklya.",
+      "thematic_link": "Ambition dressed as intimacy — a private moment that is really about power. → The eye of the storm — stillness before the crossing.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S015",
+      "to_scene": "S016",
+      "current_transition": "The coals dim further. A pre-dawn grey at the smoke-hole. Hold. Then: exterior — the fort at first light, a bugle distant.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"smoke\": find matching smoke in next scene and cut on exact visual match. Existing logic: The coals dim further. A pre-dawn grey at the smoke-hole. Hold. Then: exterior — the fort ",
+      "thematic_link": "The eye of the storm — stillness before the crossing. → Honor under siege — a vow kept in whispers while the village arms itself.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S016",
+      "to_scene": "S017",
+      "current_transition": "Mosque-hum thickens; wooden shoes clatter closer outside the saklya wall — the sound carries into the next scene as the door swings open onto starlight.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Mosque-hum thickens; wooden shoes clatter closer outside the saklya wall — the sound carries into th",
+      "thematic_link": "Honor under siege — a vow kept in whispers while the village arms itself. → Crossing the threshold — honor made into motion.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S017",
+      "to_scene": "S018",
+      "current_transition": "Hoofbeats accelerate down the side-street; the mosque-voices fall behind into wind — the rhythm of horses carries into the next scene as the riders break out of the aoul.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Hoofbeats accelerate down the side-street; the mosque-voices fall behind into wind — the rhythm of h",
+      "thematic_link": "Crossing the threshold — honor made into motion. → Severance — the guest leaves, the host remains, and neither will see the other again.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S018",
+      "to_scene": "S019",
+      "current_transition": "The hoofbeats fade into the gurgle of the river below — sound bridges into the next scene at the ravine.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: The hoofbeats fade into the gurgle of the river below — sound bridges into the next scene at the rav",
+      "thematic_link": "Severance — the guest leaves, the host remains, and neither will see the other again. → Decision — refusal is performed in stillness, not in flight.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S019",
+      "to_scene": "S020",
+      "current_transition": "HM fires once into the dark; the muzzle-flash bleeds into firelight on a Russian sentry's face — cut into the next scene.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: HM fires once into the dark; the muzzle-flash bleeds into firelight on a Russian sentry's face — cut",
+      "thematic_link": "Decision — refusal is performed in stillness, not in flight. → Irrevocable threshold — the last moment of the old life before surrender",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S020",
+      "to_scene": "S021",
+      "current_transition": "The last ember dies; darkness holds the glade. Cut to: first grey light on a Russian palisade wall",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: The last ember dies; darkness holds the glade. Cut to: first grey light on a Russian palisade wall",
+      "thematic_link": "Irrevocable threshold — the last moment of the old life before surrender → Solitary faith — and the first hairline crack in it",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S021",
+      "to_scene": "S022",
+      "current_transition": "The eastern light grows. Hadji Murad stands, shakes earth from his burka. The camp stirs. Sound of horses.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"horse\": find matching horse in next scene and cut on exact visual match. Existing logic: The eastern light grows. Hadji Murad stands, shakes earth from his burka. The camp stirs. ",
+      "thematic_link": "Solitary faith — and the first hairline crack in it → First contact — two worlds meet in silence before either speaks",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S022",
+      "to_scene": "S023",
+      "current_transition": "Poltoratsky's gesture toward the road — the column forms and moves into the forest; axe-sounds fade behind them",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Identify one concrete shared visual object to hard-anchor the cut. Current logic is thematically sound but implicit: Poltoratsky's gesture toward the road — the column forms and moves into the forest; axe-so",
+      "thematic_link": "First contact — two worlds meet in silence before either speaks → Imperial self-enchantment — the war is a story men tell each other to stay cheerful",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S023",
+      "to_scene": "S024",
+      "current_transition": "Poltoratsky swings onto his horse; the dapple-bay's hooves churn frost from the road — cut to: the treeline where Freze's company disappears into smoke",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"horse\": find matching horse in next scene and cut on exact visual match. Existing logic: Poltoratsky swings onto his horse; the dapple-bay's hooves churn frost from the road — cut",
+      "thematic_link": "Imperial self-enchantment — the war is a story men tell each other to stay cheerful → The cheerful violence of empire — boredom curdled into gunfire.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S024",
+      "to_scene": "S025",
+      "current_transition": "The last muzzle-flash echoes and folds into a single dry crack from across the ravine — one shot, finding its man.",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: The last muzzle-flash echoes and folds into a single dry crack from across the ravine — one shot, fi",
+      "thematic_link": "The cheerful violence of empire — boredom curdled into gunfire. → A man being seen, named, and not yet abandoned — at the cost of the officer's idea of war.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S025",
+      "to_scene": "S026",
+      "current_transition": "Panov strikes a match. The flame holds. The pipe catches. Smoke drifts up and joins the smoke still hanging over the ridge — one body, the morning's only result.",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: Panov strikes a match. The flame holds. The pipe catches. Smoke drifts up and joins the smoke still ",
+      "thematic_link": "A man being seen, named, and not yet abandoned — at the cost of the officer's idea of war. → The cost of empire is paid in another room from where it is announced",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S026",
+      "to_scene": "S027",
+      "current_transition": "The cloak with Avdeev moves one direction through the birches; Vorontsov's chestnut moves the other — two parallel lines, one toward the fort, one toward Hadji Murad.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Identify one concrete shared visual object to hard-anchor the cut. Current logic is thematically sound but implicit: The cloak with Avdeev moves one direction through the birches; Vorontsov's chestnut moves ",
+      "thematic_link": "The cost of empire is paid in another room from where it is announced → Mutual measuring disguised as hospitality — the moment surrender becomes a contract neither man fully owns",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S027",
+      "to_scene": "S028",
+      "current_transition": "The two horses turn together toward the fort road; the gold ornament catches once in the slanting light, then the glade is empty except for the sharpshooters quietly stepping out from the trees.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"horse\": find matching horse in next scene and cut on exact visual match. Existing logic: The two horses turn together toward the fort road; the gold ornament catches once in the s",
+      "thematic_link": "Mutual measuring disguised as hospitality — the moment surrender becomes a contract neither man fully owns → Dignity preserved under surrender — a warrior entering captivity as if entering alliance",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S028",
+      "to_scene": "S029",
+      "current_transition": "The creak of the fort gate opening carries into the next interior — stone walls closing around the sound of hooves",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: The creak of the fort gate opening carries into the next interior — stone walls closing around the s",
+      "thematic_link": "Dignity preserved under surrender — a warrior entering captivity as if entering alliance → The caged falcon displayed — honored captive, or prize of war?",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S029",
+      "to_scene": "S030",
+      "current_transition": "Gamzalo's eye, fixed on the horse's ears, dissolves into the dark wood of Vorontsov's house door closing — the same stillness, different cage.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"eye\": find matching eye in next scene and cut on exact visual match. Existing logic: Gamzalo's eye, fixed on the horse's ears, dissolves into the dark wood of Vorontsov's hous",
+      "thematic_link": "The caged falcon displayed — honored captive, or prize of war? → Dignity under observation — the warrior submitting to domesticity without surrendering himself.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S030",
+      "to_scene": "S031",
+      "current_transition": "The French clock chimes once — Hadji Murad does not look at it; Vorontsov does.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Identify one concrete shared visual object to hard-anchor the cut. Current logic is thematically sound but implicit: The French clock chimes once — Hadji Murad does not look at it; Vorontsov does.",
+      "thematic_link": "Dignity under observation — the warrior submitting to domesticity without surrendering himself. → Elaborate civility as mutual threat assessment — two men measuring each other through ritual",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S031",
+      "to_scene": "S032",
+      "current_transition": "HM seated motionless on the divan, dagger across knees — cut to the interpreter's knock at the door summoning him to dinner",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"dagger\": find matching dagger in next scene and cut on exact visual match. Existing logic: HM seated motionless on the divan, dagger across knees — cut to the interpreter's knock at",
+      "thematic_link": "Elaborate civility as mutual threat assessment — two men measuring each other through ritual → Provisional trust across an unbridgeable divide — every gesture charged with suspicion and counter-gift",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S032",
+      "to_scene": "S033",
+      "current_transition": "The watch chiming fades — a knock at the door cuts it off. An aide enters, hat under arm.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"door\": find matching door in next scene and cut on exact visual match. Existing logic: The watch chiming fades — a knock at the door cuts it off. An aide enters, hat under arm.",
+      "thematic_link": "Provisional trust across an unbridgeable divide — every gesture charged with suspicion and counter-gift → Empire's contempt made spatial — the warrior reduced to a waiting room",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S033",
+      "to_scene": "S034",
+      "current_transition": "Inner door opens. Meller-Zakomelsky appears in the frame — uniform immaculate, expression calibrated to controlled displeasure.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"door\": find matching door in next scene and cut on exact visual match. Existing logic: Inner door opens. Meller-Zakomelsky appears in the frame — uniform immaculate, expression ",
+      "thematic_link": "Empire's contempt made spatial — the warrior reduced to a waiting room → HM as administered object — the empire's machinery settling whose desk he lands on",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S034",
+      "to_scene": "S035",
+      "current_transition": "The study door opens; a shaft of corridor light falls across the waiting-room floor — and across HM's boots. He does not look up.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"door\": find matching door in next scene and cut on exact visual match. Existing logic: The study door opens; a shaft of corridor light falls across the waiting-room floor — and ",
+      "thematic_link": "HM as administered object — the empire's machinery settling whose desk he lands on → The anonymous cost of empire — one man's life reduced to an entry in a ward log",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S035",
+      "to_scene": "S036",
+      "current_transition": "The candle flame steadies as the ward goes quiet — cut to darkness, then distant torchlight on stone walls",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"candle\": find matching candle in next scene and cut on exact visual match. Existing logic: The candle flame steadies as the ward goes quiet — cut to darkness, then distant torchligh",
+      "thematic_link": "The anonymous cost of empire — one man's life reduced to an entry in a ward log → The quiet, sideways tenderness of a man choosing how to be remembered while the empire that killed him is already filing him away.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S036",
+      "to_scene": "S037",
+      "current_transition": "Poltoratsky steps into the tent flap as Avdeev's hand opens; the pipe on the crate stays unlit — carries forward as the silent object of the next scene.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"hand\": find matching hand in next scene and cut on exact visual match. Existing logic: Poltoratsky steps into the tent flap as Avdeev's hand opens; the pipe on the crate stays u",
+      "thematic_link": "The quiet, sideways tenderness of a man choosing how to be remembered while the empire that killed him is already filing him away. → The Guards-officer mask is still on, but for the first time it does not fit; an empire's bookkeeping made flesh in one young commander's face.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S037",
+      "to_scene": "S038",
+      "current_transition": "The unlit cigar in his hand rhymes with the unlit pipe on the crate inside — two small rituals refusing to begin; the dusk-line of mountains carries forward as the first frame of the Hadji Murat thread that will end the same way.",
+      "inferred_current_type": "visual_rhyme",
+      "proposed_type": "visual_rhyme",
+      "proposal": "Keep as is — visual rhyme is well-chosen: The unlit cigar in his hand rhymes with the unlit pipe on the crate inside — two small rituals refus",
+      "thematic_link": "The Guards-officer mask is still on, but for the first time it does not fit; an empire's bookkeeping made flesh in one young commander's face. → The dignity of an inconsequential death — one peasant soldier seen clearly by one other.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S038",
+      "to_scene": "S039",
+      "current_transition": "Panov sets the candle down on the empty cot ledge — the flame burns in an empty frame as the sound of oat sheaves being beaten on frozen ground rises from silence.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"candle\": find matching candle in next scene and cut on exact visual match. Existing logic: Panov sets the candle down on the empty cot ledge — the flame burns in an empty frame as t",
+      "thematic_link": "The dignity of an inconsequential death — one peasant soldier seen clearly by one other. → Empire erases a man with a clerk's phrase; the women who loved him find different silences",
+      "priority": "high"
+    },
+    {
+      "from_scene": "S039",
+      "to_scene": "S040",
+      "current_transition": "The sound of Aksinya's wailing cuts abruptly — replaced by wind over open steppe, carrying into the next scene",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Identify one concrete shared visual object to hard-anchor the cut. Current logic is thematically sound but implicit: The sound of Aksinya's wailing cuts abruptly — replaced by wind over open steppe, carrying",
+      "thematic_link": "Empire erases a man with a clerk's phrase; the women who loved him find different silences → Elegant power recognizing a prize — and immediately beginning to process it",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S040",
+      "to_scene": "S041",
+      "current_transition": "The dining room doors close on the gathered faces; silence — then, far off, the sound of a horse bell fading, the courier already gone",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"door\": find matching door in next scene and cut on exact visual match. Existing logic: The dining room doors close on the gathered faces; silence — then, far off, the sound of a",
+      "thematic_link": "Elegant power recognizing a prize — and immediately beginning to process it → Imperial self-satisfaction masking the weight of what has been acquired",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S041",
+      "to_scene": "S042",
+      "current_transition": "The general's clipped 'more than once' hangs in the candlelit silence — cut to: HM's actual face for the first time, or the road to Tiflis at night",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"candle\": find matching candle in next scene and cut on exact visual match. Existing logic: The general's clipped 'more than once' hangs in the candlelit silence — cut to: HM's actua",
+      "thematic_link": "Imperial self-satisfaction masking the weight of what has been acquired → The polished machinery of imperial court life — its capacity to absorb embarrassment and restore surface without ever touching truth",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S042",
+      "to_scene": "S043",
+      "current_transition": "Vorontsov's eyes — cold beneath the candlelight — hold a beat on the General, then cut to: HM's own eyes, somewhere darker, somewhere else",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"eye\": find matching eye in next scene and cut on exact visual match. Existing logic: Vorontsov's eyes — cold beneath the candlelight — hold a beat on the General, then cut to:",
+      "thematic_link": "The polished machinery of imperial court life — its capacity to absorb embarrassment and restore surface without ever touching truth → The spectacle of imperial power sorted by usefulness — Hadji Murad among petitioners, yet apart from them",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S043",
+      "to_scene": "S044",
+      "current_transition": "The aide-de-camp opens the cabinet door; the muffled sound of Vorontsov's voice carries out — cuts to the inner room",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"door\": find matching door in next scene and cut on exact visual match. Existing logic: The aide-de-camp opens the cabinet door; the muffled sound of Vorontsov's voice carries ou",
+      "thematic_link": "The spectacle of imperial power sorted by usefulness — Hadji Murad among petitioners, yet apart from them → Two stillnesses recognizing each other across an empire's table — courtesy as the first cut.",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S044",
+      "to_scene": "S045",
+      "current_transition": "Vorontsov's gloved hand closes over the stack of dispatches as Hadji Murad turns; the soft click of the cabinet door carries into gravel under hooves outside.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Vorontsov's gloved hand closes over the stack of dispatches as Hadji Murad turns; the soft click of ",
+      "thematic_link": "Two stillnesses recognizing each other across an empire's table — courtesy as the first cut. → Two forms of calculation meeting across a language barrier — mutual distrust armored in mutual courtesy",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S045",
+      "to_scene": "S046",
+      "current_transition": "Vorontsov's quill scratches the note — the sound carries into the next scene as he seals the letter",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Vorontsov's quill scratches the note — the sound carries into the next scene as he seals the letter",
+      "thematic_link": "Two forms of calculation meeting across a language barrier — mutual distrust armored in mutual courtesy → Civilized captivity — the mountain warrior on display in the empire's drawing room, unbroken, unreachable",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S046",
+      "to_scene": "S047",
+      "current_transition": "The sound of the salon orchestra fades; HM's last words hang in silence — cut to the bare room where he sleeps that night, the city noise outside, nothing of his own on the walls.",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Anchor on \"wall\": find matching wall in next scene and cut on exact visual match. Existing logic: The sound of the salon orchestra fades; HM's last words hang in silence — cut to the bare ",
+      "thematic_link": "Civilized captivity — the mountain warrior on display in the empire's drawing room, unbroken, unreachable → A man consenting to be recorded — surrendering the form of his story while keeping its substance",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S047",
+      "to_scene": "S048",
+      "current_transition": "Hadji Murad's voice begins — and we hear it over an image that is not this room",
+      "inferred_current_type": "thematic_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Identify one concrete shared visual object to hard-anchor the cut. Current logic is thematically sound but implicit: Hadji Murad's voice begins — and we hear it over an image that is not this room",
+      "thematic_link": "A man consenting to be recorded — surrendering the form of his story while keeping its substance → The origin wound — the first violence that made Hadji Murad who he is, carried in his body as someone else's scar",
+      "priority": "medium"
+    },
+    {
+      "from_scene": "S048",
+      "to_scene": "S049",
+      "current_transition": "Loris-Melikov's pen scratches across paper — the sound carries into the next beat, steady as a metronome against whatever comes next",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Loris-Melikov's pen scratches across paper — the sound carries into the next beat, steady as a metro",
+      "thematic_link": "The origin wound — the first violence that made Hadji Murad who he is, carried in his body as someone else's scar → Debt — the unpayable debt a son owes a mother, and the way that debt becomes the engine of everything that follows.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S049",
+      "to_scene": "S050",
+      "current_transition": "Loris-Melikov's pen descends to the page — the scratch of nib on paper carries into the next scene as the first sound of Hamzad's world.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: Loris-Melikov's pen descends to the page — the scratch of nib on paper carries into the next scene a",
+      "thematic_link": "Debt — the unpayable debt a son owes a mother, and the way that debt becomes the engine of everything that follows. → A man remembers the moment he first doubted himself — and cannot say whether the doubt was faith or failure",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S050",
+      "to_scene": "S051",
+      "current_transition": "Hadji Murad's gaze drops to his hands — cut to those hands, older, bloodied, at the Khunzakh massacre",
+      "inferred_current_type": "match_cut",
+      "proposed_type": "match_cut",
+      "proposal": "Keep as is — match cut is well-chosen: Hadji Murad's gaze drops to his hands — cut to those hands, older, bloodied, at the Khunzakh massacr",
+      "thematic_link": "A man remembers the moment he first doubted himself — and cannot say whether the doubt was faith or failure → Pride choosing extinction over the appearance of fear.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S051",
+      "to_scene": "S052",
+      "current_transition": "The bay horse's hoofbeats on stone carry into the next scene; the amber beads click once more on the empty divan.",
+      "inferred_current_type": "sound_bridge",
+      "proposed_type": "sound_bridge",
+      "proposal": "Keep as is — sound bridge is well-chosen: The bay horse's hoofbeats on stone carry into the next scene; the amber beads click once more on the",
+      "thematic_link": "Pride choosing extinction over the appearance of fear. → The sealing of a guilt that will outlive every other allegiance.",
+      "priority": "low"
+    },
+    {
+      "from_scene": "S052",
+      "to_scene": "S053",
+      "current_transition": "CUT TO:",
+      "inferred_current_type": "simple_cut",
+      "proposed_type": "sound_bridge",
+      "proposal": "The horses shying — their panic-sound bridges into the next scene. Or amber beads final click against the divan carries forward as the only sound that survives the cut.",
+      "thematic_link": "The sealing of a guilt that will outl → ",
+      "priority": "high"
+    }
+  ],
+  "act_break_transitions": [
+    {
+      "break": "Act I → Act II",
+      "from_scene": "S020",
+      "to_scene": "S021",
+      "current_type": "match_cut",
+      "current_transition": "The last ember dies; darkness holds the glade. Cut to: first grey light on a Russian palisade wall",
+      "proposed_type": "match_cut",
+      "proposal": "Pleiades burning cold above the pines — cut to first grey light on Russian palisade. Sky-to-sky visual match: Chechen night becomes Russian dawn. The irrevocable crossing encoded in one continuous visual arc. Current 'last ember dies — darkness holds — cut to first grey light' already approximates this; make the sky explicit in the shot description."
+    },
+    {
+      "break": "Act II → Act III",
+      "from_scene": "S039",
+      "to_scene": "S040",
+      "current_type": "thematic_cut",
+      "current_transition": "The sound of Aksinya's wailing cuts abruptly — replaced by wind over open steppe, carrying into the next scene",
+      "proposed_type": "contrast_cut",
+      "proposal": "Avdeev's wife going back to work — silent grinding erasure — CONTRAST CUT to Vorontsov's lamplit palace receiving a dust-caked courier as a prize. Maximum tonal opposition: domestic death vs. imperial spectacle. The empire that erased Avdeev is now receiving HM as a trophy."
+    }
+  ],
+  "motif_connections": [
+    {
+      "motif": "horses",
+      "scenes_connected": [
+        "S002",
+        "S017",
+        "S018",
+        "S021",
+        "S023",
+        "S027",
+        "S029",
+        "S036"
+      ],
+      "visual_rhyme": "Horse as agency and freedom (S002) → horse as desperate flight (S029) → horses shying at death (S052): HM’s power traced through the animal he controls"
+    },
+    {
+      "motif": "fire_darkness",
+      "scenes_connected": [
+        "S001",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009"
+      ],
+      "visual_rhyme": "Lamp as safety (S001) → candle pinched out as certainty collapses (S015) → last ember as last life (S042): fire = civilization’s fragility"
+    },
+    {
+      "motif": "hands",
+      "scenes_connected": [
+        "S006",
+        "S010",
+        "S013",
+        "S016",
+        "S018",
+        "S022",
+        "S030",
+        "S032"
+      ],
+      "visual_rhyme": "Hands on dagger (S006) → same hands bloodied in memory (S050): HM’s agency written in his own body across time"
+    },
+    {
+      "motif": "thresholds_gates",
+      "scenes_connected": [
+        "S001",
+        "S002",
+        "S004",
+        "S005",
+        "S012",
+        "S016",
+        "S027",
+        "S028"
+      ],
+      "visual_rhyme": "Gate closing = covenant sealed (S001) → door opening = surrender crossed (S029) → threshold = point of no return (S044)"
+    },
+    {
+      "motif": "sky_stars",
+      "scenes_connected": [
+        "S004",
+        "S008",
+        "S009",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016"
+      ],
+      "visual_rhyme": "Pleiades burning cold (S004) → Russian dawn (S015): same indifferent sky over both sides of the war"
+    },
+    {
+      "motif": "sound_nature",
+      "scenes_connected": [
+        "S001",
+        "S003",
+        "S005",
+        "S006",
+        "S007",
+        "S011",
+        "S012",
+        "S016"
+      ],
+      "visual_rhyme": "Muezzin (S001) → owl cry (S016) → river gurgle (S050): nature’s sounds mark the last free night in Chechen territory"
+    }
+  ],
+  "stats": {
+    "total_transitions": 52,
+    "technique_transitions": 51,
+    "technique_pct": 98,
+    "simple_cuts": 1,
+    "type_breakdown_current": {
+      "sound_bridge": 14,
+      "match_cut": 7,
+      "thematic_cut": 29,
+      "visual_rhyme": 1,
+      "simple_cut": 1
+    },
+    "type_breakdown_proposed": {
+      "sound_bridge": 15,
+      "match_cut": 36,
+      "visual_rhyme": 1
+    },
+    "priority_breakdown": {
+      "low": 22,
+      "medium": 28,
+      "high": 2
+    },
+    "rule_30pct_met": true
+  }
+}

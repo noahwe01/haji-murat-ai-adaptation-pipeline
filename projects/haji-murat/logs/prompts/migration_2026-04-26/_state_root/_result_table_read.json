@@ -1,0 +1,28 @@
+{
+  "scenes": [],
+  "overall_stats": {
+    "avg_speakability": 88,
+    "avg_performance_range": 86,
+    "avg_rhythm": 83,
+    "dead_line_count": 3,
+    "alive_line_count": 9,
+    "silence_opportunities": 7
+  },
+  "best_exchange": {
+    "scene_id": "S004",
+    "why": "'Alone?' / 'Two.' / 'Come down from the roof. As Allah wills.' — three lines; entire moral architecture."
+  },
+  "weakest_exchange": {
+    "scene_id": "S006",
+    "issue": "Old Man parable over-constructed for voice profile."
+  },
+  "casting_notes": {},
+  "dialog_polish_pass_assessment": {
+    "assembly_pass_quality": "High",
+    "polish_pass_priority_fixes": [
+      "S006 parable trim",
+      "S006 apiary line trim",
+      "S005 imperative fragment"
+    ]
+  }
+}

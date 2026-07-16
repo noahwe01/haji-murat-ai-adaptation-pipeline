@@ -1,0 +1,2055 @@
+{
+  "subplot_scores": [
+    {
+      "id": "hm_family_hostage",
+      "description": "Hadji Murad reveals his family are hostages of Shamil — he will not openly act against Sha",
+      "tension_score": 3.92,
+      "is_key_scenes": 1,
+      "rel_themes": 73,
+      "refoc_count": 5,
+      "char_spread": 11,
+      "act_spread": 2,
+      "element_count": 4,
+      "chunk_count": 3,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Loris-Melikov",
+        "Major Petrov",
+        "Marya Dmitrievna",
+        "Marya Vasilevna",
+        "Michael Vorontsov",
+        "Prince Baryatinsky"
+      ],
+      "composite": 4459.3
+    },
+    {
+      "id": "hm_butler_kunak_friendship",
+      "description": "Hadji Murad greets Butler with 'Kotkildy'/'Saubul' exchange — first interpersonal contact ",
+      "tension_score": 3.27,
+      "is_key_scenes": 1,
+      "rel_themes": 68,
+      "refoc_count": 3,
+      "char_spread": 6,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Arslan Khan",
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Loris-Melikov",
+        "Marya Dmitrievna"
+      ],
+      "composite": 1184.84
+    },
+    {
+      "id": "hm_life_story_flashback",
+      "description": "Hadji Murad recounts his early prosperity and pleasure-seeking life before the Ghazavat",
+      "tension_score": 1.1,
+      "is_key_scenes": 0,
+      "rel_themes": 66,
+      "refoc_count": 5,
+      "char_spread": 9,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Akhmet Khan",
+        "Baron Rosen",
+        "Chernyshov",
+        "Hadji Murad",
+        "Hamzad",
+        "Loris-Melikov",
+        "Michael Vorontsov",
+        "Shamil",
+        "Umma Khan"
+      ],
+      "composite": 1143.73
+    },
+    {
+      "id": "hm_family_rescue",
+      "description": "Hadji Murad retrieves a secret note from his cartridge-pouch and entrusts it to Sado to fo",
+      "tension_score": 3.17,
+      "is_key_scenes": 1,
+      "rel_themes": 66,
+      "refoc_count": 2,
+      "char_spread": 7,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Bata",
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi",
+        "Sado"
+      ],
+      "composite": 952.38
+    },
+    {
+      "id": "hm_defection",
+      "description": "Hadji Murad stops at a specific saklya, wakes the old man with a whip-handle tap, and is r",
+      "tension_score": 3.37,
+      "is_key_scenes": 1,
+      "rel_themes": 66,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Bata",
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi"
+      ],
+      "composite": 895.97
+    },
+    {
+      "id": "hm_murids_introduced",
+      "description": "Eldar introduced as Hadji Murad's murid — mirrors leader's disarming ritual, seated beside",
+      "tension_score": 3.27,
+      "is_key_scenes": 1,
+      "rel_themes": 68,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Bata",
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi"
+      ],
+      "composite": 888.63
+    },
+    {
+      "id": "envoy_mission",
+      "description": "Hadji Murad decides to send a letter to the Russians via his murid Eldar; Sado volunteers ",
+      "tension_score": 1.0,
+      "is_key_scenes": 0,
+      "rel_themes": 67,
+      "refoc_count": 3,
+      "char_spread": 8,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Bata",
+        "Chernyshov",
+        "Eldar",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I",
+        "Sado",
+        "Shamil"
+      ],
+      "composite": 673.75
+    },
+    {
+      "id": "hm_rivalry_shamil",
+      "description": "Hadji Murad daydreams/fantasizes about defeating Shamil with Russian army support, ruling ",
+      "tension_score": 0.8,
+      "is_key_scenes": 0,
+      "rel_themes": 67,
+      "refoc_count": 3,
+      "char_spread": 8,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Bata",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi",
+        "Loris-Melikov",
+        "Michael Vorontsov",
+        "Shamil",
+        "Simon Vorontsov"
+      ],
+      "composite": 606.38
+    },
+    {
+      "id": "suspicion_hidden_motives",
+      "description": "Alone in his room, Hadji Murad drops his public mask: anxiety replaces courtesy. He checks",
+      "tension_score": 0.97,
+      "is_key_scenes": 0,
+      "rel_themes": 67,
+      "refoc_count": 4,
+      "char_spread": 8,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi",
+        "Loris-Melikov",
+        "Marya Vasilevna",
+        "Simon Vorontsov"
+      ],
+      "composite": 553.04
+    },
+    {
+      "id": "hm_vendetta_arc",
+      "description": "Hadji Murad and his brother Osman devise a blood-revenge ambush against Hamzad after consu",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 70,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Aseldar",
+        "Eldar",
+        "Hadji Murad",
+        "Hamzad",
+        "Khan Mahoma",
+        "Loris-Melikov"
+      ],
+      "composite": 537.72
+    },
+    {
+      "id": "butler_hm_friendship",
+      "description": "Butler and Hadji Murad develop genuine friendship across language barrier — Eldar's welcom",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 71,
+      "refoc_count": 2,
+      "char_spread": 7,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Marya Dmitrievna",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 477.32
+    },
+    {
+      "id": "thistle_frame",
+      "description": "Author-Narrator gathers wildflowers in a midsummer field during harvest season, observing ",
+      "tension_score": 3.7,
+      "is_key_scenes": 1,
+      "rel_themes": 0,
+      "refoc_count": 6,
+      "char_spread": 7,
+      "act_spread": 2,
+      "element_count": 4,
+      "chunk_count": 4,
+      "chars_in_chunks": [
+        "Akhmet Khan",
+        "Gamzalo",
+        "Hadji Aga",
+        "Hadji Murad",
+        "Karganov",
+        "Khan Mahoma",
+        "Khanefi"
+      ],
+      "composite": 423.91
+    },
+    {
+      "id": "hm_hidden_goal_family",
+      "description": "Dying, Hadji Murad experiences rapid-fire memory images: Abu Nutsal Khan (severed cheek), ",
+      "tension_score": 3.0,
+      "is_key_scenes": 1,
+      "rel_themes": 70,
+      "refoc_count": 1,
+      "char_spread": 9,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Bata",
+        "Eldar",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi",
+        "Michael Vorontsov",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 405.09
+    },
+    {
+      "id": "major_petrov_dissolution",
+      "description": "Marya Dmitrievna hosts dinner at the fort; Major Petrov drinks himself insensible; Butler ",
+      "tension_score": 3.17,
+      "is_key_scenes": 1,
+      "rel_themes": 10,
+      "refoc_count": 3,
+      "char_spread": 5,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Major Petrov",
+        "Marya Dmitrievna",
+        "Sado"
+      ],
+      "composite": 390.56
+    },
+    {
+      "id": "sado_kunak_loyalty",
+      "description": "The woman of the house receives Hadji Murad with the traditional hospitality greeting and ",
+      "tension_score": 3.27,
+      "is_key_scenes": 1,
+      "rel_themes": 66,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Eldar",
+        "Hadji Murad",
+        "Sado"
+      ],
+      "composite": 359.27
+    },
+    {
+      "id": "hm_backstory_flashback",
+      "description": "Hadji Murad begins his oral autobiography: birth in Tselmess, family's closeness to the Kh",
+      "tension_score": 0.9,
+      "is_key_scenes": 0,
+      "rel_themes": 66,
+      "refoc_count": 3,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Akhmet Khan",
+        "Hadji Murad",
+        "Loris-Melikov",
+        "Marya Vasilevna",
+        "Umma Khan"
+      ],
+      "composite": 346.27
+    },
+    {
+      "id": "hm_memory_flashback",
+      "description": "Khanefi's song triggers memory of Hadji Murad's mother — young, strong, carrying him throu",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 73,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Yusuf"
+      ],
+      "composite": 335.92
+    },
+    {
+      "id": "hm_life_story_dictation",
+      "description": "Chapter XI opens: on the fifth day Loris-Melikov arrives by Vorontsov's command to formall",
+      "tension_score": 3.24,
+      "is_key_scenes": 1,
+      "rel_themes": 5,
+      "refoc_count": 4,
+      "char_spread": 8,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Aseldar",
+        "Eldar",
+        "Hadji Murad",
+        "Hamzad",
+        "Khan Mahoma",
+        "Loris-Melikov",
+        "Marya Vasilevna",
+        "Michael Vorontsov"
+      ],
+      "composite": 325.17
+    },
+    {
+      "id": "hm_escape_arc",
+      "description": "Nazarov's horse careens wildly after he is hit; Ignatov's horse falls, crushing his leg — ",
+      "tension_score": 5.82,
+      "is_key_scenes": 2,
+      "rel_themes": 1,
+      "refoc_count": 3,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 8,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Bata",
+        "Gamzalo",
+        "Hadji Murad",
+        "Hamzad",
+        "Khanefi"
+      ],
+      "composite": 286.16
+    },
+    {
+      "id": "russian_court_degradation",
+      "description": "The drunken major and officers inspect and eulogize Hadji Murad's head ('He was a fine fel",
+      "tension_score": 2.88,
+      "is_key_scenes": 1,
+      "rel_themes": 67,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 267.25
+    },
+    {
+      "id": "hm_death_aftermath",
+      "description": "Kamenev arrives at Butler's outpost carrying Hadji Murad's severed head in a sack — the im",
+      "tension_score": 2.88,
+      "is_key_scenes": 1,
+      "rel_themes": 66,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 265.25
+    },
+    {
+      "id": "family_rescue",
+      "description": "Hadji Murad's family crisis recapped: Shamil holds family prisoner in Vedeno, threatening ",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 71,
+      "refoc_count": 1,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 264.71
+    },
+    {
+      "id": "karganov_pursuit",
+      "description": "Arslan Khan (Kumukh prince, blood-feud with HM) arrives and draws pistol; Hadji Murad rush",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 72,
+      "refoc_count": 1,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Arslan Khan",
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 260.01
+    },
+    {
+      "id": "shamil_family_pressure",
+      "description": "Shamil commutes Yusuf's death sentence to blinding — a calculated act of mercy-as-cruelty ",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 10,
+      "refoc_count": 2,
+      "char_spread": 7,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Marya Dmitrievna",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 220.47
+    },
+    {
+      "id": "shamil_counter_pressure",
+      "description": "Shamil's council deliberates and concludes they must act through Hadji Murad's son Yusuf t",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 70,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 202.49
+    },
+    {
+      "id": "hm_backstory_dictation",
+      "description": "Hadji Murad's detailed childhood memory: the fountain, head-shaving, the brass mirror, his",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 67,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Hadji Murad",
+        "Hamzad",
+        "Loris-Melikov",
+        "Shamil",
+        "Umma Khan"
+      ],
+      "composite": 199.69
+    },
+    {
+      "id": "hm_family_rescue_main",
+      "description": "Hadji Murad explicitly states his constraint: 'I am tied up and the end of the rope is in ",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 66,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Akhmet Khan",
+        "Chernyshov",
+        "Hadji Murad",
+        "Loris-Melikov",
+        "Michael Vorontsov",
+        "Shamil"
+      ],
+      "composite": 172.14
+    },
+    {
+      "id": "vorontsov_family_authority",
+      "description": "Vorontsov reads Simon's letter about Hadji Murad's surrender and Simon's clash with Meller",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 72,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Akhmet Khan",
+        "Hadji Murad",
+        "Marya Vasilevna",
+        "Meller-Zakomelsky",
+        "Michael Vorontsov",
+        "Simon Vorontsov"
+      ],
+      "composite": 168.19
+    },
+    {
+      "id": "family_rescue_main",
+      "description": "Hadji Murad's friends in the mountains definitively refuse to rescue his family, citing fe",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 70,
+      "refoc_count": 1,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Hadji Murad",
+        "Shamil"
+      ],
+      "composite": 166.14
+    },
+    {
+      "id": "watch_gift_diplomacy",
+      "description": "Vorontsov's watch chimes; Marya Vasilevna prompts her husband to give it as a gift; Hadji ",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 73,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Eldar",
+        "Hadji Murad",
+        "Marya Vasilevna",
+        "Meller-Zakomelsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 159.34
+    },
+    {
+      "id": "hm_murids_assembled",
+      "description": "Eldar fires recklessly, desperate to charge the enemy with his sword, exemplifying youthfu",
+      "tension_score": 3.0,
+      "is_key_scenes": 1,
+      "rel_themes": 2,
+      "refoc_count": 1,
+      "char_spread": 9,
+      "act_spread": 1,
+      "element_count": 6,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Bata",
+        "Eldar",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi",
+        "Michael Vorontsov",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 147.48
+    },
+    {
+      "id": "shamil_as_offstage_antagonist",
+      "description": "Shamil makes a theatrical triumphal entry into the aoul riding a white Arab steed, deliber",
+      "tension_score": 5.54,
+      "is_key_scenes": 2,
+      "rel_themes": 2,
+      "refoc_count": 3,
+      "char_spread": 2,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 144.24
+    },
+    {
+      "id": "january_1852_raid",
+      "description": "Chapter XVI begins: January 1852 raid on Chechnya ordered — four infantry battalions, two ",
+      "tension_score": 3.23,
+      "is_key_scenes": 1,
+      "rel_themes": 0,
+      "refoc_count": 5,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Butler",
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I",
+        "Shamil"
+      ],
+      "composite": 142.34
+    },
+    {
+      "id": "hm_escape",
+      "description": "Hadji Murad accelerates his horse away from the Cossack escort, signaling the beginning of",
+      "tension_score": 2.97,
+      "is_key_scenes": 1,
+      "rel_themes": 66,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 4,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Hadji Murad"
+      ],
+      "composite": 141.91
+    },
+    {
+      "id": "hm_butler_friendship",
+      "description": "Eldar's warm reception of Butler signals Hadji Murad's genuine affection for him — a rare ",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 66,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Marya Dmitrievna"
+      ],
+      "composite": 131.96
+    },
+    {
+      "id": "hm_life_story_narration",
+      "description": "Hadji Murad narrates his many military exploits to Loris-Melikov — a retrospective summary",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 70,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Akhmet Khan",
+        "Hadji Murad",
+        "Loris-Melikov",
+        "Shamil"
+      ],
+      "composite": 124.86
+    },
+    {
+      "id": "shamil_antagonist",
+      "description": "Shamil returns to Vedeno on Jan 6, 1852 after ambiguous battle — Russians say he fled, he ",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 4,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Major Petrov",
+        "Marya Dmitrievna",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 101.71
+    },
+    {
+      "id": "hm_butler_kunak",
+      "description": "Hadji Murad gifts his white burka to Marya Dmitrievna — a formal gesture of reciprocal hos",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 73,
+      "refoc_count": 1,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 93.8
+    },
+    {
+      "id": "moral_witness_arc",
+      "description": "Marya Dmitrievna condemns the display as barbarism ('Cut-throats, really') — sole voice of",
+      "tension_score": 2.88,
+      "is_key_scenes": 1,
+      "rel_themes": 8,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 92.35
+    },
+    {
+      "id": "hm_family_hostage_arc",
+      "description": "Shamil delivers ultimatum to Yusuf: HM returns before Bairam or family is dispersed, Yusuf",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 9,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 89.36
+    },
+    {
+      "id": "avdeev_arc",
+      "description": "Chapter II begins: POV shifts to Vozvizhensk fort; Panov leads three Russian soldiers to a",
+      "tension_score": 0.9,
+      "is_key_scenes": 0,
+      "rel_themes": 6,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Eldar",
+        "Hadji Murad",
+        "Panov",
+        "Sado"
+      ],
+      "composite": 88.43
+    },
+    {
+      "id": "suspicion_spy_fear",
+      "description": "Khan Mahoma smokes secretly in defiance of Hadji Murad's prohibition; Gamzalo rebukes him ",
+      "tension_score": 0.25,
+      "is_key_scenes": 0,
+      "rel_themes": 70,
+      "refoc_count": 1,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Eldar",
+        "Gamzalo",
+        "Khan Mahoma",
+        "Khanefi",
+        "Loris-Melikov"
+      ],
+      "composite": 83.89
+    },
+    {
+      "id": "russian_imperial_failure_motif",
+      "description": "Baron Rosen refuses audience; Russian officers corrupt Umma Khan with wine, women, and car",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 11,
+      "refoc_count": 3,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Baron Rosen",
+        "Hadji Murad",
+        "Hamzad",
+        "Loris-Melikov",
+        "Umma Khan"
+      ],
+      "composite": 82.47
+    },
+    {
+      "id": "nicholas_private_life_subplot",
+      "description": "Nicholas attends ballet, singles out a dancer, orders diamond ring delivered — casual impe",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 16,
+      "refoc_count": 3,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 79.59
+    },
+    {
+      "id": "hamzad_rise_to_power",
+      "description": "Hamzad murders the Khansha on a murid's sword after taking the palace — completing the ann",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Aseldar",
+        "Eldar",
+        "Hadji Murad",
+        "Hamzad",
+        "Khan Mahoma",
+        "Loris-Melikov"
+      ],
+      "composite": 73.85
+    },
+    {
+      "id": "hm_backstory_avar_betrayal",
+      "description": "Hamzad sends a sheik offering Ghazavat instruction in exchange for the Khansha's youngest ",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 1,
+      "refoc_count": 3,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Hadji Murad",
+        "Hamzad",
+        "Shamil",
+        "Umma Khan"
+      ],
+      "composite": 73.45
+    },
+    {
+      "id": "yusuf_character_arc",
+      "description": "Yusuf's ambivalence revealed — he admires Shamil, does not fully share father's hostility;",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 9,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 72.61
+    },
+    {
+      "id": "nicholas_cabinet_scenes",
+      "description": "Chernyshov credits Nicholas's plan for Hadji Murad's surrender; Nicholas accepts the flatt",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 68,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Nicholas I"
+      ],
+      "composite": 70.53
+    },
+    {
+      "id": "marya_vasilevna_baryatinsky_affair",
+      "description": "Baryatinsky's open affair with Simon Vorontsov's wife Marya Vasilevna is common knowledge ",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 8,
+      "refoc_count": 2,
+      "char_spread": 9,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Chernyshov",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Marya Dmitrievna",
+        "Marya Vasilevna",
+        "Prince Baryatinsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 66.76
+    },
+    {
+      "id": "jurisdictional_quarrel",
+      "description": "Vorontsov reflects on jurisdictional tension with General Meller-Zakomelsky — he bypassed ",
+      "tension_score": 0.68,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 3,
+      "char_spread": 8,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Marya Vasilevna",
+        "Meller-Zakomelsky",
+        "Michael Vorontsov",
+        "Simon Vorontsov"
+      ],
+      "composite": 65.19
+    },
+    {
+      "id": "butler_caucasus_illusion",
+      "description": "Poltoratsky mounts and leads his company toward the incoming fire, relishing the prospect ",
+      "tension_score": 1.1,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 8,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Major Petrov",
+        "Marya Dmitrievna",
+        "Poltoratsky",
+        "Prince Baryatinsky",
+        "Yusuf"
+      ],
+      "composite": 64.82
+    },
+    {
+      "id": "butler_romantic_caucasus_illusion",
+      "description": "Butler leads the 5th Company at the column's head, filled with romantic excitement — joy o",
+      "tension_score": 0.8,
+      "is_key_scenes": 0,
+      "rel_themes": 8,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Butler",
+        "Marya Dmitrievna",
+        "Nicholas I",
+        "Poltoratsky"
+      ],
+      "composite": 64.49
+    },
+    {
+      "id": "poltoratsky_infatuation",
+      "description": "Marya Vasilevna's proximity reduces Poltoratsky to distraction, costing him aces and anger",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 5,
+      "refoc_count": 3,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Eldar",
+        "Hadji Murad",
+        "Marya Vasilevna",
+        "Poltoratsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 64.02
+    },
+    {
+      "id": "shamil_domestic",
+      "description": "Shamil seeks out wife Aminal after evening prayers; she deliberately avoids him, punishing",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 7,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Marya Dmitrievna",
+        "Shamil",
+        "Yusuf"
+      ],
+      "composite": 56.65
+    },
+    {
+      "id": "imperial_trophy_circuit",
+      "description": "Kamenev reveals his mission: to carry the head around to forts and aouls as official imper",
+      "tension_score": 2.88,
+      "is_key_scenes": 1,
+      "rel_themes": 3,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 56.55
+    },
+    {
+      "id": "russian_caucasus_operations",
+      "description": "Poltoratsky mounts and leads his company toward firing on the ravine outskirts; Chechen pu",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Avdeev",
+        "Hadji Murad",
+        "Panov",
+        "Poltoratsky"
+      ],
+      "composite": 54.15
+    },
+    {
+      "id": "vorontsov_household",
+      "description": "Interior of Vorontsov's house at midnight: lavish card game while all other barracks are d",
+      "tension_score": 0.6,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 3,
+      "char_spread": 6,
+      "act_spread": 2,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna",
+        "Marya Vasilevna",
+        "Poltoratsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 53.84
+    },
+    {
+      "id": "hm_dictates_life_story",
+      "description": "HM summons Loris-Melikov back to the drawing room to resume narrating his life story (Chap",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 8,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi",
+        "Loris-Melikov"
+      ],
+      "composite": 52.2
+    },
+    {
+      "id": "sado_aoul_destruction_parallel",
+      "description": "Russian soldiers burn the aoul's corn, hay, and saklyas — deliberate destruction of civili",
+      "tension_score": 2.78,
+      "is_key_scenes": 1,
+      "rel_themes": 4,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Shamil"
+      ],
+      "composite": 47.9
+    },
+    {
+      "id": "shamil_counter_campaign",
+      "description": "Jemal Eddin drafts and Shamil signs a proclamation forbidding Chechens from surrendering t",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 4,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Hadji Murad",
+        "Shamil"
+      ],
+      "composite": 47.14
+    },
+    {
+      "id": "imperial_court_pageantry",
+      "description": "Chernyshov arrives at the Winter Palace in elaborate dress — visual tableau of imperial bu",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 8,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 42.21
+    },
+    {
+      "id": "marya_vasilevna_social_lubricant",
+      "description": "Marya Vasilevna insists on accompanying the men to Meller-Zakomelsky despite her husband's",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 5,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Eldar",
+        "Hadji Murad",
+        "Marya Vasilevna",
+        "Meller-Zakomelsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 41.7
+    },
+    {
+      "id": "russian_pursuit",
+      "description": "Fort commander learns of escape, cries out in despair ('They've done for me!'). Full pursu",
+      "tension_score": 2.97,
+      "is_key_scenes": 1,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Bata",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khanefi"
+      ],
+      "composite": 40.86
+    },
+    {
+      "id": "avdeev_family_home_arc",
+      "description": "Simultaneous with Avdeev's death, his family threshes oats on the farm — domestic life ind",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 16,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Panov",
+        "Poltoratsky"
+      ],
+      "composite": 39.28
+    },
+    {
+      "id": "imperial_domestic_repression",
+      "description": "Nicholas orders Uniate peasants who resist conversion to run the gauntlet (de facto death ",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 4,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 36.74
+    },
+    {
+      "id": "marya_vasilevna_baryatinsky",
+      "description": "Marya Vasilevna stays at the camp; her presence with Baryatinsky is an open secret causing",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 5,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Marya Vasilevna",
+        "Poltoratsky",
+        "Prince Baryatinsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 34.98
+    },
+    {
+      "id": "butler_camp_visit",
+      "description": "Butler visits the camp on leave, reconnects with old comrades Poltoratsky and others, is w",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 5,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Marya Vasilevna",
+        "Poltoratsky",
+        "Prince Baryatinsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 34.98
+    },
+    {
+      "id": "imperial_court_subplot",
+      "description": "Baron Lieven and the Prussian Ambassador discuss Poland and Caucasus as Russia's two feste",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 3,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 34.63
+    },
+    {
+      "id": "butler_romantic_illusion",
+      "description": "Butler leaves the drunken scene, walks home under moonlight; encounters Marya Dmitrievna a",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 9,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "composite": 34.08
+    },
+    {
+      "id": "butler_debt",
+      "description": "Butler attempts to borrow 500 rubles from his brother, a stingy relative, and the major to",
+      "tension_score": 0.62,
+      "is_key_scenes": 0,
+      "rel_themes": 3,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna",
+        "Michael Vorontsov",
+        "Shamil"
+      ],
+      "composite": 33.76
+    },
+    {
+      "id": "hm_escape_plan",
+      "description": "Gamzalo rouses the four murids; all night they clean rifles, pistols, sharpen swords and d",
+      "tension_score": 2.82,
+      "is_key_scenes": 1,
+      "rel_themes": 1,
+      "refoc_count": 1,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Bata",
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khanefi"
+      ],
+      "composite": 30.64
+    },
+    {
+      "id": "shamil_hamzad_antagonist_arc",
+      "description": "Hamzad threatens the Khans: join the Ghazavat or face destruction of Khunzakh",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 3,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Baron Rosen",
+        "Hadji Murad",
+        "Hamzad",
+        "Loris-Melikov",
+        "Umma Khan"
+      ],
+      "composite": 30.6
+    },
+    {
+      "id": "chernyshov_vorontsov_rivalry",
+      "description": "Chernyshov attempts to use his New Year's Day report to Nicholas to portray Vorontsov's ha",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 3,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 25.85
+    },
+    {
+      "id": "caucasus_war_policy",
+      "description": "Nicholas orders Chernyshov to continue the policy of destroying Chechen dwellings and food",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 1,
+      "refoc_count": 1,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 25.52
+    },
+    {
+      "id": "nicholas_tyranny",
+      "description": "Nicholas sentences Polish student Bzhezovski to 12×1000 gauntlet strokes — knowing it is f",
+      "tension_score": 2.72,
+      "is_key_scenes": 1,
+      "rel_themes": 1,
+      "refoc_count": 1,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 25.52
+    },
+    {
+      "id": "nicholas_autocracy_theme",
+      "description": "Tolstoi's authorial digression exposing Nicholas's self-delusion: continual flattery has s",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 8,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Nicholas I"
+      ],
+      "composite": 24.19
+    },
+    {
+      "id": "gamzalo_spy_fear",
+      "description": "Ferapontov identified as the man who sold gunpowder to Gamzalo — retroactive confirmation ",
+      "tension_score": 2.78,
+      "is_key_scenes": 1,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Gamzalo",
+        "Hadji Murad"
+      ],
+      "composite": 23.95
+    },
+    {
+      "id": "january_1852_raid_counter_campaign",
+      "description": "Prince Baryatinsky arrives as new left-flank commander and musters a large expedition towa",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 9,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Chernyshov",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Marya Dmitrievna",
+        "Marya Vasilevna",
+        "Prince Baryatinsky",
+        "Simon Vorontsov"
+      ],
+      "composite": 23.6
+    },
+    {
+      "id": "aksinya_secret_life",
+      "description": "Aksinya performs public grief for Peter Avdeev while privately rejoicing — his death frees",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 7,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Hadji Murad",
+        "Michael Vorontsov"
+      ],
+      "composite": 21.79
+    },
+    {
+      "id": "nicholas_court_dynamics",
+      "description": "Chernyshov's plan fails because Nicholas is in ill temper on New Year's Day and refuses su",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 21.11
+    },
+    {
+      "id": "caucasus_war_context",
+      "description": "The arrival of Murid missionaries ('beat stones with wooden scimitars, cried Ghazavat') tr",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Hadji Murad",
+        "Hamzad",
+        "Loris-Melikov",
+        "Shamil",
+        "Umma Khan"
+      ],
+      "composite": 19.82
+    },
+    {
+      "id": "shamil_power_rise",
+      "description": "Kazi-Mulla is killed, Hamzad succeeds him, and Hamzad sends envoys demanding the Khans joi",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 6,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Abu Nutsal Khan",
+        "Hadji Murad",
+        "Hamzad",
+        "Loris-Melikov",
+        "Shamil",
+        "Umma Khan"
+      ],
+      "composite": 19.82
+    },
+    {
+      "id": "russian_military_operations",
+      "description": "Two Russian companies under Poltoratsky are felling trees beyond the Shagirinsk Gate in th",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Bata",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Poltoratsky"
+      ],
+      "composite": 19.65
+    },
+    {
+      "id": "narrator_frame",
+      "description": "Narrator establishes the epistemological gap: for Russians the episode is a lucky Caucasia",
+      "tension_score": 0.62,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 5,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna",
+        "Michael Vorontsov",
+        "Shamil"
+      ],
+      "composite": 19.49
+    },
+    {
+      "id": "major_petrov_drunken_dissolution",
+      "description": "Arrival at fort; Marya Dmitrievna prepares domestic welcome (pie, cabbage soup) for Petrov",
+      "tension_score": 0.2,
+      "is_key_scenes": 0,
+      "rel_themes": 8,
+      "refoc_count": 1,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "composite": 19.04
+    },
+    {
+      "id": "butler_gambling",
+      "description": "Butler drifts to Poltoratsky's quarters and joins a card game; he begins gambling with mon",
+      "tension_score": 0.2,
+      "is_key_scenes": 0,
+      "rel_themes": 7,
+      "refoc_count": 1,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Marya Vasilevna",
+        "Poltoratsky"
+      ],
+      "composite": 17.81
+    },
+    {
+      "id": "nicholas_imperial_routine",
+      "description": "Nicholas spots Helena Pavlovna's carriage approaching the palace; her presence triggers co",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 17.1
+    },
+    {
+      "id": "sado_aoul_destruction",
+      "description": "Chechen aoul inhabitants confront destroyed fountain and polluted mosque; Mullah and assis",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Marya Dmitrievna"
+      ],
+      "composite": 17.09
+    },
+    {
+      "id": "nicholas_private_vice",
+      "description": "Nicholas I is fatigued and irate after a masquerade the night before, where his 'senile se",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 3,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Nicholas I"
+      ],
+      "composite": 15.91
+    },
+    {
+      "id": "imperial_court_corruption",
+      "description": "Nicholas's knowledge of Chernyshov's treachery against Zachary Chernyshov (Decembrist tria",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 4,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Hadji Murad",
+        "Michael Vorontsov",
+        "Nicholas I"
+      ],
+      "composite": 14.92
+    },
+    {
+      "id": "nicholas_autocrat_portrait",
+      "description": "Nicholas justifies last night's seduction of a young girl by suppressing guilt with though",
+      "tension_score": 0.6,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 4,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Nicholas I"
+      ],
+      "composite": 12.8
+    },
+    {
+      "id": "petrov_dissolution",
+      "description": "Major Petrov wakes hungover, grumbles about authorities sending 'that devil' to him, calls",
+      "tension_score": 0.4,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Hadji Murad",
+        "Marya Dmitrievna"
+      ],
+      "composite": 11.78
+    },
+    {
+      "id": "company_cashbox",
+      "description": "Soldiers gossip about company commander dipping into the cashbox after card losses; Panov ",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 2,
+      "chars_in_chunks": [
+        "Avdeev",
+        "Panov"
+      ],
+      "composite": 10.14
+    },
+    {
+      "id": "nicholas_court_life",
+      "description": "Nicholas tracks and finally corners the masquerade woman in a private box, only to find it",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Nicholas I"
+      ],
+      "composite": 9.16
+    },
+    {
+      "id": "sleptsov_heroism_myth",
+      "description": "Russian officers drink vodka and porter on drums after an operation, discussing the romant",
+      "tension_score": 0.55,
+      "is_key_scenes": 0,
+      "rel_themes": 5,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Poltoratsky"
+      ],
+      "composite": 9.01
+    },
+    {
+      "id": "vovilo_serf",
+      "description": "Poltoratsky finds his door locked; scolds the drunk Vovilo, stops short of striking him",
+      "tension_score": 0.15,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Marya Vasilevna",
+        "Poltoratsky"
+      ],
+      "composite": 8.97
+    },
+    {
+      "id": "nicholas_petitioner_cases",
+      "description": "Nicholas reviews the case of Bzhezovski, a Polish-descent student who stabbed a professor;",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 2,
+      "char_spread": 2,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov",
+        "Nicholas I"
+      ],
+      "composite": 8.55
+    },
+    {
+      "id": "poland_geopolitics",
+      "description": "At the New Year dinner, Baron Lieven and the Prussian Ambassador discuss disquieting news ",
+      "tension_score": 0.25,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 2,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Nicholas I"
+      ],
+      "composite": 6.89
+    },
+    {
+      "id": "kozlovsky_farewell",
+      "description": "Farewell dinner for Kozlovsky: Baryatinsky toasts him; Kozlovsky delivers a tearful, stamm",
+      "tension_score": 0.2,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 1,
+      "char_spread": 3,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler",
+        "Marya Vasilevna",
+        "Poltoratsky"
+      ],
+      "composite": 6.73
+    },
+    {
+      "id": "nicholas_imperial_court",
+      "description": "Chernyshov arrives at the Winter Palace in full uniform regalia, performing the elaborate ",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Chernyshov"
+      ],
+      "composite": 6.56
+    },
+    {
+      "id": "butler_romantic_war_illusion",
+      "description": "Butler's company raids and burns a deserted Chechen aoul — corn, hay, and saklyas torched,",
+      "tension_score": 0.35,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 2,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 2,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Butler"
+      ],
+      "composite": 6.48
+    },
+    {
+      "id": "author_digression",
+      "description": "Author-Narrator's reflection on human destructiveness and the thistle's indomitable vitali",
+      "tension_score": 0.3,
+      "is_key_scenes": 0,
+      "rel_themes": 3,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Hadji Murad"
+      ],
+      "composite": 5.85
+    },
+    {
+      "id": "shamil_campaign_failure",
+      "description": "Shamil returns to Vedeno (Dargo-Vedin) after a failed campaign — publicly declared victori",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil"
+      ],
+      "composite": 5.33
+    },
+    {
+      "id": "shamil_as_imam",
+      "description": "Shamil crosses the outer court crowded with petitioners and supplicants, receiving prostra",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 2,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil"
+      ],
+      "composite": 5.33
+    },
+    {
+      "id": "shamil_private_life",
+      "description": "Shamil's internal conflict: exhausted, wants rest and Aminal's company, yet must perform m",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 1,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil"
+      ],
+      "composite": 3.77
+    },
+    {
+      "id": "shamil_prisoners",
+      "description": "Prisoners glimpsed by narrator/implied observer: dirty, exhausted, embittered, hating one ",
+      "tension_score": 0.45,
+      "is_key_scenes": 0,
+      "rel_themes": 0,
+      "refoc_count": 1,
+      "char_spread": 1,
+      "act_spread": 1,
+      "element_count": 1,
+      "chunk_count": 1,
+      "chars_in_chunks": [
+        "Shamil"
+      ],
+      "composite": 3.77
+    }
+  ],
+  "method": "composite = (tension_score+1) * sqrt(rel_themes) * (refoc+1) * char_spread^0.7 * act_spread_bonus * element_count_bonus"
+}

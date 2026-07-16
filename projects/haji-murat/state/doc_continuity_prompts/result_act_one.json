@@ -1,0 +1,199 @@
+{"segment": "ACT ONE",
+  "scene_facts": [
+    {"scene": "1",
+      "characters_active": ["HORSEMAN (unidentified)"],
+      "characters_inert": [],
+      "ordered_events": [
+        {"position": 1, "who": "HORSEMAN (unidentified)", "event": "arrival", "detail": "emerges from tree line, crosses harvested steppe unhurried", "quote": "A HORSEMAN emerges from the tree line"}
+      ],
+      "objects": [
+        {"object": "thistle", "action": "introduced", "holder": "none", "detail": "single upright thistle at cart-track verge; trembles but does not fall"}
+      ],
+      "counts": [],
+      "time_markers": ["LATE SUMMER, AFTERNOON"],
+      "injuries": []},
+    {"scene": "2",
+      "characters_active": ["HADJI MURAD", "UNNAMED MURID"],
+      "characters_inert": [],
+      "ordered_events": [
+        {"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "descends toward Mahket aoul at dusk, watching the rooftops", "quote": "holds his horse to a walk on the descent"}
+      ],
+      "objects": [],
+      "counts": [],
+      "time_markers": ["DUSK"],
+      "injuries": []},
+    {"scene": "3",
+      "characters_active": ["HADJI MURAD", "SADO", "ELDAR", "BATA", "OLD SERVANT", "SADO'S WIFE", "SADO'S SON"],
+      "characters_inert": ["SHAMIL"],
+      "ordered_events": [
+        {"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "arrives at Sado's saklya in Mahket at night, wakes Sado", "quote": "stops at a saklya cut into the hillside"},
+        {"position": 2, "who": "OLD SERVANT", "event": "object_transfer", "detail": "takes Hadji Murad's rifle and sword, hangs them with the house weapons", "quote": "lifts Hadji Murad's rifle and sword"},
+        {"position": 3, "who": "BATA", "event": "arrival", "detail": "brought in by Sado's son to be introduced to Hadji Murad", "quote": "the boy returns with BATA"}
+      ],
+      "objects": [
+        {"object": "Hadji Murad's rifle and sword", "action": "transferred", "holder": "OLD SERVANT", "detail": "hung beside the house weapons, handled with reverence"},
+        {"object": "cushions", "action": "introduced", "holder": "SADO'S WIFE", "detail": "set along the front wall for the men"}
+      ],
+      "counts": [
+        {"what": "copper basins", "value": 2, "quote": "two copper basins catching lamplight"}
+      ],
+      "time_markers": ["NIGHT", "yesterday"],
+      "injuries": []},
+    {"scene": "4",
+      "characters_active": ["HADJI MURAD", "SADO", "BATA"],
+      "characters_inert": [],
+      "ordered_events": [],
+      "objects": [
+        {"object": "millet", "action": "used", "holder": "BATA", "detail": "pinches, rolls grains to silently set the guide's price"},
+        {"object": "kindjal", "action": "used", "holder": "HADJI MURAD", "detail": "hand rests on the hilt throughout the bargaining"}
+      ],
+      "counts": [],
+      "time_markers": ["NIGHT"],
+      "injuries": []},
+    {"scene": "5",
+      "characters_active": ["HADJI MURAD", "SADO", "ELDAR"],
+      "characters_inert": ["YUSUF"],
+      "ordered_events": [
+        {"position": 1, "who": "SADO", "event": "object_transfer", "detail": "takes custody of Hadji Murad's note to relay it to his son Yusuf", "quote": "Sado's hand closes over the note"}
+      ],
+      "objects": [
+        {"object": "metal ewer", "action": "used", "holder": "SADO", "detail": "pours cold water over Hadji Murad's hands"},
+        {"object": "coarse towel", "action": "used", "holder": "HADJI MURAD", "detail": "dries hands after washing"},
+        {"object": "rolled note", "action": "introduced", "holder": "HADJI MURAD", "detail": "drawn from beneath a cartridge-bullet, addressed to his son Yusuf"},
+        {"object": "rolled note", "action": "transferred", "holder": "SADO", "detail": "custody passes to Sado to send onward to Yusuf"},
+        {"object": "cartridge-bullet", "action": "used", "holder": "HADJI MURAD", "detail": "note was concealed beneath it"},
+        {"object": "small knife", "action": "used", "holder": "HADJI MURAD", "detail": "flat of blade used to press honey onto bread crust"}
+      ],
+      "counts": [],
+      "time_markers": ["NIGHT"],
+      "injuries": []},
+    {"scene": "6",
+      "characters_active": ["PANOV", "AVDEEV", "BONDARENKO", "BATA", "UNNAMED MURID"],
+      "characters_inert": ["HADJI MURAD"],
+      "ordered_events": [
+        {"position": 1, "who": "BATA", "event": "arrival", "detail": "emerges from the treeline with hands raised, presents himself to the Russian patrol", "quote": "both empty hands raised wide"},
+        {"position": 2, "who": "UNNAMED MURID", "event": "arrival", "detail": "taller murid accompanies Bata, mirrors his raised-hands gesture", "quote": "a taller murid mirroring him"},
+        {"position": 3, "who": "BATA", "event": "object_transfer", "detail": "delivers a folded letter to Panov meant for the Russian command", "quote": "extending a folded letter between two worlds"},
+        {"position": 4, "who": "BATA", "event": "departure", "detail": "marched with the murid by Avdeev and Bondarenko toward the fort as emissaries", "quote": "march the pair toward the fort's distant lights"}
+      ],
+      "objects": [
+        {"object": "pipe", "action": "used", "holder": "AVDEEV", "detail": "packs and lights tobacco during the night watch"},
+        {"object": "folded letter", "action": "transferred", "holder": "PANOV", "detail": "Bata's letter, taken by Panov to send up the chain"},
+        {"object": "rifle", "action": "used", "holder": "AVDEEV", "detail": "drops rifle butt to the ground while crouching by the fire"}
+      ],
+      "counts": [
+        {"what": "Russian soldiers at the ambush post", "value": 3, "quote": "Three Russian soldiers move single-file"}
+      ],
+      "time_markers": ["NIGHT"],
+      "injuries": []},
+    {"scene": "7",
+      "characters_active": ["SIMON VORONTSOV", "MARYA VASILEVNA", "POLTORATSKY", "MICHAEL VORONTSOV", "SERVANT (unnamed)"],
+      "characters_inert": ["HADJI MURAD"],
+      "ordered_events": [
+        {"position": 1, "who": "MICHAEL VORONTSOV", "event": "departure", "detail": "summoned out of the drawing room by a servant", "quote": "is summoned out by a servant"},
+        {"position": 2, "who": "MICHAEL VORONTSOV", "event": "arrival", "detail": "returns to the drawing room composed, calls for champagne", "quote": "returns composed, calls for champagne"}
+      ],
+      "objects": [
+        {"object": "candles", "action": "used", "holder": "none", "detail": "four candles lit on the card table, last one pinched out"},
+        {"object": "champagne", "action": "introduced", "holder": "MICHAEL VORONTSOV", "detail": "called for upon his return to the room"}
+      ],
+      "counts": [
+        {"what": "candles on the card table", "value": 4, "quote": "Four candles burn on a card table"}
+      ],
+      "time_markers": ["NIGHT", "tomorrow"],
+      "injuries": []},
+    {"scene": "8",
+      "characters_active": ["HADJI MURAD", "SADO"],
+      "characters_inert": ["ELDAR"],
+      "ordered_events": [],
+      "objects": [
+        {"object": "pistol", "action": "used", "holder": "HADJI MURAD", "detail": "hand finds it instinctively upon waking"},
+        {"object": "pistol and dagger", "action": "used", "holder": "ELDAR", "detail": "kept in his belt while he sleeps in the corner"}
+      ],
+      "counts": [],
+      "time_markers": ["NIGHT", "until morning"],
+      "injuries": []},
+    {"scene": "9",
+      "characters_active": ["HADJI MURAD", "ELDAR", "SADO", "BOY (unnamed)", "AMBUSHERS (five men)"],
+      "characters_inert": [],
+      "ordered_events": [
+        {"position": 1, "who": "AMBUSHERS (five men)", "event": "arrival", "detail": "five armed men block the lane, order Hadji Murad to halt", "quote": "shadows peel from a wall — five men, muskets rising"},
+        {"position": 2, "who": "HADJI MURAD", "event": "escape", "detail": "spurs through the ambushers with Eldar, breaking their line, rides free of Mahket", "quote": "spurs straight into them; the line breaks apart against the wall"}
+      ],
+      "objects": [
+        {"object": "rifle", "action": "used", "holder": "HADJI MURAD", "detail": "carried across his thigh while riding"},
+        {"object": "pistol", "action": "used", "holder": "HADJI MURAD", "detail": "drawn from belt to charge through the ambushers"},
+        {"object": "muskets", "action": "used", "holder": "AMBUSHERS (five men)", "detail": "raised to halt Hadji Murad; ambush fails"}
+      ],
+      "counts": [
+        {"what": "horses held by the boy", "value": 2, "quote": "A boy holds two steaming horses"},
+        {"what": "ambushers blocking the lane", "value": 5, "quote": "five men, muskets rising"}
+      ],
+      "time_markers": ["NIGHT"],
+      "injuries": []},
+    {"scene": "10",
+      "characters_active": ["HADJI MURAD", "ELDAR", "PURSUERS (twenty mounted men)"],
+      "characters_inert": [],
+      "ordered_events": [
+        {"position": 1, "who": "PURSUERS (twenty mounted men)", "event": "arrival", "detail": "twenty riders from the aoul close the gap and fan out behind Hadji Murad", "quote": "twenty mounted men close the gap and fan out behind him"},
+        {"position": 2, "who": "PURSUERS (twenty mounted men)", "event": "departure", "detail": "hold their distance through the standoff, then fall back and disappear", "quote": "The hooves behind him thin, fall back, and are gone."}
+      ],
+      "objects": [
+        {"object": "rifle", "action": "used", "holder": "HADJI MURAD", "detail": "half-drawn from its cover during the standoff, then re-covered"},
+        {"object": "rifle-cover", "action": "used", "holder": "HADJI MURAD", "detail": "unbuttoned then rebuttoned during the standoff"},
+        {"object": "bridle", "action": "used", "holder": "HADJI MURAD", "detail": "dropped, then taken up again as he resumes riding"},
+        {"object": "rifle", "action": "used", "holder": "ELDAR", "detail": "half out of its cover as the pursuers close"}
+      ],
+      "counts": [
+        {"what": "pursuing riders from the aoul", "value": 20, "quote": "twenty mounted men close the gap"}
+      ],
+      "time_markers": ["NIGHT"],
+      "injuries": []},
+    {"scene": "11",
+      "characters_active": ["HADJI MURAD", "KHANEFI", "GAMZALO", "ELDAR", "KHAN MAHOMA", "UNNAMED MURIDS (two)"],
+      "characters_inert": ["RUSSIAN PRINCE (unspecified)"],
+      "ordered_events": [
+        {"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "arrives at the forest glade; the murids scatter and stamp out the bonfire coals", "quote": "at Hadji Murad's arrival the coals are scattered with boot heels"},
+        {"position": 2, "who": "KHAN MAHOMA", "event": "arrival", "detail": "rides in at first light with word the Russian prince will see Hadji Murad tomorrow", "quote": "rides in at first light"}
+      ],
+      "objects": [
+        {"object": "rifle", "action": "used", "holder": "GAMZALO", "detail": "lifted, carried to the forest edge as lookout"},
+        {"object": "ewer", "action": "used", "holder": "HADJI MURAD", "detail": "pours water over his hands before prayer"},
+        {"object": "burka", "action": "used", "holder": "HADJI MURAD", "detail": "spread on the ground for prayer, earth shaken from it afterward"},
+        {"object": "shoes", "action": "used", "holder": "HADJI MURAD", "detail": "removed before prayer"}
+      ],
+      "counts": [
+        {"what": "unnamed murids at the bonfire", "value": 2, "quote": "two murids crouch around it"}
+      ],
+      "time_markers": ["NIGHT TO PRE-DAWN", "the cold hour before dawn", "first light", "tomorrow"],
+      "injuries": []},
+    {"scene": "12",
+      "characters_active": ["HADJI MURAD", "POLTORATSKY", "KHAN MAHOMA", "CHECHEN HORSEMEN", "POLTORATSKY'S OFFICERS"],
+      "characters_inert": ["PANOV"],
+      "ordered_events": [
+        {"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "rides into the forest-road clearing at the head of his party to meet the Russians", "quote": "rides into the clearing at the head of a small mounted party"},
+        {"position": 2, "who": "POLTORATSKY", "event": "departure", "detail": "rides out for a brief inconclusive skirmish with Chechen horsemen across the ravine", "quote": "rides out into a thin, inconclusive exchange"},
+        {"position": 3, "who": "CHECHEN HORSEMEN", "event": "departure", "detail": "break off the skirmish and withdraw into the trees", "quote": "turn their horses and pull back into the trees"}
+      ],
+      "objects": [
+        {"object": "weapons", "action": "used", "holder": "HADJI MURAD'S PARTY", "detail": "cleaned overnight, gleaming as they ride in"},
+        {"object": "rifle shot", "action": "used", "holder": "unknown", "detail": "single shot fired nearby, splinters a birch, no one hit"}
+      ],
+      "counts": [],
+      "time_markers": ["MORNING"],
+      "injuries": []},
+    {"scene": "13",
+      "characters_active": ["SIMON VORONTSOV", "HADJI MURAD", "ADJUTANT", "CHECHEN INTERPRETER", "UNNAMED MURIDS (four)"],
+      "characters_inert": ["SHARPSHOOTERS"],
+      "ordered_events": [
+        {"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "rides into the birch glade with four murids to meet Simon Vorontsov", "quote": "Hadji Murad rides in on a white-maned horse"}
+      ],
+      "objects": [
+        {"object": "gold-ornamented weapons", "action": "used", "holder": "HADJI MURAD", "detail": "catches light as the two men turn toward the fort road"}
+      ],
+      "counts": [
+        {"what": "murids accompanying Hadji Murad", "value": 4, "quote": "four murids behind him in absolute formation"}
+      ],
+      "time_markers": ["MORNING"],
+      "injuries": []}
+  ]}

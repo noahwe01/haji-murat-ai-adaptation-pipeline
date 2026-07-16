@@ -1,0 +1,34 @@
+{
+  "pacing_score": 62,
+  "act_balance": {
+    "balanced": true,
+    "act_1_pct": 25,
+    "act_2_pct": 50,
+    "act_3_pct": 25,
+    "issues": [
+      "Act structure is proportionally correct (25/50/25 by scene count) but estimated runtime is 177.5 min — 57.5 min over 120-min target. All 135 scenes carry act-label '?' (no act metadata from Adaptation Agent). Act boundaries inferred by standard 3-act split: Act I S001-S034, Act II S035-S101, Act III S102-S135."
+    ]
+  },
+  "dialog_density_issues": [
+    "Act I has 11 scenes with dialog below 20% (S001, S002, S015, S017, S018, S019, S020, S021, S024, S026, S033) — dense visual-only opening is deliberate Tolstoy worldbuilding but risks losing audience engagement early.",
+    "Act III has 4 scenes with dialog below 30% (S112 at 14%, S113 at 21%, S132 at 29%, S134 at 19%) — these are near-silent action/death beats which are thematically appropriate for the final ambush, but S134 (154w, 19% dialog) feels under-voiced for a climactic moment.",
+    "Dialog density curve is strongly positive: Act I 24.5% → Act II 36.6% → Act III 66.1%. This is the correct trajectory and a structural strength."
+  ],
+  "dead_zone_verdict": [],
+  "acceleration_check": {
+    "act3_faster_than_act1": true,
+    "last_10_avg_words": 154,
+    "act1_avg_words": 140,
+    "note": "Act III average (115w) is faster than Act I (140w) — acceleration holds at the act level. However, the last 10 scenes (S126-S135) average 154w, which is SLOWER than both Act I (140w) and Act III overall (115w). The final 10 scenes include 4 scenes above 200w (S129: 210w, S130: 201w, S131: 201w, S133: 230w) — the screenplay brakes instead of sprinting to the finish. The death sequence (S129-S135) is verbose where it should be staccato.",
+    "problem": "Last 10 scenes avg 154w exceeds Act I avg 140w — climax decelerates instead of accelerating"
+  },
+  "variation_verdict": "Borderline — variation score 40.2 is at the threshold (target >40). Dynamic range exists but is fragile. 13 scenes exceed 200w clustered in Act II and the final sequence; the mid-range 100-160w band is overrepresented (majority of scenes). The screenplay has tempo but not enough contrast between intimate beats and action sequences.",
+  "cut_suggestions": [
+    "S129-S131 (three consecutive 200-210w scenes near climax) — merge or compress; the death charge should accelerate not expand. Target: each under 120w.",
+    "S133 (230w, dialog 47%) — longest scene in the screenplay sits at the climax. Break into two shorter beats or cut descriptive passages to under 150w.",
+    "S017-S021 (five consecutive low-dialog scenes in Act I, 7-18% dialog) — five atmospheric scenes back-to-back risks early audience disengagement. Cut or merge at least two; S018 or S020 are weakest (similar tone to neighbors).",
+    "S112-S113 (consecutive 150w, 14-21% dialog, Act III) — two near-identical contemplative beats before the ambush. One is sufficient; merge into single 100w scene.",
+    "S134 (154w, dialog 19%) — a near-silent scene in the final 3 scenes of the screenplay. Either give Haji Murat a final line or cut to pure action at 60-80w.",
+    "Runtime compression: 177.5 min requires eliminating ~44 scenes or compressing equivalent word count to reach 120 min target. Priority cuts: Act II overlong sequences and the verbose climax block S129-S135."
+  ]
+}

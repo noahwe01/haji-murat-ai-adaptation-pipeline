@@ -1,0 +1,348 @@
+{
+  "new_characters": [
+    {
+      "name": "Eldar",
+      "initial_description": "Hadji Murad's young murid — broad-shouldered, woman-thin waist, beautiful ram-like eyes, beginnings of a brown beard; a Lesghian; utterly devoted, silent, statue-like in women's presence.",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado",
+      "initial_description": "Chechen kunak, about 40, small beard, long nose, black eyes; master of the house who risks his life to shelter Hadji Murad out of sacred kunak duty.",
+      "role": "supporting"
+    },
+    {
+      "name": "Bata",
+      "initial_description": "Sado's brother; sinewy, short-legged, almost black from sun, frayed yellow Circassian coat; cheerful, bold scout who guides Khan Mahoma to Vorontsov.",
+      "role": "supporting"
+    },
+    {
+      "name": "Khan Mahoma",
+      "initial_description": "Hadji Murad's murid and chief envoy; rosy, round-faced, lashless black eyes, beaming joy-of-life expression; conducts the opening diplomatic mission to Vorontsov.",
+      "role": "supporting"
+    },
+    {
+      "name": "Khanefi",
+      "initial_description": "Avar murid; thick-set, hairy, eyebrows meeting; manages all of Hadji Murad's property and pack animals; sworn brother who manages HM's household.",
+      "role": "supporting"
+    },
+    {
+      "name": "Gamzalo",
+      "initial_description": "Chechen murid; short red beard, no eyebrows or eyelashes, blind in one eye, scar across nose and face; silent, menacing guard; instinctively takes defensive position without orders.",
+      "role": "supporting"
+    },
+    {
+      "name": "Panov",
+      "initial_description": "Non-commissioned officer at Vozdvizhensk; long-suffering, pragmatic, fair; leads the ambush party; breaks up soldiers' bickering about the cashbox.",
+      "role": "supporting"
+    },
+    {
+      "name": "Avdeev",
+      "initial_description": "Russian soldier; cheerful, homesick, went to war voluntarily in place of his brother; forms easy human connection even with Chechen scouts; mortally wounded in the skirmish.",
+      "role": "supporting"
+    },
+    {
+      "name": "Nikitin",
+      "initial_description": "Russian soldier; morose, distrustful; grumbles about the company commander's cashbox theft; suspicious of Chechens.",
+      "role": "supporting"
+    },
+    {
+      "name": "Bondarenko",
+      "initial_description": "Russian soldier, third man in ambush party; Ukrainian, cheerful voice; accompanies Avdeev to deliver the scouts to the fort.",
+      "role": "supporting"
+    },
+    {
+      "name": "Simon Vorontsov",
+      "initial_description": "Prince, Commander of Kurin Regiment, Imperial Aide-de-Camp, son of Commander-in-Chief; long-faced, English-accented Russian; politically ambitious, pleased to secure Hadji Murad's defection before his superior Meller-Zakomelsky can.",
+      "role": "antagonist"
+    },
+    {
+      "name": "Marya Vasilevna",
+      "initial_description": "Princess, Vorontsov's wife; large-built, black-browed Petersburg beauty; warm, quick-minded, flirtatious with Poltoratsky; immediately charmed by Hadji Murad's blush.",
+      "role": "supporting"
+    },
+    {
+      "name": "Poltoratsky",
+      "initial_description": "Company commander, ex-Guard; wide-set kindly eyes; in a state of elation near danger; infatuated with Marya Vasilevna; first Russian to meet Hadji Murad face-to-face; surprised by his childlike smile.",
+      "role": "supporting"
+    },
+    {
+      "name": "Baron Freze",
+      "initial_description": "Ex-Guards officer reduced to ranks for duelling; Poltoratsky's fellow student at Cadet College; present at the wood-felling officers' breakfast.",
+      "role": "supporting"
+    },
+    {
+      "name": "Tikhonov",
+      "initial_description": "Poltoratsky's subaltern and roommate; brief appearance.",
+      "role": "supporting"
+    },
+    {
+      "name": "Vovilo",
+      "initial_description": "Poltoratsky's soldier-servant; brief domestic appearance.",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado's son",
+      "initial_description": "Fifteen-year-old boy with brilliant black eyes; runs to fetch his father and then Bata; holds Hadji Murad's horse at the midnight escape.",
+      "role": "supporting"
+    },
+    {
+      "name": "Bulka",
+      "initial_description": "Marya Vasilevna's curly-haired six-year-old son from her first marriage; sits on Hadji Murad's knee; symbol of the unexpected human gentleness in the conqueror.",
+      "role": "supporting"
+    },
+    {
+      "name": "Regimental Adjutant",
+      "initial_description": "Sits straight, cold handsome face; stern card partner; procedural figure in Vorontsov's household.",
+      "role": "supporting"
+    },
+    {
+      "name": "Tutor",
+      "initial_description": "Shaggy young Petersburg University graduate sent to tutor Bulka; gloomy appearance; Vorontsov's card partner.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Hadji Murad arrives at Sado's saklya with murid Eldar; Sado reveals Shamil has ordered his capture dead or alive; kunak bond declared.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad dispatches Bata as guide to lead Khan Mahoma through Russian lines to Prince Vorontsov with his surrender offer.",
+      "act": 1,
+      "subplot_id": "envoy_mission"
+    },
+    {
+      "description": "Sado's wife and daughter serve food; silent gendered ritual; Eldar stone-still while women present — cultural texture of Chechen hospitality.",
+      "act": 1,
+      "subplot_id": null
+    },
+    {
+      "description": "Hadji Murad passes a secret note for his son via Sado — first explicit reference to the family-rescue goal.",
+      "act": 1,
+      "subplot_id": "hm_family_rescue_goal"
+    },
+    {
+      "description": "Sado knowingly risks death to shelter Hadji Murad; his kunak duty overrides fear of Shamil — dramatizes the moral weight of the kunak code.",
+      "act": 1,
+      "subplot_id": "sado_kunak_loyalty"
+    },
+    {
+      "description": "Midnight warning: whole aoul knows Hadji Murad is here; Elders assemble in mosque to detain him. Sado wakes him.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad and Eldar make a night escape from the aoul on horseback; aoul men pursue but are bluffed off by raised rifle.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad reaches murids' forest camp; meets Khanefi, Gamzalo; prays; dreams of capturing Shamil and ruling Chechnya — exposes his hidden ambition and longing.",
+      "act": 1,
+      "subplot_id": "hm_murids_introduced"
+    },
+    {
+      "description": "Khan Mahoma returns: Vorontsov promises to receive Hadji Murad well tomorrow at the Shalin glade wood-felling site.",
+      "act": 1,
+      "subplot_id": "envoy_mission"
+    },
+    {
+      "description": "Russian ambush party at Vozdvizhensk: Panov, Avdeev, Nikitin, Bondarenko on night watch; cashbox complaint; Avdeev's homesickness monologue (went to war for his brother).",
+      "act": 1,
+      "subplot_id": "avdeev_arc"
+    },
+    {
+      "description": "Bata and Khan Mahoma intercepted by ambush soldiers; Avdeev connects humanly with the scouts; they are delivered safely to the fort.",
+      "act": 1,
+      "subplot_id": "envoy_mission"
+    },
+    {
+      "description": "Vorontsov's midnight drawing room: card game, champagne, Poltoratsky infatuated with Marya Vasilevna; Vorontsov receives envoy news; couple's excitement about Hadji Murad.",
+      "act": 1,
+      "subplot_id": "vorontsov_household"
+    },
+    {
+      "description": "Wood-felling morning: Poltoratsky's officers eat and joke about General Sleptsov's death — ironic heroism myth, indifference to actual violence.",
+      "act": 1,
+      "subplot_id": null
+    },
+    {
+      "description": "Chechen pursuers fire on Russian line; Poltoratsky orders volley; Avdeev is shot in the stomach — mortal wound during a pointless skirmish.",
+      "act": 1,
+      "subplot_id": "avdeev_arc"
+    },
+    {
+      "description": "Vorontsov rides up; tells Poltoratsky Hadji Murad is about to surrender; Poltoratsky deploys sharpshooters to escort route.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "FORMAL SURRENDER: Hadji Murad and five murids ride out of forest and meet Vorontsov. Hadji Murad speaks his surrender formula: 'I surrender to the Russian Tsar. I wished to do so long ago but Shamil would not let me.' Handshake; retinue introduced.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Soldiers comment on Hadji Murad: mix of admiration and resentment — 'What a lot of men that damned fellow has destroyed!' vs. 'He's a fine fellow — a real dzhigit!'",
+      "act": 1,
+      "subplot_id": null
+    },
+    {
+      "description": "Hadji Murad brought to Vorontsov's house; Marya Vasilevna receives him; he blushes at her hand; sits with little Bulka on his knee — human tenderness behind the warrior mask.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Vorontsov writes reports to General Kozlovsky and to his father — bureaucratic machinery activates around HM's defection; Vorontsov's jurisdictional anxiety about Meller-Zakomelsky surfaces.",
+      "act": 1,
+      "subplot_id": "jurisdictional_quarrel"
+    },
+    {
+      "description": "Kunak-gift exchange conversation: Marya Vasilevna teases HM that he'll go about like Adam; HM explains the kunak gift law. Light humor as political ice-breaker.",
+      "act": 1,
+      "subplot_id": null
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Sado's Saklya (Chechen Aoul)",
+      "description": "Guest chamber of kunak Sado in an unnamed Chechen aoul; low round table, cushions, fireplace niche with night light; women's quarters separate. Moral and narrative core: sacred hospitality space under mortal threat."
+    },
+    {
+      "name": "Chechen Aoul Night Streets",
+      "description": "Dark lanes and the upper mosque of the aoul at midnight; narrow sidestreets, wooden-shoe clatter, minarets visible against the stars. Site of Hadji Murad's escape."
+    },
+    {
+      "name": "Forest Camp (Murids' Glade)",
+      "description": "Glade in the forest beyond the aoul ravine; bonfire quickly extinguished; hobbled horse; burka on ground. Hadji Murad's hidden command post before the surrender."
+    },
+    {
+      "name": "Vozdvizhensk Fort",
+      "description": "Advanced Russian fort ten miles from Sado's aoul; barracks, soldiers' houses, best house (Vorontsov's); the Russian command center and hinge point of the plot."
+    },
+    {
+      "name": "Ambush Post (Plane Tree)",
+      "description": "Night outpost 20 paces off the road through forest; blackened broken plane tree; low-stakes watch that becomes the intercept point for Bata and Khan Mahoma."
+    },
+    {
+      "name": "Vorontsov Drawing Room",
+      "description": "Spacious carpeted room with rich curtains, four-candle card table, champagne; theatrical imperial domesticity in a frontier fort."
+    },
+    {
+      "name": "Shalin Glade (Wood-Felling Site)",
+      "description": "Forest glade six miles beyond Shagirinsk Gate; log-felling operation, bonfires in morning mist; site of the formal surrender meeting — cinematically critical."
+    },
+    {
+      "name": "Road to Fort (Surrender Route)",
+      "description": "Forest road from glade back to Vozdvizhensk along which Vorontsov and Hadji Murad ride together after the handshake."
+    }
+  ],
+  "tension": 0.75,
+  "act_estimation": 1,
+  "filmability_score": 0.85,
+  "theme_hints": [
+    "Sacred hospitality vs. political survival (kunak code under Shamil's death order)",
+    "The human beneath the warrior: Hadji Murad's blush, his gentleness with Bulka, his childlike smile",
+    "Parallel worlds: Chechen kunak night / Russian card-and-champagne night — same stakes, different register",
+    "Avdeev as the human cost: the ordinary man who substituted for his brother, now shot for nothing",
+    "Defection as double betrayal: HM betrays Shamil, but also risks betraying his own people",
+    "Imperial machinery vs. human scale: soldiers' gossip, Vorontsov's jurisdictional anxiety, Marya Vasilevna's drawing room politics",
+    "Dreams and reality: HM dreams of capturing Shamil, wakes to jackals — desire vs. dependence",
+    "The heroism myth (Sleptsov chapter): soldiers joke about hand-to-hand glory while Avdeev bleeds"
+  ],
+  "symbols": [
+    "Kunak bond — sacred obligation that overrides self-preservation",
+    "Stars and the Pleiades — HM checks them mid-prayer; time passing, fate marking",
+    "Rifle raised in darkness — power through threat, not violence; HM's authority without bloodshed",
+    "Avdeev's wound in the stomach — the gut-shot of pointless war, the body as price of abstraction",
+    "Hadji Murad on white-maned horse with gold ornaments — the legend made visible for the first time",
+    "Bulka on HM's knee — innocence as bridge between enemies",
+    "Honey at Sado's table — sweetness and calm before the danger"
+  ],
+  "notes": "This is the pivotal structural hinge of the entire novella: the surrender. Chapters I–VI deliver setup (Chechen night), complication (aoul escape, envoy mission), parallel subplot (Russian soldiers' night watch), and the climactic Act 1 Turning Point — Hadji Murad formally crosses to the Russian side. Avdeev's wounding here is dramaturgically crucial: it ties the Chechen political drama to a specific human cost at the exact moment of the 'good news' (the surrender). The chunk has exceptional filmability — nearly all scenes are visual action or charged dialogue. The Sado kunak-hospitality section and the surrender itself are cinematic setpieces. Marya Vasilevna and Poltoratsky both appear here fully; their subplot is entirely cuttable in compression. Gamzalo is introduced as a menace — his later role (staying loyal to Shamil's worldview among HM's murids) is seeded here by his refusal to look at Vorontsov.",
+  "fusion_candidates": [
+    {
+      "chars": ["Bondarenko", "Nikitin"],
+      "reason": "Confirmed by chunk: both are minor crowd-soldiers in the ambush party with near-identical functions (sit, react, comment). Nikitin's grumbling about the cashbox and Bondarenko's cheerful Ukrainian voice are interchangeable — either can absorb the other. The cashbox subplot is cuttable; if cut, Nikitin has zero remaining function and can be folded into Bondarenko or dropped entirely. Confidence 0.90 confirmed."
+    },
+    {
+      "chars": ["Panov", "Serogin"],
+      "reason": "Panov confirmed as present at Avdeev's wounding. Serogin (Avdeev's other deathbed companion from later chapters) shares identical function of loyal witness. Can be merged in film into a single soldier-friend character. Confidence 0.85 confirmed."
+    },
+    {
+      "chars": ["Vovilo", "Ivan Petrovich"],
+      "reason": "Vovilo appears in this chunk as Poltoratsky's servant — passive, reactive. Ivan Petrovich exists as off-screen reference point for Vovilo's self-pity (later chapter). Both are non-load-bearing. If Poltoratsky's domestic scenes are retained at all, one name suffices. Confidence 0.85 confirmed."
+    },
+    {
+      "chars": ["Baron Freze", "Tikhonov"],
+      "reason": "Both appear solely as Poltoratsky's companions in the wood-felling breakfast and bedroom scenes respectively. Neither carries independent narrative weight. In compression, Poltoratsky can speak to one generic comrade. Non-historical, low weight.",
+      "confidence": 0.80
+    }
+  ],
+  "cuttable": [
+    {
+      "element": "Company cashbox subplot (commander borrowing from funds)",
+      "reason": "Soldiers' conversation about the missing cashbox money is entirely self-contained and non-load-bearing. It characterizes Nikitin's moroseness but adds nothing to the HM trajectory or Avdeev's arc. Confirmed cuttable thread."
+    },
+    {
+      "element": "Baron Freze character arc",
+      "reason": "Freze appears only in the wood-felling officers' breakfast. Reduced to ranks for duelling — interesting detail, zero narrative function. Cut."
+    },
+    {
+      "element": "Tikhonov bedroom scene with Poltoratsky",
+      "reason": "Post-card-game scene between Poltoratsky and Tikhonov is pure filler — characterization that can be achieved through Poltoratsky's visible infatuation during the card game itself."
+    },
+    {
+      "element": "Vovilo the serf (Poltoratsky's servant)",
+      "reason": "Confirmed cuttable. His resentment/self-pity arc (comparing himself to Ivan Petrovich) is non-load-bearing. His domestic function can be absorbed silently."
+    },
+    {
+      "element": "Marya Vasilevna / Poltoratsky infatuation subplot",
+      "reason": "Poltoratsky's romantic distraction during the card game and his reverie afterward are atmospheric but not structurally necessary. Marya Vasilevna's role can be retained minimally (the drawing-room reception of HM) without the infatuation frame."
+    },
+    {
+      "element": "General Sleptsov heroism-myth discussion among officers",
+      "reason": "Tolstoy's ironic anti-heroism commentary via the Sleptsov anecdote is a literary digression. Strong thematic content but delivered as authorial voice, not through action. Film can imply the theme through Avdeev's wounding without the officers' meta-commentary."
+    },
+    {
+      "element": "Vorontsov's jurisdictional anxiety about Meller-Zakomelsky",
+      "reason": "Confirmed as a cuttable political-framing thread (reach=1). In film, Vorontsov's ambition can be shown through his eagerness to host HM without the bureaucratic sub-anxiety about chain of command."
+    },
+    {
+      "element": "Regimental Adjutant and Tutor as card-game characters",
+      "reason": "Both exist solely to populate the card table. Non-historical, zero independent function. The drawing room scene needs only Vorontsov, Marya Vasilevna, and Poltoratsky."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Russian ambush party night watch — Panov, Avdeev, Nikitin, Bondarenko smoke, gossip about cashbox, intercept Bata and Khan Mahoma",
+      "current_pov": "Russian soldiers (Avdeev / Panov)",
+      "recommended_pov": "Restage as Bata's POV approaching Russian lines in darkness; the soldiers appear as silhouettes and threat, then as bumbling humans. Preserves Avdeev's humanity as surprise discovery rather than predicate. Alternatively cut the whole night-watch scene and show only the moment Vorontsov receives the envoy (reported in Chapter III)."
+    },
+    {
+      "scene": "Vorontsov drawing room card game and Poltoratsky's infatuation",
+      "current_pov": "Poltoratsky / Marya Vasilevna (imperial social world)",
+      "recommended_pov": "If retained: restage as Hadji Murad later being told of the card-game world (e.g. Loris-Melikov describing Tiflis society) so the imperial frivolity is filtered through HM's alien perspective. Or cut entirely — HM's first meeting with Vorontsov at the Shalin glade carries the diplomatic weight without the drawing room prep."
+    },
+    {
+      "scene": "Wood-felling officers' breakfast and Sleptsov heroism-myth discussion",
+      "current_pov": "Poltoratsky and officers (Russian military culture)",
+      "recommended_pov": "Cut Sleptsov discussion. Retain Poltoratsky's elation-in-danger as a brief visual beat (him riding up cheerfully) before Avdeev is shot. The irony lands harder if it is action, not commentary."
+    },
+    {
+      "scene": "Hadji Murad's forest camp prayer and dream of capturing Shamil",
+      "current_pov": "Hadji Murad (inner monologue / dream)",
+      "recommended_pov": "Keep as HM POV — this is one of the rare direct-access moments into his hidden goal and ambition. Film can render via light/shadow on his face, the whistle signal, and a brief dream-image insert. Already protagonist POV — no refocalization needed."
+    },
+    {
+      "scene": "Soldiers comment after the surrender procession rides past",
+      "current_pov": "Anonymous Russian soldiers on the road",
+      "recommended_pov": "Refocalize as Hadji Murad overhearing/sensing the soldiers' stares and muttering — his smile in return is already in the text. This keeps the chorus commentary while anchoring it in the protagonist's experience."
+    },
+    {
+      "scene": "Poltoratsky's bedroom scene (post-card game, Tikhonov exchange, fantasy of Marya Vasilevna)",
+      "current_pov": "Poltoratsky",
+      "recommended_pov": "Cut. Zero information relevant to HM's trajectory. If the infatuation beat is needed, it is already implicit in the card-game scene."
+    }
+  ]
+}

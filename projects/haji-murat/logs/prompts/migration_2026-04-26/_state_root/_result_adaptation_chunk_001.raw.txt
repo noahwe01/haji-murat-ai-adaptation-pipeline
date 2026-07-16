@@ -1,0 +1,79 @@
+{
+  "scenes": [
+    {
+      "scene_id": "S001",
+      "slug": "EXT. SUMMER FIELD — EDGE OF HARVESTED RYE — LATE AFTERNOON",
+      "action": "A man's boots move through tall grass at the edge of a rye field. The rye has been half-cut; the stubble rows end abruptly where the scythes stopped. He carries a loose nosegay — clover, ox-eye daisies, cornflowers, pale scabious. He stops at a ditch. Below, among the broken weeds and shadow, a single crimson thistle grows in full, violent bloom. He looks at it. He wraps his handkerchief around his hand and climbs into the ditch. He grips the stalk. He pulls. The thistle does not yield. He pulls again — harder — and the stalk bends but does not break. He works at it methodically, breaking the fibers one by one. When he finally wrenches it free, the stalk is frayed, white-fibered, ugly. The flower tilts, already dimming. He holds it beside the nosegay. It does not belong. He lets it drop back into the ditch. He stands for a moment looking down at what he destroyed, then turns and walks away into the rye light.",
+      "dialog_draft": [],
+      "emotional_beats": [
+        {
+          "beat": "The man sees the thistle and reaches for it — an impulse, not a plan",
+          "audience_feels": "Unease at the casual desire to possess something self-sufficient",
+          "character_feels": "Unconscious acquisitiveness — he wants to incorporate the wild into his arrangement"
+        },
+        {
+          "beat": "The thistle resists — the struggle is longer and harder than expected",
+          "audience_feels": "Respect for the plant; discomfort with the man's persistence",
+          "character_feels": "Irritation, then determination — he will not be defeated by a weed"
+        },
+        {
+          "beat": "The thistle is broken free — and is immediately diminished",
+          "audience_feels": "Grief; the beauty was the resistance, not the object",
+          "character_feels": "A hollow small shame he does not name"
+        },
+        {
+          "beat": "He drops the thistle back into the ditch and walks away",
+          "audience_feels": "The image stays — the ditch, the ruined flower, the empty field. Something has been announced.",
+          "character_feels": "Nothing he can articulate. He keeps walking."
+        }
+      ],
+      "emotional_core": "The reflexive violence of possession — beauty destroyed in the act of reaching for it",
+      "visual_note": "Late afternoon light, golden-amber, throwing long shadows across stubble rows. The nosegay is soft-colored — whites, pinks, pale blues. The thistle is an anomaly: deep crimson, spined, architecturally complex. The ditch is shadowed and damp. The moment of plucking is unhurried and mechanical — no drama, which is the horror. The dropped thistle lies in the ditch mud, still technically intact but tilting, its color already fading from crimson to brown at the edges. The man's retreating figure is small against the rye field. The camera does not follow him — it stays on the ditch.",
+      "characters": ["Narrator (Authorial I)"],
+      "duration_minutes": 2.5,
+      "confidence": 0.88,
+      "confidence_breakdown": {
+        "narrative_coherence": 0.92,
+        "character_consistency": 0.85,
+        "visual_filmability": 0.92,
+        "dialog_quality": 1.0,
+        "show_dont_tell": 0.95
+      },
+      "show_dont_tell_score": 0.95,
+      "inner_monologue_converted": [
+        {
+          "original": "\"But what energy and tenacity! With what determination it defied the destruction of all the surrounding flowers!\" — narrator's meditation on the thistle's vitality",
+          "converted_to": "The camera lingers on the ditch after the man has walked away. The thistle lies where it fell — broken at the stalk but the flower head still intact, still crimson. Wind moves the rye above. The thistle does not move. Static shot, held."
+        },
+        {
+          "original": "\"Ah, what a destructive creature is man!\" — authorial exclamation of self-indictment",
+          "converted_to": "The man's retreating boots in the stubble — ordinary, unhurried. No glance back. The nosegay swinging at his side, the thistle gone from it, the gap invisible."
+        },
+        {
+          "original": "\"I felt sorry to have vainly destroyed a flower that looked beautiful in its proper place.\"",
+          "converted_to": "Close on the ditch: the ruined thistle among dock leaves and wet earth. Then — cut hard to black. Title card: HADJI MURAT. 1851."
+        }
+      ],
+      "on_the_nose_risk": [],
+      "subplot_threads": ["narrator_frame", "thistle_emblem"],
+      "source_chunks": [0],
+      "transition": "Hard cut to black on the ditch — the ruined flower holds in the eye as the title appears. The violence of the cut rhymes with the violence of the plucking. What follows is what the thistle was already carrying."
+    }
+  ],
+  "skipped_elements": [
+    "Botanical catalogue of field flowers (clover, daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder) — compressed to impressionistic glimpse in action line; individual species naming is literary texture with no filmable equivalent and zero plot function → SC-06, SS-04",
+    "Narrator's philosophical exclamation ('But what energy and tenacity!... What vitality! Man has conquered everything...') — translated entirely into visual grammar (static shot of ditch after departure, held; the thistle immobile in wind); no voice-over used → NF-04, SC-06",
+    "The bumble-bee asleep in the flower — charming literary detail but distracts from the central act of destruction; cut entirely → SC-01, SS-04",
+    "Narrator's self-reproach ('I threw it away feeling sorry') — translated into physical action (the dropped thistle, the retreat without looking back) → NF-04, SC-06"
+  ],
+  "continuity_warning": "No prior scenes. This is the opening frame. NF-08 applies: the thistle frame is used ONCE here at opening; any closing echo must carry thematic ADVANCE not repetition. The title card ('HADJI MURAT. 1851.') is the bridge to the main narrative — the frame has done its work."
+}
+
+DECISIONS:
+- TRANSLATE_TO_VISUAL narrator_voice: auktorial-allwissender Erzähler; kein Voice-Over erlaubt → NF-04
+- KEEP_FRAME thistle_prologue: einmaliger Opening-Bracket; thematisches Fundament des Werks → NF-08, SC-07
+- CUT botanical_catalogue: reine Literatur-Textur, nicht filmbar, kein Plot-Beitrag → SC-06, SS-04
+- CUT narrator_exclamations: "What vitality!"-Monolog → visuell übersetzt (Kamera bleibt auf Distel, Mann geht) → NF-04, SC-06
+- CUT bumblebee_detail: Atmosphäre ohne dramatische Funktion → SC-01, SS-04
+- TRANSLATE_TO_VISUAL narrator_self_reproach: physische Handlung statt Selbstkommentar → NF-04
+- KEEP thistle_as_emblem: trägt Kernthema (unbesiegbare Vitalität vs. imperiale Zerstörung) → M-02

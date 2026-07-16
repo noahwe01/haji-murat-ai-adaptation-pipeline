@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "story_analyst chunk output caps",
+  "description": "Output caps for Phase 1 story_analyst per-chunk JSON. Hard-cut applied post-LLM.",
+  "type": "object",
+  "properties": {
+    "active_characters": {"type": "array", "maxItems": 40},
+    "new_characters":    {"type": "array", "maxItems": 20},
+    "plot_elements":     {"type": "array", "maxItems": 25},
+    "new_locations":     {"type": "array", "maxItems": 15},
+    "theme_hints":       {"type": "array", "maxItems": 12, "items": {"type": "string", "maxLength": 200}},
+    "symbols":           {"type": "array", "maxItems": 12, "items": {"type": "string", "maxLength": 200}},
+    "fusion_candidates": {"type": "array", "maxItems": 15},
+    "cuttable":          {"type": "array", "maxItems": 20},
+    "refocalize":        {"type": "array", "maxItems": 15},
+    "notes":             {"type": "string", "maxLength": 1500}
+  }
+}

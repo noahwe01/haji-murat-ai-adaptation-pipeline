@@ -1,0 +1,114 @@
+{
+  "scenes": [
+    {
+      "scene_id": "S004",
+      "slug": "EXT./INT. SADO'S SAKLYA — NIGHT",
+      "action": "The compound is dark. A single clay chimney bleeds smoke into a moonless sky. Hadji Murad reins in at the gate, his murid Eldar already off his horse before the hooves have stopped. The old grandfather on the roof stirs under a sheepskin — blinks, sits up, recognizes the face below. He descends the roof-ladder backward, each rung deliberate, mumbling toothless syllables into the dark. Eldar steps forward to take the bridle from the old man's hands without a word — one palm, a small redirect, no contest. Hadji Murad dismounts, favoring his left leg on the landing, and ducks under the penthouse. A boy — fifteen, sloe-dark eyes wide — freezes in the doorway, staring. Inside, the woman of the house moves ahead of the lamp, setting three cushions along the front wall with the unhurried precision of someone who has done this a thousand times and means it every time. The rifles and sword of the master of the house hang between two large posts on one wall; the old man lifts Hadji Murad's burka, rifle, and sword and adds them to that wall without being asked.",
+      "dialog_draft": [
+        {
+          "character": "Hadji Murad",
+          "line": "Selaam aleikum.",
+          "subtext": "I know who you are. You know who I am. The greeting is a key in a lock — it opens what follows.",
+          "action_before": "He pushes back the sheepskin from his face. The old man's moist eyes settle on him and stop blinking."
+        },
+        {
+          "character": "Old man on the saklya roof",
+          "line": "Aleikum, selaam.",
+          "subtext": "You are recognized. You are welcome. I will ask nothing of what you are running from.",
+          "action_before": "The old man's toothless grin opens slowly. He grips the ladder rail and begins the descent, shaking his head."
+        },
+        {
+          "character": "Old man on the saklya roof",
+          "line": "Run to the mosque. Fetch your father.",
+          "subtext": "This is beyond what I hold alone. Sado must be here.",
+          "action_before": "He reaches ground, turns to the boy in the doorway, and points once — short, decisive."
+        },
+        {
+          "character": "Sado's Wife",
+          "line": "May thy coming bring happiness.",
+          "subtext": "Whatever you carry with you, I accept it. The house accepts it.",
+          "action_before": "She sets the last cushion, straightens, and bows — hands folded, eyes on the floor."
+        },
+        {
+          "character": "Hadji Murad",
+          "line": "May thy sons live.",
+          "subtext": "The blessing is a debt acknowledged — and a thought he cannot stop: his own son, Yusuf, not here, not safe.",
+          "action_before": "He hands the burka to the old man. His eyes move across the room once — roof, walls, door — before they settle."
+        }
+      ],
+      "emotional_beats": [
+        {
+          "beat": "Hadji Murad is recognized in silence, admitted without explanation",
+          "audience_feels": "Relief — and unease. He is safe for this moment. The moment is very small.",
+          "character_feels": "Tactical calm. He catalogs the space, the exits, the number of people. The greeting formulas run on automatic."
+        },
+        {
+          "beat": "Eldar displaces the old man at the bridle without a word",
+          "audience_feels": "The weight of professional protection — these two have done this before, in other villages, other nights.",
+          "character_feels": "Eldar: duty as reflex. Old man: no offense taken — he understands the hierarchy of danger."
+        },
+        {
+          "beat": "The boy stares — Hadji Murad doesn't look at him",
+          "audience_feels": "The boy is us. We are watching a legend arrive in a small room.",
+          "character_feels": "The boy: arrested awe. Hadji Murad: the boy is not a threat and not a resource. He does not exist yet."
+        },
+        {
+          "beat": "Sado's wife sets the cushions and names the ritual blessing",
+          "audience_feels": "Something domestic and sacred is being performed. Hospitality as armor against the war outside.",
+          "character_feels": "Sado's wife: she is holding the code in place with her body, her hands, her words. She knows what she is doing."
+        },
+        {
+          "beat": "His weapons join the master's weapons on the wall",
+          "audience_feels": "He is a guest. He has surrendered his arms to trust. This is an act of faith in this household.",
+          "character_feels": "Hadji Murad: he has entered a temporary truce with fear. For this night, someone else holds the rifle."
+        }
+      ],
+      "emotional_core": "Refuge received — but fragile, borrowed, contingent on everything going unsaid",
+      "visual_note": "Interior lit by a single oil lamp and chimney glow — amber on clay walls, long shadows. The weapons rack on the wall is the visual anchor: two sets of arms hanging together, equals in the dark. The cushions on the floor glow faintly yellow. Sado's wife stays in peripheral light — always in motion, never central. The boy stands in the threshold: half-inside, half-out, one foot in both worlds. Eldar remains near the door throughout — never fully entering, never fully outside.",
+      "characters": ["Hadji Murad", "Old man on the saklya roof", "Eldar (Hadji Murad's Murid)", "Sado's Wife", "Sado's Son"],
+      "duration_minutes": 2.5,
+      "confidence": 0.87,
+      "confidence_breakdown": {
+        "narrative_coherence": 0.90,
+        "character_consistency": 0.88,
+        "visual_filmability": 0.89,
+        "dialog_quality": 0.83,
+        "show_dont_tell": 0.86
+      },
+      "show_dont_tell_score": 0.86,
+      "inner_monologue_converted": [
+        {
+          "original": "Hadji Murad walking with a slight limp — implied weariness and old wound",
+          "converted_to": "He dismounts favoring the left leg on landing — one visible hesitation, then the body corrects itself and he moves without acknowledgment"
+        },
+        {
+          "original": "The old man recognizing him and feeling hospitality duty activate",
+          "converted_to": "The toothless grin, the slow descent backwards down the ladder, the immediate move to take the bridle — recognition translates directly into action, no speech needed"
+        },
+        {
+          "original": "Hadji Murad's thought of his family when delivering the blessing 'May thy sons live'",
+          "converted_to": "After speaking the line, his eyes drift briefly — not to the woman, not to the room — to the middle distance. One beat. Then they settle."
+        }
+      ],
+      "on_the_nose_risk": [],
+      "subplot_threads": ["hospitality_code", "family_captivity_HM", "pursuit_threat"],
+      "source_chunks": [4],
+      "transition": "The boy runs — his bare feet on packed earth, the lamp-light of the saklya shrinking behind him — and the sound of the mosque's wooden door carries into the next scene"
+    }
+  ],
+  "skipped_elements": [
+    "Detailed description of the grandfather's clothing (greasy beshmet, nightcap) — atmospheric in prose, rendered instead through behavior and movement on screen; SC-06 TRANSLATE_TO_VISUAL",
+    "The woman's clothing description (yellow smock, red beshmet, blue trousers) — color palette preserved as visual note rather than action text; SC-06 TRANSLATE_TO_VISUAL",
+    "The detail of 'two large posts' holding the weapons — absorbed into visual note; SC-01 single-function detail, no dramatic function beyond orientation"
+  ],
+  "continuity_warning": ""
+}
+
+DECISIONS:
+- TRANSLATE_TO_VISUAL old_man_clothing: greasy beshmet detail is prose atmosphere → rendered as descending behavior → SC-06
+- TRANSLATE_TO_VISUAL limp_interiority: weariness coded as visible landing favor, no VO → NF-04, SC-06
+- KEEP hospitality_ritual: full blessing exchange retained; voice-profile signature moment for HM and Sado's Wife → M-05
+- TRANSLATE_TO_VISUAL family_thought: "May thy sons live" blessing + drift gaze replaces interior grief reference → NF-04
+- KEEP boy_threshold: Sado's Son retained as witness-figure; arc anchor for Act 3 → M-02, SS-06
+- KEEP eldar_displacement: murid's bridle gesture kept; voice-profile action beat, establishes protective role → M-05
+- CUT weapons_post_description: two-large-posts detail — no dramatic function, absorbed into visual note → SC-01, SC-02

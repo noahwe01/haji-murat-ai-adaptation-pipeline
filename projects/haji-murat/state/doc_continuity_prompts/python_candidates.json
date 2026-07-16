@@ -1,0 +1,189 @@
+[
+ {
+  "candidate_id": "R1",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "5"
+  ],
+  "description": "'metal ewer' is used in scene 5 without prior introduction (pours cold water over Hadji Murad's hands)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R2",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "6"
+  ],
+  "description": "'folded letter' is transferred in scene 6 without prior introduction (Bata's letter, taken by Panov to send up the chain)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R3",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "6"
+  ],
+  "description": "'rifle' is used in scene 6 without prior introduction (drops rifle butt to the ground while crouching by the fire)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R4",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "8"
+  ],
+  "description": "'pistol' is used in scene 8 without prior introduction (hand finds it instinctively upon waking)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R5",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "10"
+  ],
+  "description": "'bridle' is used in scene 10 without prior introduction (dropped, then taken up again as he resumes riding)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R6",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "11"
+  ],
+  "description": "'burka' is used in scene 11 without prior introduction (spread on the ground for prayer, earth shaken from it afterward)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R7",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "14"
+  ],
+  "description": "'kinzhal' is used in scene 14 without prior introduction (Boy reaches for it; Hadji Murad lets him touch hilt)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R8",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "15"
+  ],
+  "description": "'gold repeater watch' is transferred in scene 15 without prior introduction (Given to Hadji Murad, examined, handed back)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R9",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "18"
+  ],
+  "description": "'sealed dispatch' is transferred in scene 18 without prior introduction (Delivered by courier, announces Hadji Murad's defection)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R10",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "25"
+  ],
+  "description": "'dagger' is used in scene 25 without prior introduction (Hand rests on hilt, not drawn)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R11",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "27"
+  ],
+  "description": "'dispatch/folder' is used in scene 27 without prior introduction (Opens the folder for Nicholas's review)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R12",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "32"
+  ],
+  "description": "'seal' is used in scene 32 without prior introduction (Pressed onto the proclamation after Shamil's nod)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R13",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "34"
+  ],
+  "description": "'Gurda sword' is transferred in scene 34 without prior introduction (Given by Hadji Murad as a parting gift)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R14",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "36"
+  ],
+  "description": "'gold coins' is transferred in scene 36 without prior introduction (Seven piles of ten swept into his sleeve)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R15",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "37"
+  ],
+  "description": "'silver coin (Yusuf's token)' is used in scene 37 without prior introduction (On leather thong at throat, closed in his hand)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R16",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "43"
+  ],
+  "description": "'powder flask' is used in scene 43 without prior introduction (Last flask set within reach at the bank wall)",
+  "evidence_quotes": []
+ },
+ {
+  "candidate_id": "R17",
+  "rule": "object_no_establishment",
+  "type": "object",
+  "severity": "low",
+  "scenes": [
+   "44"
+  ],
+  "description": "'cloth bundle (severed head)' is transferred in scene 44 without prior introduction (Delivered by kneeling courier onto the carpet)",
+  "evidence_quotes": []
+ }
+]

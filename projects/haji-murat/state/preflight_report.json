@@ -1,0 +1,143 @@
+{
+  "project_root": "projects/haji-murat",
+  "state_file": "story_state.json",
+  "exit_code": 0,
+  "ok": true,
+  "counts": {
+    "pass": 15,
+    "warn": 0,
+    "fail": 0
+  },
+  "checks": [
+    {
+      "name": "config_exists",
+      "severity": "PASS",
+      "message": "Config: config/projekt.yaml",
+      "detail": {}
+    },
+    {
+      "name": "state_exists",
+      "severity": "PASS",
+      "message": "State: story_state.json",
+      "detail": {}
+    },
+    {
+      "name": "state_meta_sync",
+      "severity": "PASS",
+      "message": "State-Meta sync mit Config (source_file, target_runtime_minutes, expansion_mode)",
+      "detail": {}
+    },
+    {
+      "name": "state_meta_length_class",
+      "severity": "PASS",
+      "message": "source_length_class='novel' bei word_count=46290",
+      "detail": {}
+    },
+    {
+      "name": "state_meta_challenge",
+      "severity": "PASS",
+      "message": "adaptation_challenge='compression'",
+      "detail": {}
+    },
+    {
+      "name": "source_file",
+      "severity": "PASS",
+      "message": "hadji_murat.txt (260,045 bytes)",
+      "detail": {
+        "bytes": 260045,
+        "path": "projects/haji-murat/sources/hadji_murat.txt"
+      }
+    },
+    {
+      "name": "chunk_text_first",
+      "severity": "PASS",
+      "message": "chunk[0] OK (2,499 chars)",
+      "detail": {
+        "chunk_index": 0,
+        "length": 2499
+      }
+    },
+    {
+      "name": "chunk_text_last",
+      "severity": "PASS",
+      "message": "chunk[118] OK (268 chars)",
+      "detail": {
+        "chunk_index": 118,
+        "length": 268
+      }
+    },
+    {
+      "name": "skill_lengths_match",
+      "severity": "PASS",
+      "message": "Skill-Längen Repo == CWD für alle 15 Agenten",
+      "detail": {
+        "repo": {
+          "story_analyst": 3107,
+          "character_agent": 3100,
+          "world_agent": 1761,
+          "adaptation_agent": 3106,
+          "script_writer_treatment": 2076,
+          "script_writer_screenplay": 3100,
+          "coverage_agent": 2072,
+          "style_validator": 2078,
+          "revision_agent": 3102,
+          "narrative_coherence": 2079,
+          "pacing_analyzer": 1568,
+          "transition_mapper": 1574,
+          "dialog_thread_checker": 1571,
+          "subtext_auditor": 1560,
+          "table_read": 1574
+        }
+      }
+    },
+    {
+      "name": "skill_lengths_nonzero",
+      "severity": "PASS",
+      "message": "Alle 15 Agenten haben Skill-Length>0",
+      "detail": {
+        "min_length": 1560,
+        "max_length": 3107
+      }
+    },
+    {
+      "name": "phase_9_5_callsite_keys",
+      "severity": "PASS",
+      "message": "Alle 6 Phase-9.5 Callsites laden eigenen Key",
+      "detail": {}
+    },
+    {
+      "name": "phase_9_5_agent_skills_present",
+      "severity": "PASS",
+      "message": "AGENT_SKILLS hat Einträge für alle 6 Phase-9.5-Agenten",
+      "detail": {}
+    },
+    {
+      "name": "phase_9_5_trash_detect",
+      "severity": "PASS",
+      "message": "Phase-9.5-Outputs plausibel oder absent",
+      "detail": {
+        "adapted_scene_count": 135
+      }
+    },
+    {
+      "name": "prompt_size_estimate",
+      "severity": "PASS",
+      "message": "Phase-1 Prompt max 50,070 chars (Full-119, base 46,870 + memory budget 3,200)",
+      "detail": {
+        "max_chars": 50070,
+        "base_max": 46870,
+        "memory_growth_budget": 3200,
+        "debug_n": 119
+      }
+    },
+    {
+      "name": "mode_clarity",
+      "severity": "PASS",
+      "message": "Full-Mode: 119 chunks",
+      "detail": {
+        "mode": "full",
+        "in_state": 119
+      }
+    }
+  ]
+}

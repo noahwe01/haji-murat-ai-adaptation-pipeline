@@ -1,0 +1,74 @@
+{
+  "name": "Hadji Murad's Murid (unnamed, active)",
+  "role": "supporting",
+  "basic_data": {
+    "age": "young adult (implied — described as 'strong active murid')",
+    "origin": "Caucasian Muslim, Avar or allied mountain people, Chechnya/Dagestan region",
+    "social_status": "murid — sworn warrior-disciple in the Naqshbandi/Muridist resistance; last remaining of Hadji Murad's once-large retinue",
+    "chunk_appearances": 2
+  },
+  "physical_signature": "A coiled, forward-leaning readiness — hands always near the bridle or weapon, moving a half-beat before anyone else; the body of a man who has not sat still since leaving Shamil's camp.",
+  "psychology": {
+    "want": "To protect Hadji Murad's body and dignity through every hour of this flight and deliver him safely to whatever shelter or alliance will save him.",
+    "need": "To accept that absolute devotion to a master cannot substitute for a self — and that a murid whose leader falls must still carry the meaning of that bond forward alone.",
+    "fear": "Failing his master in the one moment that matters; being the murid who survived when Hadji Murad did not, or worse, the one who was absent when the killing stroke fell.",
+    "contradiction": "He displaces the village elder from the bridle out of pure devotion, yet that same preempting zeal — doing for Hadji Murad what custom assigns to the host — quietly asserts a self he claims not to have; his servitude is also a kind of pride.",
+    "justification": null
+  },
+  "arc": {
+    "act_1": "Rides into hostile Makhmet as Hadji Murad's sole remaining companion, the last of dozens — his identity fully fused to his master's.",
+    "act_2": "Each act of service becomes heavier as the retinue's absence grows louder; he is forced to perform the work of many with the body of one, and the gap between devotion and protection widens.",
+    "act_3": "Either dies at Hadji Murad's side in the final ambush or survives to carry the memory — in both cases, his arc closes at the moment his master's does; he does not transform, he endures.",
+    "arc_type": "Stagnation"
+  },
+  "voice_profile": {
+    "voice_description": "He speaks rarely and only when necessary, letting action do the work words would slow down. When he does speak, his register is curt, deferential to Hadji Murad and correct but firm toward strangers. His Russian, if used, is broken; his Avar is clipped, practical, weighted with the formulas of the murid brotherhood.",
+    "vocabulary_level": "informal, oral-tradition mountain speech; low formal education but high religious formulaic literacy (Qur'anic phrases, murid oaths); era 1851–1852 Caucasus",
+    "sentence_structure": "Short. Average 4–8 words. Mostly statements and imperatives. Rare questions — and when asked, usually single-word or single-phrase.",
+    "verbal_tics": [
+      "'Bismillah' before action",
+      "addresses Hadji Murad as 'agha' or by honorific, never by name",
+      "'As you say' / 'It is done' as closing phrases",
+      "silence where another man would answer"
+    ],
+    "avoidances": "Never complains about fatigue, hunger, or danger. Never speculates about politics, Shamil's intentions, or Russian strategy — not his place. Never uses Hadji Murad's name familiarly. Never jokes. Never says 'I' when 'we' or silence will do.",
+    "emotional_expression": "Emotion is routed through the body — a tightened grip on the bridle, a turned shoulder, a step placed between Hadji Murad and a stranger. Verbally, feeling leaks only as terser syntax or a single invoked name of God.",
+    "speech_rhythm": "measured, with long silences; hectic only in the instant of action, then back to stillness",
+    "dialog_examples": {
+      "neutral_everyday": "The horse is watered, agha. We can ride.",
+      "under_pressure": "Stay close. I have the bridle.",
+      "hopeful_joyful": "Bismillah. The path is open.",
+      "angry_hurt": "Step back, old man. That is my place.",
+      "vulnerable_honest": "I am the last of them, agha. I will not be less than all of them together."
+    },
+    "subtext_rules": {
+      "when_he_says_'as_you_say,_agha'_he_means": "I have already begun doing it.",
+      "when_he_is_silent_he_means": "I am watching the door, the hands, the horizon — speak to someone else.",
+      "when_he_says_'bismillah'_he_means": "I may not come back from this next minute; witness it.",
+      "when_he_displaces_the_old_man_without_speaking_he_means": "Hospitality is yours, but responsibility is mine, and responsibility outranks custom."
+    }
+  },
+  "relationships": [
+    {
+      "with": "Hadji Murad",
+      "type": "master–murid, sworn devotional bond",
+      "quality": "absolute loyalty; the last survivor of a once-large retinue; service verges on anticipatory — he performs tasks before Hadji Murad can request them",
+      "power_dynamic": "total subordination in rank, but functional indispensability — Hadji Murad cannot move, rest, or enter a house without him",
+      "speech_register_shift": "honorifics only, never familiar address; voice drops in volume and shortens in length; imperatives never directed upward, only reports and acknowledgements"
+    },
+    {
+      "with": "Sado's Father (Old Man)",
+      "type": "guest-to-host-elder, cross-generational",
+      "quality": "respectful but firm; displaces him from bridle duty without words — courteous usurpation",
+      "power_dynamic": "nominally the elder outranks him by age and hospitality custom, but the murid overrides this with the higher claim of service to Hadji Murad",
+      "speech_register_shift": "if he speaks at all, it is with formal deference — 'father,' 'forgive me' — but the body has already acted before the words arrive"
+    },
+    {
+      "with": "Russians / Strangers (potential)",
+      "type": "adversarial / watchful",
+      "quality": "suspicious, guarded, ready; interposes his body between them and Hadji Murad",
+      "power_dynamic": "assumes threat until proven otherwise; will not be first to lower his guard",
+      "speech_register_shift": "broken Russian if forced, curt, no pleasantries; prefers silence and a hand on the rein"
+    }
+  ]
+}

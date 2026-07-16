@@ -1,0 +1,76 @@
+You are the World Agent. You translate literary space and
+time descriptions into concrete, cinematically usable data.
+
+Chunk text:
+This Hadji Murad was Shamil's naib, famous for his exploits, who used never to ride out without his banner and some dozens of murids, who caracoled and showed off before him.  Now wrapped in a hood and burka, from under which protruded a rifle, he rode, a fugitive with one murid only, trying to attract as little attention as possible and peering with his quick black eyes into the faces of those he met on his way.
+
+When he entered the aoul, instead of riding up the road leading to the open square, he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round.  There was no one under the penthouse in front, but on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin.  Hadji Murad touched him with the handle of his leather-plaited whip and clicked his tongue, and an old man, wearing a greasy old beshmet and a nightcap, rose from under the sheepskin.  His moist red eyelids had no lashes, and he blinked to get them unstuck.  Hadji Murad, repeating the customary "Selaam aleikum!" uncovered his face.  "aleikum, selaam!" said the old man, recognizing him, and smiling with his toothless mouth.  And raising himself on his thin legs he began thrusting his feet into the wooden-heeled slippers that stood by the chimney.  Then he leisurely slipped his arms into the sleeves of his crumpled sheepskin, and going to the ladder that leant against the roof he descended backwards, while he dressed and as he climbed down he kept shaking his head on its thin, shrivelled sunburnt neck and mumbling something with his toothless mouth.  As soon as he reached the ground he hospitably seized Hadji Murad's bridle and right stirrup; but the strong active murid had quickly dismounted and motioning the old man aside, took his place. Hadji Murad also dismounted, and walking with a slight limp, entered under the penthouse.  A boy of fifteen, coming quickly out of the door, met him and wonderingly fixed his sparkling eyes, black as ripe sloes, on the new arrivals.
+
+"run to the mosque and call your father," ordered the old man as he hurried forward to open the thin, creaking door into the saklya.
+
+As Hadji Murad entered the outer door, a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions.
+
+"May thy coming bring happiness!" said she, and bending nearly double began arranging
+
+Existing location data:
+Midsummer Meadow (Narrator's Field), Black-Earth Ploughed Field, Makhmet Aoul, Sado's Saklya, Argun River Glade, Mitchit Aoul, Ploughed Field (Narrator's Walk), Chechen aoul side street / safe saklya, Interior of the Old Man's Saklya, Sado's Saklya (Chechen Aoul), Chechen Aoul Night Streets, Forest Camp (Murids' Glade), Vozdvizhensk Fort, Ambush Post (Plane Tree), Vorontsov Drawing Room, Shalin Glade (Wood-Felling Site), Road to Fort (Surrender Route)
+
+Style manifest:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "English",
+  "special_notes": "Novel-to-feature compression: 46.290 words → 120 min. Original features a frame narrative (the thistle) — keep or cut is an explicit directorial choice, not default. Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM as central protagonist; other POVs become relationships to him. 30+ named figures — fusion-candidates will be identified by Story Analyst + Graphify preprocessor. Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.",
+  "title": "Hadji Murat",
+  "expansion_mode": "novel_to_feature",
+  "scene_budget": 60,
+  "pacing_expected_variance": 1.8
+}
+
+Extract for each identified location:
+
+1. LOCATION NAME: Unique identifier (e.g. "INT. CHILDHOOD APARTMENT - DAY")
+2. LITERARY DESCRIPTION: Exact text passages as basis
+3. CINEMATIC TRANSLATION: How does it look on film? (Camera, light, space)
+4. ATMOSPHERE: Emotional quality
+5. RECURRING: Yes/No
+6. TIMEFRAME: Act, time of day/season
+7. PRODUCTION DESIGN NOTES: Props, colors, textures for characterization
+
+Also extract timeline events:
+- What happens WHEN at WHICH location with WHICH characters?
+
+Respond as JSON:
+{
+  "locations_new": [
+    {
+      "name": "INT./EXT. LOCATION - TIME",
+      "literary_description": "...",
+      "cinematic_description": "...",
+      "atmosphere": "...",
+      "recurring": true/false,
+      "timeframe": "...",
+      "production_notes": ["..."]
+    }
+  ],
+  "locations_updated": [
+    {"name": "...", "update": "..."}
+  ],
+  "timeline_events": [
+    {
+      "event": "...",
+      "time": "...",
+      "location": "...",
+      "characters": ["..."],
+      "chunk_id": "..."
+    }
+  ]
+}

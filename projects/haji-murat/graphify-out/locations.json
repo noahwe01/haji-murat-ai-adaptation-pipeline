@@ -1,0 +1,2969 @@
+{
+  "nodes": [
+    {
+      "canonical_name": "Sado's Aoul",
+      "type": "village",
+      "aliases": [
+        "Makhket",
+        "Makhmet",
+        "destroyed aoul",
+        "hostile Chechen aoul",
+        "the aoul",
+        "the deserted aoul"
+      ],
+      "appearances": [
+        1,
+        4,
+        16,
+        17
+      ],
+      "description_short": "Chechen village burned by Russians; Sado's home, site of atrocity.",
+      "dramatic_use": "Moral core of the sequence; senseless destruction triggers vengeance.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Vozdvizhensk Fort",
+      "type": "fort",
+      "aliases": [
+        "Vozdvizhensk",
+        "Vozdvizhenski",
+        "Vozvizhensk",
+        "the advanced fort",
+        "the fort",
+        "the fortress"
+      ],
+      "appearances": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        21
+      ],
+      "description_short": "Advanced Russian military fort ten miles from Makhket; barracks, Shahgirinsk Gate, Vorontsov's quarters within.",
+      "dramatic_use": "Russian command center; hinge between Chechen wilderness and imperial society",
+      "parent_location": "Chechen Lines",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Shalin Glade",
+      "type": "battlefield",
+      "aliases": [
+        "the Shalin glade",
+        "the glade",
+        "where the Russians would be felling trees beyond the Mitchik",
+        "beyond the Mitchik"
+      ],
+      "appearances": [
+        4,
+        5
+      ],
+      "description_short": "Forest glade beyond the Mitchik river where Russians fell trees; mist, bonfires, sharpshooter line.",
+      "dramatic_use": "Site of Hadji Murad's formal surrender to Vorontsov and Avdeev's mortal wounding",
+      "parent_location": null,
+      "pov_holder": "Poltoratsky",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Tiflis Viceregal Palace",
+      "type": "interior",
+      "aliases": [
+        "Meller's study",
+        "Meller-Zakomelsky's Quarters",
+        "his palace in Tiflis",
+        "the drawing room",
+        "the general's house",
+        "the large hall",
+        "the prince's cabinet",
+        "the prince's palace",
+        "the waiting room"
+      ],
+      "appearances": [
+        6,
+        9,
+        10
+      ],
+      "description_short": "Vorontsov's palace in Tiflis: porch, drawing room, cabinet, waiting room, ballroom.",
+      "dramatic_use": "Theatre of imperial power, flattery, and the first Vorontsov-Hadji Murad interview.",
+      "parent_location": "Vozdvizhensk Fort",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Tiflis",
+      "type": "city",
+      "aliases": [
+        "Tbilisi",
+        "Tiflis Viceregal seat"
+      ],
+      "appearances": [
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        19,
+        20,
+        22
+      ],
+      "description_short": "Caucasian capital and seat of Viceroy Vorontsov; political and social center of the campaign.",
+      "dramatic_use": "Imperial counterweight to the mountains; polished court masking military failure.",
+      "parent_location": "Caucasus",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Mansokha Path",
+      "type": "travel_route",
+      "aliases": [
+        "Mansokha",
+        "narrow path"
+      ],
+      "appearances": [
+        13
+      ],
+      "description_short": "Cliffside path with hundred-and-twenty-yard abyss where Hadji Murad leaped.",
+      "dramatic_use": "Iconic escape that scars his leg and makes his legend",
+      "parent_location": "Avaria",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Nicholas's Cabinet",
+      "type": "interior",
+      "aliases": [
+        "cabinet"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Lofty four-windowed audience room with Alexander I portrait and writing table.",
+      "dramatic_use": "Chamber of capricious imperial decrees on Hadji Murad and the Pole",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Vedeno",
+      "type": "village",
+      "aliases": [
+        "Shamil's residence",
+        "the large aoul"
+      ],
+      "appearances": [
+        19,
+        22,
+        23
+      ],
+      "description_short": "Shamil's capital aoul where HM's family is held after defection.",
+      "dramatic_use": "Counter-court to the Russian fort; Shamil's power seat.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Shamil/omniscient",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Shamil's Guest Chamber",
+      "type": "interior",
+      "aliases": [
+        "council room",
+        "next room"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Room where six elders convene; Yusuf is summoned and threatened.",
+      "dramatic_use": "Political theatre; Yusuf-Shamil confrontation decides HM's fate.",
+      "parent_location": "Shamil's Compound",
+      "pov_holder": "Shamil/Yusuf",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Nukha",
+      "type": "city",
+      "aliases": [],
+      "appearances": [
+        22,
+        23,
+        25
+      ],
+      "description_short": "Small Mohammedan town in Transcaucasia; Hadji Murat's assigned residence.",
+      "dramatic_use": "Hadji Murat's gilded cage; site of decision to flee; escape starts here.",
+      "parent_location": "Transcaucasia",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Hadji Murat's House (Nukha)",
+      "type": "interior",
+      "aliases": [
+        "small house of five rooms"
+      ],
+      "appearances": [
+        22,
+        23
+      ],
+      "description_short": "Five-room house near mosque and Khan's palace housing Hadji Murat.",
+      "dramatic_use": "Murat prays, receives messengers, decides to escape; slaps Kirillov.",
+      "parent_location": "Nukha",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Shrub Clump",
+      "type": "wilderness",
+      "aliases": [
+        "patch of higher ground",
+        "clump of shrubs",
+        "bushes"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "Shrub-covered rise where Murat makes last stand in old ditch.",
+      "dramatic_use": "Final battlefield; Hamzad parallel fulfilled; death of Hadji Murat.",
+      "parent_location": "Rice Fields",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Old Ditch (Entrenchment)",
+      "type": "battlefield",
+      "aliases": [
+        "entrenchment",
+        "ditch"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "Ditch among shrubs dug into a barricade with daggers.",
+      "dramatic_use": "Murat's last defensive position; two wounds taken here.",
+      "parent_location": "Shrub Clump",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 10,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Sado's Saklya",
+      "type": "interior",
+      "aliases": [
+        "Sado's house",
+        "ruined saklya",
+        "second saklya cut into the hillside",
+        "the guest-chamber"
+      ],
+      "appearances": [
+        1,
+        4,
+        17
+      ],
+      "description_short": "Clay-plastered whitewashed Chechen house with penthouse, cushions, weapons on nails; hidden hospitality.",
+      "dramatic_use": "Site of Hadji Murad's secret planning with Sado, dispatch of envoy to Russians, kunak bond",
+      "parent_location": "Makhket",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Khunzakh Mosque",
+      "type": "interior",
+      "aliases": [
+        "Aoul Mosque",
+        "Makhket Mosque",
+        "the mosque"
+      ],
+      "appearances": [
+        1,
+        4,
+        13,
+        17
+      ],
+      "description_short": "Village mosque where Hadji Murad and Osman assassinated Hamzad during feast.",
+      "dramatic_use": "Blood-revenge climax against Hamzad's murids",
+      "parent_location": "Makhket",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Vorontsov's Drawing Room",
+      "type": "interior",
+      "aliases": [
+        "Vorontsov House at Vozdvizhensk",
+        "Vorontsov's House at Vozdvizhensk",
+        "Vorontsov's drawing room",
+        "the barn",
+        "the best house",
+        "the house",
+        "the prince's house",
+        "the prince's stables",
+        "the spacious drawing room"
+      ],
+      "appearances": [
+        3,
+        6
+      ],
+      "description_short": "Carpeted, richly curtained drawing room lit by four candles; card table, champagne, Petersburg-level luxury in a Caucasian fort.",
+      "dramatic_use": "Reveals Vorontsov domestic world; Marya's flirtation with Poltoratsky; envoy's arrival announced",
+      "parent_location": "Vorontsov's House at Vozdvizhensk",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Mountains (Caucasus)",
+      "type": "abstract_region",
+      "aliases": [
+        "Caucasian",
+        "Shamil's Mountains",
+        "Shamil's hands",
+        "The Caucasus",
+        "The Mountains",
+        "The Mountains (Shamil's domain)",
+        "the hills",
+        "the mountains",
+        "this glorious region"
+      ],
+      "appearances": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        13,
+        14,
+        16,
+        19,
+        20,
+        22,
+        23,
+        25
+      ],
+      "description_short": "Abstract mountainous region; home of Avars, Shamil, Murat's roots.",
+      "dramatic_use": "Goal of escape; symbolic homeland; forever unreachable.",
+      "parent_location": "Caucasus",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Kurenkov Threshing Floor",
+      "type": "wilderness",
+      "aliases": [
+        "the threshing floor",
+        "the hard-frozen threshing floor"
+      ],
+      "appearances": [
+        8
+      ],
+      "description_short": "Frozen Russian village threshing floor where Avdeev's family flails oats at dawn.",
+      "dramatic_use": "Rural Russia's rhythm of labor; the home Avdeev is dying for.",
+      "parent_location": "Kurenkov Village",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Vorontsov Ballroom",
+      "type": "interior",
+      "aliases": [
+        "the large brightly lighted hall",
+        "the ball",
+        "the buffet"
+      ],
+      "appearances": [
+        10
+      ],
+      "description_short": "Ballroom with hidden band, champagne buffet, half-dressed women whirling.",
+      "dramatic_use": "Western decadence confronting Islamic austerity; Hadji Murad's silent indifference.",
+      "parent_location": "Tiflis Viceregal Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Hadji Murad's Lodging (Tiflis)",
+      "type": "interior",
+      "aliases": [
+        "the latter's command",
+        "drawing room",
+        "bedroom"
+      ],
+      "appearances": [
+        11,
+        12,
+        13
+      ],
+      "description_short": "Interior suite with drawing room and bedroom where Hadji Murad dictates his life story.",
+      "dramatic_use": "Intimate chamber for Loris-Melikov interviews and murid tensions",
+      "parent_location": "Tiflis",
+      "pov_holder": "Loris-Melikov",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Henchmen's Room (Nukha)",
+      "type": "interior",
+      "aliases": [
+        "Murids' Room",
+        "murids' room",
+        "room of the murids"
+      ],
+      "appearances": [
+        12,
+        23
+      ],
+      "description_short": "Room across hall where Murat's four murids sleep, sharpen weapons.",
+      "dramatic_use": "Preparation for escape; Khanefi sings Hamzad's song (foreshadowing).",
+      "parent_location": "Hadji Murad's Lodging (Tiflis)",
+      "pov_holder": "Loris-Melikov",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Khunzakh",
+      "type": "village",
+      "aliases": [
+        "Kunzakh",
+        "palace of the Khans"
+      ],
+      "appearances": [
+        11,
+        13,
+        23
+      ],
+      "description_short": "Seat of the Avar Khans where Hadji Murad grew up in palace intimacy.",
+      "dramatic_use": "Stage of the Khans' massacre and Hamzad's assassination",
+      "parent_location": "Avaria",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Hamzad's Camp",
+      "type": "battlefield",
+      "aliases": [
+        "Hamzad's tent",
+        "the camp"
+      ],
+      "appearances": [
+        11
+      ],
+      "description_short": "Murid encampment on a hill where Hamzad received and murdered the Khans.",
+      "dramatic_use": "Site of treacherous ambush that reshapes Hadji Murad's fate",
+      "parent_location": "Avaria",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "St. Petersburg",
+      "type": "city",
+      "aliases": [
+        "capital"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Imperial capital where Chernyshov delivers the Vorontsov report to Nicholas.",
+      "dramatic_use": "Seat of autocratic power deciding Hadji Murad's fate",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Winter Palace",
+      "type": "interior",
+      "aliases": [
+        "the palace"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Petersburg residence of Nicholas I with rebuilt rooms and ministerial cabinet.",
+      "dramatic_use": "Architectural symbol of Nicholas's vanity and power",
+      "parent_location": "St. Petersburg",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "The Fort",
+      "type": "fort",
+      "aliases": [
+        "the little fort",
+        "Russian fort",
+        "Kurinsk-style outpost"
+      ],
+      "appearances": [
+        16,
+        18,
+        20
+      ],
+      "description_short": "Russian frontier fort where Petrov commands and Hadji Murat stays.",
+      "dramatic_use": "Primary setting of HM's Russian internment; domestic war-theatre.",
+      "parent_location": "Caucasus",
+      "pov_holder": "Butler",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Major Petrov's House",
+      "type": "interior",
+      "aliases": [
+        "commander's house",
+        "the major's house"
+      ],
+      "appearances": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "description_short": "Major Ivan Matveich Petrov's quarters, lived in with Marya Dmitrievna.",
+      "dramatic_use": "Hosts Hadji Murat; crucible of cross-cultural intimacy.",
+      "parent_location": "The Fort",
+      "pov_holder": "Butler",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "The Pit",
+      "type": "interior",
+      "aliases": [
+        "prison pit",
+        "seven-foot pit"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Dark fetid pit over seven feet deep holding Yusuf and seven criminals.",
+      "dramatic_use": "Visceral image of Yusuf's suffering; lever Shamil will pull.",
+      "parent_location": "Vedeno",
+      "pov_holder": "Yusuf",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Shamil's Compound",
+      "type": "fort",
+      "aliases": [
+        "Shamil's place of residence"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Complex of inner/outer courts and harem at Vedeno.",
+      "dramatic_use": "Seat of imamate authority; mirror to Russian fort.",
+      "parent_location": "Vedeno",
+      "pov_holder": "Shamil",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Butler's Fort (Kurin)",
+      "type": "fort",
+      "aliases": [
+        "his fort",
+        "the fort"
+      ],
+      "appearances": [
+        21,
+        24
+      ],
+      "description_short": "Small Russian fort where Butler lodges with Major Petrov and Marya Dmitrievna.",
+      "dramatic_use": "Butler's moral decline; site of Hadji Murat's severed head being displayed.",
+      "parent_location": "Chechen Lines",
+      "pov_holder": "Butler",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Murat's Bedroom (Nukha)",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        22,
+        23
+      ],
+      "description_short": "Private room where Hadji Murat prays and deliberates through the night.",
+      "dramatic_use": "Internal monologue; falcon fable; fateful decision.",
+      "parent_location": "Hadji Murat's House (Nukha)",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Moonlit Road (Fort)",
+      "type": "travel_route",
+      "aliases": [
+        "the road"
+      ],
+      "appearances": [
+        24
+      ],
+      "description_short": "Bright moonlit road between fort houses where Butler meets Marya Dmitrievna.",
+      "dramatic_use": "Intimate encounter; Kamenev arrives with the head.",
+      "parent_location": "Butler's Fort (Kurin)",
+      "pov_holder": "Butler",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Rice Fields",
+      "type": "wilderness",
+      "aliases": [
+        "rice-field",
+        "flooded rice-field"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "Spring-flooded bog where horses mire and escape fails.",
+      "dramatic_use": "Physical trap; poetic death-bog; plan collapses.",
+      "parent_location": "Nukha",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Ploughed Field (Frame)",
+      "type": "wilderness",
+      "aliases": [
+        "crushed thistle field"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "Narrator's ploughed field with crushed thistle framing the novella.",
+      "dramatic_use": "Closes the frame: Murat's death = the mown thistle.",
+      "parent_location": null,
+      "pov_holder": "narrator",
+      "cinematic_weight": 9,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Argun Forest Glade",
+      "type": "wilderness",
+      "aliases": [
+        "Wood-Felling Site",
+        "glade in the forest",
+        "the forest",
+        "the wood",
+        "the wood-felling expedition",
+        "where the river Argun bends by the cliff"
+      ],
+      "appearances": [
+        1,
+        4,
+        7
+      ],
+      "description_short": "Forest clearing by the Argun river bend with two haystacks and bonfire; hiding place for Hadji Murad's murids.",
+      "dramatic_use": "Hadji Murad's rendezvous camp before crossing to Russian lines",
+      "parent_location": null,
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Plane Tree Ambush Post",
+      "type": "wilderness",
+      "aliases": [
+        "the plane tree",
+        "broken plane tree",
+        "the ambush"
+      ],
+      "appearances": [
+        2
+      ],
+      "description_short": "Blackened broken plane tree in night forest, customary outpost site for Russian soldiers.",
+      "dramatic_use": "Setting for Panov/Avdeev/Nikitin/Bondarenko ambush scene; first Russian foot-soldier POV",
+      "parent_location": null,
+      "pov_holder": "Panov / Avdeev",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Ravine at Shalin Glade",
+      "type": "battlefield",
+      "aliases": [
+        "bare descending slope of a ravine",
+        "the ravine",
+        "opposite side of it"
+      ],
+      "appearances": [
+        5
+      ],
+      "description_short": "Open ravine between Russian outpost line and young forest where Chechen horsemen appear.",
+      "dramatic_use": "Tactical space of the skirmish in which Avdeev is shot",
+      "parent_location": "Shalin Glade",
+      "pov_holder": "Poltoratsky",
+      "cinematic_weight": 8,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Chechnya",
+      "type": "abstract_region",
+      "aliases": [
+        "Chechen territory",
+        "the Chechens",
+        "the inhabitants of Chechnya"
+      ],
+      "appearances": [
+        1,
+        4,
+        14,
+        15,
+        16,
+        17,
+        19,
+        21,
+        22,
+        24
+      ],
+      "description_short": "Hostile mountainous region targeted by Russian raid January 1852.",
+      "dramatic_use": "Theatre of imperial violence; home of the burned aoul and Shamil's power base.",
+      "parent_location": "The Caucasus",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Vozdvizhensk Hospital",
+      "type": "interior",
+      "aliases": [
+        "the hospital",
+        "the common ward"
+      ],
+      "appearances": [
+        7,
+        8
+      ],
+      "description_short": "Small wooden hospital at the fort's entrance where the wounded Avdeev dies.",
+      "dramatic_use": "Quiet deathbed counterpoint to diplomatic drama; the human cost of empire.",
+      "parent_location": "Vozdvizhensk Fort",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Vorontsov Dining Room",
+      "type": "interior",
+      "aliases": [
+        "the long table",
+        "at dinner"
+      ],
+      "appearances": [
+        9
+      ],
+      "description_short": "Palace dining room where thirty guests gossip about Hadji Murad.",
+      "dramatic_use": "Social stage where the Dargo disaster is re-mythologized as triumph.",
+      "parent_location": "Tiflis Viceregal Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Masquerade Hall",
+      "type": "interior",
+      "aliases": [
+        "masquerade",
+        "box"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Public masked ball with reserved velvet box for the Emperor's trysts.",
+      "dramatic_use": "Scene of Nicholas's predatory encounter with the Swedish girl",
+      "parent_location": "St. Petersburg",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Palace Embankment",
+      "type": "travel_route",
+      "aliases": [
+        "the embankment"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Petersburg quayside walk in 13-below frost where Nicholas meets the student.",
+      "dramatic_use": "Public stage of Nicholas's petty cruelty and narcissism",
+      "parent_location": "St. Petersburg",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "The Parlor",
+      "type": "interior",
+      "aliases": [
+        "parlour",
+        "guest chamber"
+      ],
+      "appearances": [
+        18,
+        20
+      ],
+      "description_short": "Reception room where Petrov meets HM and farewell tea is served.",
+      "dramatic_use": "Formal meeting and farewell; burka-gift scene.",
+      "parent_location": "Major Petrov's House",
+      "pov_holder": "Butler",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "The Porch",
+      "type": "interior",
+      "aliases": [
+        "Major's Porch",
+        "back porch",
+        "front porch",
+        "second step",
+        "the porch"
+      ],
+      "appearances": [
+        18,
+        20,
+        24
+      ],
+      "description_short": "Steps of the major's house; HM arrives and later is ambushed here.",
+      "dramatic_use": "Liminal threshold; site of Arslan Khan assassination attempt.",
+      "parent_location": "Major Petrov's House",
+      "pov_holder": "Butler",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Ibrahim Raschid's Saklya",
+      "type": "interior",
+      "aliases": [
+        "the saklya where the women are kept"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "House where HM's mother, two wives and five children are guarded.",
+      "dramatic_use": "Captivity of HM's family; stakes of his defection.",
+      "parent_location": "Vedeno",
+      "pov_holder": "Patimat/omniscient",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Kurin Camp",
+      "type": "battlefield",
+      "aliases": [
+        "camp towards Kurin",
+        "forest-felling camp"
+      ],
+      "appearances": [
+        21
+      ],
+      "description_short": "Military encampment where troops fell forest; Vorontsov's tent and dinner.",
+      "dramatic_use": "Farewell dinner for Kozlovsky; Butler gambles away his savings; aristocratic idyll in war zone.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Butler",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Poltoratsky's Tent",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        21
+      ],
+      "description_short": "Officer's tent housing card table where Butler is ruined.",
+      "dramatic_use": "Butler loses 470 rubles at cards; breaks his vow.",
+      "parent_location": "Kurin Camp",
+      "pov_holder": "Butler",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Road Beyond Nukha",
+      "type": "travel_route",
+      "aliases": [
+        "high road"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "Road leaving fort past women, soldiers, buffalo carts toward mountains.",
+      "dramatic_use": "Escape begins; chase accelerates.",
+      "parent_location": "Nukha",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 8,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Makhket Ravine Crossing",
+      "type": "travel_route",
+      "aliases": [
+        "the ravine",
+        "lower down",
+        "gurgling water"
+      ],
+      "appearances": [
+        4
+      ],
+      "description_short": "Ravine below the aul with running water; Hadji Murad crosses under pursuit.",
+      "dramatic_use": "Action-chase beat of Hadji Murad's escape from his pursuers",
+      "parent_location": null,
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Avaria",
+      "type": "abstract_region",
+      "aliases": [
+        "Avar country",
+        "the Avars"
+      ],
+      "appearances": [
+        4,
+        10,
+        11,
+        13,
+        14
+      ],
+      "description_short": "Mountainous homeland of the Avars contested between Khans, Shamil and Russians.",
+      "dramatic_use": "Political stake behind Hadji Murad's shifting allegiances",
+      "parent_location": "The Caucasus",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Hadji Murad's Guest Room",
+      "type": "interior",
+      "aliases": [
+        "guest chamber and storeroom",
+        "the room allotted to him"
+      ],
+      "appearances": [
+        6,
+        18,
+        20
+      ],
+      "description_short": "Private chamber in Vorontsov's house where Hadji Murad prays and waits on guard.",
+      "dramatic_use": "Reveals his hidden fear and distrust beneath diplomatic composure.",
+      "parent_location": "Vorontsov House at Vozdvizhensk",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Kurenkov Hut",
+      "type": "interior",
+      "aliases": [
+        "the hut",
+        "the house"
+      ],
+      "appearances": [
+        8
+      ],
+      "description_short": "Peasant cottage with stove and frozen windowpanes, the Avdeev family home.",
+      "dramatic_use": "Domestic Russia in miniature; where the letter is dictated, where grief will land.",
+      "parent_location": "Kurenkov Village",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Kurenkov Village",
+      "type": "village",
+      "aliases": [
+        "the village",
+        "home"
+      ],
+      "appearances": [
+        8
+      ],
+      "description_short": "Avdeev's Russian peasant village, implied setting of threshing, hut, church.",
+      "dramatic_use": "The forgotten home front; prayers and lamentations for the war dead.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Tiflis New Theater",
+      "type": "interior",
+      "aliases": [
+        "the new theater",
+        "the stalls"
+      ],
+      "appearances": [
+        10
+      ],
+      "description_short": "Oriental-style Tiflis theater hosting an Italian opera attended by Hadji Murad.",
+      "dramatic_use": "Exoticized spectacle; Hadji Murad's impassive gaze marks cultural gulf.",
+      "parent_location": "Tiflis",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Tselmess",
+      "type": "village",
+      "aliases": [
+        "aoul of Tselmess"
+      ],
+      "appearances": [
+        11,
+        13,
+        23
+      ],
+      "description_short": "Small mountain aoul, 'size of an ass's head', Hadji Murad's birthplace.",
+      "dramatic_use": "Origin of Hadji Murad and site of Akhmet Khan's later siege",
+      "parent_location": "Avaria",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Khans' Palace",
+      "type": "interior",
+      "aliases": [
+        "Khansha's palace",
+        "palace"
+      ],
+      "appearances": [
+        11,
+        13
+      ],
+      "description_short": "Royal residence of the Avar Khans inside Khunzakh, site of courtly childhood.",
+      "dramatic_use": "Setting for dynastic intrigue and Hamzad's takeover",
+      "parent_location": "Khunzakh",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Mother's Saklya",
+      "type": "interior",
+      "aliases": [
+        "roof of the saklya"
+      ],
+      "appearances": [
+        11
+      ],
+      "description_short": "Simple mountain dwelling where Hadji Murad's mother nursed and hid her scar.",
+      "dramatic_use": "Sensory flashback of maternal sacrifice and lullaby",
+      "parent_location": "Tselmess",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Caucasus",
+      "type": "abstract_region",
+      "aliases": [
+        "Caucasian affairs"
+      ],
+      "appearances": [
+        14,
+        15
+      ],
+      "description_short": "Imperial frontier theater of perpetual war debated in Tiflis and Petersburg.",
+      "dramatic_use": "Strategic abstraction weighed by Vorontsov, Chernyshov and Nicholas",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Pompeian Hall",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        15
+      ],
+      "description_short": "Formal dining room where Nicholas discusses Hadji Murad with ambassadors.",
+      "dramatic_use": "Site of the 'two cauteries' political bon mot",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Nicholas's Bedroom",
+      "type": "interior",
+      "aliases": [
+        "Shamil's Apartment",
+        "hard narrow bed",
+        "his apartments",
+        "his room"
+      ],
+      "appearances": [
+        15,
+        19
+      ],
+      "description_short": "Spartan chamber with hard bed and Napoleon-comparison cloak.",
+      "dramatic_use": "Private space of self-mythologizing insomnia",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Courier Route Tiflis-Petersburg",
+      "type": "travel_route",
+      "aliases": [
+        "courier",
+        "dispatch route"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Long sled relay where couriers beat drivers bloody to deliver reports.",
+      "dramatic_use": "Physical toll connecting Caucasus and throne",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Raid March Route",
+      "type": "travel_route",
+      "aliases": [
+        "the road",
+        "the column's line of march"
+      ],
+      "appearances": [
+        16
+      ],
+      "description_short": "Road through tilled fields and meadows toward forest-clad hills.",
+      "dramatic_use": "Opening war tableau; establishes Butler's romantic view of war.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Butler",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Forest-Clad Hills",
+      "type": "wilderness",
+      "aliases": [
+        "dark mysterious forest",
+        "the forest"
+      ],
+      "appearances": [
+        16
+      ],
+      "description_short": "Dark forest from which Chechen horsemen emerge with banners.",
+      "dramatic_use": "Site of ambush; reveals Shamil's green banner.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Butler",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "The Ravine",
+      "type": "battlefield",
+      "aliases": [
+        "the valley",
+        "second ravine"
+      ],
+      "appearances": [
+        16
+      ],
+      "description_short": "Valley where Chechen horsemen descend and are repulsed by artillery.",
+      "dramatic_use": "Combat engagement site; first contact.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Butler",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Shamil's Outer Courtyard",
+      "type": "interior",
+      "aliases": [
+        "large courtyard",
+        "outer court"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Courtyard of petitioners guarded by two armed Lesghians.",
+      "dramatic_use": "Stages Shamil's stony authority as he ignores the crowd.",
+      "parent_location": "Shamil's Compound",
+      "pov_holder": "Shamil",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Shamil's Inner Court",
+      "type": "interior",
+      "aliases": [
+        "inner court",
+        "seraglio court"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Inner court with penthouse where Shamil dismounts; harem behind fence.",
+      "dramatic_use": "Private/public divide; Aminal peeks from women's side.",
+      "parent_location": "Shamil's Compound",
+      "pov_holder": "Shamil",
+      "cinematic_weight": 7,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Dinner Tents (Kurin)",
+      "type": "interior",
+      "aliases": [
+        "special tents",
+        "dinner-party tents"
+      ],
+      "appearances": [
+        21
+      ],
+      "description_short": "Row of tents with long table set like a Petersburg Guards dinner.",
+      "dramatic_use": "Kozlovsky's tearful farewell speech; performative Russian aristocracy.",
+      "parent_location": "Kurin Camp",
+      "pov_holder": "Butler",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Garden at Nukha House",
+      "type": "wilderness",
+      "aliases": [
+        "garden by the house"
+      ],
+      "appearances": [
+        23,
+        25
+      ],
+      "description_short": "Garden outside Murat's house filled with singing nightingales.",
+      "dramatic_use": "Nightingale motif bookending death; beauty against violence.",
+      "parent_location": "Hadji Murat's House (Nukha)",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 7,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Russian Countryside Field",
+      "type": "wilderness",
+      "aliases": [
+        "the fields",
+        "black-earth fields",
+        "ploughed field"
+      ],
+      "appearances": [
+        1
+      ],
+      "description_short": "Midsummer Russian field with wildflowers and a resilient crimson Tartar thistle in a ditch.",
+      "dramatic_use": "Frame narrator's prologue; thistle as metaphor for Hadji Murad's tenacity",
+      "parent_location": null,
+      "pov_holder": "narrator (first-person)",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Wood-Felling Road",
+      "type": "travel_route",
+      "aliases": [
+        "the road through the forest",
+        "the road"
+      ],
+      "appearances": [
+        5
+      ],
+      "description_short": "Misty forest road six miles beyond Shahgirinsk Gate, blocked with felled trees and bonfires.",
+      "dramatic_use": "Staging ground for Poltoratsky's company; approach corridor to surrender site",
+      "parent_location": null,
+      "pov_holder": "Poltoratsky",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Grozny",
+      "type": "fort",
+      "aliases": [],
+      "appearances": [
+        6,
+        14,
+        18,
+        21
+      ],
+      "description_short": "Russian fortress near Chechnya chosen as base for Hadji Murad's family negotiations.",
+      "dramatic_use": "Operational launchpad for ransom scheme",
+      "parent_location": "Caucasus",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 6,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Dargo",
+      "type": "battlefield",
+      "aliases": [
+        "Dargo campaign"
+      ],
+      "appearances": [
+        9
+      ],
+      "description_short": "Site of the disastrous 1845 Vorontsov campaign disguised as a 'rescue'.",
+      "dramatic_use": "Hidden shame haunting Vorontsov's court; Hadji Murad's dangerous memory.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 6,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Daghestan",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        10,
+        14,
+        22
+      ],
+      "description_short": "Mountain region Hadji Murad vows to raise against Shamil.",
+      "dramatic_use": "Geographic stake of the war; Hadji Murad's promised battlefield.",
+      "parent_location": "Caucasus",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 6,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Temir-Khan-Shura",
+      "type": "fort",
+      "aliases": [],
+      "appearances": [
+        13
+      ],
+      "description_short": "Russian military garrison town; destination of Hadji Murad's chained transport.",
+      "dramatic_use": "Intended Russian prison aborted by his leap",
+      "parent_location": "Daghestan",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Winter Palace Reception Hall",
+      "type": "interior",
+      "aliases": [
+        "reception hall"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Hall where hundred courtiers await Nicholas's New Year greetings.",
+      "dramatic_use": "Spectacle of autocratic self-display",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Ballet Theater",
+      "type": "interior",
+      "aliases": [
+        "ballet"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Petersburg ballet where Nicholas orders a diamond ring for a dancer.",
+      "dramatic_use": "Closing beat of imperial appetite and whim",
+      "parent_location": "St. Petersburg",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Rendezvous Apartment",
+      "type": "interior",
+      "aliases": [
+        "place where Nicholas usually had rendezvous"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Designated secret lodging where Nicholas takes women for assignations.",
+      "dramatic_use": "Hidden venue of the Emperor's hypocrisy",
+      "parent_location": "St. Petersburg",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Snowy Peaks",
+      "type": "wilderness",
+      "aliases": [
+        "snow hills",
+        "snow peaks"
+      ],
+      "appearances": [
+        16,
+        18
+      ],
+      "description_short": "Ever-changing snowy peaks on the lofty horizon like diamonds.",
+      "dramatic_use": "Lyrical counterpoint to violence; Butler's poetic horizon.",
+      "parent_location": "Caucasus",
+      "pov_holder": "Butler",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Apiary and Orchard",
+      "type": "wilderness",
+      "aliases": [
+        "the apiary"
+      ],
+      "appearances": [
+        17
+      ],
+      "description_short": "Grandfather's burnt beehives, apricot and cherry trees, scorched.",
+      "dramatic_use": "Emblem of patient labor destroyed; stoic grandfather motif.",
+      "parent_location": "Sado's Aoul",
+      "pov_holder": "grandfather",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "The Kitchen",
+      "type": "interior",
+      "aliases": [
+        "Marya's kitchen"
+      ],
+      "appearances": [
+        18
+      ],
+      "description_short": "Marya Dmitrievna rolls pastry with sleeves up when HM arrives.",
+      "dramatic_use": "First domestic glimpse; Marya's unglamorous power.",
+      "parent_location": "Major Petrov's House",
+      "pov_holder": "Butler",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Women's Quarters",
+      "type": "interior",
+      "aliases": [
+        "harem",
+        "other side of the fence",
+        "Aminal's room",
+        "Zeidat's room"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Female domain behind the fence where Shamil seeks Aminal.",
+      "dramatic_use": "Humanizes Shamil; domestic humiliation by Aminal's refusal.",
+      "parent_location": "Shamil's Compound",
+      "pov_holder": "Shamil",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Tash-Kichu",
+      "type": "village",
+      "aliases": [
+        "the Kumukh aoul"
+      ],
+      "appearances": [
+        20
+      ],
+      "description_short": "Kumukh aoul friendly to Russians that invited HM to its mosque.",
+      "dramatic_use": "Trigger for Arslan Khan's blood-feud ambush.",
+      "parent_location": "Caucasus",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Vorontsov's Residence (Tiflis)",
+      "type": "interior",
+      "aliases": [
+        "Vorontsov's"
+      ],
+      "appearances": [
+        22
+      ],
+      "description_short": "Viceroy's Tiflis residence where Hadji Murat seeks audience.",
+      "dramatic_use": "Repeated futile audiences; Hadji Murat's trap tightens.",
+      "parent_location": "Tiflis",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Alazan River",
+      "type": "wilderness",
+      "aliases": [
+        "the river"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "River Murat intends to cross to mislead pursuers.",
+      "dramatic_use": "Unreachable barrier; strategic feint that fails.",
+      "parent_location": "Nukha",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 6,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Shahgirinsk Gate",
+      "type": "travel_route",
+      "aliases": [
+        "Shagirinsk Gate"
+      ],
+      "appearances": [
+        2,
+        5
+      ],
+      "description_short": "Gate of Vozdvizhensk Fort through which ambush parties and wood-felling companies depart.",
+      "dramatic_use": "Threshold from Russian safety into contested forest",
+      "parent_location": "Vozdvizhensk Fort",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Poltoratsky's Quarters",
+      "type": "interior",
+      "aliases": [
+        "the little house",
+        "the bedroom",
+        "the cabin"
+      ],
+      "appearances": [
+        3
+      ],
+      "description_short": "Small shared officer's cabin inside the fort; Vovilo drunk-asleep at the door, Tikhonov in bed.",
+      "dramatic_use": "Comic bathetic counterpoint to the drawing-room elegance; shows Poltoratsky's infatuation",
+      "parent_location": "Vozdvizhensk Fort",
+      "pov_holder": "Poltoratsky",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Kurenkov Village Church",
+      "type": "interior",
+      "aliases": [
+        "the church"
+      ],
+      "appearances": [
+        8
+      ],
+      "description_short": "Village church where a requiem is chanted for Peter Avdeev.",
+      "dramatic_use": "Ritual closure; Orthodox faith folding the soldier's death into routine.",
+      "parent_location": "Kurenkov Village",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Vorontsov Card Room",
+      "type": "interior",
+      "aliases": [
+        "the card table"
+      ],
+      "appearances": [
+        9
+      ],
+      "description_short": "Drawing-room corner where Vorontsov plays ombre after dinner.",
+      "dramatic_use": "Intimate courtier ritual, snuff-box and Alexander I portrait, arrival of son's letter.",
+      "parent_location": "Tiflis Viceregal Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Hadji Murad's Tiflis Quarters",
+      "type": "interior",
+      "aliases": [
+        "the quarters that had been assigned to him"
+      ],
+      "appearances": [
+        10
+      ],
+      "description_short": "Lodging assigned to Hadji Murad in Tiflis, reached by phaeton after the ball.",
+      "dramatic_use": "His gilded cage; escape from the ball into Mohammedan solitude.",
+      "parent_location": "Tiflis",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Lesghian Line",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        10,
+        14
+      ],
+      "description_short": "Frontier line in Daghestan from which Hadji Murad wants to raise a revolt.",
+      "dramatic_use": "Strategic promise; the plan that will never be granted.",
+      "parent_location": "Caucasus",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 5,
+      "compressible": false
+    },
+    {
+      "canonical_name": "The Fountain",
+      "type": "wilderness",
+      "aliases": [
+        "Fountain Below the Hill",
+        "polluted fountain",
+        "the fountain"
+      ],
+      "appearances": [
+        11,
+        17
+      ],
+      "description_short": "Village fountain deliberately polluted so water cannot be used.",
+      "dramatic_use": "Detail of calculated cruelty; water as life taken away.",
+      "parent_location": "Tselmess",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Tabasaran",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        13
+      ],
+      "description_short": "Region Shamil dispatched Hadji Murad to, where he seized sheep and horses.",
+      "dramatic_use": "Pretext for Shamil's suspicion and final rupture",
+      "parent_location": "Caucasus",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Kazi-Kumukh",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        13
+      ],
+      "description_short": "Khanate ruled in turn by Mahomet-Murza then Akhmet Khan under Russian appointment.",
+      "dramatic_use": "Source of Akhmet Khan's hatred driving the betrayal",
+      "parent_location": "Caucasus",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Winter Palace Waiting Room",
+      "type": "interior",
+      "aliases": [
+        "waiting-room"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Antechamber where Chernyshov and Dolgoruky are met by the aide-de-camp.",
+      "dramatic_use": "Threshold ritual emphasizing courtly servility",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Palace Church",
+      "type": "interior",
+      "aliases": [
+        "church"
+      ],
+      "appearances": [
+        15
+      ],
+      "description_short": "Court chapel where the deacon chants 'Many Years' for Nicholas.",
+      "dramatic_use": "Religious mirror of imperial self-worship",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "The Street",
+      "type": "wilderness",
+      "aliases": [
+        "dusty road in the fort"
+      ],
+      "appearances": [
+        18,
+        20
+      ],
+      "description_short": "Dusty street of the fort where HM arrives and departs.",
+      "dramatic_use": "Public sightline for HM arrivals/departures.",
+      "parent_location": "The Fort",
+      "pov_holder": "Butler",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "The Penthouse",
+      "type": "interior",
+      "aliases": [
+        "penthouse of the saklya"
+      ],
+      "appearances": [
+        19
+      ],
+      "description_short": "Porch-like overhang where HM's wives watch Shamil ride in.",
+      "dramatic_use": "Captive spectators framed under Shamil's gaze.",
+      "parent_location": "Ibrahim Raschid's Saklya",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Vorontsov's Cloth Tent",
+      "type": "interior",
+      "aliases": [
+        "splendid cloth tent"
+      ],
+      "appearances": [
+        21
+      ],
+      "description_short": "Young Vorontsov's luxurious tent where Marya Vasilevna stays.",
+      "dramatic_use": "Emblem of aristocratic excess amid combat.",
+      "parent_location": "Kurin Camp",
+      "pov_holder": "narrator",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Benerdzhik",
+      "type": "village",
+      "aliases": [
+        "aoul Benerdzhik"
+      ],
+      "appearances": [
+        25
+      ],
+      "description_short": "Aoul with saklyas and minarets visible to the right of the road.",
+      "dramatic_use": "Decision point; Murat chooses left toward Alazan.",
+      "parent_location": "Nukha",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 5,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Petersburg",
+      "type": "city",
+      "aliases": [
+        "Petersburg University",
+        "Petersburg beauty",
+        "St. Petersburg"
+      ],
+      "appearances": [
+        3,
+        16
+      ],
+      "description_short": "Russian imperial capital, invoked as origin of Marya Vasilevna's beauty and the tutor's education.",
+      "dramatic_use": "Distant metropolis that measures the couple's sense of 'privation' at the fort",
+      "parent_location": "Russia",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 4,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Road to Town",
+      "type": "travel_route",
+      "aliases": [
+        "drove to town"
+      ],
+      "appearances": [
+        8
+      ],
+      "description_short": "Winter sledge road from the village to town, three sledges of oats.",
+      "dramatic_use": "Quiet transit of commerce and the doomed letter.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Crimean South Coast Palace",
+      "type": "interior",
+      "aliases": [
+        "palace on the south coast of the Crimea",
+        "his garden"
+      ],
+      "appearances": [
+        9
+      ],
+      "description_short": "Vorontsov's lavish Crimean estate built with his wife's wealth.",
+      "dramatic_use": "Emblem of the Viceroy's opulence and European tastes.",
+      "parent_location": "Crimea",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Grandfather's Farmstead",
+      "type": "interior",
+      "aliases": [
+        "farmstead"
+      ],
+      "appearances": [
+        11
+      ],
+      "description_short": "Remote farm where the silver-hammering grandfather lived and received the child.",
+      "dramatic_use": "Memory of ancestral craft and kinship",
+      "parent_location": "Avaria",
+      "pov_holder": "Hadji Murad",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Vozdvizhensk",
+      "type": "fort",
+      "aliases": [],
+      "appearances": [
+        14
+      ],
+      "description_short": "Fort near hostile settlement ruled out because Vorontsov's son no longer commands it.",
+      "dramatic_use": "Rejected alternative underscoring kunak bond with young Vorontsov",
+      "parent_location": "Caucasus",
+      "pov_holder": "Vorontsov",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Prussian Frontier",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        15
+      ],
+      "description_short": "Western border where Nicholas orders two divisions staged against unrest.",
+      "dramatic_use": "Geographic proof of Nicholas's reactionary politics",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "The Stream",
+      "type": "wilderness",
+      "aliases": [
+        "clear and rapid stream"
+      ],
+      "appearances": [
+        16
+      ],
+      "description_short": "Clear rapid stream forded on approach and return from the raid.",
+      "dramatic_use": "Natural threshold between safety and hostile forest.",
+      "parent_location": "Raid March Route",
+      "pov_holder": "Butler",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Kuhzakh",
+      "type": "village",
+      "aliases": [],
+      "appearances": [
+        19
+      ],
+      "description_short": "Aoul where Yusuf lived the easy life of a naib's son.",
+      "dramatic_use": "Backstory location grounding Yusuf's admiration for Shamil.",
+      "parent_location": "Chechnya",
+      "pov_holder": "Yusuf",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Tash-Kichu Mosque",
+      "type": "interior",
+      "aliases": [
+        "their mosque"
+      ],
+      "appearances": [
+        20
+      ],
+      "description_short": "Mosque HM was invited to but forbidden by princes and Russians.",
+      "dramatic_use": "Off-screen flashpoint fuelling the assassination attempt.",
+      "parent_location": "Tash-Kichu",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Mosque (Nukha)",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        22
+      ],
+      "description_short": "Mohammedan mosque near Murat's house for ritual prayer.",
+      "dramatic_use": "Reason Murat requests Nukha; religious anchor.",
+      "parent_location": "Nukha",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Tower of Nukha",
+      "type": "fort",
+      "aliases": [],
+      "appearances": [
+        25
+      ],
+      "description_short": "Watchtower from which alarm shot is fired.",
+      "dramatic_use": "Triggers pursuit; bureaucratic war machine wakes.",
+      "parent_location": "Nukha",
+      "pov_holder": "narrator",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Terek River (referenced)",
+      "type": "wilderness",
+      "aliases": [],
+      "appearances": [
+        23
+      ],
+      "description_short": "River in Hamzad's song crossed by pursuing Russian prince.",
+      "dramatic_use": "Mythic parallel to Murat's coming death.",
+      "parent_location": "Caucasus",
+      "pov_holder": "Hadji Murat",
+      "cinematic_weight": 4,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Veden",
+      "type": "village",
+      "aliases": [],
+      "appearances": [
+        1
+      ],
+      "description_short": "Shamil's stronghold where a captured Russian soldier was sent — offscreen reference.",
+      "dramatic_use": "Anchors Shamil's power base geographically",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": false
+    },
+    {
+      "canonical_name": "Argun River",
+      "type": "travel_route",
+      "aliases": [
+        "the river Argun"
+      ],
+      "appearances": [
+        1
+      ],
+      "description_short": "Named river whose cliff-bend marks the forest rendezvous.",
+      "dramatic_use": "Geographic anchor for the secret meeting point",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Mitchik River",
+      "type": "travel_route",
+      "aliases": [
+        "the Mitchik"
+      ],
+      "appearances": [
+        4
+      ],
+      "description_short": "River beyond which the wood-cutting expedition and Shalin glade lie.",
+      "dramatic_use": "Geographic marker delimiting Russian operational territory",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Town Inn",
+      "type": "interior",
+      "aliases": [
+        "the innkeeper's"
+      ],
+      "appearances": [
+        8
+      ],
+      "description_short": "Provincial town inn where the old man has the letter read aloud.",
+      "dramatic_use": "Brief waystation showing peasant reliance on literate intermediaries.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Krasnoe",
+      "type": "battlefield",
+      "aliases": [],
+      "appearances": [
+        9
+      ],
+      "description_short": "1812 battlefield where Vorontsov was credited with conquering Napoleon.",
+      "dramatic_use": "Backstory prestige; source of the White Cross and imperial legitimacy.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Gergebel",
+      "type": "village",
+      "aliases": [],
+      "appearances": [
+        9
+      ],
+      "description_short": "Mountain village captured by mountaineers in 1843, site of Hadji Murad's past exploit.",
+      "dramatic_use": "Flashback reference establishing Hadji Murad's battlefield legend.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Mekhtuli",
+      "type": "abstract_region",
+      "aliases": [
+        "village of Akhmet Khan of Mekhtuli"
+      ],
+      "appearances": [
+        9
+      ],
+      "description_short": "Khanate whose widowed khansha Hadji Murad seized in a night raid.",
+      "dramatic_use": "Anecdote positioning Hadji Murad as audacious avenger.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Temir Khan Shura",
+      "type": "city",
+      "aliases": [],
+      "appearances": [
+        9
+      ],
+      "description_short": "Daghestani town Hadji Murad plundered in 1849 in broad daylight.",
+      "dramatic_use": "Further legend-building episode recounted by Armenian guest.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Hermitage",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        15
+      ],
+      "description_short": "Gallery Nicholas traverses en route to Minister Volkonski's apartments.",
+      "dramatic_use": "Transit beat weaving through palace routine",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Saltykov Entrance",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        15
+      ],
+      "description_short": "Side entrance of the Winter Palace where Helena Pavlovna's carriage arrives.",
+      "dramatic_use": "Trigger for Nicholas's contempt of liberal relatives",
+      "parent_location": "Winter Palace",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Butler's Bedroom",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        16
+      ],
+      "description_short": "Where Butler sleeps dreamlessly after the raid-day dinner.",
+      "dramatic_use": "Closes Ch.16 with innocence/oblivion.",
+      "parent_location": "Major Petrov's House",
+      "pov_holder": "Butler",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Fort Barracks",
+      "type": "interior",
+      "aliases": [
+        "barracks"
+      ],
+      "appearances": [
+        24
+      ],
+      "description_short": "Soldiers' quarters where Kabarda guests are fed and given vodka.",
+      "dramatic_use": "Military hospitality ritual; contrast to officers' debauchery.",
+      "parent_location": "Butler's Fort (Kurin)",
+      "pov_holder": "narrator",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Petersburg (referenced)",
+      "type": "city",
+      "aliases": [],
+      "appearances": [
+        21,
+        22
+      ],
+      "description_short": "Imperial capital invoked by dinner ambience and Vorontsov's letters.",
+      "dramatic_use": "Off-screen center of power; distant authority.",
+      "parent_location": null,
+      "pov_holder": "narrator",
+      "cinematic_weight": 3,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Village Fountain",
+      "type": "wilderness",
+      "aliases": [
+        "the fountain below"
+      ],
+      "appearances": [
+        1
+      ],
+      "description_short": "Lower village spring where women and children gather at dusk.",
+      "dramatic_use": "Atmospheric sound-scape of the aul at Hadji Murad's arrival",
+      "parent_location": "Makhket",
+      "pov_holder": "omniscient",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Mitchit Aoul",
+      "type": "village",
+      "aliases": [
+        "Mitchit"
+      ],
+      "appearances": [
+        1
+      ],
+      "description_short": "Neighboring Chechen aul whose hay was burned by Russians — mentioned, not shown.",
+      "dramatic_use": "Offscreen marker of Russian reprisals fueling mountaineer grievance",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Chekhi",
+      "type": "village",
+      "aliases": [],
+      "appearances": [
+        1
+      ],
+      "description_short": "Second village mentioned as destination for an envoy — brief reference only.",
+      "dramatic_use": "Node in Hadji Murad's clandestine communication network",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Crimea",
+      "type": "abstract_region",
+      "aliases": [
+        "south coast of the Crimea"
+      ],
+      "appearances": [
+        9
+      ],
+      "description_short": "Russian southern coastal region, site of Vorontsov's palace and garden.",
+      "dramatic_use": "Geographic mark of imperial luxury, far from the Caucasus war.",
+      "parent_location": null,
+      "pov_holder": "omniscient",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Shoushin District",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        14
+      ],
+      "description_short": "Administrative district commanded by Prince Tarkhanov, consulted on Hadji Murad.",
+      "dramatic_use": "Bureaucratic reference situating Tarkhanov",
+      "parent_location": "Caucasus",
+      "pov_holder": "Vorontsov",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Russia",
+      "type": "abstract_region",
+      "aliases": [
+        "home",
+        "friends in Russia"
+      ],
+      "appearances": [
+        16
+      ],
+      "description_short": "Distant homeland whose respect Butler imagines earning.",
+      "dramatic_use": "Invisible audience Butler performs for.",
+      "parent_location": null,
+      "pov_holder": "Butler",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Khan's Palace (Nukha)",
+      "type": "interior",
+      "aliases": [],
+      "appearances": [
+        22
+      ],
+      "description_short": "Palace landmark near Murat's assigned house.",
+      "dramatic_use": "Spatial landmark; local power.",
+      "parent_location": "Nukha",
+      "pov_holder": "narrator",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Transcaucasia",
+      "type": "abstract_region",
+      "aliases": [],
+      "appearances": [
+        22
+      ],
+      "description_short": "Region containing Nukha and Tiflis.",
+      "dramatic_use": "Geographical parent for Murat's exile.",
+      "parent_location": "Caucasus",
+      "pov_holder": "narrator",
+      "cinematic_weight": 2,
+      "compressible": true
+    },
+    {
+      "canonical_name": "Hasav-Yurt",
+      "type": "fort",
+      "aliases": [],
+      "appearances": [
+        24
+      ],
+      "description_short": "Fort from which visiting officers arrive at Butler's fort.",
+      "dramatic_use": "Off-screen origin of dinner guests; spatial network.",
+      "parent_location": "Chechen Lines",
+      "pov_holder": "narrator",
+      "cinematic_weight": 2,
+      "compressible": true
+    }
+  ],
+  "transitions": [
+    {
+      "from": "Russian Countryside Field",
+      "to": "Sado's Aoul",
+      "chapter": 1,
+      "mode": "flashback"
+    },
+    {
+      "from": "Sado's Aoul",
+      "to": "Sado's Saklya",
+      "chapter": 1,
+      "mode": "walk"
+    },
+    {
+      "from": "Sado's Saklya",
+      "to": "Argun Forest Glade",
+      "chapter": 1,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Plane Tree Ambush Post",
+      "chapter": 2,
+      "mode": "walk"
+    },
+    {
+      "from": "Plane Tree Ambush Post",
+      "to": "Vorontsov's Drawing Room",
+      "chapter": 2,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Vorontsov's Drawing Room",
+      "to": "Poltoratsky's Quarters",
+      "chapter": 3,
+      "mode": "walk"
+    },
+    {
+      "from": "Sado's Saklya",
+      "to": "Makhket Ravine Crossing",
+      "chapter": 4,
+      "mode": "ride"
+    },
+    {
+      "from": "Makhket Ravine Crossing",
+      "to": "Argun Forest Glade",
+      "chapter": 4,
+      "mode": "ride"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Wood-Felling Road",
+      "chapter": 5,
+      "mode": "walk"
+    },
+    {
+      "from": "Wood-Felling Road",
+      "to": "Shalin Glade",
+      "chapter": 5,
+      "mode": "walk"
+    },
+    {
+      "from": "Argun Forest Glade",
+      "to": "Shalin Glade",
+      "chapter": 5,
+      "mode": "ride"
+    },
+    {
+      "from": "Shalin Glade",
+      "to": "Vozdvizhensk Fort",
+      "chapter": 5,
+      "mode": "ride"
+    },
+    {
+      "from": "Vorontsov's Drawing Room",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 6,
+      "mode": "walk"
+    },
+    {
+      "from": "Tiflis Viceregal Palace",
+      "to": "Vorontsov's Drawing Room",
+      "chapter": 6,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Grozny",
+      "chapter": 6,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Tiflis",
+      "chapter": 6,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Argun Forest Glade",
+      "to": "Vozdvizhensk Hospital",
+      "chapter": 7,
+      "mode": "walk"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Tiflis",
+      "chapter": 7,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Kurenkov Hut",
+      "to": "Kurenkov Threshing Floor",
+      "chapter": 8,
+      "mode": "walk"
+    },
+    {
+      "from": "Kurenkov Threshing Floor",
+      "to": "Kurenkov Hut",
+      "chapter": 8,
+      "mode": "walk"
+    },
+    {
+      "from": "Kurenkov Village",
+      "to": "Town Inn",
+      "chapter": 8,
+      "mode": "carriage"
+    },
+    {
+      "from": "Town Inn",
+      "to": "Kurenkov Village",
+      "chapter": 8,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Kurenkov Village",
+      "chapter": 8,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Vozdvizhensk Fort",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 9,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Tiflis Viceregal Palace",
+      "to": "Vorontsov Dining Room",
+      "chapter": 9,
+      "mode": "walk"
+    },
+    {
+      "from": "Vorontsov Dining Room",
+      "to": "Vorontsov Card Room",
+      "chapter": 9,
+      "mode": "walk"
+    },
+    {
+      "from": "Gergebel",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 9,
+      "mode": "flashback"
+    },
+    {
+      "from": "Dargo",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 9,
+      "mode": "flashback"
+    },
+    {
+      "from": "Mekhtuli",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 9,
+      "mode": "flashback"
+    },
+    {
+      "from": "Temir Khan Shura",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 9,
+      "mode": "flashback"
+    },
+    {
+      "from": "Hadji Murat's Tiflis Quarters",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 10,
+      "mode": "carriage"
+    },
+    {
+      "from": "Tiflis Viceregal Palace",
+      "to": "Tiflis New Theater",
+      "chapter": 10,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Tiflis New Theater",
+      "to": "Vorontsov Ballroom",
+      "chapter": 10,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Vorontsov Ballroom",
+      "to": "Hadji Murad's Tiflis Quarters",
+      "chapter": 10,
+      "mode": "carriage"
+    },
+    {
+      "from": "Avaria",
+      "to": "Tiflis Viceregal Palace",
+      "chapter": 10,
+      "mode": "flashback"
+    },
+    {
+      "from": "Hadji Murad's Lodging (Tiflis)",
+      "to": "Henchmen's Room (Nukha)",
+      "chapter": 12,
+      "mode": "walk"
+    },
+    {
+      "from": "Henchmen's Room (Nukha)",
+      "to": "Hadji Murad's Lodging (Tiflis)",
+      "chapter": 12,
+      "mode": "walk"
+    },
+    {
+      "from": "Tselmess",
+      "to": "Khunzakh",
+      "chapter": 11,
+      "mode": "flashback"
+    },
+    {
+      "from": "Khunzakh",
+      "to": "Tiflis",
+      "chapter": 11,
+      "mode": "flashback"
+    },
+    {
+      "from": "Khunzakh",
+      "to": "Hamzad's Camp",
+      "chapter": 11,
+      "mode": "ride"
+    },
+    {
+      "from": "Hamzad's Camp",
+      "to": "Khunzakh",
+      "chapter": 13,
+      "mode": "flashback"
+    },
+    {
+      "from": "Khunzakh",
+      "to": "Khunzakh Mosque",
+      "chapter": 13,
+      "mode": "walk"
+    },
+    {
+      "from": "Khunzakh",
+      "to": "Mansokha Path",
+      "chapter": 13,
+      "mode": "walk"
+    },
+    {
+      "from": "Mansokha Path",
+      "to": "Tselmess",
+      "chapter": 13,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Tselmess",
+      "to": "Mountains (Caucasus)",
+      "chapter": 13,
+      "mode": "ride"
+    },
+    {
+      "from": "Mountains (Caucasus)",
+      "to": "Tabasaran",
+      "chapter": 13,
+      "mode": "ride"
+    },
+    {
+      "from": "Tabasaran",
+      "to": "Tiflis",
+      "chapter": 13,
+      "mode": "ride"
+    },
+    {
+      "from": "Tiflis",
+      "to": "St. Petersburg",
+      "chapter": 15,
+      "mode": "dispatch"
+    },
+    {
+      "from": "St. Petersburg",
+      "to": "Winter Palace",
+      "chapter": 15,
+      "mode": "carriage"
+    },
+    {
+      "from": "Winter Palace Waiting Room",
+      "to": "Nicholas's Cabinet",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "Nicholas's Cabinet",
+      "to": "Winter Palace Reception Hall",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "Winter Palace Reception Hall",
+      "to": "Palace Church",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "Palace Church",
+      "to": "Hermitage",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "Hermitage",
+      "to": "Pompeian Hall",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "Pompeian Hall",
+      "to": "Ballet Theater",
+      "chapter": 15,
+      "mode": "carriage"
+    },
+    {
+      "from": "Masquerade Hall",
+      "to": "Rendezvous Apartment",
+      "chapter": 15,
+      "mode": "carriage"
+    },
+    {
+      "from": "Rendezvous Apartment",
+      "to": "Nicholas's Bedroom",
+      "chapter": 15,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Nicholas's Bedroom",
+      "to": "Palace Embankment",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "Palace Embankment",
+      "to": "Winter Palace",
+      "chapter": 15,
+      "mode": "walk"
+    },
+    {
+      "from": "St. Petersburg",
+      "to": "Tiflis",
+      "chapter": 15,
+      "mode": "dispatch"
+    },
+    {
+      "from": "The Fort",
+      "to": "Raid March Route",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "Raid March Route",
+      "to": "The Stream",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "The Stream",
+      "to": "Forest-Clad Hills",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "Forest-Clad Hills",
+      "to": "The Ravine",
+      "chapter": 16,
+      "mode": "ride"
+    },
+    {
+      "from": "The Ravine",
+      "to": "Sado's Aoul",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "Sado's Aoul",
+      "to": "The Stream",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "The Stream",
+      "to": "The Fort",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "The Fort",
+      "to": "Major Petrov's House",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "Major Petrov's House",
+      "to": "Butler's Bedroom",
+      "chapter": 16,
+      "mode": "walk"
+    },
+    {
+      "from": "Sado's Aoul",
+      "to": "Sado's Saklya",
+      "chapter": 17,
+      "mode": "flashback"
+    },
+    {
+      "from": "Sado's Saklya",
+      "to": "Khunzakh Mosque",
+      "chapter": 17,
+      "mode": "walk"
+    },
+    {
+      "from": "Major Petrov's House",
+      "to": "The Street",
+      "chapter": 18,
+      "mode": "walk"
+    },
+    {
+      "from": "Grozny",
+      "to": "The Fort",
+      "chapter": 18,
+      "mode": "ride"
+    },
+    {
+      "from": "The Street",
+      "to": "The Porch",
+      "chapter": 18,
+      "mode": "walk"
+    },
+    {
+      "from": "The Porch",
+      "to": "The Kitchen",
+      "chapter": 18,
+      "mode": "walk"
+    },
+    {
+      "from": "The Kitchen",
+      "to": "The Parlor",
+      "chapter": 18,
+      "mode": "walk"
+    },
+    {
+      "from": "The Parlor",
+      "to": "Hadji Murad's Guest Room",
+      "chapter": 18,
+      "mode": "walk"
+    },
+    {
+      "from": "Battlefield (offscreen)",
+      "to": "Vedeno",
+      "chapter": 19,
+      "mode": "ride"
+    },
+    {
+      "from": "Vedeno",
+      "to": "Shamil's Outer Courtyard",
+      "chapter": 19,
+      "mode": "ride"
+    },
+    {
+      "from": "Shamil's Outer Courtyard",
+      "to": "Shamil's Inner Court",
+      "chapter": 19,
+      "mode": "ride"
+    },
+    {
+      "from": "Shamil's Inner Court",
+      "to": "Nicholas's Bedroom",
+      "chapter": 19,
+      "mode": "walk"
+    },
+    {
+      "from": "Nicholas's Bedroom",
+      "to": "Shamil's Guest Chamber",
+      "chapter": 19,
+      "mode": "walk"
+    },
+    {
+      "from": "The Pit",
+      "to": "Shamil's Guest Chamber",
+      "chapter": 19,
+      "mode": "walk"
+    },
+    {
+      "from": "Shamil's Guest Chamber",
+      "to": "The Pit",
+      "chapter": 19,
+      "mode": "walk"
+    },
+    {
+      "from": "Nicholas's Bedroom",
+      "to": "Women's Quarters",
+      "chapter": 19,
+      "mode": "walk"
+    },
+    {
+      "from": "Hadji Murad's Guest Room",
+      "to": "The Parlor",
+      "chapter": 20,
+      "mode": "walk"
+    },
+    {
+      "from": "The Parlor",
+      "to": "The Porch",
+      "chapter": 20,
+      "mode": "walk"
+    },
+    {
+      "from": "The Porch",
+      "to": "Mountains (Caucasus)",
+      "chapter": 20,
+      "mode": "ride"
+    },
+    {
+      "from": "Butler's Fort (Kurin)",
+      "to": "Kurin Camp",
+      "chapter": 21,
+      "mode": "ride"
+    },
+    {
+      "from": "Kurin Camp",
+      "to": "Poltoratsky's Tent",
+      "chapter": 21,
+      "mode": "walk"
+    },
+    {
+      "from": "Poltoratsky's Tent",
+      "to": "Butler's Fort (Kurin)",
+      "chapter": 21,
+      "mode": "ride"
+    },
+    {
+      "from": "Chechnya",
+      "to": "Tiflis",
+      "chapter": 22,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Tiflis",
+      "to": "Nukha",
+      "chapter": 22,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Tiflis",
+      "to": "Hadji Murat's House (Nukha)",
+      "chapter": 22,
+      "mode": "dispatch"
+    },
+    {
+      "from": "Murat's Bedroom (Nukha)",
+      "to": "Henchmen's Room (Nukha)",
+      "chapter": 23,
+      "mode": "walk"
+    },
+    {
+      "from": "Henchmen's Room (Nukha)",
+      "to": "Murat's Bedroom (Nukha)",
+      "chapter": 23,
+      "mode": "walk"
+    },
+    {
+      "from": "Tselmess",
+      "to": "Mountains (Caucasus)",
+      "chapter": 23,
+      "mode": "flashback"
+    },
+    {
+      "from": "Kurin Camp",
+      "to": "Butler's Fort (Kurin)",
+      "chapter": 24,
+      "mode": "ellipsis"
+    },
+    {
+      "from": "Major Petrov's House",
+      "to": "Moonlit Road (Fort)",
+      "chapter": 24,
+      "mode": "walk"
+    },
+    {
+      "from": "Hasav-Yurt",
+      "to": "Butler's Fort (Kurin)",
+      "chapter": 24,
+      "mode": "ride"
+    },
+    {
+      "from": "Moonlit Road (Fort)",
+      "to": "Major Petrov's House",
+      "chapter": 24,
+      "mode": "walk"
+    },
+    {
+      "from": "Major Petrov's House",
+      "to": "The Porch",
+      "chapter": 24,
+      "mode": "walk"
+    },
+    {
+      "from": "Hadji Murat's House (Nukha)",
+      "to": "Road Beyond Nukha",
+      "chapter": 25,
+      "mode": "ride"
+    },
+    {
+      "from": "Road Beyond Nukha",
+      "to": "Rice Fields",
+      "chapter": 25,
+      "mode": "ride"
+    },
+    {
+      "from": "Rice Fields",
+      "to": "Shrub Clump",
+      "chapter": 25,
+      "mode": "ride"
+    },
+    {
+      "from": "Shrub Clump",
+      "to": "Old Ditch (Entrenchment)",
+      "chapter": 25,
+      "mode": "walk"
+    },
+    {
+      "from": "Nukha",
+      "to": "Shrub Clump",
+      "chapter": 25,
+      "mode": "ride"
+    },
+    {
+      "from": "Old Ditch (Entrenchment)",
+      "to": "Ploughed Field (Frame)",
+      "chapter": 25,
+      "mode": "flashback"
+    }
+  ],
+  "stats": {
+    "total_locations": 133,
+    "by_type": {
+      "wilderness": 17,
+      "village": 12,
+      "interior": 55,
+      "travel_route": 12,
+      "fort": 9,
+      "battlefield": 8,
+      "abstract_region": 14,
+      "city": 6
+    },
+    "compressible_count": 70,
+    "non_compressible_count": 63,
+    "cinematic_weight_histogram": {
+      "10": 13,
+      "9": 21,
+      "8": 14,
+      "7": 20,
+      "6": 16,
+      "5": 15,
+      "4": 12,
+      "3": 13,
+      "2": 9
+    },
+    "total_transitions": 108
+  }
+}

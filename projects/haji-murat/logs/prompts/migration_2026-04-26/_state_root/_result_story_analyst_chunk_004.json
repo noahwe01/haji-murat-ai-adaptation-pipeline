@@ -1,0 +1,94 @@
+{
+  "new_characters": [
+    {
+      "name": "Eldar",
+      "initial_description": "Hadji Murad's murid — young, strong, moves with silent animal grace; mirrors his leader's every ritual gesture. Named and identified here for the first time.",
+      "role": "supporting"
+    },
+    {
+      "name": "Old Man's Wife",
+      "initial_description": "Slight, middle-aged Chechen woman in yellow smock, red beshmet, wide blue trousers. Performs the traditional hostess role: lays out cushions, greets with ritual phrase. Unnamed.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Hadji Murad enters the saklya of the old man — a trusted contact in the aoul. Weapons are ceremonially hung on the wall; host and guest perform Islamic prayer together. Ritual of kunak (blood-brotherhood) hospitality established.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad asks 'Is there anything new?' The old man deflects — he says he has only come today and his son knows more. But then volunteers oblique, bitter news: the Russians burned hay in Mitchit Aoul. The old man's coded speech (eagles vs. hares) establishes the oppressive political atmosphere.",
+      "act": 1,
+      "subplot_id": "hm_murids_introduced"
+    },
+    {
+      "description": "Eldar is introduced as named murid accompanying Hadji Murad on the covert mission. He mirrors his leader's ritual gestures exactly, reinforcing the loyalty-and-discipline theme.",
+      "act": 1,
+      "subplot_id": "hm_murids_introduced"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Interior of the Old Man's Saklya",
+      "description": "A single-room Chechen dwelling carved into the hillside. Clean clay-plastered walls, whitewashed, decorated with gleaming copper basins. Weapons of the household hang between the basins. Cushions line the front wall for guests. Earthen floor. Intimate, low-lit domestic sanctuary — the moral interior of mountain life contrasted with Russian military exterior."
+    }
+  ],
+  "tension": 0.3,
+  "act_estimation": 1,
+  "filmability_score": 0.75,
+  "theme_hints": [
+    "Hospitality as sacred covenant (kunak bond)",
+    "Concealed knowledge — what is known but not spoken",
+    "Russian colonial violence rendered in a single offhand sentence ('they burned the hay')",
+    "Ritual as identity — prayer, disarmament, greeting phrases preserve Chechen selfhood under occupation",
+    "The fugitive within familiar space — safety is temporary, disguise still worn inside"
+  ],
+  "symbols": [
+    "Weapons hung between gleaming copper basins — martial and domestic life inseparable",
+    "Pistol kept at Hadji Murad's back even inside the sanctuary — trust has limits",
+    "Ritual prayer with palms upward — submission to God, not to Russia",
+    "Eagles and hares — the old man's fable: Chechens are hares, Russians are eagles"
+  ],
+  "notes": "This chunk is extremely short (~300 words) and overlaps with the tail of Chunk 3 (the 'run to the mosque' line is the bridging sentence). The dramatic content is almost entirely atmospheric and ritual: no plot advancement beyond naming Eldar and establishing the saklya as a refuge node. The chunk functions as a breathing pause — Hadji Murad briefly safe, gathering intelligence. The old man's information-withholding followed by the oblique 'Mitchit Aoul' disclosure is a classic Tolstoyan indirection technique: what is NOT said carries the weight. Filmically, this is a strong visual scene (the gleaming basins, the weapons ritual, the prayer), but it lacks dramatic stakes on its own. It gains weight only in context of HM's hunted status (Chunk 3). In compression mode, this scene can be folded into the broader arrival sequence — the saklya interior need not be a standalone scene but can be compressed into a single INTERCUT or follow-on beat after the arrival. The Mitchit Aoul detail is a cuttable line of dialogue that can be dropped or absorbed into a wider Russian raid motif already established. Eldar's naming here is load-bearing — he must be introduced somewhere before he functions as a named murid later.",
+  "fusion_candidates": [
+    {
+      "chars": ["Eldar", "unnamed murid from Chunk 3"],
+      "reason": "The 'strong active murid' who dismounts before the old man in Chunk 3 is the same figure now named Eldar. No fusion needed — they are the same character. Confirm: Eldar = the single murid on the covert ride. His naming here resolves the anonymity from Chunk 3."
+    },
+    {
+      "chars": ["Bondarenko", "Nikitin"],
+      "reason": "Graph pre-identified [0.90]: both are nameless-crowd Russian soldiers in Panov's ambush party with single incidental function. Not present in this chunk but confirmed fusable from graph hint — retain flag."
+    },
+    {
+      "chars": ["Panov", "Serogin"],
+      "reason": "Graph pre-identified [0.85]: both serve as Avdeev's comrades at the deathbed with nearly interchangeable functions. Not present in this chunk but confirmed fusable from graph hint — retain flag."
+    }
+  ],
+  "cuttable": [
+    {
+      "element": "Old Man's Wife carrying cushions and exchanging ritual greeting",
+      "reason": "Purely atmospheric — she has no name, no further function, and the hospitality ritual can be conveyed through the old man alone or through a single visual of prepared cushions. Her lines are filler in a compressed screenplay."
+    },
+    {
+      "element": "Mitchit Aoul hay-burning reference",
+      "reason": "Non-load-bearing plot detail. The Russian aggression theme is already established; this specific place-name adds texture but no new narrative information. In compression it becomes a generic 'they burned the village' gesture or is cut entirely."
+    },
+    {
+      "element": "Extended description of prayer ritual (eye-closing, palms upward, stroking faces)",
+      "reason": "Visually valuable but over-described for the page. In a screenplay, 'They pray' or a single physical gesture communicates this — the full Tolstoyan description is literary, not cinematic shorthand."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Old man's cryptic response ('Habar yok' / 'He knows') and the eagle-hare fable",
+      "current_pov": "Neutral third-person narrator who glosses Hadji Murad's understanding ('Hadji Murad, understanding that the old man did not wish to say...')",
+      "recommended_pov": "Restage through Hadji Murad's eyes: hold on his face as the old man speaks, let the camera read HM's quiet recognition. The narrator's explanatory gloss disappears — HM's slight nod carries the scene's meaning visually."
+    },
+    {
+      "scene": "Eldar entering and mirroring Hadji Murad's weapon-hanging ritual",
+      "current_pov": "Neutral third-person, describes Eldar's actions sequentially after Hadji Murad's",
+      "recommended_pov": "Old man's POV watching both men: his slow eyes moving from Hadji Murad to Eldar establishes the hierarchy and the murid's loyalty in a single camera cut rather than prose description."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "new_characters": [
+    {
+      "name": "Hadji Murad",
+      "initial_description": "Shamil's former naib, legendary fighter, now a fugitive travelling in disguise with only one murid; limps slightly; rides into a hostile Chechen aoul seeking shelter and a courier to the Russians.",
+      "role": "protagonist"
+    },
+    {
+      "name": "Eldar",
+      "initial_description": "Hadji Murad's sole murid companion; young, strong, silent — sits statue-still while women are present; mirrors his leader's every gesture.",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado",
+      "initial_description": "Master of the house in Makhmet aoul; about forty, small beard, long nose; receives Hadji Murad as kunak despite Shamil's death-penalty order; embodies Chechen hospitality code.",
+      "role": "supporting"
+    },
+    {
+      "name": "Old Man (Apiarist)",
+      "initial_description": "Elderly Chechen, Sado's relative; moist red lashless eyes; lives at an apiary; delivers veiled news about Shamil's order in proverbial language ('the hares and the eagles').",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado's Son",
+      "initial_description": "Boy of about fifteen, sloe-black eyes; runs to call his father; gazes at Hadji Murad throughout with wide-eyed admiration.",
+      "role": "supporting"
+    },
+    {
+      "name": "Bata",
+      "initial_description": "Short-legged, sun-burnt Chechen guide; boastful but capable; agrees to escort Eldar (or Khan Mahoma's murid) to Russian commander Vorontsov in exchange for three coins — though he claims honour is enough.",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado's Wife",
+      "initial_description": "Thin middle-aged woman in yellow smock and red beshmet; arranges cushions and brings food; silent, deferential.",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado's Daughter",
+      "initial_description": "Young girl in red trousers and green beshmet; silver coin necklace; tries to look stern; does not look at male guests — traditional Chechen modesty.",
+      "role": "supporting"
+    },
+    {
+      "name": "Khan Mahoma",
+      "initial_description": "One of Hadji Murad's four murids waiting at the Argun glade; entrusted with delivering Hadji Murad's message to Prince Vorontsov; appears only by name in this chunk.",
+      "role": "supporting"
+    },
+    {
+      "name": "Author-Narrator (I)",
+      "initial_description": "First-person frame narrator; a traveller who discovers the battered thistle on a ploughed field and uses it as the trigger to 'remember' the Hadji Murad episode.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Author-narrator encounters a crushed but upright thistle on a ploughed field — its defiant survival triggers the memory of Hadji Murad. Establishes the central symbol and narrative frame.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Hadji Murad rides into Makhmet disguised and accompanied by only one murid (Eldar), signalling that he has broken from Shamil and is now a fugitive.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad seeks shelter at Sado's house; old man delivers news that Shamil has issued a kill-or-capture order on Hadji Murad to all Chechens.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Sado accepts Hadji Murad as kunak despite Shamil's death-penalty edict — dramatises the conflict between the Chechen hospitality code (adat) and Shamil's religious-political authority (sharia-state).",
+      "act": 1,
+      "subplot_id": "sado_kunak_loyalty"
+    },
+    {
+      "description": "Hadji Murad dispatches Bata as guide to lead Khan Mahoma and his murids through Argun forest to Russian commander Prince Vorontsov — the envoy mission is set in motion.",
+      "act": 1,
+      "subplot_id": "envoy_mission"
+    },
+    {
+      "description": "Hadji Murad passes a note hidden in a cartridge pouch for Sado to forward to his son — first signal that his family is a driver behind his defection.",
+      "act": 1,
+      "subplot_id": "hm_family_rescue"
+    },
+    {
+      "description": "Old man's proverb: 'the hares keep discussing how to drive away the eagles' — veiled commentary on Chechen resistance; Russian raid on Mitchit aoul mentioned.",
+      "act": 1,
+      "subplot_id": null
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Makhmet Aoul",
+      "description": "Hostile Chechen village ~15 miles from Russian territory; smoky with burning kizyak; densely packed saklyas on a hillside; a fountain below where women and children gather."
+    },
+    {
+      "name": "Sado's Saklya",
+      "description": "Two-room stone/clay house cut into the hillside; penthouse entrance; weapons hung on whitewashed walls; earthen floor; intimate, low-ceilinged domestic space. Core scene of the kunak hospitality sequence."
+    },
+    {
+      "name": "Argun River Glade",
+      "description": "Forest clearing by a cliff-bend of the Argun river where two haystacks stand; rendezvous point for Hadji Murad's four waiting murids."
+    },
+    {
+      "name": "Mitchit Aoul",
+      "description": "Nearby Chechen aoul mentioned by old man as having been burnt by Russian soldiers — background event establishing Russian aggression."
+    },
+    {
+      "name": "Ploughed Field (Narrator's Walk)",
+      "description": "Large black tilled field on a hill near which the narrator finds the thistle; opening frame location, agricultural and desolate."
+    }
+  ],
+  "tension": 0.55,
+  "act_estimation": 1,
+  "filmability_score": 0.75,
+  "theme_hints": [
+    "Vitality under oppression — the thistle as embodied theme",
+    "Hospitality vs. political survival (kunak code vs. Shamil's edict)",
+    "Defection and betrayal as political acts with personal stakes",
+    "The individual crushed by imperial/theocratic machinery yet refusing to yield",
+    "Silence as resistance — Hadji Murad's economy of speech mirrors self-preservation"
+  ],
+  "symbols": [
+    "The Tartar thistle — compressed, broken, yet upright; direct visual analogue of Hadji Murad",
+    "The cartridge pouch hiding the letter — concealment of personal love beneath military armour",
+    "Weapons hung side by side on Sado's wall — equality of guest and host; Chechen code materialised",
+    "Honey — abundance, goodness, domestic peace set against violence outside"
+  ],
+  "notes": "This chunk is the narrative hinge: the thistle-frame prologue (authorial digression, Chapter-I equivalent) transitions into the story proper. Chunk covers approximately Chapters I–II of the novel. Shamil's kill-order is already active, meaning the defection has already occurred before this chunk begins — Chunk 1 likely established the wider context. The kunak relationship with Sado is load-bearing (must-keep thread). Bata is an efficient single-use operative. The narrator's 'I' exists only in the prologue and can be dissolved entirely in film — the thistle can open the film as a pure visual image without voice-over.",
+  "fusion_candidates": [
+    {
+      "chars": ["Bata", "Khan Mahoma"],
+      "reason": "Bata's sole function is to guide the murids to the Russian lines; Khan Mahoma's sole function is to be guided there. In a film these two can be collapsed into one character — a murid-envoy who both knows the terrain and carries the message — eliminating one named walk-on."
+    },
+    {
+      "chars": ["Old Man (Apiarist)", "Sado"],
+      "reason": "The old man delivers the exposition (Shamil's order, burned Mitchit aoul) and then Sado repeats and expands it. In a compressed screenplay Sado alone can carry all this information; the old man is a relay character whose lines fold into the host's opening speech."
+    },
+    {
+      "chars": ["Sado's Wife", "Sado's Daughter"],
+      "reason": "Both women appear only to serve food and embody Chechen domestic space. They share no dialogue and can be merged into a single silent female figure without narrative loss. Pre-identified fusion candidate confirmed."
+    }
+  ],
+  "cuttable": [
+    {
+      "element": "Author-Narrator's thistle monologue (inner thought about man's destructiveness)",
+      "reason": "The interior philosophical reflection ('How many different plant-lives...') is a classic Tolstoyan authorial digression. The film equivalent is a pure visual: close-up of the crushed, upright thistle — no voice-over needed. The reflex to Hadji Murad can be established by cutting directly from the thistle to his face. The verbal meditation is non-load-bearing."
+    },
+    {
+      "element": "Mitchit Aoul burnt hay reference",
+      "reason": "Background world-building delivered by the old man. The fact of Russian raids is already established by other means (the defection context). This line is cuttable without information loss."
+    },
+    {
+      "element": "Old Man's ritualistic descent from roof (extended physical business)",
+      "reason": "Detailed novelistic staging (blinked eyes, wooden-heeled slippers, shrivelled neck, mumbling) is literary texture, not dramaturgical necessity. A film can show him in two shots."
+    },
+    {
+      "element": "Bata's self-promotional speech ('There is not another Chechen who would pass as I can...')",
+      "reason": "Comic character texture. Functional information (he can guide) lands in one line. The boast is cuttable without plot loss."
+    },
+    {
+      "element": "Sado's Son as named recurring presence",
+      "reason": "The boy appears three times (running, returning with Bata, sitting by door). He is mood and colour, not plot. Can be cut or reduced to one establishing beat."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Thistle prologue — narrator walks the ploughed field, discovers the thistle, reflects philosophically",
+      "current_pov": "Author-Narrator ('I') — first-person frame",
+      "recommended_pov": "Remove POV entirely — open on EXTREME CLOSE-UP of the broken-but-upright thistle, then pull back to reveal the empty black field. No narrator. The image is self-sufficient. Cut to: Hadji Murad's face in motion."
+    },
+    {
+      "scene": "Old man's arrival — descends from roof, tells news about Shamil's order in proverb-form",
+      "current_pov": "Close third-person following the old man's physical movements",
+      "recommended_pov": "Hadji Murad's POV — he watches and reads the old man. The old man's hesitation and oblique speech register as threat-assessment from HM's perspective rather than as novelistic character sketch."
+    },
+    {
+      "scene": "Women serve food — Sado's wife and daughter move through the room, men go silent",
+      "current_pov": "Neutral third-person observing the domestic ritual",
+      "recommended_pov": "Eldar's tightly controlled stillness (the novel explicitly follows his gaze being suppressed) — a brief insert shot of his clenched hands, then relief when the door closes. More cinematic, preserves the cultural note without stopping the scene."
+    }
+  ]
+}

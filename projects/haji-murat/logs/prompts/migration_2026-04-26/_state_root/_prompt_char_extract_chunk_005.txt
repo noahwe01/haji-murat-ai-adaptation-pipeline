@@ -1,0 +1,59 @@
+You are the Character Agent in extraction mode.
+You analyze a text chunk and extract ALL information about characters.
+You do not write creative text — only structured extraction.
+
+Chunk text:
+"Who is he?" asked the old man, pointing to the newcomer.
+
+"My murid.  Eldar is his name," said Hadji Murad.
+
+"That is well," said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad.  Eldar sat down, crossing his legs and fixing his fine ram-like eyes on the old man who, having now started talking, was telling how their brave fellows had caught two Russian soldiers the week before and had killed one and sent the other to Shamil in Veden.
+
+Hadji Murad heard him absently, looking at the door and listening to the sounds outside.  Under the penthouse steps were heard, the door creaked, and Sado, the master of the house, came in.  He was a man of about forty, with a small beard, long nose, and eyes as black, though not as glittering, as those of his fifteen-year-old son who had run to call him home and who now entered with his father and sat down by the door.  The master of the house took off his wooden slippers at the door, and pushing his old and much-worn cap to the back of his head (which had remained unshaved so long that it was beginning to be overgrown with black hair), at once squatted down in front of Hadji Murad.
+
+He too lifted his palms upwards, as the old man had done, repeated a prayer, and then stroked his face downwards.  Only after that did he begin to speak.  He told how an order had come from Shamil to seize Hadji Murad alive or dead, that Shamil's envoys had left only the day before, that the people were afraid to disobey Shamil's orders, and that therefore it was necessary to be careful.
+
+"In my house," said Sado, "no one shall injure my kunak while I live, but how will it be in the open fields?...We must think it over."
+
+Hadji Murad listened with attention and nodded approvingly.  When Sado had finished he said:
+
+"Very well.  Now we must send a man with a letter to the Russians.  My murid will go but he will need a guide."
+
+"I will send brother Bata," said Sado.  "Go and call Bata," he added, turning to his son.
+
+The boy instantly bounded to his nimble feet as if he were on springs, and swinging his arms, rapidly left the saklya.  Some ten minutes later he returned with a sinewy, short-legged Chechen, burnt almost black by the sun, wearing a worn and tattered yellow Circassian coat with frayed sleeves, and crumpled black leggings.
+
+Hadji Murad greeted the newcomer, and again without wasting a single word, immediately asked:
+
+"Canst thou conduct my murid to the Russians?"
+
+"I can," gaily replied Bata.  "I can c
+
+Known characters so far:
+author-narrator, hadji_murad, eldar, sado, old_man_(apiarist), sado's_son, bata, sado's_wife, sado's_daughter, khan_mahoma, author-narrator_(i), old_man_(unnamed_host), boy_(host's_grandson/son), woman_of_the_house_(unnamed), murid_(unnamed,_single_companion), old_man's_wife, khanefi, gamzalo, panov, avdeev, nikitin, bondarenko, simon_vorontsov, marya_vasilevna, poltoratsky, baron_freze, tikhonov, vovilo, bulka, regimental_adjutant, tutor
+
+Extract for EVERY character appearing in this chunk:
+
+1. DIRECT QUOTES: Exact dialog lines from the character (verbatim speech)
+2. SPEECH DESCRIPTORS: How the character speaks ("he said quietly", "she exclaimed")
+3. ACTIONS: What the character does in this chunk
+4. INNER STATES: Thoughts, feelings, motivations (if described by the narrator)
+5. SOCIAL MARKERS: Class, education, era, region, speech register
+6. RELATIONSHIP DYNAMICS: How does the character speak/act toward different people?
+7. NEW INFORMATION: What do we learn new about the character in this chunk?
+
+Respond as JSON:
+{
+  "characters_found": [
+    {
+      "name": "...",
+      "direct_quotes": ["..."],
+      "speech_descriptors": ["..."],
+      "actions": ["..."],
+      "inner_states": ["..."],
+      "social_markers": ["..."],
+      "relationship_dynamics": [{"with": "...", "quality": "..."}],
+      "new_info": ["..."]
+    }
+  ]
+}

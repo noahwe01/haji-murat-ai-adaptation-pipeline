@@ -1,0 +1,74 @@
+{
+  "name": "Sado's Wife",
+  "role": "supporting",
+  "basic_data": {
+    "age": "middle-aged",
+    "origin": "Chechen aul (Caucasus mountain village), mid-19th century",
+    "social_status": "wife of a local Chechen host; keeper of the inner household; subordinate to male guest-ritual but indispensable to its performance"
+  },
+  "physical_signature": "Her body folds almost double when she greets — a deep, habitual bow she performs before she speaks, as if the greeting lives in her spine before it reaches her mouth.",
+  "psychology": {
+    "want": "To honor the guest who has entered her husband's house correctly, so that her family's name and Sado's standing in the aul remain unbroken.",
+    "need": "To be seen as a person and not only as a pair of hands that arrange cushions — to have her silent labor recognized as the thing that actually holds the code of hospitality together.",
+    "fear": "That the guest or her husband will be shamed by some failure of her hand — a cushion out of place, a blessing said wrong, a gaze lifted too high — and that the shame will fall on the whole household.",
+    "contradiction": "She performs absolute deference with her body (bent nearly double, eyes low), yet it is her hands, her blessing, her arrangement of the room that make the male ritual of guest-honor possible at all — she is both invisible and structurally central.",
+    "justification": null
+  },
+  "arc": {
+    "act_1": "Enters as the embodiment of ritual — the formulaic blessing, the bent body, the cushions placed exactly so. She is the house's hospitality made flesh.",
+    "act_2": "As Hadji Murad's presence brings danger into the aul, her silent labor continues under rising pressure; the same gestures now carry the weight of harboring a hunted man.",
+    "act_3": "She remains in her role, unchanged outwardly, while the men around her are destroyed — the household survives or falls through what she does not say.",
+    "arc_type": "Stagnation"
+  },
+  "voice_profile": {
+    "voice_description": "She speaks rarely and almost always in set phrases inherited from ritual — blessings, formulas, short acknowledgments. When she must speak outside ritual, her sentences are short, practical, and oriented to the body: cushions, bread, water, the door. Her voice is low, even, and never lifts in pitch; emphasis is carried by the slow bow of her body, not by volume.",
+    "vocabulary": {
+      "level": "informal, orally transmitted, religiously inflected",
+      "education": "no literacy; deep fluency in guest-ritual formulas and household idiom",
+      "era": "mid-19th century Chechen/Avar Caucasus"
+    },
+    "sentence_structure": {
+      "average_length": "short — 4 to 8 words",
+      "complexity": "simple clauses, often imperative or blessing-form",
+      "tendency": "statement and blessing dominant; almost no questions; fragments when addressing her husband"
+    },
+    "verbal_tics": [
+      "'May...' as opening of any formal utterance (blessing-form)",
+      "addressing the guest only in third person or indirectly, never by name",
+      "naming the object before the action ('the cushions — here')"
+    ],
+    "avoidances": [
+      "never speaks the guest's name aloud",
+      "never contradicts her husband in front of a guest",
+      "never uses first-person 'I want' — desire is not phrased for her",
+      "never complains, never jokes in the guest's presence",
+      "never refers to the Russians or the war directly"
+    ],
+    "emotional_expression": "Feeling is carried through gesture, not word — a longer bow, a pause before placing the cushion, hands folded tighter at the waist. Verbally, emotion appears only as intensified blessing ('May thy coming bring great happiness') or as sudden silence.",
+    "speech_rhythm": "measured, slow, almost liturgical; each phrase set down like a cushion",
+    "dialog_examples": {
+      "neutral": "May thy coming bring happiness. The cushions are here.",
+      "under_pressure": "The door is closed. Sit. I will bring water.",
+      "hopeful": "May God keep this house under thy shadow.",
+      "angry_hurt": "The bread is ready. (a beat) Enough.",
+      "vulnerable": "He is my husband. What he brings into the house, I carry."
+    },
+    "subtext_rules": "When she says 'May thy coming bring happiness' she means 'I accept the danger you bring, because the code requires it.' When she says 'the cushions are here' she means 'everything is in its place, do not shame us.' When she falls silent she means 'I have seen what you have not named.'"
+  },
+  "relationships": [
+    {
+      "with": "Hadji Murad",
+      "type": "hostess to high-status guest",
+      "quality": "ritual reverence; she honors him through deep bow, blessing, and the seat of honor — but never addresses him directly by name",
+      "power_dynamic": "he is the honored male guest; she is structurally subordinate, yet the ritual cannot be completed without her hands",
+      "speech_register_shift": "most formal register; blessing-form; indirect address; lowered voice and eyes"
+    },
+    {
+      "with": "Sado (husband)",
+      "type": "wife to husband inside guest-ritual",
+      "quality": "silent coordination; she executes what his role as host requires before he asks",
+      "power_dynamic": "he commands the public face of hospitality; she commands the inner house — interdependent",
+      "speech_register_shift": "shortest, most practical register; fragments, household nouns; slightly less formulaic when no guest is watching"
+    }
+  ]
+}

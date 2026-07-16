@@ -1,0 +1,814 @@
+{
+  "meta": {
+    "version": "1",
+    "created_at": "2026-04-23T19:32:47.820493",
+    "criteria_version": "v1_2026-04-23",
+    "project": "novel-to-screenplay_Haji_Murat"
+  },
+  "entries": [
+    {
+      "timestamp": "2026-04-23T19:32:47.820705",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DISSOLVE_FRAME",
+      "object": "narrator-voice",
+      "reason": "authorial I non-dramatized, show-don't-tell",
+      "rule_ids": [
+        "NF-04",
+        "SS-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.820874",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP_FRAME",
+      "object": "thistle-image-opening",
+      "reason": "single visual prologue carries central metaphor, no closing reprise",
+      "rule_ids": [
+        "NF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.821012",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "TRANSLATE_TO_VISUAL",
+      "object": "thistle-meditation",
+      "reason": "\"energy and tenacity\" rendered as image montage, not voice-over",
+      "rule_ids": [
+        "SC-06",
+        "NF-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.821146",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT_SUBPLOT",
+      "object": "wildflower-catalogue",
+      "reason": "literary lyricism, non-load-bearing, replaceable by single tableau",
+      "rule_ids": [
+        "SS-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.821282",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "REFOCAL",
+      "object": "thistle-struggle",
+      "reason": "shift from first-person narrator to objective camera on thistle",
+      "rule_ids": [
+        "CF-08",
+        "NF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.821425",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "thistle-frame-retention",
+      "reason": "M-02 (theme supremacy) overrides aggressive full-cut — crimson Tartar thistle IS the work's premise-bearing image; retained as wordless prologue despite NF-04 pressure to dissolve narrator entirely",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "M-02 (theme supremacy) overrides aggressive full-cut — crimson Tartar thistle IS the work's premise-bearing image; retained as wordless prologue despite NF-04 pressure to dissolve narrator entirely"
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.821680",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "TRANSLATE_TO_VISUAL",
+      "object": "thistle_prologue",
+      "reason": "keep image as wordless cold-open, drop narrator prose",
+      "rule_ids": [
+        "NF-04",
+        "SC-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.822068",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP_FRAME",
+      "object": "thistle_opening_only",
+      "reason": "use once at opening, no closing reprise per T5.1 lesson",
+      "rule_ids": [
+        "NF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.822335",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT_SUBPLOT",
+      "object": "narrator_meditation_on_destruction",
+      "reason": "auctorial digression, non-dramatized, no protagonist stake",
+      "rule_ids": [
+        "SS-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.822547",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "hm_makhmet_arrival",
+      "reason": "inciting entrance of Tier-1 protagonist, aoul soundscape is load-bearing atmosphere",
+      "rule_ids": [
+        "SC-07",
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.822764",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "shamil_offstage_mention",
+      "reason": "antagonist-ladder setup, naib-of-Shamil plants the defection conflict",
+      "rule_ids": [
+        "CF-06",
+        "M-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.822961",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "fusion_candidates_empty",
+      "reason": "chunk ends mid-sentence before Eldar/Khan Mahoma/Bata appear; Graph suggests pairs but text does not yet show them → no fusion proposals justifiable this chunk",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "chunk ends mid-sentence before Eldar/Khan Mahoma/Bata appear; Graph suggests pairs but text does not yet show them → no fusion proposals justifiable this chunk"
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.823248",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Hadji Murad as sole POV anchor for chunk",
+      "reason": "historical protagonist, graph dramatic_weight=91.65",
+      "rule_ids": [
+        "CF-04",
+        "M-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.823462",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "TRANSLATE_TO_VISUAL",
+      "object": "opening_naib_recap",
+      "reason": "authorial digression describing past glory, non-dramatized",
+      "rule_ids": [
+        "NF-04",
+        "SS-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.823684",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "FUSE",
+      "object": "old_man + sado_wife → sado_household",
+      "reason": "both one-function ritual-hospitality figures, non-historical, <1 scene each",
+      "rule_ids": [
+        "CF-01",
+        "CF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.823970",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT",
+      "object": "ladder_descent_business",
+      "reason": "novelistic texture fails all three Seger tests (no drive, no theme, redundant)",
+      "rule_ids": [
+        "SC-01"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.824298",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "sado_kunak_reception_beat",
+      "reason": "carries value-shift (fugitive→received-as-honored-guest), atomic dramatic unit",
+      "rule_ids": [
+        "SC-03",
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.824542",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "fusion_boy+murid",
+      "reason": "proposed but low-confidence — boy may gain weight in later chunks per graph; flag only, defer to human-in-loop",
+      "rule_ids": [
+        "CF-10"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.824890",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Sado's Saklya interior ritual",
+      "reason": "moral core of sequence, filmability 0.85, preserve verbatim",
+      "rule_ids": [
+        "SC-03",
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.825277",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Hadji Murad prayer + disarming beat",
+      "reason": "sole on-screen instance of HM voice-signature so far",
+      "rule_ids": [
+        "M-05"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.825598",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "FUSE",
+      "object": "Sado's Father + Sado's Wife → single household ensemble",
+      "reason": "both unnamed, <1 function each, no historical weight",
+      "rule_ids": [
+        "CF-01",
+        "CF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.825891",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT",
+      "object": "unnamed mosque-messenger boy",
+      "reason": "one-line functional errand, no dramatic weight, absorbable into cut",
+      "rule_ids": [
+        "SC-01",
+        "SC-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.826172",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "<unparseable>",
+      "reason": "- COMPRESS hare-eagle parable to a single tight exchange anchored on HM's listening face → SC-04, NF-04",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "parse_failed: - COMPRESS hare-eagle parable to a single tight exchange anchored on HM's listening face → SC-04, NF-04"
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.826456",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "<unparseable>",
+      "reason": "- REFOCAL parable delivery onto Hadji Murad's reaction-shot rather than old-man authority → CF-08, NF-09",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "parse_failed: - REFOCAL parable delivery onto Hadji Murad's reaction-shot rather than old-man authority → CF-08, NF-09"
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.826744",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Eldar's mirrored disarming ritual",
+      "reason": "establishes murid-bond visually, must-keep thread hm_murids_introduced",
+      "rule_ids": [
+        "SS-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.827035",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "Sado's Father not flagged as pure CUT despite weight=1.0",
+      "reason": "his parable line is the chunk's only piece of political exposition and carries M-02 thematic load (Russian predation); demoted to fusion rather than cut until Sado himself enters next chunk",
+      "rule_ids": [
+        "M-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.827418",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Sado",
+      "reason": "historical anchor, Tier-1 kunak host, weight-10 location owner, drives M-03 immunity",
+      "rule_ids": [
+        "CF-04",
+        "M-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.827759",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Eldar",
+      "reason": "mirror-arc to HM's loyalty conflict, must-keep thread hm_murids_introduced",
+      "rule_ids": [
+        "SS-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.828086",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Bata",
+      "reason": "historical anchor per graph, envoy-mission driver; do not fuse with other guides here",
+      "rule_ids": [
+        "CF-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.828406",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT",
+      "object": "old-man-anecdote about captured Russian soldiers",
+      "reason": "world-exposition digression, no protagonist stake",
+      "rule_ids": [
+        "SS-03",
+        "SS-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.828758",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "prayer-gesture ritual beat (palms up, stroke face)",
+      "reason": "Sado's voice-profile signature, only shown here so far",
+      "rule_ids": [
+        "M-05",
+        "SC-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.829121",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Sado's kunak-declaration (\"no one shall injure my kunak while I live\")",
+      "reason": "values-shift from fear to protection, atomic dramatic beat",
+      "rule_ids": [
+        "SC-03",
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-23T19:32:47.829528",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "truncated-chunk-end (Bata's reply cut mid-sentence)",
+      "reason": "no rule covers incomplete source text; flagged for continuity watcher to reconcile with chunk 6 boundary",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "no rule covers incomplete source text; flagged for continuity watcher to reconcile with chunk 6 boundary"
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.694352",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP_FRAME",
+      "object": "thistle_prologue_opening",
+      "reason": "single silent cold-open image, no VO, carries core premise",
+      "rule_ids": [
+        "NF-04",
+        "NF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.695097",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT",
+      "object": "narrator_voice_over",
+      "reason": "auktorialer Erzähler non-filmable; translate meaning into visual emblem",
+      "rule_ids": [
+        "NF-04",
+        "SS-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.695550",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "TRANSLATE_TO_VISUAL",
+      "object": "flower_catalogue",
+      "reason": "replace list with one montage shot of nosegay vs. ditch thistle",
+      "rule_ids": [
+        "SC-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.696058",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT_SUBPLOT",
+      "object": "thistle_frame_reprise_risk",
+      "reason": "forbid closing reprise of same emblem to avoid doubled frame",
+      "rule_ids": [
+        "NF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.696495",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "REFOCAL",
+      "object": "thistle_prologue_pov",
+      "reason": "re-anchor emblem to Hadji Murad's Caucasus world, not Russian observer",
+      "rule_ids": [
+        "CF-08",
+        "NF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.696959",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "thistle_symbol_core",
+      "reason": "thematic carrier (tenacity/destruction) — premise-bearing, immune to cut",
+      "rule_ids": [
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.697420",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "narrator_as_character",
+      "reason": "narrator is fictional, not historical, but functions as structural frame — decision deferred to NF-03 review once chapter 25 epilogue is analyzed; kept as open flag rather than final cut this chunk",
+      "rule_ids": [
+        "M-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.697934",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "TRANSLATE_TO_VISUAL",
+      "object": "thistle_frame",
+      "reason": "mutilated-but-erect thistle in black field as opening image, no voice-over",
+      "rule_ids": [
+        "NF-04",
+        "SC-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.698366",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT_SUBPLOT",
+      "object": "author_digression",
+      "reason": "Tolstoi's moralizing interjections on man-as-destroyer are non-dramatized commentary",
+      "rule_ids": [
+        "SS-04",
+        "NF-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.698797",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP_FRAME",
+      "object": "thistle_opening",
+      "reason": "single use at film open, no closing reprise per doubled-thistle warning",
+      "rule_ids": [
+        "NF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.699235",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DISSOLVE_FRAME",
+      "object": "narrator_voice",
+      "reason": "first-person narrator has no dramatic stakes of his own, dissolve into pure visual prologue",
+      "rule_ids": [
+        "NF-03",
+        "NF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.699667",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "thistle_metaphor_retention",
+      "reason": "SS-04 would cut all digression, but M-02 theme-priority preserves thistle as central symbol of HM's vitality",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "SS-04 would cut all digression, but M-02 theme-priority preserves thistle as central symbol of HM's vitality"
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.700191",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DISSOLVE_FRAME",
+      "object": "narrator-preamble",
+      "reason": "Tolstoi authorial 'I' non-dramatized, translate to visual cut",
+      "rule_ids": [
+        "NF-04",
+        "NF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.700713",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT_SUBPLOT",
+      "object": "author_digression (thistle→memory bridge)",
+      "reason": "non-filmable auctorial commentary",
+      "rule_ids": [
+        "SS-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.701263",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "REFOCAL",
+      "object": "Makhmet-establishing",
+      "reason": "omniscient panorama restaged through HM's fugitive POV",
+      "rule_ids": [
+        "CF-08",
+        "NF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.701833",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "hm_fugitive_entry",
+      "reason": "reversal from banner-naib to lone fugitive is inciting state of HM's arc",
+      "rule_ids": [
+        "SC-07",
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.702339",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Hadji Murad + Shamil",
+      "reason": "historical anchors, never fuse",
+      "rule_ids": [
+        "CF-04",
+        "M-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.702842",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "COMPRESS",
+      "object": "aoul-ambient-layer (muezzin/cattle/fountain)",
+      "reason": "reduce to one establishing beat through HM's ears",
+      "rule_ids": [
+        "SC-01",
+        "SS-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.703407",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Sado",
+      "reason": "historical kunak anchor, moral-core figure at weight-10 location",
+      "rule_ids": [
+        "CF-04",
+        "M-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.703917",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Sado's Aoul & Sado's Saklya",
+      "reason": "top-10 cinematic setpiece, moral core of sequence",
+      "rule_ids": [
+        "SC-08",
+        "M-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.704406",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "COMPRESS",
+      "object": "old-man-descending-ladder ritual",
+      "reason": "atmospheric micro-gestures fail Drive + filmic-necessity tests",
+      "rule_ids": [
+        "SC-01",
+        "SC-02"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.704898",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "FUSE",
+      "object": "Sado's Wife ← later nameless hostesses",
+      "reason": "single ritual function, <5 scenes, functional overlap",
+      "rule_ids": [
+        "CF-01"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.705393",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "REFOCAL",
+      "object": "boy-running-to-mosque",
+      "reason": "errand seen/heard from HM inside saklya, not followed",
+      "rule_ids": [
+        "CF-08"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.705897",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "weapons-on-nail beat",
+      "reason": "Voice/ritual signature of kunak-pact, singular visual pledge",
+      "rule_ids": [
+        "M-05",
+        "SC-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.706406",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "unnamed active murid",
+      "reason": "identity unresolved in chunk; defer fusion decision until chunk 3/5 reconciliation rather than premature merge — traceability over speed",
+      "rule_ids": [
+        "M-04"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.707017",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "FUSE",
+      "object": "Sado's Father → Sado",
+      "reason": "<5 scenes, shares kunak-host function, parable line transferable",
+      "rule_ids": [
+        "CF-01",
+        "CF-09"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.707909",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "TRANSLATE_TO_VISUAL",
+      "object": "weapon-hanging ritual",
+      "reason": "keep as wordless signature beat of trust between HM and host",
+      "rule_ids": [
+        "SC-06",
+        "M-05"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.708560",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "Eldar introduction",
+      "reason": "first murid on-screen, load-bearing for hm_murids_introduced arc",
+      "rule_ids": [
+        "SS-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.709146",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "CUT",
+      "object": "hares-and-eagles parable as standalone line",
+      "reason": "fold into Sado's dialogue or a single visual (burnt hay smoke on horizon)",
+      "rule_ids": [
+        "NF-04",
+        "SC-06"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.709718",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "KEEP",
+      "object": "\"Ne habar? / Habar yok\" exchange",
+      "reason": "Voice-signature ritual of HM, irreplaceable cultural beat",
+      "rule_ids": [
+        "M-05",
+        "SC-03"
+      ],
+      "deviation_justification": null
+    },
+    {
+      "timestamp": "2026-04-24T00:34:37.710291",
+      "phase": "1_deep_analysis",
+      "agent": "story_analyst",
+      "type": "DEVIATION",
+      "object": "old man's red-eyed evasiveness",
+      "reason": "no rule covers non-verbal withholding as scene engine; retained as staging note for actor/director — Werkgeist (Tolstoi's ambiguity of allegiance) demands preservation",
+      "rule_ids": [
+        "DEVIATION"
+      ],
+      "deviation_justification": "no rule covers non-verbal withholding as scene engine; retained as staging note for actor/director — Werkgeist (Tolstoi's ambiguity of allegiance) demands preservation"
+    }
+  ]
+}

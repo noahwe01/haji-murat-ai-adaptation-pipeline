@@ -1,0 +1,70 @@
+You are a casting director working from the source novel.
+For the character Old man on the saklya roof, produce a structured physical + vocal
+archetype that a real casting director could act on.
+
+HARD CONSTRAINTS:
+- Describe a TYPE, not a specific modern actor. Do NOT name any living or
+  historical actor or public figure.
+- This is a FICTIONAL character. Build the archetype from voice_profile, physical_signature, and narrative function. Set historical_reference to null.
+- Draw on the voice profile, want/need, physical_signature, and role from
+  the character bible below. Do NOT invent traits that contradict the bible.
+- Keep every field to 1-2 sentences. Dense, specific, castable.
+
+CHARACTER BIBLE ENTRY:
+{
+  "role": "supporting",
+  "age": "elderly (advanced age, weathered)",
+  "origin": "Makhmet, Chechen aoul in the Caucasus",
+  "social_status": "humble village inhabitant, Muslim, householder of modest means; trusted enough by Hadji Murad to serve as a discreet point of contact",
+  "want": "To keep his household and this night's secret meeting undisturbed — to receive Hadji Murad quietly, hear what must be heard, and pass the night without drawing the attention of the Russians or of neighbors who might talk.",
+  "need": "To preserve a last shred of dignity and usefulness in a world where his people are ground between Shamil's imamate and the Russian empire — to matter, even as a silent witness on a roof, without having to pick a side that will cost him everything.",
+  "fear": "That the wrong footfall on his roof means the Russians, a betrayal, or the murids — that his hospitality will be repaid with his family's ruin.",
+  "contradiction": "He shelters Hadji Murad — a man now fleeing to the Russians — while still living as a faithful Muslim villager under Shamil's shadow; he chooses loyalty to a person over loyalty to a side, and cannot fully admit that to himself.",
+  "physical_signature": "",
+  "voice_profile": {
+    "voice_description": "He speaks rarely and low, almost under the breath, as if every word might wake a child or a Russian patrol. His Chechen-inflected speech is plain, proverbial, and courteous, leaning on formulas of hospitality and fate rather than on personal opinion. When he does commit to a sentence, it is short, finished, and never repeated.",
+    "vocabulary_level": "informal, oral-traditional, uneducated in a literate sense but saturated with Quranic phrases, village proverbs, and Caucasian formal politeness; archaic, 19th-century peasant register",
+    "sentence_structure": "short declaratives and soft imperatives; frequent fragments; questions are rare and always practical ('Alone?', 'How many?'); almost no subordinate clauses",
+    "verbal_tics": [
+      "Bismillah under the breath before any action",
+      "calls visitors 'kunak' or 'guest' rather than by name",
+      "ends statements with 'as Allah wills' or a single nodded 'yes'"
+    ],
+    "avoidances": [
+      "never speaks Shamil's or the Russian general's name aloud",
+      "never boasts, never complains about his own hardship",
+      "never asks a guest to explain himself",
+      "no profanity, no jokes at another's expense"
+    ],
+    "emotional_expression": "Emotion surfaces in the body before the voice — a hand on the chest, a longer silence, a slower breath. Feelings are encoded as proverbs or as invocations of Allah rather than named directly.",
+    "speech_rhythm": "measured, slow, with long pauses; each sentence landed like a stone set carefully on a wall",
+    "dialog_examples": {
+      "neutral_everyday": "Come down from the roof, kunak. The bread is still warm.",
+      "under_pressure": "Quiet. My wife sleeps. The dogs know you — the neighbors do not.",
+      "hopeful_joyful": "Allah has brought you to my door again. That is already enough for an old man.",
+      "angry_hurt": "You ride into my yard at night and you do not tell me who follows you. That is not the road of a kunak.",
+      "vulnerable_honest": "I am old. I have buried sons for Shamil and for no one. Sit. Tell me only what I must know to keep you alive till morning."
+    },
+    "subtext_rules": [
+      "When he says 'as Allah wills', he means 'I will not choose sides in front of you, but I will not refuse you either.'",
+      "When he says 'the bread is warm', he means 'you are under my protection as long as you are beneath this roof.'",
+      "When he asks 'alone?', he means 'have you brought death to my household?'",
+      "When he falls silent and pulls the sheepskin tighter, he means 'do not make me speak of this, not even to myself.'"
+    ]
+  }
+}
+
+GRAPH METADATA:
+- Role: supporting
+- Historical: False
+- Dramatic weight: 0.0
+
+OUTPUT — valid JSON only, no markdown fences, no prose before or after:
+{
+  "character_name": "Old man on the saklya roof",
+  "physical_anchor": "1-2 sentences: body type, defining feature, posture, habitual gesture.",
+  "vocal_quality": "1 sentence: tone color, tempo, register.",
+  "age_range": "e.g. 'early 40s', 'mid 50s', 'elder (60+)'",
+  "social_presence": "1 sentence: how this character occupies a room — authority, menace, invisibility, warmth.",
+  "historical_reference": null
+}

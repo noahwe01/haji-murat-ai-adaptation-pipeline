@@ -1,0 +1,85 @@
+{
+  "canonical_name": "Eldar",
+  "basic_data": {
+    "role": "Supporting",
+    "age": "young (early twenties, implied)",
+    "origin": "Chechen/Avar highlands (Caucasus), Hadji Murad's retinue",
+    "social_status": "murid — devoted disciple and bodyguard of Hadji Murad; warrior class, subordinate to his leader",
+    "physical_signature": "fine ram-like eyes — steady, unblinking, fixing on whoever speaks; paired with a soft-footed stride on strong legs that mutes his physical weight"
+  },
+  "psychology": {
+    "want": "To serve Hadji Murad faultlessly — to be where his leader is, to carry what his leader entrusts him with, to mirror him exactly.",
+    "need": "To discover an identity that exists apart from his leader — a self that survives if Hadji Murad falls.",
+    "fear": "Failing Hadji Murad — through a wrong word, a wrong gesture, or a moment of hesitation that shames his leader in another man's house.",
+    "contradiction": "He is physically formidable and armed, yet makes himself small in every room — the strongest body in the saklya occupies the least space and speaks least.",
+    "justification": null
+  },
+  "arc": {
+    "act_1": "Silent shadow of Hadji Murad — mirrors every gesture, speaks only when directly addressed, exists as an extension of his leader's body.",
+    "act_2": "Carries independent responsibility (the letter to the Russians); is forced into rooms and exchanges where Hadji Murad is not present to copy.",
+    "act_3": "Remains loyal past the point loyalty can save anyone — his last act is a murid's act, defined by the man he served rather than by himself.",
+    "arc_type": "Stagnation"
+  },
+  "voice_profile": {
+    "voice_description": "Eldar speaks rarely, and when he does, his words are short, concrete, and stripped of ornament. His sentences are declarative or affirmative — he answers, he confirms, he reports; he does not speculate, argue, or soften. His register is that of a young mountain warrior trained in deference: grave, respectful, unembellished, with the weight of silence around every word.",
+    "vocabulary_level": "informal, oral, uneducated in a scholarly sense but fluent in the formal courtesies of the Caucasian warrior code; 19th-century highland idiom; no abstract or political vocabulary",
+    "sentence_structure": {
+      "average_length": "3 to 7 words",
+      "complexity": "simple, predominantly single-clause; occasional coordinated clauses joined by 'and'",
+      "tendency": "statement and affirmation dominant; questions only when strictly functional; fragments common under stress or in acknowledgement"
+    },
+    "verbal_tics": [
+      "'Yes' / 'It is so' as first word of most replies",
+      "addresses Hadji Murad by honorific ('agha', 'my lord') before content",
+      "invokes 'Allah' or 'by Allah' sparingly, only at moments of oath or gravity",
+      "repeats the last significant word of an order back as confirmation ('The letter. Yes.')"
+    ],
+    "avoidances": [
+      "never contradicts Hadji Murad, even implicitly",
+      "never complains about fatigue, hunger, wounds, or fear",
+      "never speaks of himself in the first person at length — no autobiography, no feelings volunteered",
+      "never jokes in the presence of his leader or a host",
+      "never uses Russian loanwords or imperial vocabulary",
+      "never boasts of his own strength or skill"
+    ],
+    "emotional_expression": "Feelings surface through the body, not the tongue — a fixed gaze, a tightened jaw, a hand moving to the dagger hilt. Verbal expression of emotion is almost absent; what he feels must be read from his eyes and his stillness. When moved, he grows more silent, not more voluble.",
+    "speech_rhythm": "measured and sparse — long silences between short utterances; pace does not quicken under pressure, it compresses",
+    "example_lines": {
+      "neutral": "Yes, agha. The horses are fed.",
+      "under_pressure": "I will carry it. They will not take it from me.",
+      "hopeful": "Allah is with you. I have seen it.",
+      "angry_hurt": "He lied in your house. Say the word.",
+      "vulnerable": "Where you go, I go. There is no other road for me."
+    },
+    "subtext_rules": [
+      "When he says 'Yes, agha' without elaboration, he has understood an order he would rather not carry out — and will carry it out anyway.",
+      "When he falls completely silent in a room, he is assessing threat and calculating the first strike.",
+      "When he repeats an order back verbatim, he is binding himself to it as an oath.",
+      "When he says 'I will go', he means 'I will die before I fail to go.'",
+      "When he speaks of Hadji Murad in the third person to strangers, the formality is protection — he is making his leader larger than the room."
+    ]
+  },
+  "relationships": [
+    {
+      "with": "hadji_murad",
+      "type": "murid to leader; bodyguard to principal; son-like disciple to elder warrior",
+      "quality": "absolute devotion expressed through imitation — mirrors disarming ritual, seating, posture; obeys without question",
+      "power_dynamic": "Hadji Murad fully dominant; Eldar voluntarily self-effacing; the hierarchy is sacred, not resented",
+      "speech_register_shift": "shortest, softest, most deferential register; answers before he speaks; never initiates topic"
+    },
+    {
+      "with": "old_man_apiarist",
+      "type": "guest to host, younger to elder",
+      "quality": "respectful, cautious; accepts the old man only because Hadji Murad has vouched for him",
+      "power_dynamic": "host holds domestic authority; Eldar yields to it but remains armed and watchful",
+      "speech_register_shift": "formal courtesies, minimal speech, eyes do most of the work; speaks only if directly addressed"
+    },
+    {
+      "with": "russians_enemy",
+      "type": "enemy-in-truce, messenger",
+      "quality": "wary, contained hostility masked by disciplined composure; carries his leader's letter as a sacred charge",
+      "power_dynamic": "numerically and politically outmatched; compensates through stillness and readiness",
+      "speech_register_shift": "clipped to the minimum required; refuses warmth; no Russian words"
+    }
+  ]
+}

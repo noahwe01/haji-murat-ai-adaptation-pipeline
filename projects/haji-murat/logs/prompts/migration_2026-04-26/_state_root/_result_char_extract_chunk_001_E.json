@@ -1,0 +1,47 @@
+{
+  "characters_found": [
+    {
+      "name": "Narrator (Authorial I)",
+      "direct_quotes": ["But what energy and tenacity!  With what det"],
+      "speech_descriptors": [],
+      "actions": [
+        "was returning home by the fields",
+        "gathered a large nosegay of summer flowers",
+        "noticed a crimson 'Tartar' thistle in a ditch",
+        "climbed down into the ditch to pick the thistle",
+        "drove away a bumble-bee sleeping inside a flower",
+        "wrapped a handkerchief around his hand to avoid pricks",
+        "struggled for nearly five minutes to break the tough stalk",
+        "threw the plucked thistle away because it did not fit the nosegay"
+      ],
+      "inner_states": [
+        "delighted by the variety and scents of midsummer flowers",
+        "intended to place the thistle in the center of his nosegay",
+        "found the task of plucking the thistle surprisingly difficult",
+        "felt the thistle no longer seemed fresh or beautiful once plucked",
+        "felt the thistle's coarseness was out of place among delicate blossoms",
+        "felt sorry for having vainly destroyed a flower that looked beautiful in its proper place",
+        "admires the thistle's energy and tenacity (exclamation 'But what energy and tenacity!')"
+      ],
+      "social_markers": [
+        "first-person authorial narrator",
+        "educated, literary register with detailed botanical vocabulary",
+        "rural/agrarian setting awareness (hay harvest, rye reaping)",
+        "uses regional term 'Tartar' for the crimson thistle, signaling local/Russian provincial knowledge",
+        "19th-century Russian literary voice"
+      ],
+      "relationship_dynamics": [
+        {"with": "the thistle (symbolic object)", "quality": "initial aesthetic desire to possess it, then struggle, then regret and admiration for its resilience — foreshadows symbolic link to Hadji Murad"},
+        {"with": "nature/landscape", "quality": "contemplative, observant, reverent"},
+        {"with": "local peasants (implied)", "quality": "shares their regional knowledge (calling it 'Tartar'), aware of their mowing customs"}
+      ],
+      "new_info": [
+        "Narrator is a first-person 'I' who frames the tale through a personal experience in the countryside",
+        "Setting established: midsummer, hay harvest finished, rye reaping beginning — rural Russia",
+        "Narrator introduces the central symbolic motif: the crimson 'Tartar' thistle, which resists destruction and admires energy/tenacity — the frame device that will link to Hadji Murad",
+        "Narrator demonstrates a reflective, aesthetic, moralizing sensibility",
+        "Chunk cuts off mid-exclamation, introducing the thematic keywords 'energy and tenacity'"
+      ]
+    }
+  ]
+}

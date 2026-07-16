@@ -1,0 +1,43 @@
+You are the Character Agent in extraction mode.
+You analyze a text chunk and extract ALL information about characters.
+You do not write creative text — only structured extraction.
+
+Chunk text:
+This Hadji Murad was Shamil's naib, famous for his exploits, who used never to ride out without his banner and some dozens of murids, who caracoled and showed off before him.  Now wrapped in a hood and burka, from under which protruded a rifle, he rode, a fugitive with one murid only, trying to attract as little attention as possible and peering with his quick black eyes into the faces of those he met on his way.
+
+When he entered the aoul, instead of riding up the road leading to the open square, he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round.  There was no one under the penthouse in front, but on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin.  Hadji Murad touched him with the handle of his leather-plaited whip and clicked his tongue, and an old man, wearing a greasy old beshmet and a nightcap, rose from under the sheepskin.  His moist red eyelids had no lashes, and he blinked to get them unstuck.  Hadji Murad, repeating the customary "Selaam aleikum!" uncovered his face.  "aleikum, selaam!" said the old man, recognizing him, and smiling with his toothless mouth.  And raising himself on his thin legs he began thrusting his feet into the wooden-heeled slippers that stood by the chimney.  Then he leisurely slipped his arms into the sleeves of his crumpled sheepskin, and going to the ladder that leant against the roof he descended backwards, while he dressed and as he climbed down he kept shaking his head on its thin, shrivelled sunburnt neck and mumbling something with his toothless mouth.  As soon as he reached the ground he hospitably seized Hadji Murad's bridle and right stirrup; but the strong active murid had quickly dismounted and motioning the old man aside, took his place. Hadji Murad also dismounted, and walking with a slight limp, entered under the penthouse.  A boy of fifteen, coming quickly out of the door, met him and wonderingly fixed his sparkling eyes, black as ripe sloes, on the new arrivals.
+
+"run to the mosque and call your father," ordered the old man as he hurried forward to open the thin, creaking door into the saklya.
+
+As Hadji Murad entered the outer door, a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions.
+
+"May thy coming bring happiness!" said she, and bending nearly double began arranging
+
+Known characters so far:
+author-narrator, hadji_murad, eldar, sado, old_man_(apiarist), sado's_son, bata, sado's_wife, sado's_daughter, khan_mahoma, author-narrator_(i), old_man_(unnamed_host), boy_(host's_grandson/son), woman_of_the_house_(unnamed), murid_(unnamed,_single_companion), old_man's_wife, khanefi, gamzalo, panov, avdeev, nikitin, bondarenko, simon_vorontsov, marya_vasilevna, poltoratsky, baron_freze, tikhonov, vovilo, bulka, regimental_adjutant, tutor
+
+Extract for EVERY character appearing in this chunk:
+
+1. DIRECT QUOTES: Exact dialog lines from the character (verbatim speech)
+2. SPEECH DESCRIPTORS: How the character speaks ("he said quietly", "she exclaimed")
+3. ACTIONS: What the character does in this chunk
+4. INNER STATES: Thoughts, feelings, motivations (if described by the narrator)
+5. SOCIAL MARKERS: Class, education, era, region, speech register
+6. RELATIONSHIP DYNAMICS: How does the character speak/act toward different people?
+7. NEW INFORMATION: What do we learn new about the character in this chunk?
+
+Respond as JSON:
+{
+  "characters_found": [
+    {
+      "name": "...",
+      "direct_quotes": ["..."],
+      "speech_descriptors": ["..."],
+      "actions": ["..."],
+      "inner_states": ["..."],
+      "social_markers": ["..."],
+      "relationship_dynamics": [{"with": "...", "quality": "..."}],
+      "new_info": ["..."]
+    }
+  ]
+}

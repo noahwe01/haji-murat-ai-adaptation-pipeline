@@ -1,0 +1,73 @@
+You are a casting director working from the source novel.
+For the character Narrator (Authorial I), produce a structured physical + vocal
+archetype that a real casting director could act on.
+
+HARD CONSTRAINTS:
+- Describe a TYPE, not a specific modern actor. Do NOT name any living or
+  historical actor or public figure.
+- This is a FICTIONAL character. Build the archetype from voice_profile, physical_signature, and narrative function. Set historical_reference to null.
+- Draw on the voice profile, want/need, physical_signature, and role from
+  the character bible below. Do NOT invent traits that contradict the bible.
+- Keep every field to 1-2 sentences. Dense, specific, castable.
+
+CHARACTER BIBLE ENTRY:
+{
+  "role": "supporting",
+  "age": "unspecified — mature, reflective adult male",
+  "origin": "Russian landed-gentry sensibility; rural Russia, with personal knowledge of the Caucasus",
+  "social_status": "Educated 19th-century Russian literary voice; landowner-observer, chronicler",
+  "want": "To tell — to frame and preserve the Caucasian episode of Hadji Murad as a witnessed-and-imagined memory, using the mutilated Tartar thistle as the governing emblem of unsubmitting life.",
+  "need": "To reconcile his admiration for singular vitality with his grief over human destructiveness — to find moral meaning in the act of bearing witness to destruction he cannot undo.",
+  "fear": "That the vitality he admires — in the thistle, in Hadji Murad — will be erased without record, that destruction will be the final word and no one will remember what refused to submit.",
+  "contradiction": "Condemns man as destroyer of plant-lives and yet he himself plucked the thistle in vain; claims eyewitness authority while openly admitting the tale is part imagination — a chronicler who destroys what he loves and fictionalizes what he testifies to.",
+  "physical_signature": "",
+  "voice_profile": {
+    "voice_description": "A literary, meditative 19th-century Russian authorial voice — elevated but never ornamental, reverent toward nature, rhetorical in its exclamations, and morally weighted. He speaks as one who has walked the fields himself and read the philosophers, threading botanical precision with philosophical lament. His cadence is unhurried, contemplative, inviting the listener into the slow unfolding of a recollected episode.",
+    "vocabulary_level": "formal, educated, literary; 19th-century Russian gentry register; botanical precision ('crimson Tartar thistle', 'stalk', 'nosegay'); philosophical-moralist diction ('destructive creature', 'vitality', 'submit')",
+    "sentence_structure": "long, periodic, often multi-clause sentences balanced by sudden rhetorical exclamations ('What vitality!', 'Ah, what a destructive creature is man!'); statement-dominant with occasional exclamatory outbursts; rare questions, and when posed, rhetorical",
+    "verbal_tics": [
+      "'thought I' / 'I thought' as reflective tag",
+      "rhetorical 'Ah —' and 'But —' openings to exclamation",
+      "'What [quality]!' admiring outbursts",
+      "'as I' / 'while I' descriptive subordinations"
+    ],
+    "avoidances": [
+      "contemporary slang",
+      "first-person-plural collective ('we Russians')",
+      "direct address to the reader ('you')",
+      "profanity or crude registers",
+      "modernist fragmentation or stream-of-consciousness",
+      "moral certainty (he admits hybrid testimony, never claims omniscience)"
+    ],
+    "emotional_expression": "expresses feeling through natural metaphor and moral reflection rather than confession; admiration becomes exclamation, grief becomes meditation on destruction, awe becomes anthropomorphizing description — never names his feeling directly, always refracts it through the observed world",
+    "speech_rhythm": "measured, contemplative, with sudden rhetorical peaks — like walking slowly across a field and stopping abruptly at a sight that arrests him",
+    "example_dialog_lines": {
+      "neutral_everyday": "I was returning home by the fields. It was midsummer, the hay harvest over and the rye reaping just begun.",
+      "under_pressure": "I struggled for nearly five minutes to break the tough stalk — and when at last I held it, the flower no longer seemed fresh, nor did its coarseness suit the delicate blossoms I had gathered.",
+      "hopeful_joyful": "What vitality! Man has conquered everything and destroyed millions of plants, yet this one would not submit.",
+      "angry_hurt": "Ah, what a destructive creature is man. How many different plant-lives he destroys to support his own existence.",
+      "vulnerable_honest": "The episode I am about to tell was partly witnessed by me, partly heard from eye-witnesses, and partly — I must confess — imagined. And yet I believe it is true."
+    },
+    "subtext_rules": {
+      "When describing the thistle": "he means Hadji Murad — the plant is the man is the principle of unsubmitting life",
+      "When condemning 'man'": "he means empire, and he means himself, the plucker who acts before he thinks",
+      "When admitting imagination": "he asks the listener to trust him not as historian but as moral witness",
+      "When admiring vitality": "he mourns its certain destruction, the admiration is already an elegy"
+    }
+  }
+}
+
+GRAPH METADATA:
+- Role: supporting
+- Historical: False
+- Dramatic weight: 0.0
+
+OUTPUT — valid JSON only, no markdown fences, no prose before or after:
+{
+  "character_name": "Narrator (Authorial I)",
+  "physical_anchor": "1-2 sentences: body type, defining feature, posture, habitual gesture.",
+  "vocal_quality": "1 sentence: tone color, tempo, register.",
+  "age_range": "e.g. 'early 40s', 'mid 50s', 'elder (60+)'",
+  "social_presence": "1 sentence: how this character occupies a room — authority, menace, invisibility, warmth.",
+  "historical_reference": null
+}

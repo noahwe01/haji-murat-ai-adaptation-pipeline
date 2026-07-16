@@ -1,0 +1,2538 @@
+{
+  "meta": {
+    "title": "Hadji Murat",
+    "created_at": "2026-04-23T11:52:57.336659",
+    "status": "enriched",
+    "source_language": "en",
+    "output_language": "en",
+    "target_runtime_minutes": 90,
+    "scene_budget": 60,
+    "revision_cycle": 0,
+    "source_length_class": "novella",
+    "word_count": 46290,
+    "output_mode": "treatment",
+    "expansion_mode": null,
+    "current_phase": "phase_0_intake",
+    "phase_started_at": "2026-04-23T11:52:57.337319",
+    "debug_chunks_active": 5,
+    "debug_chunks_full_count": 119,
+    "adaptation_challenge": "moderate",
+    "expansion_note": "Novella -> feature film: Moderate adaptation needed. Expand some scenes, strengthen subplots.",
+    "phase_completed_at": "2026-04-23T11:52:57.337765",
+    "filmability_chunk_scores": [
+      0.55,
+      0.75,
+      0.8,
+      0.75,
+      0.85
+    ],
+    "filmability_mean": 0.74,
+    "phase_1_completed_at": "2026-04-23T12:01:57.577763",
+    "phase_2a_extraction_completed_at": "2026-04-23T12:19:38.724011",
+    "phase_2a_merge_at": "2026-04-23T12:20:14.164559"
+  },
+  "style_manifest": {
+    "genre": "historical war tragedy / anti-imperial fable",
+    "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+    "reference_films": [
+      "Lawrence of Arabia",
+      "The Last Duel (2021)",
+      "The English Patient",
+      "War and Peace (Bondarchuk 1966)",
+      "Come and See",
+      "Ran"
+    ],
+    "language": "English",
+    "special_notes": "Novel-to-feature compression: 46.290 words → 120 min. Original features a frame narrative (the thistle) — keep or cut is an explicit directorial choice, not default. Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM as central protagonist; other POVs become relationships to him. 30+ named figures — fusion-candidates will be identified by Story Analyst + Graphify preprocessor. Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.",
+    "title": "Hadji Murat",
+    "expansion_mode": "novel_to_feature",
+    "scene_budget": 60,
+    "pacing_expected_variance": 1.8
+  },
+  "casting": {},
+  "chunks": [
+    {
+      "id": "chunk_001",
+      "index": 0,
+      "text": "I was returning home by the fields.  It was midsummer, the hay harvest was over and they were just beginning to reap the rye.  At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains with blossoms slightly tinged with pink; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening or when growing old; and delicate almond-scented dodder flowers that withered quickly.  I gathered myself a large nosegay and was going home when I noticed in a ditch, in full bloom, a beautiful thistle plant of the crimson variety, which in our neighborhood they call \"Tartar\" and carefully avoid when mowing -- or, if they do happen to cut it down, throw out from among the grass for fear of pricking their hands.  Thinking to pick this thistle and put it in the center of my nosegay, I climbed down into the ditch, and after driving away a velvety bumble-bee that had penetrated deep into one of the flowers and had there fallen sweetly asleep, I set to work to pluck the flower. But this proved a very difficult task.  Not only did the stalk prick on every side -- even through the handkerchief I wrapped round my hand -- but it was so tough that I had to struggle with it for nearly five minutes, breaking the fibers one by one; and when I had at last plucked it, the stalk was all frayed and the flower itself no longer seemed so fresh and beautiful.  Moreover, owing to a coarseness and stiffness, it did not seem in place among the delicate blossoms of my nosegay.  I threw it away feeling sorry to have vainly destroyed a flower that looked beautiful in its proper place.\n\n\"But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!\" thought I, remembering the effort it had cost me to pluck the flower.  The way home led across black-earth fields that had just been ploughed up.  I ascended the dusty path.  The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth.  The land was well tilled and nowhere was there a blade of grass or any kind of",
+      "total_chunks": 5,
+      "position": "beginning",
+      "char_start": 10,
+      "char_end": 2510,
+      "word_count": 440
+    },
+    {
+      "id": "chunk_002",
+      "index": 1,
+      "text": "I ascended the dusty path.  The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth.  The land was well tilled and nowhere was there a blade of grass or any kind of plant to be seen, it was all black.  \"Ah, what a destructive creature is man....How many different plant-lives he destroys to support his own existence!\" thought I, involuntarily looking around for some living thing in this lifeless black field.  In front of me to the right of the road I saw some kind of little clump, and drawing nearer I found it was the same kind of thistle as that which I had vainly plucked and thrown away.  This \"Tartar\" plant had three branches.  One was broken and stuck out like the stump of a mutilated arm.  Each of the other two bore a flower, once red but now blackened. One stalk was broken, and half of it hung down with a soiled flower at its tip.  The other, though also soiled with black mud, still stood erect.  Evidently a cartwheel had passed over the plant but it had risen again, and that was why, though erect, it stood twisted to one side, as if a piece of its body had been torn from it, its bowels drawn out, an arm torn off, and one of its eyes plucked out.  Yet it stood firm and did not surrender to man who had destroyed all its brothers around it....\n\n\"What vitality!\" I thought.  \"Man has conquered everything and destroyed millions of plants, yet this one won't submit.\"  And I remembered a Caucasian episode of years ago, which I had partly seen myself, partly heard of from eye-witnesses, and in part imagined.\n\nThe episode, as it has taken shape in my memory and imagination, was as follows.\n\n \n\n\n\n \n\nIt happened towards the end of 1851.\n\nOn a cold November evening Hadji Murad rode into Makhmet, a hostile Chechen aoul that lay some fifteen miles from Russian territory and was filled with the scented smoke of burning Kizyak.  The strained chant of the muezzin had just ceased, and though the clear mountain air, impregnated with kizyak smoke, above the lowing of the cattle and the bleating of the sheep that were dispersing among the saklyas (which were crowded together like the cells of honeycomb), could be clearly heard the guttural voices of disputing men, and sounds of women's and children's voices rising from near the fountain below.\n\nThis Hadji Murad was Shamil's naib, famous for his exploits, who used never to ride out without his banne",
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 2220,
+      "char_end": 4720,
+      "word_count": 448
+    },
+    {
+      "id": "chunk_003",
+      "index": 2,
+      "text": "This Hadji Murad was Shamil's naib, famous for his exploits, who used never to ride out without his banner and some dozens of murids, who caracoled and showed off before him.  Now wrapped in a hood and burka, from under which protruded a rifle, he rode, a fugitive with one murid only, trying to attract as little attention as possible and peering with his quick black eyes into the faces of those he met on his way.\n\nWhen he entered the aoul, instead of riding up the road leading to the open square, he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round.  There was no one under the penthouse in front, but on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin.  Hadji Murad touched him with the handle of his leather-plaited whip and clicked his tongue, and an old man, wearing a greasy old beshmet and a nightcap, rose from under the sheepskin.  His moist red eyelids had no lashes, and he blinked to get them unstuck.  Hadji Murad, repeating the customary \"Selaam aleikum!\" uncovered his face.  \"aleikum, selaam!\" said the old man, recognizing him, and smiling with his toothless mouth.  And raising himself on his thin legs he began thrusting his feet into the wooden-heeled slippers that stood by the chimney.  Then he leisurely slipped his arms into the sleeves of his crumpled sheepskin, and going to the ladder that leant against the roof he descended backwards, while he dressed and as he climbed down he kept shaking his head on its thin, shrivelled sunburnt neck and mumbling something with his toothless mouth.  As soon as he reached the ground he hospitably seized Hadji Murad's bridle and right stirrup; but the strong active murid had quickly dismounted and motioning the old man aside, took his place. Hadji Murad also dismounted, and walking with a slight limp, entered under the penthouse.  A boy of fifteen, coming quickly out of the door, met him and wonderingly fixed his sparkling eyes, black as ripe sloes, on the new arrivals.\n\n\"run to the mosque and call your father,\" ordered the old man as he hurried forward to open the thin, creaking door into the saklya.\n\nAs Hadji Murad entered the outer door, a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions.\n\n\"May thy coming bring happiness!\" said she, and bending nearly double began arranging",
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 4614,
+      "char_end": 7114,
+      "word_count": 434
+    },
+    {
+      "id": "chunk_004",
+      "index": 3,
+      "text": "\"run to the mosque and call your father,\" ordered the old man as he hurried forward to open the thin, creaking door into the saklya.\n\nAs Hadji Murad entered the outer door, a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions.\n\n\"May thy coming bring happiness!\" said she, and bending nearly double began arranging the cushions along the front wall for the guest to sit on.\n\n\"May thy sons live!\" answered Hadji Murad, taking off his burka, his rifle, and his sword, and handing them to the old man who carefully hung the rifle and sword on a nail beside the weapons of the master of the house, which were suspended between two large basins that glittered against the clean clay-plastered and carefully whitewashed wall.\n\nHadji Murad adjusted the pistol at his back, came up to the cushions, and wrapping his Circassian coat closer round him, sat down.  The old man squatted on his bare heels beside him, closed his eyes, and lifted his hands palms upwards.  Hadji Murad did the same; then after repeating a prayer they both stroked their faces, passing their hands downwards till the palms joined at the end of their beards.\n\n\"Ne habar?\" (\"Is there anything new?\") asked Hadji Murad, addressing the old man.\n\n\"Habar yok\" (\"Nothing new\"), replied the old man, looking with his lifeless red eyes not at Hadji Murad's face but at his breast.  \"I live at the apiary and have only today come to see my son....He knows.\"\n\nHadji Murad, understanding that the old man did not wish to say what he knew and what Hadji Murad wanted to know, slightly nodded his head and asked no more questions.\n\n\"There is no good news,\" said the old man.  \"The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!\" he added hoarsely and angrily.\n\nHadji Murad's murid entered the room, his strong legs striding softly over the earthen floor.  Retaining only his dagger and pistol, he took off his burka, rifle, and sword as Hadji Murad had done, and hung them up on the same nails as his leader's weapons.\n\n\"Who is he?\" asked the old man, pointing to the newcomer.\n\n\"My murid.  Eldar is his name,\" said Hadji Murad.\n\n\"That is well,\" said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad.  Eldar sat down, crossing his legs and fixing his fine r",
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 6718,
+      "char_end": 9218,
+      "word_count": 446
+    },
+    {
+      "id": "chunk_005",
+      "index": 4,
+      "text": "\"Who is he?\" asked the old man, pointing to the newcomer.\n\n\"My murid.  Eldar is his name,\" said Hadji Murad.\n\n\"That is well,\" said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad.  Eldar sat down, crossing his legs and fixing his fine ram-like eyes on the old man who, having now started talking, was telling how their brave fellows had caught two Russian soldiers the week before and had killed one and sent the other to Shamil in Veden.\n\nHadji Murad heard him absently, looking at the door and listening to the sounds outside.  Under the penthouse steps were heard, the door creaked, and Sado, the master of the house, came in.  He was a man of about forty, with a small beard, long nose, and eyes as black, though not as glittering, as those of his fifteen-year-old son who had run to call him home and who now entered with his father and sat down by the door.  The master of the house took off his wooden slippers at the door, and pushing his old and much-worn cap to the back of his head (which had remained unshaved so long that it was beginning to be overgrown with black hair), at once squatted down in front of Hadji Murad.\n\nHe too lifted his palms upwards, as the old man had done, repeated a prayer, and then stroked his face downwards.  Only after that did he begin to speak.  He told how an order had come from Shamil to seize Hadji Murad alive or dead, that Shamil's envoys had left only the day before, that the people were afraid to disobey Shamil's orders, and that therefore it was necessary to be careful.\n\n\"In my house,\" said Sado, \"no one shall injure my kunak while I live, but how will it be in the open fields?...We must think it over.\"\n\nHadji Murad listened with attention and nodded approvingly.  When Sado had finished he said:\n\n\"Very well.  Now we must send a man with a letter to the Russians.  My murid will go but he will need a guide.\"\n\n\"I will send brother Bata,\" said Sado.  \"Go and call Bata,\" he added, turning to his son.\n\nThe boy instantly bounded to his nimble feet as if he were on springs, and swinging his arms, rapidly left the saklya.  Some ten minutes later he returned with a sinewy, short-legged Chechen, burnt almost black by the sun, wearing a worn and tattered yellow Circassian coat with frayed sleeves, and crumpled black leggings.\n\nHadji Murad greeted the newcomer, and again without wasting a single word, immediately asked:\n\n\"Canst thou conduct my murid to the Russians?\"\n\n\"I can,\" gaily replied Bata.  \"I can c",
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 8948,
+      "char_end": 11448,
+      "word_count": 457
+    }
+  ],
+  "plot": {
+    "summary": "",
+    "logline": "",
+    "acts": [],
+    "subplots": [],
+    "tension_curve": [
+      0.15,
+      0.55,
+      0.45,
+      0.3,
+      0.75
+    ],
+    "themes": [
+      "Resistance unto death — the thistle sells its life dearly",
+      "Destruction of beauty through force — the plucked flower is ruined",
+      "The outsider who does not belong among the cultivated — thistle vs. garden flowers",
+      "Nature as moral commentary — pastoral frame precedes political violence",
+      "Imperial pressure on the individual — the mowers avoid or discard the thistle",
+      "Vitality under oppression — the thistle as embodied theme",
+      "Hospitality vs. political survival (kunak code vs. Shamil's edict)",
+      "Defection and betrayal as political acts with personal stakes",
+      "The individual crushed by imperial/theocratic machinery yet refusing to yield",
+      "Silence as resistance — Hadji Murad's economy of speech mirrors self-preservation",
+      "Fall from power — the once-magnificent naib reduced to a fugitive with one companion",
+      "Hospitality as political allegiance — welcoming Hadji Murad is a dangerous act of loyalty",
+      "Concealment and surveillance — Hadji Murad's wary scanning of faces, deliberate avoidance of the main road",
+      "Trust networks in occupied territory — knowing exactly which door to knock on",
+      "Pride stripped to survival — the banner and murids replaced by a burka and one man",
+      "Hospitality as sacred covenant (kunak bond)",
+      "Concealed knowledge — what is known but not spoken",
+      "Russian colonial violence rendered in a single offhand sentence ('they burned the hay')",
+      "Ritual as identity — prayer, disarmament, greeting phrases preserve Chechen selfhood under occupation",
+      "The fugitive within familiar space — safety is temporary, disguise still worn inside",
+      "Sacred hospitality vs. political survival (kunak code under Shamil's death order)",
+      "The human beneath the warrior: Hadji Murad's blush, his gentleness with Bulka, his childlike smile",
+      "Parallel worlds: Chechen kunak night / Russian card-and-champagne night — same stakes, different register",
+      "Avdeev as the human cost: the ordinary man who substituted for his brother, now shot for nothing",
+      "Defection as double betrayal: HM betrays Shamil, but also risks betraying his own people",
+      "Imperial machinery vs. human scale: soldiers' gossip, Vorontsov's jurisdictional anxiety, Marya Vasilevna's drawing room politics",
+      "Dreams and reality: HM dreams of capturing Shamil, wakes to jackals — desire vs. dependence",
+      "The heroism myth (Sleptsov chapter): soldiers joke about hand-to-hand glory while Avdeev bleeds"
+    ],
+    "plot_elements": [
+      {
+        "description": "Author-narrator walks home through midsummer fields and catalogues blooming wildflowers — establishing a pastoral, sensory prologue.",
+        "act": 1,
+        "subplot_id": "author_digression",
+        "source_chunk": 1
+      },
+      {
+        "description": "Narrator notices a crimson 'Tartar' thistle (locally called so; avoided by mowers) standing apart from the meadow flowers.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "source_chunk": 1
+      },
+      {
+        "description": "Narrator attempts to pluck the thistle; struggles for five minutes against its prickles and tough stalk; finally tears it free — but the stem is frayed and the flower ruined.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "source_chunk": 1
+      },
+      {
+        "description": "Narrator discards the broken thistle and reflects: 'What energy and tenacity! With what determination it defended itself, and how dearly it sold its life!' — establishing the central metaphor for Hadji Murad's arc before the protagonist has appeared.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "source_chunk": 1
+      },
+      {
+        "description": "Narrator crosses a vast, freshly ploughed black-earth field — bare, without a single blade of grass — transitioning away from the flower world toward the novel's harsher terrain.",
+        "act": 1,
+        "subplot_id": "author_digression",
+        "source_chunk": 1
+      },
+      {
+        "description": "Author-narrator encounters a crushed but upright thistle on a ploughed field — its defiant survival triggers the memory of Hadji Murad. Establishes the central symbol and narrative frame.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "source_chunk": 2
+      },
+      {
+        "description": "Hadji Murad rides into Makhmet disguised and accompanied by only one murid (Eldar), signalling that he has broken from Shamil and is now a fugitive.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 2
+      },
+      {
+        "description": "Hadji Murad seeks shelter at Sado's house; old man delivers news that Shamil has issued a kill-or-capture order on Hadji Murad to all Chechens.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 2
+      },
+      {
+        "description": "Sado accepts Hadji Murad as kunak despite Shamil's death-penalty edict — dramatises the conflict between the Chechen hospitality code (adat) and Shamil's religious-political authority (sharia-state).",
+        "act": 1,
+        "subplot_id": "sado_kunak_loyalty",
+        "source_chunk": 2
+      },
+      {
+        "description": "Hadji Murad dispatches Bata as guide to lead Khan Mahoma and his murids through Argun forest to Russian commander Prince Vorontsov — the envoy mission is set in motion.",
+        "act": 1,
+        "subplot_id": "envoy_mission",
+        "source_chunk": 2
+      },
+      {
+        "description": "Hadji Murad passes a note hidden in a cartridge pouch for Sado to forward to his son — first signal that his family is a driver behind his defection.",
+        "act": 1,
+        "subplot_id": "hm_family_rescue",
+        "source_chunk": 2
+      },
+      {
+        "description": "Old man's proverb: 'the hares keep discussing how to drive away the eagles' — veiled commentary on Chechen resistance; Russian raid on Mitchit aoul mentioned.",
+        "act": 1,
+        "subplot_id": null,
+        "source_chunk": 2
+      },
+      {
+        "description": "Hadji Murad, formerly Shamil's naib with dozens of murids, now rides as a fugitive with only one murid, concealed under hood and burka, scanning faces warily.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 3
+      },
+      {
+        "description": "Hadji Murad enters the aoul via a narrow side street, avoiding the main road — deliberate evasion that underscores fugitive status and instinct for concealment.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 3
+      },
+      {
+        "description": "Hadji Murad stops at a specific saklya, wakes the old man with his whip handle — indicating prior knowledge of a trusted contact or safe house in this village.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 3
+      },
+      {
+        "description": "Old man immediately recognises Hadji Murad and welcomes him warmly, confirming he has a network of loyal supporters even in his fallen state.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 3
+      },
+      {
+        "description": "Boy is sent to fetch his father from the mosque — the household head is absent, suggesting Hadji Murad will need to negotiate or wait for the key decision-maker.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 3
+      },
+      {
+        "description": "Woman of the house greets Hadji Murad with the traditional phrase 'May thy coming bring happiness' and begins arranging cushions — conventional hospitality ritual that implicitly accepts him into the saklya.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 3
+      },
+      {
+        "description": "Hadji Murad enters the saklya of the old man — a trusted contact in the aoul. Weapons are ceremonially hung on the wall; host and guest perform Islamic prayer together. Ritual of kunak (blood-brotherhood) hospitality established.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 4
+      },
+      {
+        "description": "Hadji Murad asks 'Is there anything new?' The old man deflects — he says he has only come today and his son knows more. But then volunteers oblique, bitter news: the Russians burned hay in Mitchit Aoul. The old man's coded speech (eagles vs. hares) establishes the oppressive political atmosphere.",
+        "act": 1,
+        "subplot_id": "hm_murids_introduced",
+        "source_chunk": 4
+      },
+      {
+        "description": "Eldar is introduced as named murid accompanying Hadji Murad on the covert mission. He mirrors his leader's ritual gestures exactly, reinforcing the loyalty-and-discipline theme.",
+        "act": 1,
+        "subplot_id": "hm_murids_introduced",
+        "source_chunk": 4
+      },
+      {
+        "description": "Hadji Murad arrives at Sado's saklya with murid Eldar; Sado reveals Shamil has ordered his capture dead or alive; kunak bond declared.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 5
+      },
+      {
+        "description": "Hadji Murad dispatches Bata as guide to lead Khan Mahoma through Russian lines to Prince Vorontsov with his surrender offer.",
+        "act": 1,
+        "subplot_id": "envoy_mission",
+        "source_chunk": 5
+      },
+      {
+        "description": "Sado's wife and daughter serve food; silent gendered ritual; Eldar stone-still while women present — cultural texture of Chechen hospitality.",
+        "act": 1,
+        "subplot_id": null,
+        "source_chunk": 5
+      },
+      {
+        "description": "Hadji Murad passes a secret note for his son via Sado — first explicit reference to the family-rescue goal.",
+        "act": 1,
+        "subplot_id": "hm_family_rescue_goal",
+        "source_chunk": 5
+      },
+      {
+        "description": "Sado knowingly risks death to shelter Hadji Murad; his kunak duty overrides fear of Shamil — dramatizes the moral weight of the kunak code.",
+        "act": 1,
+        "subplot_id": "sado_kunak_loyalty",
+        "source_chunk": 5
+      },
+      {
+        "description": "Midnight warning: whole aoul knows Hadji Murad is here; Elders assemble in mosque to detain him. Sado wakes him.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 5
+      },
+      {
+        "description": "Hadji Murad and Eldar make a night escape from the aoul on horseback; aoul men pursue but are bluffed off by raised rifle.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 5
+      },
+      {
+        "description": "Hadji Murad reaches murids' forest camp; meets Khanefi, Gamzalo; prays; dreams of capturing Shamil and ruling Chechnya — exposes his hidden ambition and longing.",
+        "act": 1,
+        "subplot_id": "hm_murids_introduced",
+        "source_chunk": 5
+      },
+      {
+        "description": "Khan Mahoma returns: Vorontsov promises to receive Hadji Murad well tomorrow at the Shalin glade wood-felling site.",
+        "act": 1,
+        "subplot_id": "envoy_mission",
+        "source_chunk": 5
+      },
+      {
+        "description": "Russian ambush party at Vozdvizhensk: Panov, Avdeev, Nikitin, Bondarenko on night watch; cashbox complaint; Avdeev's homesickness monologue (went to war for his brother).",
+        "act": 1,
+        "subplot_id": "avdeev_arc",
+        "source_chunk": 5
+      },
+      {
+        "description": "Bata and Khan Mahoma intercepted by ambush soldiers; Avdeev connects humanly with the scouts; they are delivered safely to the fort.",
+        "act": 1,
+        "subplot_id": "envoy_mission",
+        "source_chunk": 5
+      },
+      {
+        "description": "Vorontsov's midnight drawing room: card game, champagne, Poltoratsky infatuated with Marya Vasilevna; Vorontsov receives envoy news; couple's excitement about Hadji Murad.",
+        "act": 1,
+        "subplot_id": "vorontsov_household",
+        "source_chunk": 5
+      },
+      {
+        "description": "Wood-felling morning: Poltoratsky's officers eat and joke about General Sleptsov's death — ironic heroism myth, indifference to actual violence.",
+        "act": 1,
+        "subplot_id": null,
+        "source_chunk": 5
+      },
+      {
+        "description": "Chechen pursuers fire on Russian line; Poltoratsky orders volley; Avdeev is shot in the stomach — mortal wound during a pointless skirmish.",
+        "act": 1,
+        "subplot_id": "avdeev_arc",
+        "source_chunk": 5
+      },
+      {
+        "description": "Vorontsov rides up; tells Poltoratsky Hadji Murad is about to surrender; Poltoratsky deploys sharpshooters to escort route.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 5
+      },
+      {
+        "description": "FORMAL SURRENDER: Hadji Murad and five murids ride out of forest and meet Vorontsov. Hadji Murad speaks his surrender formula: 'I surrender to the Russian Tsar. I wished to do so long ago but Shamil would not let me.' Handshake; retinue introduced.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 5
+      },
+      {
+        "description": "Soldiers comment on Hadji Murad: mix of admiration and resentment — 'What a lot of men that damned fellow has destroyed!' vs. 'He's a fine fellow — a real dzhigit!'",
+        "act": 1,
+        "subplot_id": null,
+        "source_chunk": 5
+      },
+      {
+        "description": "Hadji Murad brought to Vorontsov's house; Marya Vasilevna receives him; he blushes at her hand; sits with little Bulka on his knee — human tenderness behind the warrior mask.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "source_chunk": 5
+      },
+      {
+        "description": "Vorontsov writes reports to General Kozlovsky and to his father — bureaucratic machinery activates around HM's defection; Vorontsov's jurisdictional anxiety about Meller-Zakomelsky surfaces.",
+        "act": 1,
+        "subplot_id": "jurisdictional_quarrel",
+        "source_chunk": 5
+      },
+      {
+        "description": "Kunak-gift exchange conversation: Marya Vasilevna teases HM that he'll go about like Adam; HM explains the kunak gift law. Light humor as political ice-breaker.",
+        "act": 1,
+        "subplot_id": null,
+        "source_chunk": 5
+      }
+    ],
+    "act_per_chunk": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "symbols": [
+      "Crimson 'Tartar' thistle — Hadji Murad; fierce, beautiful, ultimately destroyed",
+      "Nosegay of cultivated flowers — Russian imperial society, polished and fragile",
+      "The ditch — margin, exile, the space outside accepted order",
+      "Frayed stalk — the cost of resistance; victory that destroys what it defends",
+      "Black-earth ploughed field — stripped land, imperial control, erasure of wildness",
+      "The Tartar thistle — compressed, broken, yet upright; direct visual analogue of Hadji Murad",
+      "The cartridge pouch hiding the letter — concealment of personal love beneath military armour",
+      "Weapons hung side by side on Sado's wall — equality of guest and host; Chechen code materialised",
+      "Honey — abundance, goodness, domestic peace set against violence outside",
+      "Hood and burka — concealment of former glory",
+      "The slight limp — physical mark of past battles and vulnerability",
+      "Single murid vs. dozens — numerical reduction as dramatisation of political fall",
+      "Rifle protruding from burka — concealed danger beneath disguise",
+      "Boy's sloe-black eyes — innocence and wonder at a living legend",
+      "Cushions being arranged — domesticity and safety contrasting the fugitive exterior",
+      "Weapons hung between gleaming copper basins — martial and domestic life inseparable",
+      "Pistol kept at Hadji Murad's back even inside the sanctuary — trust has limits",
+      "Ritual prayer with palms upward — submission to God, not to Russia",
+      "Eagles and hares — the old man's fable: Chechens are hares, Russians are eagles",
+      "Kunak bond — sacred obligation that overrides self-preservation",
+      "Stars and the Pleiades — HM checks them mid-prayer; time passing, fate marking",
+      "Rifle raised in darkness — power through threat, not violence; HM's authority without bloodshed",
+      "Avdeev's wound in the stomach — the gut-shot of pointless war, the body as price of abstraction",
+      "Hadji Murad on white-maned horse with gold ornaments — the legend made visible for the first time",
+      "Bulka on HM's knee — innocence as bridge between enemies",
+      "Honey at Sado's table — sweetness and calm before the danger"
+    ],
+    "analysis_notes": {
+      "chunk_001": "Chunk 1 is the author-frame prologue — Tolstoy's personal voice, no dramatic action, no named historical characters. The thistle metaphor is the entire load-bearing content of this chunk: it announces Hadji Murad's fate (resistance, ruin, dearly sold life) before he appears. The chunk is short and functions as a cinematic title-card equivalent. Filmability is moderate (0.55) rather than low because the imagery is highly visual and a skilled director can render it without dialogue — but the inner reflection ('What energy and tenacity!') requires either V.O. or visual metaphor translation. The pre-computed graph confirms no fusion candidates appear here; no cuttable-list characters appear. The author_digression and thistle_frame plotline threads appear together and are flagged for fusion per the Plotline Graph hint.",
+      "chunk_002": "This chunk is the narrative hinge: the thistle-frame prologue (authorial digression, Chapter-I equivalent) transitions into the story proper. Chunk covers approximately Chapters I–II of the novel. Shamil's kill-order is already active, meaning the defection has already occurred before this chunk begins — Chunk 1 likely established the wider context. The kunak relationship with Sado is load-bearing (must-keep thread). Bata is an efficient single-use operative. The narrator's 'I' exists only in the prologue and can be dissolved entirely in film — the thistle can open the film as a pure visual image without voice-over.",
+      "chunk_003": "Chunk 3 is a tightly cinematic scene of arrival and concealment. The passage contrasts Hadji Murad's former grandeur (banner, dozens of murids) with his present abjection (one murid, hood, burka, limp) in a single economical paragraph — a compression gift for the film. The safe-house sequence is wordless in action: waking the old man, the boy sent off, the woman greeting. Almost no inner monologue; everything is exteriorised behaviour. Highly filmable as-is. The unnamed old man, boy, and woman are atmospheric supporting figures with no independent arc — classic cuttable or purely functional presences. The village/aoul itself overlaps with the 'Sado's Aoul' location cluster (cinematic anchor, weight=10) and may be the same or an earlier stop. Needs confirmation in subsequent chunks. The chunk ends mid-sentence ('and bending nearly double began arranging') — scene continues into chunk 4.",
+      "chunk_004": "This chunk is extremely short (~300 words) and overlaps with the tail of Chunk 3 (the 'run to the mosque' line is the bridging sentence). The dramatic content is almost entirely atmospheric and ritual: no plot advancement beyond naming Eldar and establishing the saklya as a refuge node. The chunk functions as a breathing pause — Hadji Murad briefly safe, gathering intelligence. The old man's information-withholding followed by the oblique 'Mitchit Aoul' disclosure is a classic Tolstoyan indirection technique: what is NOT said carries the weight. Filmically, this is a strong visual scene (the gleaming basins, the weapons ritual, the prayer), but it lacks dramatic stakes on its own. It gains weight only in context of HM's hunted status (Chunk 3). In compression mode, this scene can be folded into the broader arrival sequence — the saklya interior need not be a standalone scene but can be compressed into a single INTERCUT or follow-on beat after the arrival. The Mitchit Aoul detail is a cuttable line of dialogue that can be dropped or absorbed into a wider Russian raid motif already established. Eldar's naming here is load-bearing — he must be introduced somewhere before he functions as a named murid later.",
+      "chunk_005": "This is the pivotal structural hinge of the entire novella: the surrender. Chapters I–VI deliver setup (Chechen night), complication (aoul escape, envoy mission), parallel subplot (Russian soldiers' night watch), and the climactic Act 1 Turning Point — Hadji Murad formally crosses to the Russian side. Avdeev's wounding here is dramaturgically crucial: it ties the Chechen political drama to a specific human cost at the exact moment of the 'good news' (the surrender). The chunk has exceptional filmability — nearly all scenes are visual action or charged dialogue. The Sado kunak-hospitality section and the surrender itself are cinematic setpieces. Marya Vasilevna and Poltoratsky both appear here fully; their subplot is entirely cuttable in compression. Gamzalo is introduced as a menace — his later role (staying loyal to Shamil's worldview among HM's murids) is seeded here by his refusal to look at Vorontsov."
+    }
+  },
+  "characters": {
+    "author-narrator": {
+      "canonical_name": "Author-Narrator",
+      "initial_description": "Anonymous first-person narrator returning home through midsummer fields; gathers wildflowers; attempts to pluck a 'Tartar' thistle from a ditch; reflects on its resistance. Functions as a framing device — Tolstoy's authorial voice introducing the central metaphor.",
+      "role": "supporting",
+      "source_chunks": [
+        1,
+        2
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 1,
+          "direct_quotes": [
+            "But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!"
+          ],
+          "speech_descriptors": [
+            "internal monologue / thought (introduced with 'thought I')"
+          ],
+          "actions": [
+            "Walking home through fields during midsummer harvest season",
+            "Gathering a nosegay of wildflowers",
+            "Noticing a crimson thistle ('Tartar' variety) in a ditch",
+            "Driving away a bumblebee from the thistle flower",
+            "Wrapping his hand in a handkerchief to protect against thorns",
+            "Struggling for nearly five minutes to pluck the thistle",
+            "Breaking the thistle fibers one by one",
+            "Plucking the thistle — finding it frayed and less beautiful afterwards",
+            "Throwing the thistle away",
+            "Ascending a dusty path across a black-earth ploughed field"
+          ],
+          "inner_states": [
+            "Admiration for the thistle's beauty in its natural setting",
+            "Determined to include the thistle in his nosegay",
+            "Frustration at the difficulty of plucking the thistle",
+            "Regret at having 'vainly destroyed a flower that looked beautiful in its proper place'",
+            "Retrospective admiration for the thistle's tenacity and determination in self-defense",
+            "The act of plucking becomes a meditation on resistance, survival, and the cost of destruction"
+          ],
+          "social_markers": [
+            "Educated, literary sensibility — detailed botanical observation",
+            "Landowner-adjacent class (walks through a landed proprietor's field)",
+            "Russian rural setting, midsummer, late 19th century",
+            "Reflective, philosophically inclined register",
+            "First-person narrator who frames the entire novel through this symbolic prologue"
+          ],
+          "new_info": [
+            "Serves as the frame narrator of the entire novel — his encounter with the thistle is the symbolic prologue that introduces Hadji Murad as a figure of indestructible resistance",
+            "The thistle ('Tartar' variety, locally avoided) is an explicit metaphor for Hadji Murad — beautiful, dangerous, tenacious, ultimately destroyed by outside force",
+            "The narrator's regret at destroying the flower signals his moral stance: sympathy for the conquered, critique of the conqueror",
+            "No other named characters appear in this chunk — this is a purely narratorial framing device"
+          ]
+        },
+        {
+          "chunk": 2,
+          "direct_quotes": [
+            "Ah, what a destructive creature is man....How many different plant-lives he destroys to support his own existence!",
+            "What vitality! Man has conquered everything and destroyed millions of plants, yet this one won't submit."
+          ],
+          "speech_descriptors": [
+            "internal monologue, reflective tone",
+            "exclamatory inner voice"
+          ],
+          "actions": [
+            "ascends a dusty path through a ploughed field",
+            "looks around the lifeless black field for living things",
+            "notices a thistle (Tartar plant) with three branches, one broken",
+            "reflects on the thistle's resilience",
+            "recalls a Caucasian episode from years ago"
+          ],
+          "inner_states": [
+            "involuntary revulsion at human destructiveness toward nature",
+            "admiration for the thistle's defiant vitality",
+            "associative memory triggered: thistle → Hadji Murad"
+          ],
+          "social_markers": [
+            "educated, literary sensibility",
+            "philosophical bent, prone to nature allegory",
+            "has personal connection to the Caucasus — partly witnessed, partly heard from eye-witnesses"
+          ],
+          "new_info": [
+            "The narrator explicitly frames the entire story as a memory/imagination composite ('partly seen myself, partly heard from eye-witnesses, and in part imagined')",
+            "The thistle-as-Hadji-Murad metaphor is established here as the structural key image of the novella",
+            "The narrator has direct Caucasian experience — personal witness, not merely literary source"
+          ]
+        }
+      ]
+    },
+    "hadji_murad": {
+      "canonical_name": "Hadji Murad",
+      "initial_description": "Shamil's former naib, legendary fighter, now a fugitive travelling in disguise with only one murid; limps slightly; rides into a hostile Chechen aoul seeking shelter and a courier to the Russians.",
+      "role": "protagonist",
+      "source_chunks": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 2,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "rides into Makhmet, a hostile Chechen aoul, on a cold November evening in 1851"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "Shamil's naib (military-political commander under Shamil)",
+            "famous for his exploits",
+            "never rides out without his banner (naib's insignia of rank)",
+            "operates in the Chechen highlands, approximately 15 miles from Russian territory",
+            "historical figure, late 1851 setting"
+          ],
+          "new_info": [
+            "First direct introduction of Hadji Murad as a character (previously only referenced by name in chunk 1)",
+            "He is Shamil's naib — a high-ranking military-religious commander",
+            "He rides into a Chechen village (Makhmet) — described as 'hostile', suggesting complex political allegiances even within Chechen society",
+            "The setting is explicitly dated: end of 1851, cold November evening",
+            "He is described as 'famous for his exploits' — legendary status established immediately",
+            "He carries a banner as mark of his naib rank",
+            "The atmosphere of his arrival is richly sensory: kizyak smoke, muezzin chant, lowing cattle, guttural voices — establishing the world he inhabits"
+          ]
+        },
+        {
+          "chunk": 3,
+          "direct_quotes": [
+            "Selaam aleikum!"
+          ],
+          "speech_descriptors": [
+            "repeating the customary greeting"
+          ],
+          "actions": [
+            "rides as a fugitive with only one murid, wrapped in hood and burka",
+            "has a rifle protruding from under burka",
+            "peers with quick black eyes into faces of those he meets",
+            "turns left into narrow side street instead of main road",
+            "stops at second saklya and looks around",
+            "touches sleeping old man with handle of leather-plaited whip and clicks tongue",
+            "uncovers his face after greeting",
+            "dismounts and walks with a slight limp",
+            "enters under the penthouse"
+          ],
+          "inner_states": [
+            "trying to attract as little attention as possible",
+            "alert and watchful — peering into faces of those he meets"
+          ],
+          "social_markers": [
+            "Shamil's naib (lieutenant/governor)",
+            "famous for his exploits",
+            "normally rides with banner and dozens of murids",
+            "currently a fugitive — reduced to one murid",
+            "Chechen/Avar warrior elite",
+            "uses customary Islamic greeting 'Selaam aleikum'",
+            "carries leather-plaited whip — marker of rank"
+          ],
+          "new_info": [
+            "has a slight limp when walking",
+            "travels disguised — no banner, no escort, contrary to his normal mode of travel",
+            "knows this village and specific saklya — goes directly to side street and second house",
+            "currently a fugitive from Shamil"
+          ]
+        },
+        {
+          "chunk": 4,
+          "direct_quotes": [
+            "May thy sons live!",
+            "Ne habar?",
+            "My murid.  Eldar is his name."
+          ],
+          "speech_descriptors": [
+            "addressed the old man (direct question in Chechen)",
+            "answered the woman's greeting"
+          ],
+          "actions": [
+            "enters the outer door of the saklya",
+            "takes off burka, rifle, and sword and hands them to the old man",
+            "adjusts pistol at his back",
+            "comes up to the cushions and sits down wrapping his Circassian coat closer",
+            "squats beside the old man, closes his eyes, lifts hands palms upward",
+            "repeats a prayer with the old man, strokes face with both hands",
+            "asks the old man 'Ne habar?' (Is there anything new?)",
+            "nods slightly upon understanding the old man's evasion",
+            "asks no more questions after the old man's indirect answer",
+            "introduces Eldar to the old man"
+          ],
+          "inner_states": [
+            "understands that the old man does not wish to say what he knew and what Hadji Murad wanted to know",
+            "respects the old man's reticence — does not press further"
+          ],
+          "social_markers": [
+            "Chechen/Avar warlord and guest",
+            "speaks Chechen ('Ne habar', 'Habar yok')",
+            "armed (burka, rifle, sword, pistol at back) — warrior status",
+            "performs Islamic prayer ritual with host",
+            "wears Circassian coat — regional aristocratic military dress",
+            "speaks formal greeting in Islamic tradition"
+          ],
+          "new_info": [
+            "Carries pistol at his back in addition to rifle and sword",
+            "Speaks Chechen fluently (direct dialogue in Chechen dialect)",
+            "Observes Islamic prayer ritual with host — religious identity confirmed",
+            "Is actively seeking information ('Ne habar?') — on the run or in intelligence-gathering mode",
+            "Recognizes and respects indirect communication style of the old man"
+          ]
+        },
+        {
+          "chunk": 5,
+          "direct_quotes": [
+            "My murid. Eldar is his name.",
+            "Very well. Now we must send a man with a letter to the Russians. My murid will go but he will need a guide.",
+            "Canst thou conduct my murid to the Russians?"
+          ],
+          "speech_descriptors": [
+            "said Hadji Murad",
+            "he said (introducing Eldar)",
+            "immediately asked (without wasting a single word)"
+          ],
+          "actions": [
+            "Introduces Eldar to the old man as his murid",
+            "Listens absently to the old man, looking at the door and listening to sounds outside",
+            "Listens with attention and nods approvingly when Sado speaks",
+            "After Sado finishes, proposes sending a letter to the Russians via his murid",
+            "Greets Bata upon his arrival",
+            "Asks Bata without delay whether he can guide his murid to the Russians"
+          ],
+          "inner_states": [
+            "Distracted and vigilant — listening to sounds outside rather than the old man's story",
+            "Alert to external threats (Shamil's order to seize him)",
+            "Approves of Sado's report; quickly pivots to action (sending letter to Russians)"
+          ],
+          "social_markers": [
+            "Commander figure — others defer to him",
+            "Economical with words — no small talk, purely functional speech",
+            "Has murids (followers), indicating religious/military leadership status",
+            "Strategic thinker — immediately plans contact with Russians upon hearing Shamil's threat"
+          ],
+          "new_info": [
+            "Plans to send a letter to the Russians — first concrete strategic action shown",
+            "His murid (Eldar) is designated as the messenger to the Russians",
+            "He needs a local guide (Bata) for this mission, indicating unfamiliarity with the terrain or danger of traveling alone"
+          ]
+        }
+      ]
+    },
+    "eldar": {
+      "canonical_name": "Eldar",
+      "initial_description": "Hadji Murad's sole murid companion; young, strong, silent — sits statue-still while women are present; mirrors his leader's every gesture.",
+      "role": "supporting",
+      "source_chunks": [
+        2,
+        4,
+        5
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 4,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "enters the room with strong legs striding softly over earthen floor",
+            "retains only dagger and pistol",
+            "takes off burka, rifle, and sword as Hadji Murad had done",
+            "hangs weapons on same nails as his leader's weapons",
+            "sits down crossing his legs on a piece of felt beside Hadji Murad",
+            "fixes his fine (eyes — sentence truncated)"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "Hadji Murad's murid (devoted follower/disciple)",
+            "armed — warrior class",
+            "physically described as strong-legged, moves softly — disciplined physical presence",
+            "mirrors his leader's gestures precisely (same disarming ritual, same positioning)"
+          ],
+          "new_info": [
+            "Full name revealed: Eldar",
+            "Identified explicitly as Hadji Murad's murid",
+            "Described physically: strong legs, soft movement — disciplined warrior bearing",
+            "Mirrors Hadji Murad's disarming ritual exactly — trained deference and loyalty",
+            "Retains dagger and pistol even after partial disarming — still armed in the host's house"
+          ]
+        },
+        {
+          "chunk": 5,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "Enters the saklya as Hadji Murad's murid (newcomer)",
+            "Sits down on felt beside Hadji Murad after being motioned by the old man",
+            "Sits cross-legged, fixing his eyes on the old man who is speaking"
+          ],
+          "inner_states": [
+            "Attentive — fixes his 'fine ram-like eyes' on the old man; watchful presence"
+          ],
+          "social_markers": [
+            "Murid (follower/disciple) of Hadji Murad",
+            "Young, physically striking (fine ram-like eyes)",
+            "Silent and obedient — takes assigned seat without a word"
+          ],
+          "new_info": [
+            "Formally named and introduced for the first time: 'Eldar is his name'",
+            "Designated by Hadji Murad as the messenger who will carry the letter to the Russians"
+          ]
+        }
+      ]
+    },
+    "sado": {
+      "canonical_name": "Sado",
+      "initial_description": "Master of the house in Makhmet aoul; about forty, small beard, long nose; receives Hadji Murad as kunak despite Shamil's death-penalty order; embodies Chechen hospitality code.",
+      "role": "supporting",
+      "source_chunks": [
+        2,
+        5
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 5,
+          "direct_quotes": [
+            "In my house, no one shall injure my kunak while I live, but how will it be in the open fields?...We must think it over.",
+            "I will send brother Bata.",
+            "Go and call Bata."
+          ],
+          "speech_descriptors": [
+            "said Sado",
+            "he added, turning to his son"
+          ],
+          "actions": [
+            "Enters the saklya (steps heard under penthouse before he enters)",
+            "Takes off wooden slippers at the door",
+            "Pushes old worn cap to back of head",
+            "Squats down in front of Hadji Murad",
+            "Lifts palms upward, repeats a prayer, strokes face downward before speaking",
+            "Reports Shamil's order to seize Hadji Murad alive or dead",
+            "Reports that Shamil's envoys left the day before",
+            "Warns that the people fear to disobey Shamil",
+            "Declares his house safe for Hadji Murad as kunak but expresses concern for open fields",
+            "Volunteers his brother Bata as a guide",
+            "Directs his son to fetch Bata"
+          ],
+          "inner_states": [
+            "Loyal to kunak-obligation — emphatic that no one shall harm Hadji Murad under his roof",
+            "Pragmatically worried about safety beyond his house — 'We must think it over'",
+            "Acts with deliberate ritual (prayer before speaking), suggesting gravity of the situation"
+          ],
+          "social_markers": [
+            "Chechen village host, about forty years old",
+            "Small beard, long nose, black eyes",
+            "Head unshaved so long it is beginning to regrow black hair — modest/rural appearance",
+            "Follows Chechen hospitality ritual (prayer before speech)",
+            "Has a brother (Bata) and a fifteen-year-old son",
+            "Kunak relationship with Hadji Murad — strong honor obligation"
+          ],
+          "new_info": [
+            "Master of the house (confirmed)",
+            "Has received news of Shamil's order to seize Hadji Murad alive or dead",
+            "Shamil's envoys departed only the day before — urgency is high",
+            "Volunteers Bata (his brother) as guide for the mission to the Russians"
+          ]
+        }
+      ]
+    },
+    "old_man_(apiarist)": {
+      "canonical_name": "Old Man (Apiarist)",
+      "initial_description": "Elderly Chechen, Sado's relative; moist red lashless eyes; lives at an apiary; delivers veiled news about Shamil's order in proverbial language ('the hares and the eagles').",
+      "role": "supporting",
+      "source_chunks": [
+        2
+      ]
+    },
+    "sado's_son": {
+      "canonical_name": "Sado's Son",
+      "initial_description": "Boy of about fifteen, sloe-black eyes; runs to call his father; gazes at Hadji Murad throughout with wide-eyed admiration.",
+      "role": "supporting",
+      "source_chunks": [
+        2,
+        5
+      ]
+    },
+    "bata": {
+      "canonical_name": "Bata",
+      "initial_description": "Short-legged, sun-burnt Chechen guide; boastful but capable; agrees to escort Eldar (or Khan Mahoma's murid) to Russian commander Vorontsov in exchange for three coins — though he claims honour is enough.",
+      "role": "supporting",
+      "source_chunks": [
+        2,
+        5
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 5,
+          "direct_quotes": [
+            "I can. I can c..."
+          ],
+          "speech_descriptors": [
+            "gaily replied Bata"
+          ],
+          "actions": [
+            "Arrives at the saklya brought by Sado's son",
+            "Greets Hadji Murad (greeted in return)",
+            "Replies willingly to Hadji Murad's question about guiding his murid"
+          ],
+          "inner_states": [
+            "Willing, confident, cheerful — replies 'gaily'"
+          ],
+          "social_markers": [
+            "Sado's brother",
+            "Sinewy, short-legged Chechen",
+            "Burnt almost black by the sun — outdoor/active lifestyle",
+            "Wearing worn and tattered yellow Circassian coat with frayed sleeves, crumpled black leggings — modest/poor appearance",
+            "Local guide — knows the terrain and routes to Russian positions"
+          ],
+          "new_info": [
+            "Introduced for the first time in this chunk",
+            "Sado's brother",
+            "Will guide Eldar to the Russian lines with Hadji Murad's letter",
+            "Physically distinctive: sun-darkened, sinewy, worn clothing",
+            "Replies cheerfully — suggests fearlessness or willingness around danger"
+          ]
+        }
+      ]
+    },
+    "sado's_wife": {
+      "canonical_name": "Sado's Wife",
+      "initial_description": "Thin middle-aged woman in yellow smock and red beshmet; arranges cushions and brings food; silent, deferential.",
+      "role": "supporting",
+      "source_chunks": [
+        2
+      ]
+    },
+    "sado's_daughter": {
+      "canonical_name": "Sado's Daughter",
+      "initial_description": "Young girl in red trousers and green beshmet; silver coin necklace; tries to look stern; does not look at male guests — traditional Chechen modesty.",
+      "role": "supporting",
+      "source_chunks": [
+        2
+      ]
+    },
+    "khan_mahoma": {
+      "canonical_name": "Khan Mahoma",
+      "initial_description": "One of Hadji Murad's four murids waiting at the Argun glade; entrusted with delivering Hadji Murad's message to Prince Vorontsov; appears only by name in this chunk.",
+      "role": "supporting",
+      "source_chunks": [
+        2,
+        5
+      ]
+    },
+    "author-narrator_(i)": {
+      "canonical_name": "Author-Narrator (I)",
+      "initial_description": "First-person frame narrator; a traveller who discovers the battered thistle on a ploughed field and uses it as the trigger to 'remember' the Hadji Murad episode.",
+      "role": "supporting",
+      "source_chunks": [
+        2
+      ]
+    },
+    "old_man_(unnamed_host)": {
+      "canonical_name": "Old man (unnamed host)",
+      "initial_description": "Elderly Chechen villager with moist red lashless eyelids, greasy beshmet, nightcap. Wakened from sleep on rooftop. Hospitable, immediately recognises Hadji Murad.",
+      "role": "supporting",
+      "source_chunks": [
+        3
+      ]
+    },
+    "boy_(host's_grandson/son)": {
+      "canonical_name": "Boy (host's grandson/son)",
+      "initial_description": "Fifteen-year-old with sparkling black eyes likened to ripe sloes. Sent to fetch his father from the mosque.",
+      "role": "supporting",
+      "source_chunks": [
+        3
+      ]
+    },
+    "woman_of_the_house_(unnamed)": {
+      "canonical_name": "Woman of the house (unnamed)",
+      "initial_description": "Slight, spare, middle-aged woman in yellow smock, red beshmet, wide blue trousers. Greets Hadji Murad with traditional welcome phrase, begins arranging cushions.",
+      "role": "supporting",
+      "source_chunks": [
+        3
+      ]
+    },
+    "murid_(unnamed,_single_companion)": {
+      "canonical_name": "Murid (unnamed, single companion)",
+      "initial_description": "Strong, active murid who accompanies Hadji Murad in his fugitive state. Displaces the old man from holding Hadji Murad's bridle and stirrup.",
+      "role": "supporting",
+      "source_chunks": [
+        3
+      ]
+    },
+    "old_man's_wife": {
+      "canonical_name": "Old Man's Wife",
+      "initial_description": "Slight, middle-aged Chechen woman in yellow smock, red beshmet, wide blue trousers. Performs the traditional hostess role: lays out cushions, greets with ritual phrase. Unnamed.",
+      "role": "supporting",
+      "source_chunks": [
+        4
+      ]
+    },
+    "khanefi": {
+      "canonical_name": "Khanefi",
+      "initial_description": "Avar murid; thick-set, hairy, eyebrows meeting; manages all of Hadji Murad's property and pack animals; sworn brother who manages HM's household.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "gamzalo": {
+      "canonical_name": "Gamzalo",
+      "initial_description": "Chechen murid; short red beard, no eyebrows or eyelashes, blind in one eye, scar across nose and face; silent, menacing guard; instinctively takes defensive position without orders.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "panov": {
+      "canonical_name": "Panov",
+      "initial_description": "Non-commissioned officer at Vozdvizhensk; long-suffering, pragmatic, fair; leads the ambush party; breaks up soldiers' bickering about the cashbox.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "avdeev": {
+      "canonical_name": "Avdeev",
+      "initial_description": "Russian soldier; cheerful, homesick, went to war voluntarily in place of his brother; forms easy human connection even with Chechen scouts; mortally wounded in the skirmish.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "nikitin": {
+      "canonical_name": "Nikitin",
+      "initial_description": "Russian soldier; morose, distrustful; grumbles about the company commander's cashbox theft; suspicious of Chechens.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "bondarenko": {
+      "canonical_name": "Bondarenko",
+      "initial_description": "Russian soldier, third man in ambush party; Ukrainian, cheerful voice; accompanies Avdeev to deliver the scouts to the fort.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "simon_vorontsov": {
+      "canonical_name": "Simon Vorontsov",
+      "initial_description": "Prince, Commander of Kurin Regiment, Imperial Aide-de-Camp, son of Commander-in-Chief; long-faced, English-accented Russian; politically ambitious, pleased to secure Hadji Murad's defection before his superior Meller-Zakomelsky can.",
+      "role": "antagonist",
+      "source_chunks": [
+        5
+      ]
+    },
+    "marya_vasilevna": {
+      "canonical_name": "Marya Vasilevna",
+      "initial_description": "Princess, Vorontsov's wife; large-built, black-browed Petersburg beauty; warm, quick-minded, flirtatious with Poltoratsky; immediately charmed by Hadji Murad's blush.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "poltoratsky": {
+      "canonical_name": "Poltoratsky",
+      "initial_description": "Company commander, ex-Guard; wide-set kindly eyes; in a state of elation near danger; infatuated with Marya Vasilevna; first Russian to meet Hadji Murad face-to-face; surprised by his childlike smile.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "baron_freze": {
+      "canonical_name": "Baron Freze",
+      "initial_description": "Ex-Guards officer reduced to ranks for duelling; Poltoratsky's fellow student at Cadet College; present at the wood-felling officers' breakfast.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "tikhonov": {
+      "canonical_name": "Tikhonov",
+      "initial_description": "Poltoratsky's subaltern and roommate; brief appearance.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "vovilo": {
+      "canonical_name": "Vovilo",
+      "initial_description": "Poltoratsky's soldier-servant; brief domestic appearance.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "bulka": {
+      "canonical_name": "Bulka",
+      "initial_description": "Marya Vasilevna's curly-haired six-year-old son from her first marriage; sits on Hadji Murad's knee; symbol of the unexpected human gentleness in the conqueror.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "regimental_adjutant": {
+      "canonical_name": "Regimental Adjutant",
+      "initial_description": "Sits straight, cold handsome face; stern card partner; procedural figure in Vorontsov's household.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "tutor": {
+      "canonical_name": "Tutor",
+      "initial_description": "Shaggy young Petersburg University graduate sent to tutor Bulka; gloomy appearance; Vorontsov's card partner.",
+      "role": "supporting",
+      "source_chunks": [
+        5
+      ]
+    },
+    "murid_unnamed_single_companion": {
+      "canonical_name": "murid_(unnamed,_single_companion)",
+      "source_chunks": [
+        3
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 3,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "rides alongside Hadji Murad",
+            "quickly dismounts before old man can help",
+            "motions old man aside and takes his place at Hadji Murad's stirrup"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "murid — religious/military follower",
+            "strong and active",
+            "protective role, acts as bodyguard/attendant"
+          ],
+          "new_info": [
+            "sole remaining companion of Hadji Murad in his fugitive state",
+            "physically strong and quick — described as 'strong active murid'"
+          ]
+        }
+      ]
+    },
+    "old_man_unnamed_host": {
+      "canonical_name": "old_man_(unnamed_host)",
+      "source_chunks": [
+        3,
+        4
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 3,
+          "direct_quotes": [
+            "aleikum, selaam!",
+            "run to the mosque and call your father"
+          ],
+          "speech_descriptors": [
+            "mumbling with toothless mouth while descending ladder",
+            "orders boy to call his father"
+          ],
+          "actions": [
+            "lies on roof of saklya covered with sheepskin",
+            "rises when touched with whip",
+            "blinks to unstick moist red eyelids",
+            "responds to greeting with smile",
+            "raises himself on thin legs",
+            "thrusts feet into wooden-heeled slippers",
+            "slips arms into crumpled sheepskin",
+            "descends ladder backwards while dressing",
+            "shakes head and mumbles while climbing down",
+            "reaches ground and hospitably seizes Hadji Murad's bridle and right stirrup",
+            "is motioned aside by murid",
+            "hurries forward to open the thin, creaking door into the saklya"
+          ],
+          "inner_states": [
+            "recognizes Hadji Murad and smiles — implicit familiarity and welcome"
+          ],
+          "social_markers": [
+            "old, physically frail — thin legs, shrivelled sunburnt neck, toothless, no eyelashes",
+            "wears greasy old beshmet and nightcap — lower class, poor material goods",
+            "resting on roof during day — rural Chechen peasant lifestyle",
+            "wooden-heeled slippers — regional Caucasian footwear",
+            "hospitable by reflex — grabs bridle and stirrup immediately",
+            "patriarch of household — commands boy directly"
+          ],
+          "new_info": [
+            "distinct from 'old_man_(apiarist)' in earlier chunks — this is a different unnamed old man who is the host at this saklya",
+            "has a son (called from mosque) and a boy (grandson or son) in household"
+          ]
+        },
+        {
+          "chunk": 4,
+          "direct_quotes": [
+            "run to the mosque and call your father"
+          ],
+          "speech_descriptors": [
+            "ordered (hurrying forward)"
+          ],
+          "actions": [
+            "orders a boy (grandson/son) to run to the mosque and call his father",
+            "hurries forward to open the thin, creaking door into the saklya"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "elderly male host",
+            "acts as doorkeeper and welcomer",
+            "has authority over boy in household"
+          ],
+          "new_info": [
+            "Sends a boy to the mosque to call 'your father' — suggests the adult male head of house is absent (at mosque) when HM arrives"
+          ]
+        }
+      ]
+    },
+    "boy_hosts_grandson_son": {
+      "canonical_name": "boy_(host's_grandson/son)",
+      "source_chunks": [
+        3,
+        4
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 3,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "comes quickly out of the door",
+            "meets Hadji Murad",
+            "fixes sparkling eyes wonderingly on the new arrivals"
+          ],
+          "inner_states": [
+            "wonder and curiosity at the new arrivals"
+          ],
+          "social_markers": [
+            "approximately fifteen years old",
+            "eyes described as black as ripe sloes — Caucasian physical type",
+            "member of rural Chechen household"
+          ],
+          "new_info": [
+            "approximately 15 years old",
+            "sent to mosque to call his father — implies father is at mosque prayer"
+          ]
+        },
+        {
+          "chunk": 4,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "receives order to run to the mosque and call his father"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "young boy in the household",
+            "errand-runner — lowest status in domestic hierarchy"
+          ],
+          "new_info": [
+            "Sent to mosque to fetch his father — confirms adult male head of house is at mosque during HM's arrival"
+          ]
+        }
+      ]
+    },
+    "woman_of_the_house_unnamed": {
+      "canonical_name": "woman_of_the_house_(unnamed)",
+      "source_chunks": [
+        3,
+        4
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 3,
+          "direct_quotes": [
+            "May thy coming bring happiness!"
+          ],
+          "speech_descriptors": [
+            "says traditional welcome while bending nearly double to arrange cushions"
+          ],
+          "actions": [
+            "comes through inner door carrying cushions",
+            "bends nearly double to begin arranging cushions (for guests)"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "slight and spare, middle-aged",
+            "wears yellow smock, red beshmet, wide blue trousers — traditional Chechen women's dress, colourful",
+            "immediately serves guests — traditional hospitality role",
+            "moves through inner door — domestic space, segregated from outer entry"
+          ],
+          "new_info": [
+            "traditional Chechen greeting 'May thy coming bring happiness' — hospitality formula",
+            "dress details: yellow smock, red beshmet, wide blue trousers — specific visual description for costume/production design"
+          ]
+        },
+        {
+          "chunk": 4,
+          "direct_quotes": [
+            "May thy coming bring happiness!"
+          ],
+          "speech_descriptors": [
+            "said (while bending nearly double arranging cushions)"
+          ],
+          "actions": [
+            "comes through inner door carrying cushions",
+            "bends nearly double to arrange cushions along the front wall for the guest"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "slight, spare, middle-aged Chechen woman",
+            "wears yellow smock, red beshmet, wide blue trousers — traditional Chechen women's dress",
+            "performs domestic service role for male guests",
+            "uses formal Islamic greeting formula"
+          ],
+          "new_info": [
+            "Described physically: slight, spare, middle-aged",
+            "Detailed clothing: yellow smock, red beshmet, wide blue trousers — period-specific visual costume detail",
+            "Enters from inner (private) door — domestic space vs. guest space division in saklya architecture"
+          ]
+        }
+      ]
+    },
+    "old_man_apiarist": {
+      "canonical_name": "old_man_(apiarist)",
+      "source_chunks": [
+        4,
+        5
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 4,
+          "direct_quotes": [
+            "Habar yok",
+            "I live at the apiary and have only today come to see my son....He knows.",
+            "There is no good news.",
+            "The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!",
+            "That is well."
+          ],
+          "speech_descriptors": [
+            "replied (looking not at Hadji Murad's face but at his breast — indirect, evasive gaze)",
+            "said hoarsely and angrily (about Russians burning hay)",
+            "motioned Eldar to a place (non-verbal direction)"
+          ],
+          "actions": [
+            "hurries forward to open the thin, creaking door into the saklya",
+            "carefully hangs Hadji Murad's rifle and sword on a nail beside the master's weapons",
+            "squats on his bare heels beside Hadji Murad",
+            "closes his eyes, lifts hands palms upward",
+            "repeats prayer with Hadji Murad, strokes face",
+            "answers 'Habar yok' (Nothing new) while looking at HM's chest not his face",
+            "speaks in parable ('hares and eagles') to convey political news indirectly",
+            "points to Eldar and asks who he is",
+            "motions Eldar to a place on felt beside Hadji Murad"
+          ],
+          "inner_states": [
+            "does not wish to say directly what he knows — deliberate evasion",
+            "harbors deep anger toward the Russians (expressed hoarsely and angrily)"
+          ],
+          "social_markers": [
+            "elderly Chechen man (apiarist — beekeeper)",
+            "has lifeless red eyes — age/illness marker",
+            "lives apart at the apiary, visits son in the village",
+            "uses metaphorical/parabolic speech style — oral folk tradition",
+            "speaks Chechen ('Habar yok')",
+            "performs Islamic prayer",
+            "squats on bare heels — humble village elder posture",
+            "aware of local political/military events despite rural isolation"
+          ],
+          "new_info": [
+            "He is the father of the host (Sado's father or the master of the house's father — referred to as 'my son')",
+            "Has lifeless red eyes — distinctive physical marker",
+            "Uses fable/parable as political speech ('hares and eagles' = Chechens and Russians)",
+            "References concrete recent atrocity: Russians burned hay in the Mitchit aoul",
+            "Deliberately avoids direct disclosure of intelligence to Hadji Murad — protective caution or fear of surveillance"
+          ]
+        },
+        {
+          "chunk": 5,
+          "direct_quotes": [
+            "Who is he?"
+          ],
+          "speech_descriptors": [
+            "asked the old man, pointing to the newcomer",
+            "was telling how their brave fellows had caught two Russian soldiers the week before and had killed one and sent the other to Shamil in Veden"
+          ],
+          "actions": [
+            "Points to Eldar and asks who he is",
+            "Motions Eldar to a place on felt beside Hadji Murad",
+            "Tells story of brave fellows catching two Russian soldiers the week before (killing one, sending other to Shamil)"
+          ],
+          "inner_states": [],
+          "social_markers": [
+            "Elder figure — authority to seat guests",
+            "Chechen, connected to armed resistance (speaks approvingly of capturing Russian soldiers)",
+            "Storyteller/informant role in the gathering"
+          ],
+          "new_info": [
+            "Provides context: local Chechen fighters recently captured two Russian soldiers — one killed, one sent to Shamil in Veden"
+          ]
+        }
+      ]
+    },
+    "sados_son": {
+      "canonical_name": "sado's_son",
+      "source_chunks": [
+        5
+      ],
+      "extraction_evidence": [
+        {
+          "chunk": 5,
+          "direct_quotes": [],
+          "speech_descriptors": [],
+          "actions": [
+            "Enters with his father Sado and sits down by the door",
+            "Instantly bounds to his feet when Sado tells him to call Bata",
+            "Leaves the saklya swinging his arms rapidly",
+            "Returns approximately ten minutes later with Bata"
+          ],
+          "inner_states": [
+            "Energetic, spring-like physical presence — described as 'on springs'"
+          ],
+          "social_markers": [
+            "Fifteen years old",
+            "Sado's son — established in earlier chunk",
+            "Obedient and fast-moving; acts as errand-runner for his father"
+          ],
+          "new_info": [
+            "Acts as the physical messenger who fetches Bata — confirms his utility role in the household"
+          ]
+        }
+      ]
+    }
+  },
+  "character_relationships": [
+    {
+      "with": "nature / thistle",
+      "quality": "empathetic, identifies the plant as moral emblem of resistance",
+      "from_character": "author-narrator",
+      "source_chunk": 2
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "narrative bridge — the narrator's memory of HM is triggered by the thistle; HM is the human embodiment of the thistle's defiance",
+      "from_character": "author-narrator",
+      "source_chunk": 2
+    },
+    {
+      "with": "shamil",
+      "quality": "subordinate — naib under Shamil's command; relationship not yet elaborated in this chunk",
+      "from_character": "hadji_murad",
+      "source_chunk": 2
+    },
+    {
+      "with": "old_man_(unnamed_host)",
+      "quality": "recognized and welcomed; uses customary greeting, uncovers face only after greeting",
+      "from_character": "hadji_murad",
+      "source_chunk": 3
+    },
+    {
+      "with": "murid_(unnamed,_single_companion)",
+      "quality": "commands loyalty; murid quickly takes over from old man without being ordered verbally",
+      "from_character": "hadji_murad",
+      "source_chunk": 3
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "loyal, protective, anticipates needs without verbal instruction",
+      "from_character": "murid_(unnamed,_single_companion)",
+      "source_chunk": 3
+    },
+    {
+      "with": "old_man_(unnamed_host)",
+      "quality": "displaces him from serving Hadji Murad without hostility — matter of protocol",
+      "from_character": "murid_(unnamed,_single_companion)",
+      "source_chunk": 3
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "recognizes him without hesitation; welcomes him hospitably; defers to him socially",
+      "from_character": "old_man_(unnamed_host)",
+      "source_chunk": 3
+    },
+    {
+      "with": "boy_(host's_grandson/son)",
+      "quality": "commands him directly — authority figure",
+      "from_character": "old_man_(unnamed_host)",
+      "source_chunk": 3
+    },
+    {
+      "with": "old_man_(unnamed_host)",
+      "quality": "obedient; old man commands him immediately",
+      "from_character": "boy_(host's_grandson/son)",
+      "source_chunk": 3
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "stares in wonder — does not know him personally but reacts to his presence",
+      "from_character": "boy_(host's_grandson/son)",
+      "source_chunk": 3
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "offers traditional welcome greeting; serves him as honoured guest",
+      "from_character": "woman_of_the_house_(unnamed)",
+      "source_chunk": 3
+    },
+    {
+      "with": "old_man_(apiarist)",
+      "quality": "respectful deference to elder; trusts him as informant; does not press when evasion is clear",
+      "from_character": "hadji_murad",
+      "source_chunk": 4
+    },
+    {
+      "with": "eldar",
+      "quality": "leader–murid bond; introduces him as 'my murid'; commands his positioning in the room",
+      "from_character": "hadji_murad",
+      "source_chunk": 4
+    },
+    {
+      "with": "woman_of_the_house",
+      "quality": "formal reciprocal greeting — proper Islamic guest etiquette",
+      "from_character": "hadji_murad",
+      "source_chunk": 4
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "cautious host; informs indirectly via parable; avoids direct disclosure; accepts prayer ritual together — solidarity",
+      "from_character": "old_man_(apiarist)",
+      "source_chunk": 4
+    },
+    {
+      "with": "eldar",
+      "quality": "neutral assessment ('That is well'); directs him to a seat — authoritative host role",
+      "from_character": "old_man_(apiarist)",
+      "source_chunk": 4
+    },
+    {
+      "with": "sado_(his_son)",
+      "quality": "lives apart from son; son knows the news — defers knowledge to son",
+      "from_character": "old_man_(apiarist)",
+      "source_chunk": 4
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "formal host–guest greeting; subservient domestic service posture",
+      "from_character": "woman_of_the_house_(unnamed)",
+      "source_chunk": 4
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "absolute loyalty and imitation — mirrors every action of his leader; named and vouched for by HM",
+      "from_character": "eldar",
+      "source_chunk": 4
+    },
+    {
+      "with": "old_man_(apiarist)",
+      "quality": "accepted without suspicion after HM's vouching ('That is well')",
+      "from_character": "eldar",
+      "source_chunk": 4
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "welcoming host — opens door, manages household for guest",
+      "from_character": "old_man_(unnamed_host)",
+      "source_chunk": 4
+    },
+    {
+      "with": "boy_(host's_grandson/son)",
+      "quality": "commands with authority — sends boy to fetch adult male",
+      "from_character": "old_man_(unnamed_host)",
+      "source_chunk": 4
+    },
+    {
+      "with": "old_man_(unnamed_host)",
+      "quality": "obeys orders — subordinate family member",
+      "from_character": "boy_(host's_grandson/son)",
+      "source_chunk": 4
+    },
+    {
+      "with": "eldar",
+      "quality": "commander to loyal murid; introduces him authoritatively",
+      "from_character": "hadji_murad",
+      "source_chunk": 5
+    },
+    {
+      "with": "sado",
+      "quality": "kunak (guest-friend); listens attentively, approves of his counsel",
+      "from_character": "hadji_murad",
+      "source_chunk": 5
+    },
+    {
+      "with": "old_man_(apiarist)",
+      "quality": "polite guest; listens but is mentally elsewhere",
+      "from_character": "hadji_murad",
+      "source_chunk": 5
+    },
+    {
+      "with": "bata",
+      "quality": "direct and businesslike; wastes no words in assigning him a task",
+      "from_character": "hadji_murad",
+      "source_chunk": 5
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "devoted murid; completely deferential, follows instructions implicitly",
+      "from_character": "eldar",
+      "source_chunk": 5
+    },
+    {
+      "with": "old_man_(apiarist)",
+      "quality": "respectful newcomer; sits where directed and listens",
+      "from_character": "eldar",
+      "source_chunk": 5
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "kunak — deeply loyal host; pledges protection within his home",
+      "from_character": "sado",
+      "source_chunk": 5
+    },
+    {
+      "with": "sado's_son",
+      "quality": "father gives direct commands; son obeys instantly",
+      "from_character": "sado",
+      "source_chunk": 5
+    },
+    {
+      "with": "bata",
+      "quality": "brother; trusts him to guide Eldar to the Russians",
+      "from_character": "sado",
+      "source_chunk": 5
+    },
+    {
+      "with": "eldar",
+      "quality": "host authority; motions him to a seat after identifying him",
+      "from_character": "old_man_(apiarist)",
+      "source_chunk": 5
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "shows deference by seating his murid; converses with him",
+      "from_character": "old_man_(apiarist)",
+      "source_chunk": 5
+    },
+    {
+      "with": "sado",
+      "quality": "obedient son; responds instantly to father's commands",
+      "from_character": "sado's_son",
+      "source_chunk": 5
+    },
+    {
+      "with": "bata",
+      "quality": "fetches him on errand; no other interaction shown",
+      "from_character": "sado's_son",
+      "source_chunk": 5
+    },
+    {
+      "with": "sado",
+      "quality": "brother; trusted enough to be sent on a dangerous mission",
+      "from_character": "bata",
+      "source_chunk": 5
+    },
+    {
+      "with": "hadji_murad",
+      "quality": "respectful; greeted and quickly assigned a task",
+      "from_character": "bata",
+      "source_chunk": 5
+    },
+    {
+      "with": "eldar",
+      "quality": "will serve as guide — task relationship, no personal interaction yet shown",
+      "from_character": "bata",
+      "source_chunk": 5
+    }
+  ],
+  "world": {
+    "locations": [
+      {
+        "name": "Midsummer Meadow (Narrator's Field)",
+        "description": "A Russian countryside meadow in high summer — hay harvest done, rye just beginning to ripen. Rich in named wildflowers (clover, daisies, rape, campanulas, cornflowers, dodder). A ditch runs alongside where the thistle grows. Cinematic compression candidate — low independent weight; serves solely as frame for the thistle metaphor.",
+        "first_seen_chunk": 1,
+        "updates": [
+          {
+            "chunk": 1,
+            "update": "Confirmed as frame-narrative location. Specific flora now catalogued: clover, ox-eye daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder, thistle (crimson 'Tartar' variety). Thistle grows in a ditch. Bumble-bee present. This is the same location as 'Midsummer Meadow (Narrator's Field)' in the existing register — update with full flora inventory and production notes from this chunk."
+          }
+        ]
+      },
+      {
+        "name": "Black-Earth Ploughed Field",
+        "description": "A large landed-proprietor's field, recently ploughed, nothing but evenly furrowed moist earth visible to the horizon on all sides. Narrator ascends a dusty path through it. Metaphoric transition space — from natural abundance to stripped, controlled ground.",
+        "first_seen_chunk": 1
+      },
+      {
+        "name": "Makhmet Aoul",
+        "description": "Hostile Chechen village ~15 miles from Russian territory; smoky with burning kizyak; densely packed saklyas on a hillside; a fountain below where women and children gather.",
+        "first_seen_chunk": 2,
+        "updates": [
+          {
+            "chunk": 2,
+            "update": "First cinematic description established in Chunk 002. Confirmed as hostile Chechen village ~15 miles from Russian territory. November night setting. Kizyak smoke, livestock, saklyas packed like honeycomb. Muezzin chant just ended. Fountain below village. Hadji Murad arrives on horseback."
+          }
+        ]
+      },
+      {
+        "name": "Sado's Saklya",
+        "description": "Two-room stone/clay house cut into the hillside; penthouse entrance; weapons hung on whitewashed walls; earthen floor; intimate, low-ceilinged domestic space. Core scene of the kunak hospitality sequence.",
+        "first_seen_chunk": 2
+      },
+      {
+        "name": "Argun River Glade",
+        "description": "Forest clearing by a cliff-bend of the Argun river where two haystacks stand; rendezvous point for Hadji Murad's four waiting murids.",
+        "first_seen_chunk": 2
+      },
+      {
+        "name": "Mitchit Aoul",
+        "description": "Nearby Chechen aoul mentioned by old man as having been burnt by Russian soldiers — background event establishing Russian aggression.",
+        "first_seen_chunk": 2
+      },
+      {
+        "name": "Ploughed Field (Narrator's Walk)",
+        "description": "Large black tilled field on a hill near which the narrator finds the thistle; opening frame location, agricultural and desolate.",
+        "first_seen_chunk": 2,
+        "updates": [
+          {
+            "chunk": 1,
+            "update": "Confirmed as black-earth field, freshly ploughed, belonging to a landed proprietor. Vast, hill-bounded, no vegetation. Dusty path crosses it. Same location as 'Ploughed Field (Narrator's Walk)' in existing register — update with ownership detail (landed proprietor), scale, and chromatic notes (black earth / white dust path)."
+          }
+        ]
+      },
+      {
+        "name": "Chechen aoul side street / safe saklya",
+        "description": "Narrow side street in an unnamed aoul. A saklya cut into the hillside with a penthouse (covered porch), rooftop accessible by ladder, chimney. Interior implied with inner door and cushions. Functions as a clandestine safe-house for Hadji Murad.",
+        "first_seen_chunk": 3,
+        "updates": [
+          {
+            "chunk": 3,
+            "update": "Confirmed as same location cluster. Now subdivided into: EXT. CHECHEN AOUL SIDE STREET, EXT. OLD MAN'S SAKLYA ROOF, INT. OLD MAN'S SAKLYA. The 'second saklya cut into the hillside' is the specific target — not Sado's saklya, but an unnamed old man's dwelling used as a first safe house."
+          }
+        ]
+      },
+      {
+        "name": "Interior of the Old Man's Saklya",
+        "description": "A single-room Chechen dwelling carved into the hillside. Clean clay-plastered walls, whitewashed, decorated with gleaming copper basins. Weapons of the household hang between the basins. Cushions line the front wall for guests. Earthen floor. Intimate, low-lit domestic sanctuary — the moral interior of mountain life contrasted with Russian military exterior.",
+        "first_seen_chunk": 4,
+        "updates": [
+          {
+            "chunk": 4,
+            "update": "Detailed interior confirmed: clay-plastered, whitewashed walls; weapons hung on nails between two large glittering basins; cushions arranged along front wall; earthen floor; thin creaking outer door leads to inner rooms. Visual palette: bright white walls, polished metal basins catching light, dark earth floor, muted textile cushions. This is the primary scene location for Chunk 4 — Hadji Murad's clandestine meeting with the old man and Eldar."
+          }
+        ]
+      },
+      {
+        "name": "Sado's Saklya (Chechen Aoul)",
+        "description": "Guest chamber of kunak Sado in an unnamed Chechen aoul; low round table, cushions, fireplace niche with night light; women's quarters separate. Moral and narrative core: sacred hospitality space under mortal threat.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Chechen Aoul Night Streets",
+        "description": "Dark lanes and the upper mosque of the aoul at midnight; narrow sidestreets, wooden-shoe clatter, minarets visible against the stars. Site of Hadji Murad's escape.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Forest Camp (Murids' Glade)",
+        "description": "Glade in the forest beyond the aoul ravine; bonfire quickly extinguished; hobbled horse; burka on ground. Hadji Murad's hidden command post before the surrender.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Vozdvizhensk Fort",
+        "description": "Advanced Russian fort ten miles from Sado's aoul; barracks, soldiers' houses, best house (Vorontsov's); the Russian command center and hinge point of the plot.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Ambush Post (Plane Tree)",
+        "description": "Night outpost 20 paces off the road through forest; blackened broken plane tree; low-stakes watch that becomes the intercept point for Bata and Khan Mahoma.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Vorontsov Drawing Room",
+        "description": "Spacious carpeted room with rich curtains, four-candle card table, champagne; theatrical imperial domesticity in a frontier fort.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Shalin Glade (Wood-Felling Site)",
+        "description": "Forest glade six miles beyond Shagirinsk Gate; log-felling operation, bonfires in morning mist; site of the formal surrender meeting — cinematically critical.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "Road to Fort (Surrender Route)",
+        "description": "Forest road from glade back to Vozdvizhensk along which Vorontsov and Hadji Murad ride together after the handshake.",
+        "first_seen_chunk": 5
+      },
+      {
+        "name": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+        "literary_description": "It was midsummer, the hay harvest was over and they were just beginning to reap the rye. At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening.",
+        "cinematic_description": "Wide establishing shot: rolling meadow in peak midsummer light, shallow depth of field pulling focus through layers of wildflowers. Color palette rich and saturated — blues, reds, whites, yellows. A lone figure (the Narrator) moves through the field collecting flowers. Natural golden-hour or high noon light. Handheld camera, slow drift. The world is abundant, unguarded, alive.",
+        "atmosphere": "Pastoral abundance; deceptive serenity before violence; the beauty that will be destroyed. Functions as ironic counterpoint to the story of Hadji Murat — a frame of natural grace enclosing imperial brutality.",
+        "recurring": false,
+        "timeframe": "Frame narrative — pre-Act I / prologue. Midsummer, daytime.",
+        "production_notes": [
+          "Wildflower palette: crimson, white, blue, lilac, yellow — maximum chromatic richness",
+          "Thistle (crimson 'Tartar' variety) must be practical prop, prominently placed in ditch",
+          "Bumble-bee on flower: suggests undisturbed natural world, quiet life of small creatures",
+          "Nosegay of delicate flowers contrasts with single, tough thistle — central visual motif",
+          "Ditch where thistle grows slightly recessed from the main meadow — isolates the thistle spatially",
+          "Late-season feel: hay already cut, rye just beginning — transitional moment, end of something"
+        ],
+        "first_seen_chunk": 1
+      },
+      {
+        "name": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+        "literary_description": "The way home led across black-earth fields that had just been ploughed up. I ascended the dusty path. The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth. The land was well tilled and nowhere was there a blade of grass or any kind of plant.",
+        "cinematic_description": "Cut from the flower field to stark, desolate ploughed earth. Wide shot: the Narrator a small figure on a dust-white path crossing endless dark furrows to a hill horizon. No colour, no life — only uniformity. The richness of the meadow is brutally absent. Camera could be mounted high (drone or crane) to emphasise scale and erasure of nature. Dust rises from the path.",
+        "atmosphere": "Erasure, domination, order imposed on nature. Visual echo of empire's logic: the landed proprietor's will made visible in the land. Transition space between the living world and the dead. Thematically pre-figures Russian imperial flattening of Chechen culture.",
+        "recurring": false,
+        "timeframe": "Frame narrative — prologue, directly after the meadow, midsummer, daytime.",
+        "production_notes": [
+          "Black earth (chernozem): deep brown-black, moist, freshly turned — high contrast against dusty path",
+          "Path is dusty-white against the dark earth — strong graphic contrast for wide shots",
+          "No vegetation, no colour except earth and sky — palette stripped to monochrome",
+          "Horizon is a hill — Narrator ascends, suggesting a threshold / liminal crossing",
+          "Scale of the field emphasises the proprietor's ownership — land as political statement",
+          "This location functions as visual bridge from pastoral prologue to the main story"
+        ],
+        "first_seen_chunk": 1
+      },
+      {
+        "name": "EXT. MAKHMET AOUL - NIGHT",
+        "literary_description": "On a cold November evening Hadji Murad rode into Makhmet, a hostile Chechen aoul that lay some fifteen miles from Russian territory and was filled with the scented smoke of burning Kizyak. The strained chant of the muezzin had just ceased, and though the clear mountain air, impregnated with kizyak smoke, above the lowing of the cattle and the bleating of the sheep that were dispersing among the saklyas (which were crowded together like the cells of honeycomb), could be clearly heard the guttural voices of disputing men, and sounds of women's and children's voices rising from near the fountain below.",
+        "cinematic_description": "Establishing shot from ridge: the aoul as a tight cluster of stone saklyas on a mountainside, smoke rising from every roof in the cold air. Blue-black night sky, mountain peaks behind. Cut to street level: Hadji Murad on horseback moving through narrow lanes, his silhouette lit by the ember-glow from doorways. Sound design is dense — cattle, sheep, voices, silence of the muezzin just ended. The village feels enclosed, watchful, hostile.",
+        "atmosphere": "Tense arrival. The aoul is hostile territory — for Russians and potentially for Hadji Murad both. Cold mountain night, smoke as sensory marker of inhabited danger. Epic scale with intimate unease.",
+        "recurring": true,
+        "timeframe": "Act 1 — late November 1851, cold evening/night.",
+        "production_notes": [
+          "Kizyak smoke: dense, aromatic, low-hanging — practical smoke effect, not digital",
+          "Saklyas packed tight 'like cells of honeycomb' — cramped stone architecture, narrow lanes",
+          "Livestock dispersing through streets — practical animals needed",
+          "Fountain below village — sound cue, not yet visible",
+          "Cold breath visible on actors and horses",
+          "Hadji Murad arrives on horseback with retinue — banner not yet described in this chunk",
+          "Color palette: ochre stone, black shadow, orange ember-glow from interiors",
+          "Reference: Come and See for oppressive village atmosphere; Lawrence of Arabia for mountain arrival scale"
+        ],
+        "first_seen_chunk": 2
+      },
+      {
+        "name": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+        "literary_description": "he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round",
+        "cinematic_description": "Tight, shadowed alley between stone saklyas carved into a hillside. Low angle on Hadji Murad's horse moving cautiously. His eyes scan doorways and rooftops. The street is deserted — a deliberate choice by a man who knows what surveillance looks like.",
+        "atmosphere": "Paranoia and concealment. A fugitive threading the needle between visibility and safety. The narrowness of the street mirrors his narrowing options.",
+        "recurring": true,
+        "timeframe": "Act 1 — daytime, arrival sequence",
+        "production_notes": [
+          "Stone and clay construction, buildings carved directly into hillside — emphasizes organic, fortress-like quality",
+          "Penthouse (covered porch/overhang) in front of the saklya is key architectural element",
+          "Freshly plastered clay chimney — detail of domestic life amid danger",
+          "Sheepskin as universal prop: bedding, cloak, marker of poverty and simplicity"
+        ],
+        "first_seen_chunk": 3
+      },
+      {
+        "name": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+        "literary_description": "on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin",
+        "cinematic_description": "Flat roof, midday heat. An old man asleep behind a chimney — a sentinel who has stopped watching. Hadji Murad taps him awake with a whip handle. The contrast between the dormant old man and Hadji Murad's coiled alertness captures the scene's tension.",
+        "atmosphere": "Fragile safety. The trust network Hadji Murad relies on is aging and slow. A quiet dread beneath the mundane.",
+        "recurring": false,
+        "timeframe": "Act 1 — daytime, arrival sequence",
+        "production_notes": [
+          "Wooden-heeled slippers by the chimney — costume/prop detail signaling unhurried village life",
+          "Old man's greasy beshmet and nightcap: poverty, comfort, age",
+          "Ladder leaning against roof: vertical movement possible, escape route implied",
+          "Sunburnt, shrivelled neck — physical decay contrasting with Hadji Murad's vitality"
+        ],
+        "first_seen_chunk": 3
+      },
+      {
+        "name": "INT. OLD MAN'S SAKLYA - DAY",
+        "literary_description": "a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions",
+        "cinematic_description": "Dark interior, low ceiling. Warm colour burst as the woman enters — yellow, red, blue against stone grey. She brings cushions: a gesture of hospitality that is also a ritual, almost liturgical. The space contracts around Hadji Murad as he crosses the threshold, limping.",
+        "atmosphere": "Brief sanctuary. Domesticity as refuge. The hospitality ritual creates a fragile bubble of safety — the audience knows it cannot last.",
+        "recurring": false,
+        "timeframe": "Act 1 — daytime, interior arrival",
+        "production_notes": [
+          "Thin, creaking door — sound design opportunity: the creak announces every entry",
+          "Outer door and inner door structure — staging depth, character blocking",
+          "Woman's costume: yellow smock, red beshmet, wide blue trousers — vivid colour palette, cinematically striking against grey stone interiors",
+          "Cushions as prop: comfort offered in a dangerous moment",
+          "Hadji Murad's slight limp — established here, recurring physical motif"
+        ],
+        "first_seen_chunk": 3
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Narrator walks home through midsummer meadow, gathers nosegay of wildflowers, notices crimson thistle ('Tartar') in a ditch, struggles to pluck it, finally breaks it free — stalk frayed, flower diminished. Reflects on the thistle's tenacity and energy in defending itself.",
+        "time": "Midsummer, afternoon/daytime. Frame narrative — before the main story begins.",
+        "location": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+        "characters": [
+          "Narrator (unnamed, first-person)"
+        ],
+        "chunk_id": "chunk_001",
+        "source_chunk": 1
+      },
+      {
+        "event": "Narrator walks home across vast black-earth ploughed field on dusty path toward a hill. Transition from the living meadow to barren, cultivated land.",
+        "time": "Midsummer, daytime. Immediately follows thistle encounter.",
+        "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+        "characters": [
+          "Narrator (unnamed, first-person)"
+        ],
+        "chunk_id": "chunk_001",
+        "source_chunk": 1
+      },
+      {
+        "event": "Narrator walks through a black-earth ploughed field, notices a thistle plant that has survived being crushed by a cartwheel — this triggers his memory of the Hadji Murad episode.",
+        "time": "Present day of narrator (frame narrative). Daytime, midsummer implied.",
+        "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+        "characters": [
+          "Narrator"
+        ],
+        "chunk_id": "002",
+        "source_chunk": 2
+      },
+      {
+        "event": "Hadji Murad rides into Makhmet, a hostile Chechen aoul 15 miles from Russian territory. The muezzin's evening chant has just ended. The village is filled with kizyak smoke, livestock sounds, and disputing voices.",
+        "time": "Cold November evening, end of 1851.",
+        "location": "EXT. MAKHMET AOUL - NIGHT",
+        "characters": [
+          "Hadji Murad"
+        ],
+        "chunk_id": "002",
+        "source_chunk": 2
+      },
+      {
+        "event": "Hadji Murad and his single murid ride into the aoul, avoiding the main square by taking a narrow side street",
+        "time": "Daytime — exact date unspecified, post-defection, Act 1",
+        "location": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Murid (unnamed)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Hadji Murad stops at the second saklya cut into the hillside; finds an old man asleep on the roof under a sheepskin; wakes him with his whip handle",
+        "time": "Daytime — continuous from arrival",
+        "location": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Old Man (unnamed)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Old man recognizes Hadji Murad, exchanges Selaam greeting; descends ladder; orders his grandson (boy of fifteen) to fetch the boy's father from the mosque",
+        "time": "Daytime — continuous",
+        "location": "EXT. OLD MAN'S SAKLYA ROOF / PENTHOUSE - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "Boy (grandson, ~15 years old)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Hadji Murad enters the saklya; middle-aged woman comes through inner door with cushions to receive him",
+        "time": "Daytime — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Middle-Aged Woman (unnamed, of the household)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Old man sends child to mosque to fetch his son; Hadji Murad enters the saklya through creaking outer door.",
+        "time": "Night (arrival under cover of darkness, consistent with preceding chunks)",
+        "location": "Interior of the Old Man's Saklya",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "unnamed middle-aged woman (wife/daughter of household)",
+          "child (unnamed)"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Woman arranges cushions for the guest. Hadji Murad and old man exchange traditional greetings ('May thy coming bring happiness' / 'May thy sons live').",
+        "time": "Night — continuous with arrival",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "unnamed woman"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Hadji Murad removes burka, rifle, sword — old man hangs weapons on wall beside household weapons. Hadji Murad adjusts pistol, sits on cushions. Both men pray together (palms upward, stroking faces/beards).",
+        "time": "Night — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Old man cryptically reports no good news; speaks in parable ('hares and eagles') about Russian oppression; mentions Russians burned hay in Mitchit Aoul.",
+        "time": "Night — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Eldar (Hadji Murad's murid) enters the saklya, removes weapons, hangs them beside his leader's. Old man seats him on felt beside Hadji Murad.",
+        "time": "Night — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "Eldar"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Old man introduces Eldar to Sado's household; tells story of two Russian soldiers captured the week before — one killed, one sent to Shamil in Veden.",
+        "time": "Night (same evening as HM's arrival at Chechen aoul); reference event 'week before'",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Old Man",
+          "Hadji Murad",
+          "Eldar"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Sado (master of house) enters with his son. Informs Hadji Murad that Shamil has ordered him seized alive or dead; envoys departed the day before. Warns that people fear disobeying Shamil but pledges HM's safety under his roof.",
+        "time": "Night — present action",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Sado",
+          "Sado's son",
+          "Hadji Murad",
+          "Old Man",
+          "Eldar"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Hadji Murad requests a guide to escort Eldar with a letter to the Russians. Sado nominates his brother Bata; son is sent to fetch him and returns ~10 minutes later with Bata.",
+        "time": "Night — present action, ~10 minutes after Sado's account",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Sado",
+          "Sado's son",
+          "Eldar",
+          "Bata"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Hadji Murad asks Bata directly whether he can conduct Eldar to the Russians. Bata agrees. (Text truncated at 'I can c...')",
+        "time": "Night — present action",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Bata",
+          "Eldar"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Narrator walks home through midsummer meadow, gathers nosegay of wildflowers, notices crimson thistle ('Tartar') in a ditch, struggles to pluck it, finally breaks it free — stalk frayed, flower diminished. Reflects on the thistle's tenacity and energy in defending itself.",
+        "time": "Midsummer, afternoon/daytime. Frame narrative — before the main story begins.",
+        "location": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+        "characters": [
+          "Narrator (unnamed, first-person)"
+        ],
+        "chunk_id": "chunk_001",
+        "source_chunk": 1
+      },
+      {
+        "event": "Narrator walks home across vast black-earth ploughed field on dusty path toward a hill. Transition from the living meadow to barren, cultivated land.",
+        "time": "Midsummer, daytime. Immediately follows thistle encounter.",
+        "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+        "characters": [
+          "Narrator (unnamed, first-person)"
+        ],
+        "chunk_id": "chunk_001",
+        "source_chunk": 1
+      },
+      {
+        "event": "Narrator walks through a black-earth ploughed field, notices a thistle plant that has survived being crushed by a cartwheel — this triggers his memory of the Hadji Murad episode.",
+        "time": "Present day of narrator (frame narrative). Daytime, midsummer implied.",
+        "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+        "characters": [
+          "Narrator"
+        ],
+        "chunk_id": "002",
+        "source_chunk": 2
+      },
+      {
+        "event": "Hadji Murad rides into Makhmet, a hostile Chechen aoul 15 miles from Russian territory. The muezzin's evening chant has just ended. The village is filled with kizyak smoke, livestock sounds, and disputing voices.",
+        "time": "Cold November evening, end of 1851.",
+        "location": "EXT. MAKHMET AOUL - NIGHT",
+        "characters": [
+          "Hadji Murad"
+        ],
+        "chunk_id": "002",
+        "source_chunk": 2
+      },
+      {
+        "event": "Hadji Murad and his single murid ride into the aoul, avoiding the main square by taking a narrow side street",
+        "time": "Daytime — exact date unspecified, post-defection, Act 1",
+        "location": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Murid (unnamed)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Hadji Murad stops at the second saklya cut into the hillside; finds an old man asleep on the roof under a sheepskin; wakes him with his whip handle",
+        "time": "Daytime — continuous from arrival",
+        "location": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Old Man (unnamed)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Old man recognizes Hadji Murad, exchanges Selaam greeting; descends ladder; orders his grandson (boy of fifteen) to fetch the boy's father from the mosque",
+        "time": "Daytime — continuous",
+        "location": "EXT. OLD MAN'S SAKLYA ROOF / PENTHOUSE - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "Boy (grandson, ~15 years old)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Hadji Murad enters the saklya; middle-aged woman comes through inner door with cushions to receive him",
+        "time": "Daytime — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - DAY",
+        "characters": [
+          "Hadji Murad",
+          "Middle-Aged Woman (unnamed, of the household)"
+        ],
+        "chunk_id": "003",
+        "source_chunk": 3
+      },
+      {
+        "event": "Old man sends child to mosque to fetch his son; Hadji Murad enters the saklya through creaking outer door.",
+        "time": "Night (arrival under cover of darkness, consistent with preceding chunks)",
+        "location": "Interior of the Old Man's Saklya",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "unnamed middle-aged woman (wife/daughter of household)",
+          "child (unnamed)"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Woman arranges cushions for the guest. Hadji Murad and old man exchange traditional greetings ('May thy coming bring happiness' / 'May thy sons live').",
+        "time": "Night — continuous with arrival",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "unnamed woman"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Hadji Murad removes burka, rifle, sword — old man hangs weapons on wall beside household weapons. Hadji Murad adjusts pistol, sits on cushions. Both men pray together (palms upward, stroking faces/beards).",
+        "time": "Night — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Old man cryptically reports no good news; speaks in parable ('hares and eagles') about Russian oppression; mentions Russians burned hay in Mitchit Aoul.",
+        "time": "Night — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Eldar (Hadji Murad's murid) enters the saklya, removes weapons, hangs them beside his leader's. Old man seats him on felt beside Hadji Murad.",
+        "time": "Night — continuous",
+        "location": "INT. OLD MAN'S SAKLYA - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Old Man",
+          "Eldar"
+        ],
+        "chunk_id": "004",
+        "source_chunk": 4
+      },
+      {
+        "event": "Old man introduces Eldar to Sado's household; tells story of two Russian soldiers captured the week before — one killed, one sent to Shamil in Veden.",
+        "time": "Night (same evening as HM's arrival at Chechen aoul); reference event 'week before'",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Old Man",
+          "Hadji Murad",
+          "Eldar"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Sado (master of house) enters with his son. Informs Hadji Murad that Shamil has ordered him seized alive or dead; envoys departed the day before. Warns that people fear disobeying Shamil but pledges HM's safety under his roof.",
+        "time": "Night — present action",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Sado",
+          "Sado's son",
+          "Hadji Murad",
+          "Old Man",
+          "Eldar"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Hadji Murad requests a guide to escort Eldar with a letter to the Russians. Sado nominates his brother Bata; son is sent to fetch him and returns ~10 minutes later with Bata.",
+        "time": "Night — present action, ~10 minutes after Sado's account",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Sado",
+          "Sado's son",
+          "Eldar",
+          "Bata"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      },
+      {
+        "event": "Hadji Murad asks Bata directly whether he can conduct Eldar to the Russians. Bata agrees. (Text truncated at 'I can c...')",
+        "time": "Night — present action",
+        "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+        "characters": [
+          "Hadji Murad",
+          "Bata",
+          "Eldar"
+        ],
+        "chunk_id": "005",
+        "source_chunk": 5
+      }
+    ],
+    "time_period": "",
+    "atmosphere": "",
+    "production_notes": [],
+    "time_markers": []
+  },
+  "reference_context": {},
+  "impro_material": {},
+  "adapted_scenes": [],
+  "continuity_log": [],
+  "final_script": "",
+  "treatment_text": "",
+  "coverage_report": null,
+  "revision_history": [],
+  "confidence_stats": {
+    "mean": null,
+    "min": null,
+    "max": null,
+    "below_threshold": 0,
+    "distribution": {}
+  },
+  "adaptation_hints": {
+    "fusion_candidates": [
+      {
+        "chars": [
+          "author_digression",
+          "thistle_frame"
+        ],
+        "reason": "Both threads are present in this chunk and inseparable: the botanical walk IS the framing device for the thistle. In the film they constitute a single pre-title visual prologue. Confirmed as fusable per Plotline Graph fusion suggestion.",
+        "source_chunk": 1
+      },
+      {
+        "chars": [
+          "Bata",
+          "Khan Mahoma"
+        ],
+        "reason": "Bata's sole function is to guide the murids to the Russian lines; Khan Mahoma's sole function is to be guided there. In a film these two can be collapsed into one character — a murid-envoy who both knows the terrain and carries the message — eliminating one named walk-on.",
+        "source_chunk": 2
+      },
+      {
+        "chars": [
+          "Old Man (Apiarist)",
+          "Sado"
+        ],
+        "reason": "The old man delivers the exposition (Shamil's order, burned Mitchit aoul) and then Sado repeats and expands it. In a compressed screenplay Sado alone can carry all this information; the old man is a relay character whose lines fold into the host's opening speech.",
+        "source_chunk": 2
+      },
+      {
+        "chars": [
+          "Sado's Wife",
+          "Sado's Daughter"
+        ],
+        "reason": "Both women appear only to serve food and embody Chechen domestic space. They share no dialogue and can be merged into a single silent female figure without narrative loss. Pre-identified fusion candidate confirmed.",
+        "source_chunk": 2
+      },
+      {
+        "chars": [
+          "Old man (unnamed host)",
+          "Boy (host's grandson/son)",
+          "Woman of the house (unnamed)"
+        ],
+        "reason": "All three are pure atmosphere/hospitality functions in this safe-house scene with no individual arc or name. In a film, the household can be represented by a single figure (e.g., a trusted elder or the woman alone) who wakes, recognises, and welcomes Hadji Murad. Fusing them loses nothing dramaturgically.",
+        "source_chunk": 3
+      },
+      {
+        "chars": [
+          "Eldar",
+          "unnamed murid from Chunk 3"
+        ],
+        "reason": "The 'strong active murid' who dismounts before the old man in Chunk 3 is the same figure now named Eldar. No fusion needed — they are the same character. Confirm: Eldar = the single murid on the covert ride. His naming here resolves the anonymity from Chunk 3.",
+        "source_chunk": 4
+      },
+      {
+        "chars": [
+          "Bondarenko",
+          "Nikitin"
+        ],
+        "reason": "Graph pre-identified [0.90]: both are nameless-crowd Russian soldiers in Panov's ambush party with single incidental function. Not present in this chunk but confirmed fusable from graph hint — retain flag.",
+        "source_chunk": 4
+      },
+      {
+        "chars": [
+          "Panov",
+          "Serogin"
+        ],
+        "reason": "Graph pre-identified [0.85]: both serve as Avdeev's comrades at the deathbed with nearly interchangeable functions. Not present in this chunk but confirmed fusable from graph hint — retain flag.",
+        "source_chunk": 4
+      },
+      {
+        "chars": [
+          "Bondarenko",
+          "Nikitin"
+        ],
+        "reason": "Confirmed by chunk: both are minor crowd-soldiers in the ambush party with near-identical functions (sit, react, comment). Nikitin's grumbling about the cashbox and Bondarenko's cheerful Ukrainian voice are interchangeable — either can absorb the other. The cashbox subplot is cuttable; if cut, Nikitin has zero remaining function and can be folded into Bondarenko or dropped entirely. Confidence 0.90 confirmed.",
+        "source_chunk": 5
+      },
+      {
+        "chars": [
+          "Panov",
+          "Serogin"
+        ],
+        "reason": "Panov confirmed as present at Avdeev's wounding. Serogin (Avdeev's other deathbed companion from later chapters) shares identical function of loyal witness. Can be merged in film into a single soldier-friend character. Confidence 0.85 confirmed.",
+        "source_chunk": 5
+      },
+      {
+        "chars": [
+          "Vovilo",
+          "Ivan Petrovich"
+        ],
+        "reason": "Vovilo appears in this chunk as Poltoratsky's servant — passive, reactive. Ivan Petrovich exists as off-screen reference point for Vovilo's self-pity (later chapter). Both are non-load-bearing. If Poltoratsky's domestic scenes are retained at all, one name suffices. Confidence 0.85 confirmed.",
+        "source_chunk": 5
+      },
+      {
+        "chars": [
+          "Baron Freze",
+          "Tikhonov"
+        ],
+        "reason": "Both appear solely as Poltoratsky's companions in the wood-felling breakfast and bedroom scenes respectively. Neither carries independent narrative weight. In compression, Poltoratsky can speak to one generic comrade. Non-historical, low weight.",
+        "confidence": 0.8,
+        "source_chunk": 5
+      }
+    ],
+    "cuttable": [
+      {
+        "element": "Extended flower catalogue (clover, ox-eye daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder)",
+        "reason": "Seven-flower enumeration is literary texture, not dramaturgical content. Film can render the meadow visually in 5 seconds. The list is non-load-bearing and cannot be filmed as written without becoming a nature documentary.",
+        "source_chunk": 1
+      },
+      {
+        "element": "Author-narrator identity as literary device",
+        "reason": "The first-person Tolstoy-as-narrator frame is a prose convention with no direct film equivalent. The film can retain the thistle imagery as a cold-open visual metaphor without an authorial voice-over, or compress to a brief V.O. title card. The narrator as character has zero dramatic weight beyond this prologue.",
+        "source_chunk": 1
+      },
+      {
+        "element": "Black-earth ploughed field transition",
+        "reason": "Purely transitional description; adds no plot, character, or conflict. Can be cut entirely or absorbed into a landscape cut leading to the main narrative.",
+        "source_chunk": 1
+      },
+      {
+        "element": "Author-Narrator's thistle monologue (inner thought about man's destructiveness)",
+        "reason": "The interior philosophical reflection ('How many different plant-lives...') is a classic Tolstoyan authorial digression. The film equivalent is a pure visual: close-up of the crushed, upright thistle — no voice-over needed. The reflex to Hadji Murad can be established by cutting directly from the thistle to his face. The verbal meditation is non-load-bearing.",
+        "source_chunk": 2
+      },
+      {
+        "element": "Mitchit Aoul burnt hay reference",
+        "reason": "Background world-building delivered by the old man. The fact of Russian raids is already established by other means (the defection context). This line is cuttable without information loss.",
+        "source_chunk": 2
+      },
+      {
+        "element": "Old Man's ritualistic descent from roof (extended physical business)",
+        "reason": "Detailed novelistic staging (blinked eyes, wooden-heeled slippers, shrivelled neck, mumbling) is literary texture, not dramaturgical necessity. A film can show him in two shots.",
+        "source_chunk": 2
+      },
+      {
+        "element": "Bata's self-promotional speech ('There is not another Chechen who would pass as I can...')",
+        "reason": "Comic character texture. Functional information (he can guide) lands in one line. The boast is cuttable without plot loss.",
+        "source_chunk": 2
+      },
+      {
+        "element": "Sado's Son as named recurring presence",
+        "reason": "The boy appears three times (running, returning with Bata, sitting by door). He is mood and colour, not plot. Can be cut or reduced to one establishing beat.",
+        "source_chunk": 2
+      },
+      {
+        "element": "Old man descending the ladder — detailed description of dressing, mumbling, shaking head",
+        "reason": "Tolstoyan naturalistic detail (the toothless mumbling, shrivelled neck, wooden-heeled slippers) is non-load-bearing for the plot. The act of recognition and welcome is what matters; the visual comedy of the slow descent can be compressed to a cut.",
+        "source_chunk": 3
+      },
+      {
+        "element": "Boy with sloe-black eyes sent to fetch father",
+        "reason": "The boy is a single-function messenger. His physical description and the errand are minor texture. In a compressed film, the father/host can simply already be present or arrive without the relay.",
+        "source_chunk": 3
+      },
+      {
+        "element": "Narrator's retrospective contrast of Hadji Murad's former retinue (dozens of murids, banner) vs. current state",
+        "reason": "This is an authorial digression summarising past grandeur. In film, the contrast must be shown visually (e.g., a brief flashback or an establishing scene earlier in the film) rather than narrated. The paragraph itself is cuttable as voiceover; its content should be embedded in staging.",
+        "source_chunk": 3
+      },
+      {
+        "element": "Old Man's Wife carrying cushions and exchanging ritual greeting",
+        "reason": "Purely atmospheric — she has no name, no further function, and the hospitality ritual can be conveyed through the old man alone or through a single visual of prepared cushions. Her lines are filler in a compressed screenplay.",
+        "source_chunk": 4
+      },
+      {
+        "element": "Mitchit Aoul hay-burning reference",
+        "reason": "Non-load-bearing plot detail. The Russian aggression theme is already established; this specific place-name adds texture but no new narrative information. In compression it becomes a generic 'they burned the village' gesture or is cut entirely.",
+        "source_chunk": 4
+      },
+      {
+        "element": "Extended description of prayer ritual (eye-closing, palms upward, stroking faces)",
+        "reason": "Visually valuable but over-described for the page. In a screenplay, 'They pray' or a single physical gesture communicates this — the full Tolstoyan description is literary, not cinematic shorthand.",
+        "source_chunk": 4
+      },
+      {
+        "element": "Company cashbox subplot (commander borrowing from funds)",
+        "reason": "Soldiers' conversation about the missing cashbox money is entirely self-contained and non-load-bearing. It characterizes Nikitin's moroseness but adds nothing to the HM trajectory or Avdeev's arc. Confirmed cuttable thread.",
+        "source_chunk": 5
+      },
+      {
+        "element": "Baron Freze character arc",
+        "reason": "Freze appears only in the wood-felling officers' breakfast. Reduced to ranks for duelling — interesting detail, zero narrative function. Cut.",
+        "source_chunk": 5
+      },
+      {
+        "element": "Tikhonov bedroom scene with Poltoratsky",
+        "reason": "Post-card-game scene between Poltoratsky and Tikhonov is pure filler — characterization that can be achieved through Poltoratsky's visible infatuation during the card game itself.",
+        "source_chunk": 5
+      },
+      {
+        "element": "Vovilo the serf (Poltoratsky's servant)",
+        "reason": "Confirmed cuttable. His resentment/self-pity arc (comparing himself to Ivan Petrovich) is non-load-bearing. His domestic function can be absorbed silently.",
+        "source_chunk": 5
+      },
+      {
+        "element": "Marya Vasilevna / Poltoratsky infatuation subplot",
+        "reason": "Poltoratsky's romantic distraction during the card game and his reverie afterward are atmospheric but not structurally necessary. Marya Vasilevna's role can be retained minimally (the drawing-room reception of HM) without the infatuation frame.",
+        "source_chunk": 5
+      },
+      {
+        "element": "General Sleptsov heroism-myth discussion among officers",
+        "reason": "Tolstoy's ironic anti-heroism commentary via the Sleptsov anecdote is a literary digression. Strong thematic content but delivered as authorial voice, not through action. Film can imply the theme through Avdeev's wounding without the officers' meta-commentary.",
+        "source_chunk": 5
+      },
+      {
+        "element": "Vorontsov's jurisdictional anxiety about Meller-Zakomelsky",
+        "reason": "Confirmed as a cuttable political-framing thread (reach=1). In film, Vorontsov's ambition can be shown through his eagerness to host HM without the bureaucratic sub-anxiety about chain of command.",
+        "source_chunk": 5
+      },
+      {
+        "element": "Regimental Adjutant and Tutor as card-game characters",
+        "reason": "Both exist solely to populate the card table. Non-historical, zero independent function. The drawing room scene needs only Vorontsov, Marya Vasilevna, and Poltoratsky.",
+        "source_chunk": 5
+      }
+    ],
+    "refocalize": [
+      {
+        "scene": "Thistle prologue — narrator plucks and destroys the Tartar thistle",
+        "current_pov": "Author-Narrator (anonymous first-person Tolstoy stand-in)",
+        "recommended_pov": "Cut narrator entirely. Open on the thistle itself — ECU of crimson flower in a ditch, bumble-bee inside, then a hand (unseen, belonging to no one) tears it free. The internal reflection ('What determination — how dearly it sold its life') becomes a sparse V.O. line or title card. Alternatively: restage as a visual rhyme — cut from destroyed thistle to Hadji Murad's face in the closing chapter, establishing the bookend without an authorial proxy.",
+        "source_chunk": 1
+      },
+      {
+        "scene": "Thistle prologue — narrator walks the ploughed field, discovers the thistle, reflects philosophically",
+        "current_pov": "Author-Narrator ('I') — first-person frame",
+        "recommended_pov": "Remove POV entirely — open on EXTREME CLOSE-UP of the broken-but-upright thistle, then pull back to reveal the empty black field. No narrator. The image is self-sufficient. Cut to: Hadji Murad's face in motion.",
+        "source_chunk": 2
+      },
+      {
+        "scene": "Old man's arrival — descends from roof, tells news about Shamil's order in proverb-form",
+        "current_pov": "Close third-person following the old man's physical movements",
+        "recommended_pov": "Hadji Murad's POV — he watches and reads the old man. The old man's hesitation and oblique speech register as threat-assessment from HM's perspective rather than as novelistic character sketch.",
+        "source_chunk": 2
+      },
+      {
+        "scene": "Women serve food — Sado's wife and daughter move through the room, men go silent",
+        "current_pov": "Neutral third-person observing the domestic ritual",
+        "recommended_pov": "Eldar's tightly controlled stillness (the novel explicitly follows his gaze being suppressed) — a brief insert shot of his clenched hands, then relief when the door closes. More cinematic, preserves the cultural note without stopping the scene.",
+        "source_chunk": 2
+      },
+      {
+        "scene": "Opening paragraph — narrator describes Hadji Murad's former glory as Shamil's naib vs. current fugitive state",
+        "current_pov": "Omniscient narrator / retrospective authorial summary",
+        "recommended_pov": "Restage as Hadji Murad's own visceral present-tense experience: we see only what he sees — the faces he scans, the side street he chooses, the saklya he stops at. Former glory surfaces as a brief involuntary memory (visual flash) triggered by the old man's recognition, not narrator summary.",
+        "source_chunk": 3
+      },
+      {
+        "scene": "Old man waking, dressing, descending ladder — observed from outside",
+        "current_pov": "External observer / narratorial description",
+        "recommended_pov": "Hadji Murad's POV waiting impatiently below — tight on the old man's slow movements as seen through Hadji Murad's eyes, conveying urgency and concealment anxiety without cutting the warmth of the welcome.",
+        "source_chunk": 3
+      },
+      {
+        "scene": "Old man's cryptic response ('Habar yok' / 'He knows') and the eagle-hare fable",
+        "current_pov": "Neutral third-person narrator who glosses Hadji Murad's understanding ('Hadji Murad, understanding that the old man did not wish to say...')",
+        "recommended_pov": "Restage through Hadji Murad's eyes: hold on his face as the old man speaks, let the camera read HM's quiet recognition. The narrator's explanatory gloss disappears — HM's slight nod carries the scene's meaning visually.",
+        "source_chunk": 4
+      },
+      {
+        "scene": "Eldar entering and mirroring Hadji Murad's weapon-hanging ritual",
+        "current_pov": "Neutral third-person, describes Eldar's actions sequentially after Hadji Murad's",
+        "recommended_pov": "Old man's POV watching both men: his slow eyes moving from Hadji Murad to Eldar establishes the hierarchy and the murid's loyalty in a single camera cut rather than prose description.",
+        "source_chunk": 4
+      },
+      {
+        "scene": "Russian ambush party night watch — Panov, Avdeev, Nikitin, Bondarenko smoke, gossip about cashbox, intercept Bata and Khan Mahoma",
+        "current_pov": "Russian soldiers (Avdeev / Panov)",
+        "recommended_pov": "Restage as Bata's POV approaching Russian lines in darkness; the soldiers appear as silhouettes and threat, then as bumbling humans. Preserves Avdeev's humanity as surprise discovery rather than predicate. Alternatively cut the whole night-watch scene and show only the moment Vorontsov receives the envoy (reported in Chapter III).",
+        "source_chunk": 5
+      },
+      {
+        "scene": "Vorontsov drawing room card game and Poltoratsky's infatuation",
+        "current_pov": "Poltoratsky / Marya Vasilevna (imperial social world)",
+        "recommended_pov": "If retained: restage as Hadji Murad later being told of the card-game world (e.g. Loris-Melikov describing Tiflis society) so the imperial frivolity is filtered through HM's alien perspective. Or cut entirely — HM's first meeting with Vorontsov at the Shalin glade carries the diplomatic weight without the drawing room prep.",
+        "source_chunk": 5
+      },
+      {
+        "scene": "Wood-felling officers' breakfast and Sleptsov heroism-myth discussion",
+        "current_pov": "Poltoratsky and officers (Russian military culture)",
+        "recommended_pov": "Cut Sleptsov discussion. Retain Poltoratsky's elation-in-danger as a brief visual beat (him riding up cheerfully) before Avdeev is shot. The irony lands harder if it is action, not commentary.",
+        "source_chunk": 5
+      },
+      {
+        "scene": "Hadji Murad's forest camp prayer and dream of capturing Shamil",
+        "current_pov": "Hadji Murad (inner monologue / dream)",
+        "recommended_pov": "Keep as HM POV — this is one of the rare direct-access moments into his hidden goal and ambition. Film can render via light/shadow on his face, the whistle signal, and a brief dream-image insert. Already protagonist POV — no refocalization needed.",
+        "source_chunk": 5
+      },
+      {
+        "scene": "Soldiers comment after the surrender procession rides past",
+        "current_pov": "Anonymous Russian soldiers on the road",
+        "recommended_pov": "Refocalize as Hadji Murad overhearing/sensing the soldiers' stares and muttering — his smile in return is already in the text. This keeps the chorus commentary while anchoring it in the protagonist's experience.",
+        "source_chunk": 5
+      },
+      {
+        "scene": "Poltoratsky's bedroom scene (post-card game, Tikhonov exchange, fantasy of Marya Vasilevna)",
+        "current_pov": "Poltoratsky",
+        "recommended_pov": "Cut. Zero information relevant to HM's trajectory. If the infatuation beat is needed, it is already implicit in the card-game scene.",
+        "source_chunk": 5
+      }
+    ]
+  }
+}

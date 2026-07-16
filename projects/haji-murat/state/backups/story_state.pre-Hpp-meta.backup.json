@@ -1,0 +1,2274 @@
+{
+  "meta": {
+    "title": "Hadji Murat",
+    "created_at": "2026-04-24T00:32:21.360328",
+    "status": "analyzed",
+    "source_language": "en",
+    "output_language": "en",
+    "target_runtime_minutes": 90,
+    "scene_budget": 60,
+    "revision_cycle": 0,
+    "source_length_class": "novella",
+    "word_count": 46290,
+    "output_mode": "screenplay",
+    "expansion_mode": null,
+    "current_phase": "phase_1_deep_analysis",
+    "phase_started_at": "2026-04-24T01:10:42.861168",
+    "debug_chunks_active": null,
+    "debug_chunks_full_count": 119,
+    "adaptation_challenge": "moderate",
+    "expansion_note": "Novella -> feature film: Moderate adaptation needed. Expand some scenes, strengthen subplots.",
+    "phase_completed_at": "2026-04-24T01:10:42.874707"
+  },
+  "style_manifest": {
+    "genre": "historical war tragedy / anti-imperial fable",
+    "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+    "reference_films": [
+      "Lawrence of Arabia",
+      "The Last Duel (2021)",
+      "The English Patient",
+      "War and Peace (Bondarchuk 1966)",
+      "Come and See",
+      "Ran"
+    ],
+    "language": "en"
+  },
+  "casting": {
+    "Hadji Murad": {
+      "physical_anchor": "Tall, broad-shouldered Avar mountaineer of powerful but lean build, a shaven head under a tall sheepskin papakha and a close-trimmed reddish-black beard framing a slightly pock-marked face with quick, light-colored eyes; carries himself erect in a long cherkeska, moves with a pronounced limp from an old wound, and habitually rests a hand on the hilt of his kinjal or draws his palms down his beard after speaking.",
+      "vocal_quality": "Low, dry baritone with a guttural Avar-Turkic accent, measured tempo and long pauses, formal in register and almost never raised — authority carried by stillness rather than volume.",
+      "age_range": "late 40s",
+      "social_presence": "Enters a room quietly and immediately becomes its center of gravity: other men stand, voices drop, and even Russian officers feel themselves watched by a calm, unblinking warrior whose courtesy is exact and whose reputation does the intimidating for him.",
+      "historical_reference": "Grounded in contemporary 1851–1852 Russian sources: the portrait and description by G. G. Gagarin, the watercolor sketches and notes of officers at Tiflis and Nukha, and the memoir accounts of A. I. Poltoratsky and M. T. Loris-Melikov (who interviewed him during his stay with the Russians). These sources consistently record a tall, powerfully built Avar of about forty-seven, a shaven head worn under a papakha, a short reddish beard, a slightly pock-marked face with pale, alert eyes, a marked limp from a wound sustained leaping from a cliff during his escape from Akhulgo, and a reserved, ceremoniously polite bearing.",
+      "synthesized_at": "2026-04-24T00:42:10.568644"
+    },
+    "Shamil": {
+      "physical_anchor": "Tall, lean, and upright for his age, with broad shoulders narrowing to a spare frame conditioned by decades of mountain warfare; a long reddish-auburn beard tinged with grey frames a pale, high-cheekboned face marked by a slight limp from old battle wounds. His posture is vertical and unmoving — hands folded before him or resting on the hilt of a shashka — and his habitual gesture is a slow, deliberate stroking of the beard before he speaks.",
+      "vocal_quality": "Low-pitched, resonant, and unhurried, a dry scholar's baritone that carries without volume and lands each syllable like a hammer tapping glass.",
+      "age_range": "mid 50s",
+      "social_presence": "He enters a room and the room reorganizes around him — every other man stands, bows, or falls silent before he has spoken; his authority is sacred and absolute, and his stillness reads as menace held in reserve.",
+      "historical_reference": "Contemporary Russian, British and German accounts (A. Runovsky's diaries as Shamil's captor-companion 1859-1862; John Milton Mackie's 'Life of Schamyl' 1856; Moritz Wagner's travel reports; the few surviving portraits by Gorschelt and the 1859 Timm lithograph made after his surrender) describe him as tall, slender but powerfully built, fair-skinned for a Caucasian highlander, with grey-blue or hazel eyes, a long beard dyed with henna to a reddish hue, a prominent aquiline nose, and a grave, almost immobile face. Sources stress his erect bearing, slow measured movements, a limp from a bayonet wound at Akhulgo (1839), invariable dress of a white turban wound over a tall lambskin cap and a plain dark cherkeska, and a reputation for speaking little, never laughing, and never raising his voice.",
+      "synthesized_at": "2026-04-24T00:42:10.568653"
+    },
+    "Sado": {
+      "physical_anchor": "Weathered, compact mountain build — sinewy rather than broad, with sun-darkened skin, a close-cropped grey-shot beard, and deep-set eyes that hold a steady, unblinking regard. Moves with slow economy; habitually rests a calloused hand flat on his chest or on a guest's shoulder when speaking a word that matters.",
+      "vocal_quality": "Low, even baritone with a dry, unhurried tempo and a resonant chest register that never rises, shaped by Quranic cadence and long silences.",
+      "age_range": "late 40s to mid 50s",
+      "social_presence": "Occupies a room with quiet moral gravity — the still point others turn toward, radiating warmth to the guest at his hearth and an iron, unraised authority to anyone who would violate it.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568656"
+    },
+    "Eldar": {
+      "physical_anchor": "Tall, broad-shouldered young highlander with the heavy, unhurried frame of a wrestler-trained warrior; a dark-browed, clean-jawed face kept low, eyes habitually dropped toward his leader's hands, one palm resting constantly on the hilt of his dagger.",
+      "vocal_quality": "Low chest-register baritone, slow-tempoed and physically grounded, clipped at the ends of phrases as if each word has been weighed before release.",
+      "age_range": "early 20s",
+      "social_presence": "Occupies a room as a silent, watchful mass just behind his master — invisible until his leader is threatened, at which point his stillness reads as pure, contained menace.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568657"
+    },
+    "Narrator (Authorial I)": {
+      "physical_anchor": "Voice-only, disembodied presence — no body on screen, no face, no gesture. If anchored at all, the listener imagines a figure standing alone at the edge of a summer field, hat in hand, a single plucked thistle dropped at his boots.",
+      "vocal_quality": "Warm, slightly weathered baritone with unhurried, periodic cadence and sudden rhetorical lifts; educated 19th-century Russian gentry register, reverent and morally weighted rather than sentimental.",
+      "age_range": "mature adult, early-to-mid 50s",
+      "social_presence": "Occupies the room as a quiet elder chronicler — no menace, no performance; authority comes from stillness, long looking, and the sense that he has walked the ground he describes.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568658"
+    },
+    "Sado's Son": {
+      "physical_anchor": "Wiry, half-grown mountain boy on the cusp of a man's frame — shoulders widening faster than his chest has filled, wrists and hands already too big for his sleeves, cheeks still soft under the first dark down of a moustache. Habitually stands a half-step nearer to whichever man is speaking than a child should, hands hovering at his belt as if a dagger he does not yet own were there.",
+      "vocal_quality": "Bright, breath-forward adolescent tenor in the cracked zone between boy and man, tempo quick and clipped under awe, dropping to a hushed, respectful murmur around elders.",
+      "age_range": "mid-teens (14–16)",
+      "social_presence": "Occupies a room by orbiting its centre rather than holding it — a watchful, held-breath presence at thresholds and doorways, unnoticed until his wide, memorising eyes give him away.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568660"
+    },
+    "Sado's Wife": {
+      "physical_anchor": "Small, wiry frame hardened by decades of household labor, with weathered hands that move with practiced economy and a back already set into a permanent slight stoop from years of bending to hearth, cushion, and bread-board. Defining feature: the deep vertical line between her brows that never softens, and the habitual gesture of folding her hands tight at her waist whenever a man enters the room.",
+      "vocal_quality": "Low, even alto that never rises in pitch, measured and almost liturgical in tempo, with the dry warmth of a voice shaped by woodsmoke and set phrases rather than conversation.",
+      "age_range": "mid 40s",
+      "social_presence": "Occupies a room through near-invisibility — she enters bent nearly double and eyes lowered, yet her silent rearrangement of cushions, bread, and water is the gravitational center that holds the ritual of male hospitality in place.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568662"
+    },
+    "Hadji Murad's Murid (unnamed, active)": {
+      "physical_anchor": "Wiry, weather-hardened mountain build — lean shoulders, long sinewed forearms, and the bow-legged balance of a man raised on horseback; habitually stands a half-step behind and to the left of his master with one hand already near the bridle or the hilt, eyes tracking hands and thresholds rather than faces.",
+      "vocal_quality": "Low, dry, slightly rasped chest-voice with clipped consonants and measured tempo, dropping into a softer deferential register only when addressing his agha.",
+      "age_range": "mid 20s",
+      "social_presence": "Occupies a room as a watchful absence — he reduces himself to furniture until the instant a threat appears, then becomes the one body between his master and the door.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568663"
+    },
+    "Old man on the saklya roof": {
+      "physical_anchor": "Wiry, small-framed Caucasian elder with a sun-cured, deeply lined face half-hidden in a grey beard, stooped shoulders wrapped in a worn sheepskin over a faded beshmet. A habitual gesture of laying one hand flat on his chest before speaking, and a slow, careful tread as if every footstep were measured against a sleeping household.",
+      "vocal_quality": "Low, dry, gravel-soft baritone pitched just above a whisper, with a slow measured tempo and long pauses between short finished sentences.",
+      "age_range": "elder (65+)",
+      "social_presence": "Occupies a room through stillness rather than authority — a quiet, watchful warmth that makes guests lower their own voices, the kind of invisibility that hides a householder who has already decided what he will and will not say.",
+      "historical_reference": null,
+      "synthesized_at": "2026-04-24T00:42:10.568664"
+    }
+  },
+  "chunks": [
+    {
+      "id": "chunk_001",
+      "index": 0,
+      "total_chunks": 5,
+      "position": "beginning",
+      "char_start": 10,
+      "char_end": 2010,
+      "word_count": 348,
+      "text_hash": "af48eea07842018b08e9e166713ac5a9",
+      "text_preview": "I was returning home by the fields.  It was midsummer, the hay harvest was over and they were just beginning to reap the rye.  At that season of the year there is a delightful variety of flowers -- re..."
+    },
+    {
+      "id": "chunk_002",
+      "index": 1,
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 1855,
+      "char_end": 3855,
+      "word_count": 365,
+      "text_hash": "7992c83cb937282320190481a7d7c1c1",
+      "text_preview": "I threw it away feeling sorry to have vainly destroyed a flower that looked beautiful in its proper place.\n\n\"But what energy and tenacity!  With what determination it defended itself, and how dearly i..."
+    },
+    {
+      "id": "chunk_003",
+      "index": 2,
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 3613,
+      "char_end": 5613,
+      "word_count": 348,
+      "text_hash": "41fa9e1ea18bba21d10664a5428d410e",
+      "text_preview": "\"What vitality!\" I thought.  \"Man has conquered everything and destroyed millions of plants, yet this one won't submit.\"  And I remembered a Caucasian episode of years ago, which I had partly seen mys..."
+    },
+    {
+      "id": "chunk_004",
+      "index": 3,
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 5428,
+      "char_end": 7428,
+      "word_count": 343,
+      "text_hash": "55a8e06789989b4edab8ff974cb400dc",
+      "text_preview": "Hadji Murad touched him with the handle of his leather-plaited whip and clicked his tongue, and an old man, wearing a greasy old beshmet and a nightcap, rose from under the sheepskin.  His moist red e..."
+    },
+    {
+      "id": "chunk_005",
+      "index": 4,
+      "total_chunks": 5,
+      "position": "early",
+      "char_start": 7200,
+      "char_end": 9200,
+      "word_count": 359,
+      "text_hash": "6689f8c93dd2b984fba885d2ca58df60",
+      "text_preview": "ered Hadji Murad, taking off his burka, his rifle, and his sword, and handing them to the old man who carefully hung the rifle and sword on a nail beside the weapons of the master of the house, which ..."
+    }
+  ],
+  "plot": {
+    "summary": "",
+    "logline": "",
+    "acts": [
+      {
+        "act": 1,
+        "element_count": 18,
+        "elements": [
+          "Authorial frame opens: narrator walks home through summer fields, cataloguing flowers in bloom. Esta",
+          "Narrator discovers a crimson 'Tartar' thistle in a ditch, attempts to pluck it. The task is harder t",
+          "Narrator reflects on the thistle's energy and tenacity (sentence cut off mid-thought: 'With what det",
+          "Narrator reflects on the destroyed thistle and its stubborn vitality, drawing a parallel to human de",
+          "Narrator recalls a Caucasian episode — the transition bridge that will introduce Hadji Murad's story"
+        ]
+      },
+      {
+        "act": 2,
+        "elements": [],
+        "summary": "No elements"
+      },
+      {
+        "act": 3,
+        "elements": [],
+        "summary": "No elements"
+      }
+    ],
+    "subplots": [
+      {
+        "id": "hm_defection",
+        "description": "Hadji Murad, formerly Shamil's powerful naib who rode with dozens of murids and a banner, now enters",
+        "element_count": 7,
+        "priority": 5.4,
+        "keep": true,
+        "status": "identified",
+        "scenes_needed": 3
+      },
+      {
+        "id": "thistle_frame",
+        "description": "Narrator discovers a crimson 'Tartar' thistle in a ditch, attempts to pluck it. The task is harder t",
+        "element_count": 3,
+        "priority": 3.2,
+        "keep": true,
+        "status": "identified",
+        "scenes_needed": 1
+      },
+      {
+        "id": "author_digression",
+        "description": "Authorial frame opens: narrator walks home through summer fields, cataloguing flowers in bloom. Esta",
+        "element_count": 3,
+        "priority": 3.2,
+        "keep": true,
+        "status": "identified",
+        "scenes_needed": 1
+      },
+      {
+        "id": "january_1852_raid",
+        "description": "Old man mentions Russian burning of hay in Mitchit aoul — concrete evidence of Russian scorched-eart",
+        "element_count": 1,
+        "priority": 2.1,
+        "keep": true,
+        "status": "identified",
+        "scenes_needed": 1
+      },
+      {
+        "id": "hm_murids_introduced",
+        "description": "Eldar is formally introduced by name to the old man — cementing the murid relationship and HM's smal",
+        "element_count": 1,
+        "priority": 2.1,
+        "keep": true,
+        "status": "identified",
+        "scenes_needed": 1
+      }
+    ],
+    "tension_curve": [
+      0.1,
+      0.15,
+      0.6,
+      0.3,
+      0.35
+    ],
+    "themes": [
+      "Authorial moral gaze on human destructiveness",
+      "Beauty and vitality in defiance of destruction",
+      "Cost of survival — beauty destroyed in its proper place",
+      "Covert survival — strategic concealment as the only agency left to the dispossessed",
+      "Foreshadowing of Hadji Murad as the indestructible 'Tartar' thistle",
+      "Guest-right and hospitality as moral code (kunak law)",
+      "Incompatibility between wild/native and cultivated/imperial worlds",
+      "Indomitable resistance — the thistle metaphor ('Man conquered everything yet this one won't submit') directly prefigures Hadji Murad's own unyielding nature",
+      "Loyalty and trust encoded in ritual (prayer, disarmament)",
+      "Memory and imagination as narrative frame — the boundary between history and fiction",
+      "Nature as moral mirror — the landscape reflects the story's ethical stakes",
+      "Nature vs. man (destruction and survival)",
+      "Physical vulnerability (limp) beneath legendary status",
+      "Resistance vs. inevitability — hare/eagle allegory",
+      "Russian colonial violence as silent backdrop to every scene",
+      "Spoken economy: what is NOT said carries as much weight as what is said",
+      "Status inversion — the banner-bearing naib reduced to a lone fugitive in disguise",
+      "Tenacity and resistance against overwhelming force",
+      "The colonial gaze: calling the thistle 'Tartar', mowing it down, throwing it aside",
+      "The fugitive warrior dependent on civilian loyalty",
+      "Traditional Chechen domestic world as counterpoint to Russian military world",
+      "Trust established through ritual disarming",
+      "Vitality and resistance against overwhelming force"
+    ]
+  },
+  "characters": {
+    "Narrator (Authorial I)": {
+      "name": "Narrator (Authorial I)",
+      "initial_description": "First-person authorial voice who recalls a Caucasian episode 'partly seen, partly heard, partly imagined'. Frames the main narrative as a remembered story triggered by the thistle.",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_003",
+      "arc_notes": [
+        "Chunk chunk_002: First-person authorial voice walking home across ploughed fields; reflective, moralizing witness who frames the story of Hadji Murad through the metaphor of the broken but unyielding Tartar thistle.",
+        "Chunk chunk_001: First-person authorial voice, walking home through summer fields, discovers a crimson thistle ('Tartar') and reflects on its tenacity. Voice is Tolstoy's own — contemplative, observational, morally freighted."
+      ],
+      "first_description": "",
+      "age": "unspecified — mature, reflective adult male",
+      "origin": "Russian landed-gentry sensibility; rural Russia, with personal knowledge of the Caucasus",
+      "social_status": "Educated 19th-century Russian literary voice; landowner-observer, chronicler",
+      "want": "To tell — to frame and preserve the Caucasian episode of Hadji Murad as a witnessed-and-imagined memory, using the mutilated Tartar thistle as the governing emblem of unsubmitting life.",
+      "need": "To reconcile his admiration for singular vitality with his grief over human destructiveness — to find moral meaning in the act of bearing witness to destruction he cannot undo.",
+      "fear": "That the vitality he admires — in the thistle, in Hadji Murad — will be erased without record, that destruction will be the final word and no one will remember what refused to submit.",
+      "contradiction": "Condemns man as destroyer of plant-lives and yet he himself plucked the thistle in vain; claims eyewitness authority while openly admitting the tale is part imagination — a chronicler who destroys what he loves and fictionalizes what he testifies to.",
+      "justification": null,
+      "arc": {
+        "starting_state": "Act 1 — A reflective wanderer returning home through summer fields, delighted by flowers, casually plucking what he admires; unaware that his aesthetic acquisitiveness mirrors the imperial destructiveness he will soon condemn.",
+        "change": "Act 2 — Confronted by the mutilated-but-standing thistle, he is struck into remembrance; the plant becomes the associative bridge to Hadji Murad, and he takes on the burden of chronicler — mediating a story whose subject is already dead.",
+        "end_state": "Act 3 — Returns as elegiac frame-voice; the tale has been told, the thistle remains, the narrator remains unchanged in doctrine but deepened in sorrow. He has transferred his admiration from the plant to the man, but neither saved.",
+        "arc_type": "stagnation"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "A literary, meditative 19th-century Russian authorial voice — elevated but never ornamental, reverent toward nature, rhetorical in its exclamations, and morally weighted. He speaks as one who has walked the fields himself and read the philosophers, threading botanical precision with philosophical lament. His cadence is unhurried, contemplative, inviting the listener into the slow unfolding of a recollected episode.",
+        "vocabulary_level": "formal, educated, literary; 19th-century Russian gentry register; botanical precision ('crimson Tartar thistle', 'stalk', 'nosegay'); philosophical-moralist diction ('destructive creature', 'vitality', 'submit')",
+        "sentence_structure": "long, periodic, often multi-clause sentences balanced by sudden rhetorical exclamations ('What vitality!', 'Ah, what a destructive creature is man!'); statement-dominant with occasional exclamatory outbursts; rare questions, and when posed, rhetorical",
+        "verbal_tics": [
+          "'thought I' / 'I thought' as reflective tag",
+          "rhetorical 'Ah —' and 'But —' openings to exclamation",
+          "'What [quality]!' admiring outbursts",
+          "'as I' / 'while I' descriptive subordinations"
+        ],
+        "avoidances": [
+          "contemporary slang",
+          "first-person-plural collective ('we Russians')",
+          "direct address to the reader ('you')",
+          "profanity or crude registers",
+          "modernist fragmentation or stream-of-consciousness",
+          "moral certainty (he admits hybrid testimony, never claims omniscience)"
+        ],
+        "emotional_expression": "expresses feeling through natural metaphor and moral reflection rather than confession; admiration becomes exclamation, grief becomes meditation on destruction, awe becomes anthropomorphizing description — never names his feeling directly, always refracts it through the observed world",
+        "speech_rhythm": "measured, contemplative, with sudden rhetorical peaks — like walking slowly across a field and stopping abruptly at a sight that arrests him",
+        "example_dialog_lines": {
+          "neutral_everyday": "I was returning home by the fields. It was midsummer, the hay harvest over and the rye reaping just begun.",
+          "under_pressure": "I struggled for nearly five minutes to break the tough stalk — and when at last I held it, the flower no longer seemed fresh, nor did its coarseness suit the delicate blossoms I had gathered.",
+          "hopeful_joyful": "What vitality! Man has conquered everything and destroyed millions of plants, yet this one would not submit.",
+          "angry_hurt": "Ah, what a destructive creature is man. How many different plant-lives he destroys to support his own existence.",
+          "vulnerable_honest": "The episode I am about to tell was partly witnessed by me, partly heard from eye-witnesses, and partly — I must confess — imagined. And yet I believe it is true."
+        },
+        "subtext_rules": {
+          "When describing the thistle": "he means Hadji Murad — the plant is the man is the principle of unsubmitting life",
+          "When condemning 'man'": "he means empire, and he means himself, the plucker who acts before he thinks",
+          "When admitting imagination": "he asks the listener to trust him not as historian but as moral witness",
+          "When admiring vitality": "he mourns its certain destruction, the admiration is already an elegy"
+        }
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912084",
+      "voice_profile_compact": {
+        "voice_description": "A literary, meditative 19th-century Russian authorial voice — elevated but never ornamental, reverent toward nature, rhetorical in its exclamations, and morally weighted.",
+        "vocabulary_level": "formal, educated, literary; 19th-century Russian gentry register; botanical precision ('crimson…",
+        "sentence_pattern": "long, periodic, often multi-clause sentences balanced by sudden rhetorical exclamations ('What…",
+        "verbal_tics": [
+          "'thought I' / 'I thought' as reflective tag",
+          "rhetorical 'Ah —' and 'But —' openings to…"
+        ],
+        "avoidances": [
+          "contemporary slang",
+          "first-person-plural collective ('we Russians')"
+        ],
+        "subtext_rule_short": "",
+        "example_line": "I was returning home by the fields. It was midsummer, the hay harvest over and the rye reaping just begun."
+      },
+      "voice_profile_hash": "16b84a1f7ff42edb"
+    },
+    "Hadji Murad": {
+      "name": "Hadji Murad",
+      "initial_description": "Famed naib of Shamil, formerly riding out with banner and dozens of murids. Now a fugitive in hood and burka with only one murid, rifle protruding, alert black eyes. Enters hostile Chechen aoul Makhmet on a cold November evening 1851.",
+      "role": "Protagonist",
+      "first_mention_chunk": "chunk_003",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "Mature adult warrior (exact age not given in source; presented as a seasoned, battle-hardened man in late 1851)",
+      "origin": "Caucasus; Avar Muslim from the mountain regions under Imam Shamil's imamate",
+      "social_status": "Naib (lieutenant) of Shamil, famed warrior and commander; at story open reduced from entourage of caracoling murids and banner to a hunted fugitive traveling with a single murid",
+      "want": "To secure protection and military support from the Russians so he can return to the mountains, destroy Shamil, and liberate his family (wife, mother, son Yusuf) from Shamil's captivity in Vedeno.",
+      "need": "To accept that no power — neither Shamil nor the Tsar — will grant him both honor and his family intact, and to reclaim his own moral center as an Avar man of faith rather than as a tool of rival empires; in short, to stop trading one master for another and stand, even alone, as himself.",
+      "fear": "That his family — above all his son Yusuf — will be killed or maimed by Shamil while he is stranded between two worlds, rendering every compromise and humiliation meaningless.",
+      "contradiction": "He is a man of ritual courtesy, Muslim observance, and deep tribal honor who nevertheless walks willingly into the camp of the infidel enemy, asking the Russian Tsar — whose soldiers burn his people's aouls — for help against his own Imam.",
+      "justification": null,
+      "arc": {
+        "start_state": "A famed naib reduced overnight to a hunted fugitive; outwardly composed, inwardly calculating — still believing he can outmaneuver Shamil by allying with the Russians and that honor and family can both be saved.",
+        "change": "As Russian promises curdle into polite captivity and news from the mountains worsens, he grasps that he has been used as a political trophy, not aided as a warrior, and that every day in Russian hands is a day his son moves closer to the blade.",
+        "end_state": "Choosing action over waiting, he breaks from the Russians in a doomed attempt to rescue his family himself — dying in the fields as the man he was born to be (warrior, father, Avar), not as Shamil's naib nor as the Tsar's guest.",
+        "arc_type": "Fall (tragic) with flashes of Revelation — he dies knowing what he truly needed, but too late to live it."
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "Hadji Murad speaks with the economy of a mountain warrior: short, measured sentences weighted with ritual courtesy and silence where other men would elaborate. His speech moves through formal Muslim-Caucasian greetings and proverbial turns, then drops into flat, practical statements about horses, weapons, routes, and men. When he reads that a host is withholding something, he does not press; he nods and the sentence ends.",
+        "vocabulary_level": "Formal but unliterary; oral tradition rather than schooling. Caucasian Muslim register — Avar/Turkic greeting formulas ('Selaam aleikum', 'Ne habar?', 'May thy sons live!'), ritual blessings, and concrete martial/household nouns (rifle, sword, burka, saklya, murid, naib). Early-to-mid 19th century, pre-modern.",
+        "sentence_structure": "Average 4–10 words. Declarative or brief interrogative. Often fragments ('My murid. Eldar is his name.'). Questions are short and instrumental ('Ne habar?'). Almost no subordinate clauses; complexity lives in what is left unsaid, not in syntax.",
+        "verbal_tics": [
+          "Ritual openers: 'Selaam aleikum' before any substantive exchange",
+          "Blessing-formulas toward elders and women: 'May thy sons live'",
+          "The probing one-liner 'Ne habar?' ('What news?') as his real conversational opener once courtesies are done",
+          "Introducing his people by naming them plainly: 'My murid. Eldar is his name.'",
+          "Invocation of God as punctuation rather than theology ('Inshallah', 'Allah is great') at the hinge of a decision"
+        ],
+        "avoidances": [
+          "Never boasts of his exploits aloud — his reputation speaks, he does not",
+          "Never complains about physical pain, hunger, cold, or his limp",
+          "Never curses Shamil in another man's house; betrayal is shown by action, not vented in words",
+          "No sentimental or romantic declarations about his wife or mother — love is coded as duty and rescue, not confession",
+          "No ironic or joking register; no sarcasm aimed at hosts, no flippancy about faith",
+          "Never volunteers his plans; refuses to narrate his own strategy even when asked"
+        ],
+        "emotional_expression": "Feelings surface through body and ritual, not vocabulary. Anger tightens his sentences and shortens answers to one or two words. Grief is a silence, broken only by a prayer gesture — palms up, then drawn down the beard. Love is expressed as naming (his son, his murid, his horse) and as the insistence on rescue. When moved, he looks away, adjusts a weapon, or touches his beard; the line that follows is quieter and more courteous, not more emotive.",
+        "speech_rhythm": "Measured, with pronounced pauses. Rhythm alternates between slow ceremonial openings and sudden clipped bursts of practical command; under threat it becomes shorter and drier, never faster.",
+        "dialog_examples": {
+          "neutral_everyday": "Selaam aleikum. Ne habar? — Your roof is well. The horse can stand here tonight.",
+          "under_pressure": "No. Not that road. We ride through the wood, before the moon. Eldar — the saddles.",
+          "hopeful_joyful": "May thy sons live, old father. If Allah wills, my son Yusuf will sit at such a hearth again, and eat from thy hand.",
+          "angry_hurt": "Shamil eats with the wolves now. I do not speak his name in thy house. Tell me only this: is my mother alive?",
+          "vulnerable_honest": "I have ridden with a banner and with fifty murids. Tonight I ride with one. A man learns late what he truly had — and later still, what he was willing to lose."
+        },
+        "subtext_rules": {
+          "when_he_says_Ne_habar": "He already knows something is wrong; he is testing how much the other man will tell him unprompted.",
+          "when_he_falls_silent_and_nods": "He has registered a lie or a withholding and is filing it away; the conversation is over in his mind.",
+          "when_he_invokes_Allah": "He has decided. The religious formula is a lock on a choice already made, not an appeal for guidance.",
+          "when_he_speaks_of_horses_or_weapons": "He is really speaking of escape, of his family, or of the man across from him — the object stands in for the strategy.",
+          "when_he_uses_elaborate_courtesy_with_Russians": "He trusts them less, not more; politeness scales with suspicion.",
+          "when_he_names_his_son_Yusuf": "He is reminding himself, not his listener, why he must not break."
+        }
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912058",
+      "voice_profile_compact": {
+        "voice_description": "Hadji Murad speaks with the economy of a mountain warrior: short, measured sentences weighted with ritual courtesy and silence where other men would elaborate.",
+        "vocabulary_level": "Formal but unliterary; oral tradition rather than schooling. Caucasian Muslim register…",
+        "sentence_pattern": "Average 4–10 words. Declarative or brief interrogative. Often fragments ('My murid. Eldar is his…",
+        "verbal_tics": [
+          "Ritual openers: 'Selaam aleikum' before any…",
+          "Blessing-formulas toward elders and women: 'May…"
+        ],
+        "avoidances": [
+          "Never boasts of his exploits aloud — his…",
+          "Never complains about physical pain, hunger…"
+        ],
+        "subtext_rule_short": "",
+        "example_line": "Selaam aleikum. Ne habar? — Your roof is well. The horse can stand here tonight."
+      },
+      "voice_profile_hash": "e22b7a8100f8e700"
+    },
+    "Old man on the saklya roof": {
+      "name": "Old man on the saklya roof",
+      "initial_description": "Elderly man in greasy beshmet and nightcap, sleeping under a sheepskin on the roof of a hillside saklya. Roused by Hadji Murad's whip-handle and tongue-click — likely Sado or his household member, sheltering the fugitive.",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_003",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "elderly (advanced age, weathered)",
+      "origin": "Makhmet, Chechen aoul in the Caucasus",
+      "social_status": "humble village inhabitant, Muslim, householder of modest means; trusted enough by Hadji Murad to serve as a discreet point of contact",
+      "want": "To keep his household and this night's secret meeting undisturbed — to receive Hadji Murad quietly, hear what must be heard, and pass the night without drawing the attention of the Russians or of neighbors who might talk.",
+      "need": "To preserve a last shred of dignity and usefulness in a world where his people are ground between Shamil's imamate and the Russian empire — to matter, even as a silent witness on a roof, without having to pick a side that will cost him everything.",
+      "fear": "That the wrong footfall on his roof means the Russians, a betrayal, or the murids — that his hospitality will be repaid with his family's ruin.",
+      "contradiction": "He shelters Hadji Murad — a man now fleeing to the Russians — while still living as a faithful Muslim villager under Shamil's shadow; he chooses loyalty to a person over loyalty to a side, and cannot fully admit that to himself.",
+      "justification": null,
+      "arc": {
+        "starting_state": "Asleep on his roof beneath a sheepskin, a man who has withdrawn into the small routines of survival at the edge of a war.",
+        "change": "A silent touch of a whip handle pulls him back into history; he becomes, for one night, the hinge on which Hadji Murad's flight turns.",
+        "end_state": "Returns to the roof, the chimney, the sheepskin — but now carrying the weight of having seen; a man who has brushed a doomed guest and must live with what he permitted.",
+        "arc_type": "Stagnation with revelation (outwardly unchanged, inwardly marked)"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "He speaks rarely and low, almost under the breath, as if every word might wake a child or a Russian patrol. His Chechen-inflected speech is plain, proverbial, and courteous, leaning on formulas of hospitality and fate rather than on personal opinion. When he does commit to a sentence, it is short, finished, and never repeated.",
+        "vocabulary_level": "informal, oral-traditional, uneducated in a literate sense but saturated with Quranic phrases, village proverbs, and Caucasian formal politeness; archaic, 19th-century peasant register",
+        "sentence_structure": "short declaratives and soft imperatives; frequent fragments; questions are rare and always practical ('Alone?', 'How many?'); almost no subordinate clauses",
+        "verbal_tics": [
+          "Bismillah under the breath before any action",
+          "calls visitors 'kunak' or 'guest' rather than by name",
+          "ends statements with 'as Allah wills' or a single nodded 'yes'"
+        ],
+        "avoidances": [
+          "never speaks Shamil's or the Russian general's name aloud",
+          "never boasts, never complains about his own hardship",
+          "never asks a guest to explain himself",
+          "no profanity, no jokes at another's expense"
+        ],
+        "emotional_expression": "Emotion surfaces in the body before the voice — a hand on the chest, a longer silence, a slower breath. Feelings are encoded as proverbs or as invocations of Allah rather than named directly.",
+        "speech_rhythm": "measured, slow, with long pauses; each sentence landed like a stone set carefully on a wall",
+        "dialog_examples": {
+          "neutral_everyday": "Come down from the roof, kunak. The bread is still warm.",
+          "under_pressure": "Quiet. My wife sleeps. The dogs know you — the neighbors do not.",
+          "hopeful_joyful": "Allah has brought you to my door again. That is already enough for an old man.",
+          "angry_hurt": "You ride into my yard at night and you do not tell me who follows you. That is not the road of a kunak.",
+          "vulnerable_honest": "I am old. I have buried sons for Shamil and for no one. Sit. Tell me only what I must know to keep you alive till morning."
+        },
+        "subtext_rules": [
+          "When he says 'as Allah wills', he means 'I will not choose sides in front of you, but I will not refuse you either.'",
+          "When he says 'the bread is warm', he means 'you are under my protection as long as you are beneath this roof.'",
+          "When he asks 'alone?', he means 'have you brought death to my household?'",
+          "When he falls silent and pulls the sheepskin tighter, he means 'do not make me speak of this, not even to myself.'"
+        ]
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912100",
+      "voice_profile_compact": {
+        "voice_description": "He speaks rarely and low, almost under the breath, as if every word might wake a child or a Russian patrol.",
+        "vocabulary_level": "informal, oral-traditional, uneducated in a literate sense but saturated with Quranic phrases…",
+        "sentence_pattern": "short declaratives and soft imperatives; frequent fragments; questions are rare and always…",
+        "verbal_tics": [
+          "Bismillah under the breath before any action",
+          "calls visitors 'kunak' or 'guest' rather than by…"
+        ],
+        "avoidances": [
+          "never speaks Shamil's or the Russian general's…",
+          "never boasts, never complains about his own…"
+        ],
+        "subtext_rule_short": "When he says 'as Allah wills', he means 'I will not choose sides in front of you, but I will not refuse you either.'",
+        "example_line": "Come down from the roof, kunak. The bread is still warm."
+      },
+      "voice_profile_hash": "2f303208f91db13d"
+    },
+    "Shamil": {
+      "name": "Shamil",
+      "initial_description": "Imam of the Caucasian resistance; Hadji Murad is (or was) his naib. Offstage antagonist at this point — Hadji Murad is fleeing his authority.",
+      "role": "Antagonist",
+      "first_mention_chunk": "chunk_003",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "approximately 54 (in 1851)",
+      "origin": "Avar, Dagestan, Caucasus",
+      "social_status": "Imam of Chechnya and Dagestan, supreme political-religious leader of the Caucasian resistance against the Russian Empire",
+      "want": "To crush Russian imperial advance in the Caucasus, preserve the Imamate as an independent theocratic state under Sharia, and bring Hadji Murat back under his authority — dead or alive — before the defection poisons the loyalty of every other naib.",
+      "need": "To recognize that he has become the mirror of the Tsar he fights — ruling by fear, hostages, and the execution of his own sons-in-faith — and that the holy war has eaten the holiness. He will not recognize this.",
+      "fear": "That Hadji Murat's defection proves what Shamil secretly suspects: that his own tyranny, not Russian power, is what breaks his best men. If the second-best warrior of the Caucasus walks to the enemy, the legitimacy of the Imamate bleeds from that wound.",
+      "contradiction": "He preaches submission to God's law while ruling by personal terror. He condemns Russian cruelty while holding Hadji Murat's mother, wives, and son as hostages. He demands total loyalty from men whose families he has imprisoned.",
+      "justification": "Hadji Murat was my best warrior and my brother in the ghazavat; now he runs to the infidel to save his own blood, and if I let one man buy his family with treason, every naib from Vedeno to the sea will learn that the Imam can be bargained with — so he returns, or his son's eyes are the price, and there is no third road in a war that God Himself is watching.",
+      "arc": {
+        "starting_state": "Act 1 — Supreme, uncontested, at the height of his power in Vedeno. Hadji Murat's flight arrives as an insult, not yet a crisis. Shamil responds with bureaucratic cruelty: seize the family, send assassins.",
+        "change": "Act 2 — The defection lingers. Russian indecision gives Shamil time, but also forces him to escalate against Hadji Murat's son Yusuf. Each escalation (blinding threatened, then half-executed, mother humiliated) costs him something he does not name: the silent consent of his own people. He wins the power struggle and feels it hollow out.",
+        "end_state": "Act 3 — Hadji Murat dies in a Russian ambush without ever returning to Shamil's justice. Shamil receives the news as triumph and receives it as defeat: the enemy killed his enemy. He retains the Imamate, loses the warrior he could never replace, and the war grinds on toward his own eventual surrender in 1859 — offstage of this film, but visible in his final eyes.",
+        "arc_type": "Stagnation / Pyrrhic Fall — no transformation, no recognition. The antagonist wins the immediate objective and confirms his own spiritual bankruptcy without admitting it."
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "Shamil speaks in short, parabolic sentences weighted with Quranic cadence; he does not raise his voice because he has not needed to for twenty years. Every word is a verdict — even greetings sound like judgments, even judgments sound like prayers. He uses silence as a weapon and quotes scripture the way a general quotes orders.",
+        "vocabulary_level": "formal, elevated, Arabic-inflected religious register; educated in Quran, hadith, Sufi poetry; never colloquial; era: mid-19th century Islamic scholarly",
+        "sentence_structure": "Short to medium (6–14 words). Declarative dominant. Frequent parallelism and antithesis ('He rode with me; now he rides away.'). Rare questions — when he asks, the answer is already known. Fragments used for verdicts.",
+        "verbal_tics": [
+          "'Allah knows.' — used to close any argument",
+          "'It is written.' — used to legitimize personal decisions as divine",
+          "'My son...' — addressed to naibs as a softening before a hard order",
+          "Long pauses before naming a man who has disappointed him"
+        ],
+        "avoidances": [
+          "Never raises his voice",
+          "Never swears or curses",
+          "Never speaks Russian, even when he understands it",
+          "Never uses Hadji Murat's name without the honorific on first mention of a scene — the omission, later, is itself a sentence",
+          "Never admits doubt in front of subordinates",
+          "Never laughs"
+        ],
+        "emotional_expression": "Suppression by design. Anger appears as slowed speech and lengthened silences. Grief appears as increased scriptural citation. Fear appears nowhere — he has trained it out of his face. Affection surfaces only toward his sons, and only in private, as a single touch on the shoulder.",
+        "speech_rhythm": "measured, slow, with deliberate pauses; the rhythm of a man who has never been interrupted",
+        "example_lines": {
+          "neutral_everyday": "Bring the messenger. Let him eat first. A man on an empty stomach lies without intending to.",
+          "under_pressure": "The Russians wait. Hadji Murat waits. I wait longer. Patience is also a weapon — it is written.",
+          "hopeful_joyful": "My son Jemal-Eddin read the Quran today without stumbling. Allah has not forgotten this house.",
+          "angry_hurt": "He broke bread at my table. He kissed my hand. Now tell me again — slowly — which road he took.",
+          "vulnerable_honest": "A man alone in the mountains hears his own heart. I hear mine. It is not always the voice of God."
+        },
+        "subtext_rules": {
+          "when_he_says_Allah_knows": "means: the conversation is over and you will obey",
+          "when_he_asks_a_question": "means: he already has the answer and is testing whether you will lie",
+          "when_he_calls_a_man_'my_son'": "means: that man is about to be ordered to do something he will not survive",
+          "when_he_quotes_scripture": "means: he is justifying a decision he made on personal grounds",
+          "when_he_is_silent": "means: someone has just been sentenced"
+        }
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912071",
+      "voice_profile_compact": {
+        "voice_description": "Shamil speaks in short, parabolic sentences weighted with Quranic cadence; he does not raise his voice because he has not needed to for twenty years.",
+        "vocabulary_level": "formal, elevated, Arabic-inflected religious register; educated in Quran, hadith, Sufi poetry…",
+        "sentence_pattern": "Short to medium (6–14 words). Declarative dominant. Frequent parallelism and antithesis ('He rode…",
+        "verbal_tics": [
+          "'Allah knows.' — used to close any argument",
+          "'It is written.' — used to legitimize personal…"
+        ],
+        "avoidances": [
+          "Never raises his voice",
+          "Never swears or curses"
+        ],
+        "subtext_rule_short": "",
+        "example_line": "Bring the messenger. Let him eat first. A man on an empty stomach lies without intending to."
+      },
+      "voice_profile_hash": "7d8a82afbfb37248"
+    },
+    "Sado": {
+      "name": "Sado",
+      "initial_description": "Old Chechen villager, toothless, thin-necked, wearing greasy beshmet and nightcap; hospitable host who recognizes Hadji Murad and welcomes him into his saklya at great personal risk. Kunak of Hadji Murad.",
+      "role": "Supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "",
+      "origin": "",
+      "social_status": "",
+      "want": "To shelter Hadji Murat under the sacred law of kunak hospitality and protect him at any personal cost.",
+      "need": "To preserve his own dignity and the honor of his village in a world where empires and imams alike reduce men to pawns.",
+      "fear": "That betrayal of the guest-bond — by himself, his neighbors, or the Russians — will shame his name and unmake his village.",
+      "contradiction": "He bows outwardly to Shamil's authority yet secretly harbors the imam's declared enemy; he is a peaceful man who calmly accepts that sheltering Hadji Murat may cost him everything.",
+      "justification": null,
+      "arc": {
+        "start": "Act 1: Sado welcomes Hadji Murat into his home in Makhket, offering food and a bed, steady and unafraid.",
+        "change": "Act 2: As Russian raids and Shamil's threats tighten around the village, Sado refuses to surrender his guest and watches neighbors waver.",
+        "end": "Act 3: After the Russian raid destroys his home, kills his son, and poisons the spring, Sado stands among the ruins — stripped of property yet unmoved in his grief, his dignity intact.",
+        "type": "Fall"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "Sado speaks sparingly, in short declarative sentences shaped by the cadence of the Quran and mountain proverb. His voice is low and even, never raised, carrying the weight of a man who has buried more than he has said. He answers questions with statements and lets silence do the rest.",
+        "vocabulary_level": "Informal but dignified; oral-tradition register; peppered with Islamic formulae (Allah, inshallah, the Prophet) and mountain idioms; no abstract or political vocabulary.",
+        "sentence_structure": "Short, averaging 6–10 words; mostly statements and occasional imperatives; rare questions; frequent parallel construction and proverbial fragments.",
+        "verbal_tics": "Opens replies with 'Allah' or 'It is so.' Ends counsel with 'That is all.' Uses 'my guest' rather than the name when others are listening.",
+        "avoidances": "Never boasts, never curses a man to his face, never names Shamil without respect, never speaks of his own suffering, never pleads.",
+        "emotional_expression": "Emotion registers in silence, in the pause before an answer, in a hand placed on a shoulder; grief is shown by stillness, not words; anger by a lowered voice, not a raised one.",
+        "speech_rhythm": "Measured; deliberate pauses between clauses; the rhythm of a man who has already thought the sentence through before speaking.",
+        "dialog_examples": {
+          "neutral": "Eat. The bread is fresh. My house is your house tonight.",
+          "under_pressure": "They may come. Let them come. You are my guest.",
+          "hopeful": "If Allah wills, you will ride out at dawn. The path is clear.",
+          "angry_hurt": "You speak of my guest as a dog. Leave my door.",
+          "vulnerable": "My son is dead. The spring is poisoned. I have nothing. It is enough."
+        },
+        "subtext_rules": "When Sado says 'You are my guest,' he means 'I will die before I give you up.' When he says 'It is the will of Allah,' he means 'I refuse to complain.' When he falls silent, he is grieving or deciding; the silence is the answer."
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912077",
+      "voice_profile_compact": {
+        "voice_description": "Sado speaks sparingly, in short declarative sentences shaped by the cadence of the Quran and mountain proverb.",
+        "vocabulary_level": "Informal but dignified; oral-tradition register; peppered with Islamic formulae (Allah, inshallah…",
+        "sentence_pattern": "Short, averaging 6–10 words; mostly statements and occasional imperatives; rare questions; frequent…",
+        "verbal_tics": [
+          "Opens replies with 'Allah' or 'It is so.' Ends…"
+        ],
+        "avoidances": [
+          "Never boasts",
+          "never curses a man to his face"
+        ],
+        "subtext_rule_short": "When Sado says 'You are my guest,' he means 'I will die before I give you up.' When he says 'It is the will of Allah,'…",
+        "example_line": "Eat. The bread is fresh. My house is your house tonight."
+      },
+      "voice_profile_hash": "3ca8588d56b421fa"
+    },
+    "Sado's Son": {
+      "name": "Sado's Son",
+      "initial_description": "Boy of about fifteen with sparkling eyes black as ripe sloes; sent to fetch his father from the mosque; witnesses the guest's arrival.",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": [],
+      "first_description": "",
+      "age": 15,
+      "origin": "Chechen aul (Caucasian mountain village), lives in Sado's saklya",
+      "social_status": "Son of Sado, grandson of the Old Man; adolescent villager, not yet a warrior",
+      "want": "To be noticed and trusted by Hadji Murad — to stand close to the legendary warrior and be seen as almost-a-man, not a child sent to fetch his father.",
+      "need": "To learn that hospitality and loyalty are heavier than glory — that the men he worships will cost his family everything, and that manhood means witnessing, not wielding.",
+      "fear": "That he will be dismissed as a boy — sent back inside, sent on errands — while history happens in the next room without him.",
+      "contradiction": "Idolises the fighter who has brought doom to his household; his awe grows in exact measure with the danger Hadji Murad carries across the threshold.",
+      "justification": null,
+      "arc": {
+        "starting_state": "Act 1 — A wide-eyed errand-boy, astonished by the night-time arrival; sent to the mosque to fetch his father. The war is still a story told by older men.",
+        "change": "Act 2 — Hovers at the edge of the guests' circle, learns by watching: the cadence of Hadji Murad's silences, the grandfather's fury at the Russians, the murid's discipline. His reverence deepens even as the household's fear grows.",
+        "end_state": "Act 3 — Survives the reprisal that destroys the aul or loses it; left standing among the ruin, sloe-black eyes now fixed and old. He has not fired a shot; he has only seen. The war has entered him.",
+        "arc_type": "Revelation"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "He speaks in short, breath-held sentences, the way adolescents speak when they are trying to sound older than they are. Chechen-inflected, formally respectful to elders and guests — every sentence leans slightly forward, as if asking permission. When awe overtakes him, syntax breaks and he drops into half-questions and fragments.",
+        "vocabulary_level": "Informal-reverent; limited vocabulary of a 15-year-old mountain villager, salted with the formal greetings and religious phrases of his elders (Salaam aleikum, inshallah). No abstractions; concrete nouns — horse, rifle, father, door.",
+        "sentence_structure": "Average 5–9 words. Mostly statements and respectful questions. Heavy use of fragments under emotional pressure. Rarely compound; almost never subordinated.",
+        "verbal_tics": [
+          "addresses elders and guests with honorifics ('Father', 'Uncle', 'Hadji')",
+          "repeats the last word of an elder's command as confirmation before running off",
+          "starts excited reports with 'He — he is —' before finding the noun"
+        ],
+        "avoidances": [
+          "never curses or blasphemes in front of elders",
+          "never contradicts his father or grandfather directly",
+          "never speaks of women outside the household",
+          "never boasts about himself — only about the men he admires",
+          "no abstract or philosophical statements"
+        ],
+        "emotional_expression": "Feelings leak through the body before the voice — widened eyes, a half-step forward, a swallowed breath. When words come they are understated ('It is him.' 'He came.') and the emotion lives in what is not said.",
+        "speech_rhythm": "Measured and respectful with elders; quick, breathy, almost stammered when excited or afraid. Alternating.",
+        "dialog_examples": {
+          "neutral_everyday": "Father is at the mosque. I will fetch him.",
+          "under_pressure": "The Russians — they are at the edge of the wood. Grandfather says come inside. Now.",
+          "hopeful_joyful": "It is him. It is really him. He is in our house, Father — Hadji Murad is in our house.",
+          "angry_hurt": "I am not a child. I can hold a rifle. Why do you always send me to the door?",
+          "vulnerable_honest": "When he looked at me, I could not speak. I wanted to tell him I would ride with him. I said nothing."
+        },
+        "subtext_rules": "When he says 'I will fetch him,' he means 'let me be useful, let me stay near this.' When he repeats an elder's words, he is asking to be trusted. When he says of Hadji Murad 'He is tired,' he means 'I am watching him the way a son watches a father.' When he falls silent in company, he is memorising — he knows, without naming it, that this night will be told for the rest of his life."
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912091",
+      "voice_profile_compact": {
+        "voice_description": "He speaks in short, breath-held sentences, the way adolescents speak when they are trying to sound older than they are.",
+        "vocabulary_level": "Informal-reverent; limited vocabulary of a 15-year-old mountain villager, salted with the formal…",
+        "sentence_pattern": "Average 5–9 words. Mostly statements and respectful questions. Heavy use of fragments under…",
+        "verbal_tics": [
+          "addresses elders and guests with honorifics…",
+          "repeats the last word of an elder's command as…"
+        ],
+        "avoidances": [
+          "never curses or blasphemes in front of elders",
+          "never contradicts his father or grandfather…"
+        ],
+        "subtext_rule_short": "When he says 'I will fetch him,' he means 'let me be useful, let me stay near this.' When he repeats an elder's words…",
+        "example_line": "Father is at the mosque. I will fetch him."
+      },
+      "voice_profile_hash": "d3f0c0780b59515c"
+    },
+    "Sado's Wife": {
+      "name": "Sado's Wife",
+      "initial_description": "Slight, spare, middle-aged woman in yellow smock, red beshmet and wide blue trousers; silent ritual hostess who arranges cushions for the guest.",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "middle-aged",
+      "origin": "Chechen aul (Caucasus mountain village), mid-19th century",
+      "social_status": "wife of a local Chechen host; keeper of the inner household; subordinate to male guest-ritual but indispensable to its performance",
+      "want": "To honor the guest who has entered her husband's house correctly, so that her family's name and Sado's standing in the aul remain unbroken.",
+      "need": "To be seen as a person and not only as a pair of hands that arrange cushions — to have her silent labor recognized as the thing that actually holds the code of hospitality together.",
+      "fear": "That the guest or her husband will be shamed by some failure of her hand — a cushion out of place, a blessing said wrong, a gaze lifted too high — and that the shame will fall on the whole household.",
+      "contradiction": "She performs absolute deference with her body (bent nearly double, eyes low), yet it is her hands, her blessing, her arrangement of the room that make the male ritual of guest-honor possible at all — she is both invisible and structurally central.",
+      "justification": null,
+      "arc": {
+        "act_1": "Enters as the embodiment of ritual — the formulaic blessing, the bent body, the cushions placed exactly so. She is the house's hospitality made flesh.",
+        "act_2": "As Hadji Murad's presence brings danger into the aul, her silent labor continues under rising pressure; the same gestures now carry the weight of harboring a hunted man.",
+        "act_3": "She remains in her role, unchanged outwardly, while the men around her are destroyed — the household survives or falls through what she does not say.",
+        "arc_type": "Stagnation"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "She speaks rarely and almost always in set phrases inherited from ritual — blessings, formulas, short acknowledgments. When she must speak outside ritual, her sentences are short, practical, and oriented to the body: cushions, bread, water, the door. Her voice is low, even, and never lifts in pitch; emphasis is carried by the slow bow of her body, not by volume.",
+        "vocabulary": {
+          "level": "informal, orally transmitted, religiously inflected",
+          "education": "no literacy; deep fluency in guest-ritual formulas and household idiom",
+          "era": "mid-19th century Chechen/Avar Caucasus"
+        },
+        "sentence_structure": {
+          "average_length": "short — 4 to 8 words",
+          "complexity": "simple clauses, often imperative or blessing-form",
+          "tendency": "statement and blessing dominant; almost no questions; fragments when addressing her husband"
+        },
+        "verbal_tics": [
+          "'May...' as opening of any formal utterance (blessing-form)",
+          "addressing the guest only in third person or indirectly, never by name",
+          "naming the object before the action ('the cushions — here')"
+        ],
+        "avoidances": [
+          "never speaks the guest's name aloud",
+          "never contradicts her husband in front of a guest",
+          "never uses first-person 'I want' — desire is not phrased for her",
+          "never complains, never jokes in the guest's presence",
+          "never refers to the Russians or the war directly"
+        ],
+        "emotional_expression": "Feeling is carried through gesture, not word — a longer bow, a pause before placing the cushion, hands folded tighter at the waist. Verbally, emotion appears only as intensified blessing ('May thy coming bring great happiness') or as sudden silence.",
+        "speech_rhythm": "measured, slow, almost liturgical; each phrase set down like a cushion",
+        "dialog_examples": {
+          "neutral": "May thy coming bring happiness. The cushions are here.",
+          "under_pressure": "The door is closed. Sit. I will bring water.",
+          "hopeful": "May God keep this house under thy shadow.",
+          "angry_hurt": "The bread is ready. (a beat) Enough.",
+          "vulnerable": "He is my husband. What he brings into the house, I carry."
+        },
+        "subtext_rules": "When she says 'May thy coming bring happiness' she means 'I accept the danger you bring, because the code requires it.' When she says 'the cushions are here' she means 'everything is in its place, do not shame us.' When she falls silent she means 'I have seen what you have not named.'"
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912094",
+      "voice_profile_compact": {
+        "voice_description": "She speaks rarely and almost always in set phrases inherited from ritual — blessings, formulas, short acknowledgments.",
+        "vocabulary_level": "",
+        "sentence_pattern": "",
+        "verbal_tics": [
+          "'May...' as opening of any formal utterance…",
+          "addressing the guest only in third person or…"
+        ],
+        "avoidances": [
+          "never speaks the guest's name aloud",
+          "never contradicts her husband in front of a guest"
+        ],
+        "subtext_rule_short": "When she says 'May thy coming bring happiness' she means 'I accept the danger you bring, because the code requires it.'…",
+        "example_line": "May thy coming bring happiness. The cushions are here."
+      },
+      "voice_profile_hash": "9d291e9d22306a2a"
+    },
+    "Hadji Murad's Murid (unnamed, active)": {
+      "name": "Hadji Murad's Murid (unnamed, active)",
+      "initial_description": "Strong, active murid accompanying Hadji Murad; dismounts quickly and takes the bridle before the old man can serve the guest.",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "young adult (implied — described as 'strong active murid')",
+      "origin": "Caucasian Muslim, Avar or allied mountain people, Chechnya/Dagestan region",
+      "social_status": "murid — sworn warrior-disciple in the Naqshbandi/Muridist resistance; last remaining of Hadji Murad's once-large retinue",
+      "want": "To protect Hadji Murad's body and dignity through every hour of this flight and deliver him safely to whatever shelter or alliance will save him.",
+      "need": "To accept that absolute devotion to a master cannot substitute for a self — and that a murid whose leader falls must still carry the meaning of that bond forward alone.",
+      "fear": "Failing his master in the one moment that matters; being the murid who survived when Hadji Murad did not, or worse, the one who was absent when the killing stroke fell.",
+      "contradiction": "He displaces the village elder from the bridle out of pure devotion, yet that same preempting zeal — doing for Hadji Murad what custom assigns to the host — quietly asserts a self he claims not to have; his servitude is also a kind of pride.",
+      "justification": null,
+      "arc": {
+        "act_1": "Rides into hostile Makhmet as Hadji Murad's sole remaining companion, the last of dozens — his identity fully fused to his master's.",
+        "act_2": "Each act of service becomes heavier as the retinue's absence grows louder; he is forced to perform the work of many with the body of one, and the gap between devotion and protection widens.",
+        "act_3": "Either dies at Hadji Murad's side in the final ambush or survives to carry the memory — in both cases, his arc closes at the moment his master's does; he does not transform, he endures.",
+        "arc_type": "Stagnation"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "He speaks rarely and only when necessary, letting action do the work words would slow down. When he does speak, his register is curt, deferential to Hadji Murad and correct but firm toward strangers. His Russian, if used, is broken; his Avar is clipped, practical, weighted with the formulas of the murid brotherhood.",
+        "vocabulary_level": "informal, oral-tradition mountain speech; low formal education but high religious formulaic literacy (Qur'anic phrases, murid oaths); era 1851–1852 Caucasus",
+        "sentence_structure": "Short. Average 4–8 words. Mostly statements and imperatives. Rare questions — and when asked, usually single-word or single-phrase.",
+        "verbal_tics": [
+          "'Bismillah' before action",
+          "addresses Hadji Murad as 'agha' or by honorific, never by name",
+          "'As you say' / 'It is done' as closing phrases",
+          "silence where another man would answer"
+        ],
+        "avoidances": "Never complains about fatigue, hunger, or danger. Never speculates about politics, Shamil's intentions, or Russian strategy — not his place. Never uses Hadji Murad's name familiarly. Never jokes. Never says 'I' when 'we' or silence will do.",
+        "emotional_expression": "Emotion is routed through the body — a tightened grip on the bridle, a turned shoulder, a step placed between Hadji Murad and a stranger. Verbally, feeling leaks only as terser syntax or a single invoked name of God.",
+        "speech_rhythm": "measured, with long silences; hectic only in the instant of action, then back to stillness",
+        "dialog_examples": {
+          "neutral_everyday": "The horse is watered, agha. We can ride.",
+          "under_pressure": "Stay close. I have the bridle.",
+          "hopeful_joyful": "Bismillah. The path is open.",
+          "angry_hurt": "Step back, old man. That is my place.",
+          "vulnerable_honest": "I am the last of them, agha. I will not be less than all of them together."
+        },
+        "subtext_rules": {
+          "when_he_says_'as_you_say,_agha'_he_means": "I have already begun doing it.",
+          "when_he_is_silent_he_means": "I am watching the door, the hands, the horizon — speak to someone else.",
+          "when_he_says_'bismillah'_he_means": "I may not come back from this next minute; witness it.",
+          "when_he_displaces_the_old_man_without_speaking_he_means": "Hospitality is yours, but responsibility is mine, and responsibility outranks custom."
+        }
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912097",
+      "voice_profile_compact": {
+        "voice_description": "He speaks rarely and only when necessary, letting action do the work words would slow down.",
+        "vocabulary_level": "informal, oral-tradition mountain speech; low formal education but high religious formulaic…",
+        "sentence_pattern": "Short. Average 4–8 words. Mostly statements and imperatives. Rare questions — and when asked…",
+        "verbal_tics": [
+          "'Bismillah' before action",
+          "addresses Hadji Murad as 'agha' or by honorific…"
+        ],
+        "avoidances": [
+          "Never complains about fatigue",
+          "hunger"
+        ],
+        "subtext_rule_short": "",
+        "example_line": "The horse is watered, agha. We can ride."
+      },
+      "voice_profile_hash": "bafacd3785744379"
+    },
+    "Sado's Father (Old Man)": {
+      "name": "Sado's Father (Old Man)",
+      "initial_description": "Elderly Chechen beekeeper, Sado's father; lifeless red eyes, speaks in proverbs of hares and eagles; lives at the apiary, carries news indirectly, evades direct answers while signaling Russian atrocities (burnt hay at Mitchit aoul).",
+      "role": "Minor",
+      "first_mention_chunk": "chunk_005",
+      "arc_notes": [],
+      "first_description": "",
+      "age": "elderly (implied 70+)",
+      "origin": "Caucasian mountain village; resident beekeeper at a nearby apiary, father of Sado",
+      "social_status": "village elder, household patriarch, beekeeper; ritually observant Muslim peasant",
+      "want": "To fulfill the sacred duty of hospitality toward Hadji Murad without betraying what he privately knows and fears about the war his son has entangled the household in.",
+      "need": "To be heard — to pass on, before his body fails, the bitter wisdom that resistance against the Russian eagles is doomed no matter how many hares confer.",
+      "fear": "That the Russians will come for this aoul next, as they came for Mitchit, and that his son Sado's harboring of Hadji Murad will be the match that lights the roof over his grandchildren.",
+      "contradiction": "He performs every ritual of welcome — hanging the weapons, squatting in prayer, seating the guests — while refusing eye contact and deflecting questions to his son; his body serves the guest while his soul withholds consent.",
+      "justification": null,
+      "arc": {
+        "starting_state": "A frail elder roused from sleep on the roof, still bound to the old codes — hospitality, prayer, deference to the master of the house.",
+        "change": "Forced by Hadji Murad's arrival to articulate, through the hare-and-eagle parable, the futility he usually swallows; the curse against the Russians breaks through his composure.",
+        "end_state": "Returns to silence and ceremony — motions Eldar to his felt, resumes the host's role — but the parable has been spoken aloud and cannot be unsaid; a witness who has delivered his verdict.",
+        "arc_type": "Revelation"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "He speaks in short, formulaic, proverbial bursts — the cadence of a man who has learned that words cost breath and that the old sayings carry more truth than new ones. His rhythm alternates between ceremonial calm (greetings, prayer-murmurs) and sudden hoarse eruptions of grief-anger when Russian atrocities intrude. Allegory is his default mode: where a younger man would curse plainly, he reaches for the parable of hares and eagles.",
+        "vocabulary_level": "informal, unlettered but ritually literate; peasant Caucasian Muslim idiom of the 1850s; no abstractions, no bureaucratic or military vocabulary; heavy reliance on Turkic/Arabic religious formulas and nature-imagery (hares, eagles, fire, hay, dogs)",
+        "sentence_structure": "Very short — most utterances are one clause, often under seven words. Statements and imperatives dominate; questions are blunt and functional (\"Who is he?\"). The one exception is the parable, which unspools in a single long, accumulating sentence with parallel clauses — his only rhetorical flight.",
+        "verbal_tics": [
+          "Formula greetings: \"aleikum, selaam!\"",
+          "Local set-phrases: \"Habar yok\" (\"no news\")",
+          "Proverbial framing: \"The only news is that...\"",
+          "Curses as closing seals: \"May their faces be torn!\"",
+          "Deflection to authority: \"He knows\"",
+          "Terse assent: \"That is well\""
+        ],
+        "avoidances": [
+          "Would never speak Hadji Murad's political situation plainly",
+          "Would never praise the Russians or use their names neutrally — only \"Russian dogs\"",
+          "Would never contradict his son Sado directly in front of a guest",
+          "Would never boast, never volunteer an opinion unasked",
+          "Would never meet a superior's eyes while speaking",
+          "Would never use abstract or modern vocabulary (nation, strategy, loyalty)"
+        ],
+        "emotional_expression": "Emotion leaks through body and proverb, never through direct statement. Anger comes as hoarseness and a curse tacked onto a fable. Grief comes as the fable itself. Reverence comes as a prayer-gesture — eyes closed, palms up, hands drawn down the beard. Affection and fear he does not name; they live in the avoided gaze and the trembling hand on the bridle.",
+        "speech_rhythm": "measured and halting by default, broken by one sustained parabolic flight when the Russian subject opens — then collapsing back into monosyllables",
+        "dialog_examples": {
+          "neutral_everyday": "Aleikum, selaam. Come down. The roof is cold for guests.",
+          "under_pressure": "I live at the apiary. I came today to see my son. He knows. I do not.",
+          "hopeful_joyful": "That is well. Sit — here, on the felt, beside him. The house is yours tonight.",
+          "angry_hurt": "Russian dogs. They burnt the hay at Mitchit. May their faces be torn — every one.",
+          "vulnerable_honest": "The hares keep talking of how to drive the eagles away. And the eagles tear first one hare, then another. That is all the news an old man has."
+        },
+        "subtext_rules": [
+          "When he says \"He knows\" → he means: do not ask me, I will not be the mouth that condemns this house.",
+          "When he says \"Habar yok\" → he means: there is news, but it is bad, and I will not carry it into a guest's ear.",
+          "When he tells the hare-and-eagle parable → he means: your cause is already lost, Hadji Murad, and I grieve for you but I cannot say so.",
+          "When he avoids eye contact and looks at the breast → he means: I honor you, and I also will not witness what is coming for you.",
+          "When he says \"That is well\" about Eldar → he means: I accept this stranger into my house because the code requires it, not because I trust him."
+        ]
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912087",
+      "voice_profile_compact": {
+        "voice_description": "He speaks in short, formulaic, proverbial bursts — the cadence of a man who has learned that words cost breath and that the old sayings carry more truth than new ones.",
+        "vocabulary_level": "informal, unlettered but ritually literate; peasant Caucasian Muslim idiom of the 1850s; no…",
+        "sentence_pattern": "Very short — most utterances are one clause, often under seven words. Statements and imperatives…",
+        "verbal_tics": [
+          "Formula greetings: \"aleikum, selaam!\"",
+          "Local set-phrases: \"Habar yok\" (\"no news\")"
+        ],
+        "avoidances": [
+          "Would never speak Hadji Murad's political…",
+          "Would never praise the Russians or use their…"
+        ],
+        "subtext_rule_short": "When he says \"He knows\" → he means: do not ask me, I will not be the mouth that condemns this house.",
+        "example_line": "Aleikum, selaam. Come down. The roof is cold for guests."
+      },
+      "voice_profile_hash": "9ed78972c1091668"
+    },
+    "Eldar": {
+      "name": "Eldar",
+      "initial_description": "Hadji Murad's murid; strong-legged, silent, disciplined; mirrors his leader's weapon-hanging ritual; loyal second presence entering Sado's saklya.",
+      "role": "Supporting",
+      "first_mention_chunk": "chunk_005",
+      "arc_notes": [
+        "Chunk chunk_005: Hadji Murad's murid; enters the room with strong, soft-striding legs; disarms and sits beside his leader at the old man's direction"
+      ],
+      "first_description": "",
+      "age": "young (implied from junior murid status)",
+      "origin": "Caucasus, Muslim warrior culture",
+      "social_status": "Murid (disciple/bodyguard) of Hadji Murad; junior rank within the warrior band",
+      "want": "To serve Hadji Murad faithfully and never be separated from him, mirroring his every move as the ideal murid.",
+      "need": "To discover his own judgment as a man — to know who he is when his leader is no longer there to mirror.",
+      "fear": "Failing his leader; being left alone without a master to follow; acting wrongly on his own initiative.",
+      "contradiction": "His physical strength could make him a formidable independent warrior, yet he chooses the posture of a subordinate — softness of tread, lowered seat, silent obedience.",
+      "justification": null,
+      "arc": {
+        "starting_state": "Silent, devoted murid — an extension of Hadji Murad's body and will.",
+        "change": "As Hadji Murad's situation fractures between Russians and Shamil, Eldar must hold loyalty without instruction, sensing the tragedy closing in around his leader.",
+        "end_state": "Dies beside Hadji Murad (or at his side in the final stand) — his fidelity absolute, his own self never fully claimed.",
+        "arc_type": "Stagnation"
+      },
+      "arc_type": "",
+      "voice_profile": {
+        "voice_description": "Eldar speaks rarely and only when addressed, with the brevity of a warrior who has been trained to listen. His voice is low, steady, physically grounded — the voice of a body, not an argument. When he does speak, it is in short declarations of fact or loyalty, never in reflection.",
+        "vocabulary_level": "informal, uneducated, warrior-idiom; concrete nouns (weapons, horses, roads, names); no abstract or political vocabulary",
+        "sentence_structure": "very short; 3–7 words average; statements and single-word answers dominate; questions only for tactical clarification",
+        "verbal_tics": [
+          "'Yes, agha.'",
+          "opens replies with the name or title of the person addressed",
+          "names weapons or directions rather than feelings"
+        ],
+        "avoidances": [
+          "never contradicts Hadji Murad aloud",
+          "never speaks of his own desires",
+          "never jokes in the presence of elders",
+          "never uses Russian loanwords"
+        ],
+        "emotional_expression": "Emotion surfaces in the body — a tightened grip on the dagger, a step placed closer to his leader — not in words. When grief or anger must be spoken, it comes as a single flat sentence.",
+        "speech_rhythm": "measured, slow, with long silences between lines",
+        "dialog_examples": {
+          "neutral": "The horses are watered.",
+          "under_pressure": "They are close. Two ridges behind us.",
+          "hopeful": "We will reach him by morning, agha.",
+          "angry_hurt": "He was my leader. You do not say his name like that.",
+          "vulnerable": "I do not know the road without him."
+        },
+        "subtext_rules": "When Eldar says 'Yes' he often means 'I do not agree but I will obey.' When he reports a practical fact (weather, distance, weapons), he is signalling concern for Hadji Murad's safety. When he falls silent mid-conversation, it means he has seen something the others have missed."
+      },
+      "synthesized_at": "2026-04-24T00:40:27.912081",
+      "voice_profile_compact": {
+        "voice_description": "Eldar speaks rarely and only when addressed, with the brevity of a warrior who has been trained to listen.",
+        "vocabulary_level": "informal, uneducated, warrior-idiom; concrete nouns (weapons, horses, roads, names); no abstract or…",
+        "sentence_pattern": "very short; 3–7 words average; statements and single-word answers dominate; questions only for…",
+        "verbal_tics": [
+          "'Yes, agha.'",
+          "opens replies with the name or title of the…"
+        ],
+        "avoidances": [
+          "never contradicts Hadji Murad aloud",
+          "never speaks of his own desires"
+        ],
+        "subtext_rule_short": "When Eldar says 'Yes' he often means 'I do not agree but I will obey.' When he reports a practical fact (weather…",
+        "example_line": "The horses are watered."
+      },
+      "voice_profile_hash": "d708bee25c03f4e9"
+    },
+    "Old Host (unnamed)": {
+      "name": "Old Host (unnamed)",
+      "initial_description": "Elderly Chechen man sleeping under sheepskin on saklya roof; toothless, thin, sunburnt neck; hospitable, immediately recognizes Hadji Murad and greets him with traditional salaam",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": []
+    },
+    "Host's Son (boy of fifteen)": {
+      "name": "Host's Son (boy of fifteen)",
+      "initial_description": "A fifteen-year-old boy with sparkling black eyes like ripe sloes; sent to the mosque to fetch his father",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": []
+    },
+    "Host's Wife (unnamed)": {
+      "name": "Host's Wife (unnamed)",
+      "initial_description": "Slight, spare, middle-aged Chechen woman in yellow smock, red beshmet, wide blue trousers; arranges cushions for the guest with the traditional greeting",
+      "role": "supporting",
+      "first_mention_chunk": "chunk_004",
+      "arc_notes": []
+    }
+  },
+  "character_relationships": [],
+  "world": {
+    "locations": [
+      {
+        "name": "Russian Summer Fields (Frame)",
+        "description": "Unnamed Russian countryside in midsummer, post-hay-harvest, pre-rye-reaping. A ditch flanked by wildflowers including the crimson 'Tartar' thistle. Abstract pastoral setting; functions as symbolic frame, not a physical story location."
+      },
+      {
+        "name": "Black-Earth Field (ploughed)",
+        "description": "A large freshly ploughed field belonging to a landed proprietor; dusty path crosses it; the site where the narrator finds the broken-but-standing thistle."
+      },
+      {
+        "name": "Makhmet Aoul",
+        "description": "A hostile Chechen village (aoul) roughly fifteen miles from Russian territory, permeated with kizyak smoke, crowded saklyas built into the hillside, and a fountain at the lower end — the first stop on Hadji Murad's clandestine defection route."
+      },
+      {
+        "name": "Chechen Saklya (interior — unnamed aoul)",
+        "description": "A traditional stone Chechen house with a penthouse entrance, inner and outer doors, a chimney with wooden-heeled slippers, weapons hung on nails, and cushions along the front wall. The roof serves as sleeping space. Intimate, domestic, impoverished but hospitable."
+      },
+      {
+        "name": "Mitchit Aoul",
+        "description": "Chechen village whose hay stores were burned by Russian forces; referenced by the old man as evidence of ongoing Russian reprisals — not visited on screen"
+      }
+    ],
+    "timeline": [],
+    "time_period": "",
+    "atmosphere": "",
+    "production_notes": []
+  },
+  "reference_context": {},
+  "impro_material": {},
+  "adapted_scenes": [],
+  "continuity_log": [],
+  "final_script": "",
+  "treatment_text": "",
+  "coverage_report": null,
+  "revision_history": [],
+  "confidence_stats": {
+    "mean": null,
+    "min": null,
+    "max": null,
+    "below_threshold": 0,
+    "distribution": {}
+  },
+  "adaptation_hints": {
+    "fusion_candidates": [
+      {
+        "chars": [
+          "Hadji Murad's Murid (unnamed, active)",
+          "Eldar"
+        ],
+        "reason": "The unnamed murid riding with HM in this chunk serves the same escort/loyal-companion function as Eldar; if this is not Eldar, the two roles are functionally identical — single companion to HM in flight. CF-01 applies: <5 scenes, shared ally function.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "chars": [
+          "Old Host (unnamed)",
+          "Sado"
+        ],
+        "reason": "Old man is a threshold greeter with zero independent arc; his hospitality function is identical to Sado's kunak role. In compression he can be dissolved into Sado's arrival greeting, eliminating one unnamed figure → CF-01, CF-02",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "chars": [
+          "Host's Wife (unnamed)",
+          "Sado's Wife"
+        ],
+        "reason": "Both are unnamed Chechen wives performing hospitality gestures (cushions/greeting); functionally interchangeable supporting roles, same thematic echo → CF-01, CF-02",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "chars": [
+          "Host's Son (boy of fifteen)",
+          "Sado's Son"
+        ],
+        "reason": "Both are young male witnesses to Hadji Murad in a domestic Chechen setting; the wide-eyed boy watching the legend arrive is the same beat as Sado's son. One witness-boy is sufficient → CF-01",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "chars": [
+          "Hadji Murad's Murid (unnamed, active)",
+          "Eldar"
+        ],
+        "reason": "The unnamed murid in earlier chunks is now revealed to be Eldar — same character, now named; no fusion needed, just canonical name unification to 'Eldar'",
+        "chunk_id": "chunk_005"
+      }
+    ],
+    "cuttable": [
+      {
+        "element": "Detailed botanical catalogue of flowers (clover, daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder)",
+        "reason": "Pure literary texture — non-load-bearing world-colour with no protagonist connection. In film, replace with a single wide shot of the field. → SS-03, SC-01",
+        "chunk_id": "chunk_001"
+      },
+      {
+        "element": "Narrator's physical struggle to pluck the thistle (handkerchief, five-minute battle, fraying stalk)",
+        "reason": "Can be compressed to a single visual beat — hands reaching, thistle resisting. The extended prose description is non-filmable as written. → SC-01, SC-06",
+        "chunk_id": "chunk_001"
+      },
+      {
+        "element": "Narrator's philosophical reflection on man as destructive creature (ploughed field meditation)",
+        "reason": "Pure authorial digression; no character action, no dramatic weight, no protagonist involvement. Non-filmable as written. → SS-04, SC-01 (fails all three tests: no protagonist-drive, minimal thematic load beyond metaphor already carried by the thistle image itself, information fully replaceable by visual)",
+        "chunk_id": "chunk_002"
+      },
+      {
+        "element": "Narrator's authorial frame ('I had partly seen myself, partly heard of from eye-witnesses, and in part imagined')",
+        "reason": "Pure NF/SS-04 auktorial digression; no dramatic action, no character agency. Equivalent of Tolstoy stepping in front of the story. CUT per NF-04 and SS-04 — the film opens on Hadji Murad's action, not the narrator's epistemological caveat.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "element": "Old Host (unnamed) as separate character",
+        "reason": "Pure threshold-greeter; zero scenes beyond this arrival moment; his hospitality function absorbed by Sado → CF-01, SS-03",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "element": "Host's Wife (unnamed) as separate character",
+        "reason": "Single-beat hospitality gesture; interchangeable with Sado's Wife already in cast; non-load-bearing → CF-01, SS-03",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "element": "Detailed description of old man's dressing ritual (slippers, sheepskin, ladder descent)",
+        "reason": "Atmospheric Tolstoian prose detail; filmable as montage background but expendable in compression without losing plot beat → SC-01, SS-04",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "element": "Mitchit aoul hay-burning (off-screen reference)",
+        "reason": "Non-load-bearing contextual detail; Russian scorched-earth already established by broader raid context — SS-03, SC-01",
+        "chunk_id": "chunk_005"
+      }
+    ],
+    "refocalize": [
+      {
+        "scene": "Entire prologue frame (thistle discovery and reflection)",
+        "current_pov": "Authorial I (Tolstoy's own first-person narrator, outside the story)",
+        "recommended_pov": "TRANSLATE_TO_VISUAL — open on extreme close-up of the crimson thistle standing upright in a ditch; cut to a hand (anonymous, gloved — Russian) reaching for it; struggle, fraying, discard. No voice-over. The image speaks the theme. Optionally: brief title card with the thematic line ('With what determination it defended itself...') as the only textual intrusion, then dissolve into the Caucasus story. Alternatively, dissolve the frame entirely and embed the thistle as a recurring visual motif (HM's cloak, the Chechen embroidery) per NF-04.",
+        "chunk_id": "chunk_001"
+      },
+      {
+        "scene": "Thistle discovery and reflection on the black-earth field",
+        "current_pov": "Authorial Narrator (first-person observer outside the story world)",
+        "recommended_pov": "VISUAL — camera as silent observer; open on extreme close-up of the broken thistle on black earth, no narrator present. Cut to title or direct match-cut into Caucasian episode. Per NF-04: dissolve narrator voice; per SC-06: translate inner experience into image.",
+        "chunk_id": "chunk_002"
+      },
+      {
+        "scene": "Narrator's philosophical reflection on the thistle and the Caucasian episode ('What vitality! … I remembered …')",
+        "current_pov": "Authorial I — omniscient, retrospective, explicit moral commentary",
+        "recommended_pov": "TRANSLATE_TO_VISUAL: open on a close-up of the thistle crushed by the wheel, still upright — cut directly to Hadji Murad riding alone into Makhmet. The thistle image speaks without the narrator. CF-08 + NF-04.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "scene": "Exposition of Hadji Murad's former status as banner-bearing naib with dozens of murids",
+        "current_pov": "Omniscient narrator telling the audience what HM used to be",
+        "recommended_pov": "REFOCAL via visual contrast: a brief flash (memory or montage) of HM with his full retinue, then hard-cut to the present lone rider. Alternatively, a reaction shot from a villager who recognises him but says nothing — the gap between former glory and present secrecy told through other eyes. NF-09, CF-08.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "scene": "Arrival at saklya — old man on roof waking",
+        "current_pov": "Omniscient authorial narrator (Tolstoy observes the old man's physical details from outside)",
+        "recommended_pov": "Hadji Murad's POV — we see only what he sees arriving: the sleeping figure, the ritual greeting, the domestic interior. Cuts authorial description, retains visual beat → CF-08, NF-04",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "scene": "Boy's sparkling eyes fixed on new arrivals",
+        "current_pov": "Authorial narrator noting the boy's appearance",
+        "recommended_pov": "HM's gaze — he clocks the boy, reads the household; brief shot/reverse shot. The boy's wonder mirrors the audience's. → CF-08",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "scene": "Old man's allegorical intelligence briefing",
+        "current_pov": "Third-person omniscient narrator, with slight old-man interiority ('did not wish to say')",
+        "recommended_pov": "Hadji Murad's POV exclusively — we read his face reading the old man; what he infers is shown through micro-reaction, not narration",
+        "chunk_id": "chunk_005"
+      }
+    ]
+  },
+  "character_extractions": {
+    "Narrator (Authorial I)": {
+      "direct_quotes": [
+        "But what energy and tenacity!  With what det",
+        "But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!",
+        "Ah, what a destructive creature is man....How many different plant-lives he destroys to support his own existence!",
+        "What vitality!",
+        "Man has conquered everything and destroyed millions of plants, yet this one won't submit.",
+        "What vitality! Man has conquered everything and destroyed millions of plants, yet this one won't submit."
+      ],
+      "speech_descriptors": [
+        "thought I",
+        "thought I, involuntarily looking around",
+        "I thought",
+        "I thought"
+      ],
+      "actions": [
+        "was returning home by the fields",
+        "gathered a large nosegay of summer flowers",
+        "noticed a crimson 'Tartar' thistle in a ditch",
+        "climbed down into the ditch to pick the thistle",
+        "drove away a bumble-bee sleeping inside a flower",
+        "wrapped a handkerchief around his hand to avoid pricks",
+        "struggled for nearly five minutes to break the tough stalk",
+        "threw the plucked thistle away because it did not fit the nosegay",
+        "Threw away the plucked thistle flower, feeling sorry for having destroyed it in vain",
+        "Walked home across freshly ploughed black-earth fields",
+        "Ascended a dusty path",
+        "Looked around for some living thing in the lifeless black field",
+        "Approached a small clump by the roadside and identified it as the same 'Tartar' thistle",
+        "Observed the mutilated but still-standing thistle in detail",
+        "Remembered a Caucasian episode from years ago, partly witnessed, partly heard from eye-witnesses",
+        "Reflects on the vitality of a plant that refuses to submit",
+        "Remembers a Caucasian episode from years ago",
+        "Frames the coming narrative as partly witnessed, partly heard from eye-witnesses, and partly imagined"
+      ],
+      "inner_states": [
+        "delighted by the variety and scents of midsummer flowers",
+        "intended to place the thistle in the center of his nosegay",
+        "found the task of plucking the thistle surprisingly difficult",
+        "felt the thistle no longer seemed fresh or beautiful once plucked",
+        "felt the thistle's coarseness was out of place among delicate blossoms",
+        "felt sorry for having vainly destroyed a flower that looked beautiful in its proper place",
+        "admires the thistle's energy and tenacity (exclamation 'But what energy and tenacity!')",
+        "Regret over having vainly destroyed a beautiful flower",
+        "Admiration for the thistle's energy, tenacity, and determination",
+        "Melancholy reflection on man as a destructive creature",
+        "Awareness of the lifelessness of the ploughed field",
+        "Awe at the resilience and refusal to submit of the surviving thistle",
+        "Triggered recollection — the thistle becomes the associative bridge to the Caucasian story he is about to tell",
+        "Admiration for resilient, unsubmitting life",
+        "Contemplative, associative mind that moves from the plant to a remembered historical episode",
+        "Awareness that the episode has been shaped by his own memory and imagination"
+      ],
+      "social_markers": [
+        "first-person authorial narrator",
+        "educated, literary register with detailed botanical vocabulary",
+        "rural/agrarian setting awareness (hay harvest, rye reaping)",
+        "uses regional term 'Tartar' for the crimson thistle, signaling local/Russian provincial knowledge",
+        "19th-century Russian literary voice",
+        "Educated, reflective 19th-century Russian voice",
+        "Landed-gentry sensibility — observes a proprietor's ploughed fields with cultivated detachment",
+        "Philosophical-moralist register (man vs. nature)",
+        "Literary, elevated prose with rhetorical exclamations",
+        "Positions himself as eyewitness/chronicler — partly seen, partly heard",
+        "Educated, reflective first-person narrator",
+        "Russian authorial voice with knowledge of the Caucasus",
+        "Literary register, philosophical tone"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "the thistle (symbolic object)",
+          "quality": "initial aesthetic desire to possess it, then struggle, then regret and admiration for its resilience — foreshadows symbolic link to Hadji Murad"
+        },
+        {
+          "with": "nature/landscape",
+          "quality": "contemplative, observant, reverent"
+        },
+        {
+          "with": "local peasants (implied)",
+          "quality": "shares their regional knowledge (calling it 'Tartar'), aware of their mowing customs"
+        },
+        {
+          "with": "Nature / the Thistle",
+          "quality": "Reverent, anthropomorphizing — treats the plant as a wounded warrior with body, arm, bowels, eye"
+        },
+        {
+          "with": "Man / Humanity",
+          "quality": "Critical, accusatory — frames man as destroyer of plant-lives"
+        },
+        {
+          "with": "The landed proprietor (implicit)",
+          "quality": "Distant, observational — notes the scale of tilled land without personal engagement"
+        },
+        {
+          "with": "Hadji Murad story (coming)",
+          "quality": "Framing narrator — the thistle's resilience triggers the memory that becomes the tale"
+        },
+        {
+          "with": "the thistle/plant (implicit)",
+          "quality": "admiring, projects heroic quality of resistance onto it"
+        },
+        {
+          "with": "Hadji Murad (as subject of memory)",
+          "quality": "mediates and frames his story; positions himself as witness/curator"
+        }
+      ],
+      "new_info": [
+        "Narrator is a first-person 'I' who frames the tale through a personal experience in the countryside",
+        "Setting established: midsummer, hay harvest finished, rye reaping beginning — rural Russia",
+        "Narrator introduces the central symbolic motif: the crimson 'Tartar' thistle, which resists destruction and admires energy/tenacity — the frame device that will link to Hadji Murad",
+        "Narrator demonstrates a reflective, aesthetic, moralizing sensibility",
+        "Chunk cuts off mid-exclamation, introducing the thematic keywords 'energy and tenacity'",
+        "The thistle encounter functions as the frame-narrative trigger for the entire Hadji Murad story",
+        "Narrator explicitly positions the coming tale as a 'Caucasian episode of years ago'",
+        "Narrator's source-claim: partly personal eyewitness, partly second-hand from eye-witnesses — establishes hybrid testimonial authority",
+        "Introduces the governing metaphor of the novella: the mutilated-but-unsubmitting 'Tartar' thistle as emblem of Hadji Murad",
+        "Narrator's worldview: pessimistic about human destructiveness, but drawn to singular vitality that resists it",
+        "Explicitly admits the episode is a hybrid of personal observation, second-hand reports, and imagination",
+        "Anchors the coming narrative in late 1851 and in the Caucasus"
+      ],
+      "chunk_appearances": 3
+    },
+    "Hadji Murad": {
+      "direct_quotes": [
+        "Selaam aleikum!",
+        "May thy sons live!",
+        "Ne habar?",
+        "My murid.  Eldar is his name"
+      ],
+      "speech_descriptors": [
+        "repeating the customary 'Selaam aleikum!'",
+        "answered Hadji Murad",
+        "asked Hadji Murad, addressing the old man",
+        "said Hadji Murad"
+      ],
+      "actions": [
+        "Rides into Makhmet, a hostile Chechen aoul, on a cold November evening in late 1851",
+        "Travels as a fugitive with only one murid, wrapped in hood and burka with a rifle protruding",
+        "Tries to attract as little attention as possible",
+        "Peers with quick black eyes into the faces of passers-by",
+        "Avoids the main road to the open square, turns left into a narrow side street",
+        "Stops at the second saklya, cut into the hillside, and looks round",
+        "Touches the man lying on the roof with the handle of his leather-plaited whip and clicks his tongue to rouse him",
+        "touched the old man with the handle of his leather-plaited whip",
+        "clicked his tongue to rouse the old man",
+        "uncovered his face when greeting",
+        "dismounted",
+        "walked with a slight limp",
+        "entered under the penthouse",
+        "took off his burka, rifle, and sword",
+        "handed his weapons to the old man",
+        "takes off his burka, rifle, and sword and hands them to the old man",
+        "adjusts the pistol at his back",
+        "comes up to the cushions",
+        "wraps his Circassian coat closer round him and sits down",
+        "mirrors the old man's prayer posture — closes eyes, lifts hands palms upwards",
+        "repeats a prayer and strokes his face, palms joining at the end of his beard",
+        "understands the old man does not wish to say what he knows",
+        "slightly nods his head and asks no more questions",
+        "introduces his murid Eldar to the old man"
+      ],
+      "inner_states": [
+        "Cautious, vigilant, aware of hostile surroundings",
+        "Calculating — deliberately dims his usual display to avoid detection",
+        "Purposeful: knows exactly which saklya he is heading for",
+        "understands (tacitly reads) that the old man is withholding information he wants to know",
+        "exercises restraint — chooses not to press further after picking up the signal"
+      ],
+      "social_markers": [
+        "Shamil's naib — high-ranking Caucasian military/political figure under the Imam",
+        "Famous warrior known for his exploits",
+        "Normally travels with a banner and dozens of caracoling murids — indicator of elevated status",
+        "Muslim Caucasian (enters an aoul during/after muezzin's call, uses saklya, burka, beshmet culture)",
+        "observes Muslim greeting ritual ('Selaam aleikum')",
+        "carries rifle, sword, burka — mounted warrior",
+        "uses leather-plaited whip (Caucasian horseman equipment)",
+        "walks with a slight limp (physical marker, possible war wound)",
+        "Caucasian Muslim warrior — carries burka, rifle, sword, and concealed pistol",
+        "ritually observant — performs the shared prayer gesture with the old man",
+        "wears a Circassian coat",
+        "travels with a murid (disciple/bodyguard), marking him as a figure of rank",
+        "uses Avar/Turkic greeting formula (\"Ne habar?\")"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Shamil",
+          "quality": "formally his naib, but now a fugitive — relationship has fractured or become dangerous"
+        },
+        {
+          "with": "his murid (the one accompanying him)",
+          "quality": "trusted enough to be his sole companion in flight"
+        },
+        {
+          "with": "the old man on the roof",
+          "quality": "knows him / knows the house; approaches non-verbally with whip and tongue-click, suggesting familiarity or a pre-arranged contact"
+        },
+        {
+          "with": "the hostile Chechen aoul Makhmet",
+          "quality": "enters it as an enemy territory, must conceal himself"
+        },
+        {
+          "with": "Sado's Father (Old Man)",
+          "quality": "courteous, familiar — uses traditional greeting, is recognized"
+        },
+        {
+          "with": "Sado's Wife",
+          "quality": "formal, respectful — exchanges ritualized blessing"
+        },
+        {
+          "with": "Hadji Murad's Murid",
+          "quality": "commanding presence; murid moves quickly to attend the horse"
+        },
+        {
+          "with": "Sado's Father (Old Man)",
+          "quality": "respectful, ritually synchronized, patient; reads the old man's reticence and defers without confrontation"
+        },
+        {
+          "with": "Eldar",
+          "quality": "leader to disciple — introduces and vouches for him; Eldar mirrors his disarming ritual exactly"
+        }
+      ],
+      "new_info": [
+        "Setting anchor: late 1851, cold November evening, aoul Makhmet, ~15 miles from Russian territory",
+        "Has just become a fugitive — stripped down from naib-with-entourage to fugitive-with-one-murid",
+        "Has a specific destination and contact in Makhmet (the second saklya cut into the hillside)",
+        "Physical description detail: quick black eyes; carries rifle under burka; uses a leather-plaited whip",
+        "walks with a slight limp",
+        "is personally recognized by Sado's father on sight",
+        "observes the ritual of uncovering his face when greeting",
+        "hands over weapons to be hung beside those of the house master — sign of trust/hospitality",
+        "carries a pistol concealed at his back in addition to the weapons he surrenders",
+        "wears a Circassian coat",
+        "observes a shared Muslim prayer ritual with his host before conversing",
+        "speaks the local greeting formula \"Ne habar?\"",
+        "reads subtle social cues and withdraws questions rather than pushing for information",
+        "his murid is named Eldar"
+      ],
+      "chunk_appearances": 3
+    },
+    "Hadji Murad's Murid (unnamed, active)": {
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Rides alongside Hadji Murad as his sole companion into hostile Makhmet",
+        "quickly dismounted",
+        "motioned the old man aside",
+        "took the old man's place at the bridle/stirrup to attend Hadji Murad's horse"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Murid — devoted follower in the Caucasian Muslim resistance sense",
+        "Willing to accompany his leader into enemy aoul at great personal risk",
+        "described as 'strong active murid' — young, fit warrior-disciple",
+        "prioritizes service to his master over local hospitality custom"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Hadji Murad",
+          "quality": "loyal sole companion in fugitive flight; the last of what was once dozens of murids"
+        },
+        {
+          "with": "Hadji Murad",
+          "quality": "devoted attendant — preempts others to serve him"
+        },
+        {
+          "with": "Sado's Father (Old Man)",
+          "quality": "respectful but firm — displaces him without speaking"
+        }
+      ],
+      "new_info": [
+        "Of the former entourage of dozens of murids, only this one remains with Hadji Murad in his flight",
+        "physically strong and active",
+        "takes charge of Hadji Murad's horse personally, not letting the host serve"
+      ],
+      "chunk_appearances": 2
+    },
+    "Old man on the saklya roof": {
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Lies asleep/resting on the roof of the saklya behind the freshly plastered clay chimney, covered with a sheepskin",
+        "Rises from under the sheepskin when Hadji Murad touches him with the whip handle and clicks his tongue"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Old man — advanced age",
+        "Wears a greasy old beshmet and a nightcap — domestic, modest, worn clothing, suggesting humble or everyday status in the aoul",
+        "Caucasian Muslim village inhabitant (sleeps on saklya roof, beshmet)"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Hadji Murad",
+          "quality": "addressee of Hadji Murad's silent, familiar summons; appears to be the contact Hadji Murad rode to meet"
+        }
+      ],
+      "new_info": [
+        "First physical introduction: sleeps on the roof behind the chimney under a sheepskin",
+        "Attire: greasy old beshmet and nightcap",
+        "Responds to the non-verbal summons rather than to a shout — consistent with a discreet, possibly pre-arranged meeting"
+      ],
+      "chunk_appearances": 1
+    },
+    "Sado's Father (Old Man)": {
+      "direct_quotes": [
+        "aleikum, selaam!",
+        "run to the mosque and call your father",
+        "Habar yok",
+        "I live at the apiary and have only today come to see my son....He knows.",
+        "There is no good news",
+        "The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!",
+        "Who is he?",
+        "That is well"
+      ],
+      "speech_descriptors": [
+        "said the old man, recognizing him",
+        "smiling with his toothless mouth",
+        "mumbling something with his toothless mouth",
+        "ordered the old man",
+        "replied the old man, looking with his lifeless red eyes not at Hadji Murad's face but at his breast",
+        "said the old man",
+        "he added hoarsely and angrily",
+        "asked the old man, pointing to the newcomer",
+        "said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad"
+      ],
+      "actions": [
+        "rose from under the sheepskin on the roof",
+        "blinked to get his moist red eyelids unstuck",
+        "uncovered / raised himself on his thin legs",
+        "thrust his feet into wooden-heeled slippers by the chimney",
+        "slipped arms into sleeves of crumpled sheepskin",
+        "descended backwards down the ladder from the roof",
+        "shook his head and mumbled while climbing down",
+        "seized Hadji Murad's bridle and right stirrup hospitably",
+        "was motioned aside by the murid",
+        "hurried forward to open the creaking door into the saklya",
+        "ordered the boy to fetch his father from the mosque",
+        "received Hadji Murad's rifle and sword and hung them on a nail",
+        "carefully hangs Hadji Murad's rifle and sword on a nail beside the master of the house's weapons",
+        "squats on his bare heels beside Hadji Murad",
+        "closes his eyes and lifts his hands palms upwards in prayer",
+        "strokes his face, palms joining at the end of his beard",
+        "avoids eye contact — looks at Hadji Murad's breast rather than his face",
+        "points to Eldar when asking who he is",
+        "motions Eldar to a place on a piece of felt beside Hadji Murad"
+      ],
+      "inner_states": [
+        "hospitable impulse (tries to hold bridle and stirrup despite frailty)",
+        "withholds something he knows but does not wish to say",
+        "bitter, angry grief over Russian depredations — curses \"May their faces be torn!\"",
+        "resigned fatalism expressed through the hares-and-eagles parable"
+      ],
+      "social_markers": [
+        "wears greasy old beshmet and nightcap — elderly peasant/household elder",
+        "toothless, lashless, sunburnt — visibly aged",
+        "lives/sleeps on the roof under a sheepskin (Caucasian mountain-village custom)",
+        "knows Muslim greeting etiquette",
+        "authority over the boy (commands him to the mosque)",
+        "elderly Caucasian Muslim villager — goes barefoot, squats on heels",
+        "beekeeper — lives at the apiary",
+        "ritually observant Muslim (prayer gesture, beard-stroke)",
+        "uses proverbial/allegorical speech (hares vs. eagles)",
+        "speaks local formulaic phrases (\"Habar yok\")",
+        "refers to Russians pejoratively as \"Russian dogs\"",
+        "hoarse, angry register when speaking of Russian atrocities"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Hadji Murad",
+          "quality": "reverent, hospitable — recognizes him and tries to serve him personally"
+        },
+        {
+          "with": "The Boy (fifteen-year-old)",
+          "quality": "authoritative elder — issues orders"
+        },
+        {
+          "with": "Hadji Murad's Murid",
+          "quality": "deferential — yields when motioned aside"
+        },
+        {
+          "with": "Hadji Murad",
+          "quality": "deferential yet guarded — performs the host's ritual duties (hanging weapons, shared prayer) but avoids eye contact and withholds information"
+        },
+        {
+          "with": "Sado (his son)",
+          "quality": "father of the house's master; defers knowledge of current affairs to his son (\"He knows\")"
+        },
+        {
+          "with": "Eldar",
+          "quality": "cautiously accepting — questions his identity, then approves (\"That is well\") and assigns him a place"
+        },
+        {
+          "with": "the Russians",
+          "quality": "hostile, grieving, cursing — treats them as destructive predators"
+        }
+      ],
+      "new_info": [
+        "sleeps on the roof of the saklya under a sheepskin",
+        "physically frail (thin legs, shrivelled sunburnt neck, toothless, lashless)",
+        "commands the boy with clear authority (implies he is the boy's grandfather / household elder)",
+        "performs the role of gatekeeper and weapon-keeper in the saklya",
+        "is the father of Sado (the master of the house)",
+        "lives at an apiary and only came today to visit his son",
+        "has \"lifeless red eyes\" — physical detail of age/fatigue",
+        "speaks in proverbs (hares/eagles) to describe the Caucasian–Russian conflict",
+        "reports a recent Russian atrocity: burning of hay in the Mitchit aoul",
+        "performs the host's ritual of hanging a guest's weapons",
+        "defers current news to his son, signalling limited personal knowledge of Hadji Murad's situation"
+      ],
+      "chunk_appearances": 2
+    },
+    "Sado's Son": {
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "came quickly out of the door",
+        "met Hadji Murad",
+        "fixed his sparkling eyes wonderingly on the new arrivals"
+      ],
+      "inner_states": [
+        "wonder / astonishment at the unexpected guests"
+      ],
+      "social_markers": [
+        "fifteen years old",
+        "eyes 'black as ripe sloes' — Caucasian youth",
+        "lives in the saklya; is sent to fetch his father from the mosque"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Sado's Father (Old Man)",
+          "quality": "obedient grandson — receives orders"
+        },
+        {
+          "with": "Sado",
+          "quality": "son; sent to summon him"
+        },
+        {
+          "with": "Hadji Murad",
+          "quality": "awestruck observer of the arriving guest"
+        }
+      ],
+      "new_info": [
+        "exact age given as fifteen",
+        "distinctive feature: sparkling eyes, black as ripe sloes",
+        "is the one dispatched to call Sado from the mosque"
+      ],
+      "chunk_appearances": 1
+    },
+    "Sado's Wife": {
+      "direct_quotes": [
+        "May thy coming bring happiness!"
+      ],
+      "speech_descriptors": [
+        "said she",
+        "bending nearly double"
+      ],
+      "actions": [
+        "came through an inner door carrying cushions",
+        "bent nearly double in greeting",
+        "began arranging cushions along the front wall for the guest"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "slight, spare, middle-aged",
+        "wears yellow smock, red beshmet, wide blue trousers — traditional Avar/Caucasian female dress",
+        "uses formulaic blessing — knows guest-ritual etiquette",
+        "performs the hostess role (preparing seating)"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Hadji Murad",
+          "quality": "honors him as high-status guest — deep bow, blessing, prepares seat of honor"
+        }
+      ],
+      "new_info": [
+        "physical description: slight, spare, middle-aged",
+        "specific dress colors (yellow smock, red beshmet, blue trousers)",
+        "first spoken line assigned to her: 'May thy coming bring happiness!'",
+        "carries cushions to arrange the guest's seating place"
+      ],
+      "chunk_appearances": 1
+    },
+    "Eldar": {
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "enters the room, his strong legs striding softly over the earthen floor",
+        "retains only his dagger and pistol",
+        "takes off his burka, rifle, and sword, mirroring Hadji Murad's disarming",
+        "hangs his weapons on the same nails as his leader's",
+        "sits down on the piece of felt indicated by the old man, crossing his legs"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Caucasian Muslim warrior / murid — armed with dagger, pistol, rifle, sword, burka",
+        "physically strong — \"strong legs\"",
+        "moves quietly despite his strength (\"striding softly\")",
+        "junior rank — mirrors his leader's actions rather than initiating",
+        "accepts a lesser seat (piece of felt beside Hadji Murad, not cushions)"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "Hadji Murad",
+          "quality": "murid/disciple — follows and mirrors him exactly, defers in seating and ritual"
+        },
+        {
+          "with": "Sado's Father (Old Man)",
+          "quality": "silent subordinate — is questioned about, not addressed; obeys the old man's motion to sit"
+        }
+      ],
+      "new_info": [
+        "is named Eldar",
+        "is Hadji Murad's murid",
+        "has physically strong legs but moves softly — a quiet, capable warrior",
+        "carries dagger, pistol, rifle, sword, and burka",
+        "seated on felt (lower status) next to Hadji Murad on the cushions"
+      ],
+      "chunk_appearances": 1
+    }
+  },
+  "character_coverage_gaps": {
+    "meta": {
+      "version": "1",
+      "tiers_checked": [
+        1,
+        2
+      ],
+      "total_tier12": 9,
+      "gap_count": 0
+    },
+    "character_coverage_gaps": [],
+    "tier_map": {
+      "Narrator (Authorial I)": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 0.0,
+        "historical": false,
+        "graph_canonical_name": ""
+      },
+      "Hadji Murad": {
+        "tier": 1,
+        "role": "protagonist",
+        "dramatic_weight": 91.65,
+        "historical": true,
+        "graph_canonical_name": "Hadji Murad"
+      },
+      "Old man on the saklya roof": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 0.0,
+        "historical": false,
+        "graph_canonical_name": ""
+      },
+      "Shamil": {
+        "tier": 1,
+        "role": "antagonist",
+        "dramatic_weight": 44.9,
+        "historical": true,
+        "graph_canonical_name": "Shamil"
+      },
+      "Sado": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 13.86,
+        "historical": false,
+        "graph_canonical_name": "Sado"
+      },
+      "Sado's Son": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 1.41,
+        "historical": false,
+        "graph_canonical_name": "Sado's son"
+      },
+      "Sado's Wife": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 2.0,
+        "historical": false,
+        "graph_canonical_name": "Sado's wife"
+      },
+      "Hadji Murad's Murid (unnamed, active)": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 0.0,
+        "historical": false,
+        "graph_canonical_name": ""
+      },
+      "Sado's Father (Old Man)": {
+        "tier": 3,
+        "role": "minor",
+        "dramatic_weight": 0.0,
+        "historical": false,
+        "graph_canonical_name": ""
+      },
+      "Eldar": {
+        "tier": 2,
+        "role": "supporting",
+        "dramatic_weight": 12.65,
+        "historical": false,
+        "graph_canonical_name": "Eldar"
+      }
+    }
+  },
+  "knowledge_gaps": [
+    "Character Narrator (Authorial I) (supporting, tier 2): missing want, need",
+    "Character Hadji Murad (protagonist, tier 1): missing want, need",
+    "Character Old man on the saklya roof (supporting, tier 2): missing want, need",
+    "Character Shamil (antagonist, tier 1): missing want, need",
+    "Character Sado (supporting, tier 2): missing want, need",
+    "Character Sado's Son (supporting, tier 2): missing want, need",
+    "Character Sado's Wife (supporting, tier 2): missing want, need",
+    "Character Hadji Murad's Murid (unnamed, active) (supporting, tier 2): missing want, need",
+    "Character Sado's Father (Old Man) (supporting, tier 2): missing want, need",
+    "Character Eldar (supporting, tier 2): missing want, need"
+  ],
+  "casting_coverage_gaps": {
+    "meta": {
+      "version": "1",
+      "tiers_checked": [
+        1,
+        2
+      ],
+      "total_tier12": 9,
+      "gap_count": 0
+    },
+    "casting_coverage_gaps": []
+  },
+  "adaptation_references": [
+    {
+      "chunk_index": 0,
+      "query": "love war",
+      "match": {
+        "title": "Budapest script",
+        "category": "screenplay",
+        "chunk": "15/121",
+        "score": 2
+      }
+    },
+    {
+      "chunk_index": 1,
+      "query": "scene dialog beat",
+      "match": {
+        "title": "Good Will Hunting",
+        "category": "screenplay",
+        "chunk": "12/122",
+        "score": 2
+      }
+    },
+    {
+      "chunk_index": 2,
+      "query": "war",
+      "match": null
+    },
+    {
+      "chunk_index": 3,
+      "query": "war",
+      "match": null
+    },
+    {
+      "chunk_index": 4,
+      "query": "war",
+      "match": null
+    },
+    {
+      "chunk_index": 0,
+      "query": "love war danger hospitality twin",
+      "match": {
+        "title": "Budapest script",
+        "category": "screenplay",
+        "chunk": "15/121",
+        "score": 2
+      }
+    },
+    {
+      "chunk_index": 0,
+      "query": "love war danger hospitality twin",
+      "match": {
+        "title": "Budapest script",
+        "category": "screenplay",
+        "chunk": "15/121",
+        "score": 2
+      }
+    },
+    {
+      "chunk_index": 0,
+      "query": "love war danger hospitality twin",
+      "match": {
+        "title": "Budapest script",
+        "category": "screenplay",
+        "chunk": "15/121",
+        "score": 2
+      }
+    }
+  ],
+  "story_analyst_progress": {
+    "chunks_done": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "plot_elements": [
+      {
+        "description": "Authorial frame opens: narrator walks home through summer fields, cataloguing flowers in bloom. Establishes pastoral, peaceful Russian countryside before the Caucasus story begins.",
+        "act": 1,
+        "subplot_id": "author_digression",
+        "chunk_id": "chunk_001",
+        "position": "beginning"
+      },
+      {
+        "description": "Narrator discovers a crimson 'Tartar' thistle in a ditch, attempts to pluck it. The task is harder than expected — the plant resists, pricks through a handkerchief, stalk frays. Thistle is finally uprooted but ruined, out of place in the nosegay.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "chunk_id": "chunk_001",
+        "position": "beginning"
+      },
+      {
+        "description": "Narrator reflects on the thistle's energy and tenacity (sentence cut off mid-thought: 'With what det[ermination]...'). This philosophical aside is the thematic hinge: the thistle = Hadji Murad. The whole story is the annotation of this image.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "chunk_id": "chunk_001",
+        "position": "beginning"
+      },
+      {
+        "description": "Narrator reflects on the destroyed thistle and its stubborn vitality, drawing a parallel to human destructiveness and the resistance of a single plant that survived a cartwheel crushing it.",
+        "act": 1,
+        "subplot_id": "author_digression",
+        "chunk_id": "chunk_002",
+        "position": "early"
+      },
+      {
+        "description": "Narrator recalls a Caucasian episode — the transition bridge that will introduce Hadji Murad's story. The thistle becomes an explicit metaphor for HM's defiant spirit.",
+        "act": 1,
+        "subplot_id": "thistle_frame",
+        "chunk_id": "chunk_002",
+        "position": "early"
+      },
+      {
+        "description": "Narrator frames the story as a remembered Caucasian episode, blending personal witness, hearsay, and imagination — establishing an authorial distance before the narrative begins.",
+        "act": 1,
+        "subplot_id": "author_digression",
+        "chunk_id": "chunk_003",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad, formerly Shamil's powerful naib who rode with dozens of murids and a banner, now enters Makhmet aoul in disguise as a lone fugitive with only one murid — a dramatic status inversion establishing his vulnerability and the central defection arc.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_003",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad deliberately avoids the main square, takes a narrow side street, and approaches a specific saklya — signalling prior planning, a local contact, and covert intent.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_003",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad wakes the old man on the saklya roof, initiating contact with a local ally — the first beat of his clandestine negotiation to cross to the Russians.",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_003",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad arrives at a Chechen saklya under cover of darkness; he is greeted by an old man who recognizes him immediately and receives him with traditional hospitality (selaam exchange, weapons hung, cushions arranged)",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_004",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad dismounts with a notable limp — physical mark of past wounding, a signature detail of his legendary scarred body",
+        "act": 1,
+        "subplot_id": null,
+        "chunk_id": "chunk_004",
+        "position": "early"
+      },
+      {
+        "description": "The old man orders his grandson/son to fetch the master of the house from the mosque — the actual host (Sado) has not yet appeared; the scene is a threshold moment before the main kunak encounter",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_004",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad hands over burka, rifle, and sword — disarming gesture of trust inside the saklya; weapons hung beside host's weapons as symbolic equality of guest-right",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_004",
+        "position": "early"
+      },
+      {
+        "description": "Hadji Murad performs ritual disarmament and Islamic prayer with the old man — establishing trust, safe harbour, and shared identity",
+        "act": 1,
+        "subplot_id": "hm_defection",
+        "chunk_id": "chunk_005",
+        "position": "early"
+      },
+      {
+        "description": "Old man delivers veiled intelligence via allegory: 'hares discussing how to drive away the eagles' — signals futility of Chechen resistance against Russians",
+        "act": 1,
+        "subplot_id": null,
+        "chunk_id": "chunk_005",
+        "position": "early"
+      },
+      {
+        "description": "Old man mentions Russian burning of hay in Mitchit aoul — concrete evidence of Russian scorched-earth campaign, motivating Hadji Murad's defection",
+        "act": 1,
+        "subplot_id": "january_1852_raid",
+        "chunk_id": "chunk_005",
+        "position": "early"
+      },
+      {
+        "description": "Eldar is formally introduced by name to the old man — cementing the murid relationship and HM's small travelling party",
+        "act": 1,
+        "subplot_id": "hm_murids_introduced",
+        "chunk_id": "chunk_005",
+        "position": "early"
+      },
+      {
+        "description": "HM's ritual greeting 'Ne habar?' / 'Habar yok' — signature voice-profile moment; establishes HM's composed intelligence-gathering manner",
+        "act": 1,
+        "subplot_id": null,
+        "chunk_id": "chunk_005",
+        "position": "early"
+      }
+    ],
+    "tension_curve": [
+      {
+        "chunk_id": "chunk_001",
+        "position": "beginning",
+        "tension": 0.1
+      },
+      {
+        "chunk_id": "chunk_002",
+        "position": "early",
+        "tension": 0.15
+      },
+      {
+        "chunk_id": "chunk_003",
+        "position": "early",
+        "tension": 0.6
+      },
+      {
+        "chunk_id": "chunk_004",
+        "position": "early",
+        "tension": 0.3
+      },
+      {
+        "chunk_id": "chunk_005",
+        "position": "early",
+        "tension": 0.35
+      }
+    ],
+    "themes": [
+      "Authorial moral gaze on human destructiveness",
+      "Beauty and vitality in defiance of destruction",
+      "Cost of survival — beauty destroyed in its proper place",
+      "Covert survival — strategic concealment as the only agency left to the dispossessed",
+      "Foreshadowing of Hadji Murad as the indestructible 'Tartar' thistle",
+      "Guest-right and hospitality as moral code (kunak law)",
+      "Incompatibility between wild/native and cultivated/imperial worlds",
+      "Indomitable resistance — the thistle metaphor ('Man conquered everything yet this one won't submit') directly prefigures Hadji Murad's own unyielding nature",
+      "Loyalty and trust encoded in ritual (prayer, disarmament)",
+      "Memory and imagination as narrative frame — the boundary between history and fiction",
+      "Nature as moral mirror — the landscape reflects the story's ethical stakes",
+      "Nature vs. man (destruction and survival)",
+      "Physical vulnerability (limp) beneath legendary status",
+      "Resistance vs. inevitability — hare/eagle allegory",
+      "Russian colonial violence as silent backdrop to every scene",
+      "Spoken economy: what is NOT said carries as much weight as what is said",
+      "Status inversion — the banner-bearing naib reduced to a lone fugitive in disguise",
+      "Tenacity and resistance against overwhelming force",
+      "The colonial gaze: calling the thistle 'Tartar', mowing it down, throwing it aside",
+      "The fugitive warrior dependent on civilian loyalty",
+      "Traditional Chechen domestic world as counterpoint to Russian military world",
+      "Trust established through ritual disarming",
+      "Vitality and resistance against overwhelming force"
+    ],
+    "symbols": [
+      "'Ne habar?' ritual greeting — HM's voice signature, intelligence-seeker identity",
+      "Black ploughed earth — imperial/colonial annihilation of everything around the protagonist",
+      "Boy's sloe-black eyes — the next generation watching the legend arrive",
+      "Broken stalk with hanging flower — mutilation yet persistence",
+      "Cartwheel track — brute force of state/empire crushing the individual",
+      "Crimson 'Tartar' thistle = Hadji Murad (named explicitly by narrative function)",
+      "Cushions arranged along the front wall — traditional welcome, Chechen home as sanctuary",
+      "Hadji Murad's limp — embodied history of violence and survival",
+      "Hare/eagle allegory — Chechen self-awareness of their own weakness",
+      "Palms-upward prayer — submission to God while planning resistance",
+      "The bumble-bee asleep inside the flower = innocence undisturbed before violence",
+      "The ditch = the marginal, dangerous space between worlds",
+      "The frayed stalk = the cost of forced extraction from one's natural place",
+      "The hood and burka — concealment of a man who once rode with a banner; visual marker of fallen status",
+      "The lone murid — formerly dozens of followers; the stripped retinue as visual compression of HM's precariousness",
+      "The narrator's handkerchief = civilized protection that still fails against wild thorns",
+      "The narrow side street — avoidance of the open square; spatial metaphor for operating outside sanctioned channels",
+      "The nosegay of cultivated flowers = Russian imperial society",
+      "The thistle (Tatar plant) — off-screen but thematically present via narrator's reflection; emblem of HM's indomitable spirit",
+      "Thistle (Tartar plant) — emblem of HM's defiant survival",
+      "Toothless old man recognizing him — HM's fame precedes him even in obscure aoul",
+      "Weapons hung on shared nails — equality of host/guest, mutual vulnerability",
+      "Weapons hung on the wall beside host's weapons — equality of warrior status within hospitality"
+    ],
+    "fusion_candidates": [
+      {
+        "chars": [
+          "Hadji Murad's Murid (unnamed, active)",
+          "Eldar"
+        ],
+        "reason": "The unnamed murid riding with HM in this chunk serves the same escort/loyal-companion function as Eldar; if this is not Eldar, the two roles are functionally identical — single companion to HM in flight. CF-01 applies: <5 scenes, shared ally function.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "chars": [
+          "Old Host (unnamed)",
+          "Sado"
+        ],
+        "reason": "Old man is a threshold greeter with zero independent arc; his hospitality function is identical to Sado's kunak role. In compression he can be dissolved into Sado's arrival greeting, eliminating one unnamed figure → CF-01, CF-02",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "chars": [
+          "Host's Wife (unnamed)",
+          "Sado's Wife"
+        ],
+        "reason": "Both are unnamed Chechen wives performing hospitality gestures (cushions/greeting); functionally interchangeable supporting roles, same thematic echo → CF-01, CF-02",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "chars": [
+          "Host's Son (boy of fifteen)",
+          "Sado's Son"
+        ],
+        "reason": "Both are young male witnesses to Hadji Murad in a domestic Chechen setting; the wide-eyed boy watching the legend arrive is the same beat as Sado's son. One witness-boy is sufficient → CF-01",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "chars": [
+          "Hadji Murad's Murid (unnamed, active)",
+          "Eldar"
+        ],
+        "reason": "The unnamed murid in earlier chunks is now revealed to be Eldar — same character, now named; no fusion needed, just canonical name unification to 'Eldar'",
+        "chunk_id": "chunk_005"
+      }
+    ],
+    "cuttable": [
+      {
+        "element": "Detailed botanical catalogue of flowers (clover, daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder)",
+        "reason": "Pure literary texture — non-load-bearing world-colour with no protagonist connection. In film, replace with a single wide shot of the field. → SS-03, SC-01",
+        "chunk_id": "chunk_001"
+      },
+      {
+        "element": "Narrator's physical struggle to pluck the thistle (handkerchief, five-minute battle, fraying stalk)",
+        "reason": "Can be compressed to a single visual beat — hands reaching, thistle resisting. The extended prose description is non-filmable as written. → SC-01, SC-06",
+        "chunk_id": "chunk_001"
+      },
+      {
+        "element": "Narrator's philosophical reflection on man as destructive creature (ploughed field meditation)",
+        "reason": "Pure authorial digression; no character action, no dramatic weight, no protagonist involvement. Non-filmable as written. → SS-04, SC-01 (fails all three tests: no protagonist-drive, minimal thematic load beyond metaphor already carried by the thistle image itself, information fully replaceable by visual)",
+        "chunk_id": "chunk_002"
+      },
+      {
+        "element": "Narrator's authorial frame ('I had partly seen myself, partly heard of from eye-witnesses, and in part imagined')",
+        "reason": "Pure NF/SS-04 auktorial digression; no dramatic action, no character agency. Equivalent of Tolstoy stepping in front of the story. CUT per NF-04 and SS-04 — the film opens on Hadji Murad's action, not the narrator's epistemological caveat.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "element": "Old Host (unnamed) as separate character",
+        "reason": "Pure threshold-greeter; zero scenes beyond this arrival moment; his hospitality function absorbed by Sado → CF-01, SS-03",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "element": "Host's Wife (unnamed) as separate character",
+        "reason": "Single-beat hospitality gesture; interchangeable with Sado's Wife already in cast; non-load-bearing → CF-01, SS-03",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "element": "Detailed description of old man's dressing ritual (slippers, sheepskin, ladder descent)",
+        "reason": "Atmospheric Tolstoian prose detail; filmable as montage background but expendable in compression without losing plot beat → SC-01, SS-04",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "element": "Mitchit aoul hay-burning (off-screen reference)",
+        "reason": "Non-load-bearing contextual detail; Russian scorched-earth already established by broader raid context — SS-03, SC-01",
+        "chunk_id": "chunk_005"
+      }
+    ],
+    "refocalize": [
+      {
+        "scene": "Entire prologue frame (thistle discovery and reflection)",
+        "current_pov": "Authorial I (Tolstoy's own first-person narrator, outside the story)",
+        "recommended_pov": "TRANSLATE_TO_VISUAL — open on extreme close-up of the crimson thistle standing upright in a ditch; cut to a hand (anonymous, gloved — Russian) reaching for it; struggle, fraying, discard. No voice-over. The image speaks the theme. Optionally: brief title card with the thematic line ('With what determination it defended itself...') as the only textual intrusion, then dissolve into the Caucasus story. Alternatively, dissolve the frame entirely and embed the thistle as a recurring visual motif (HM's cloak, the Chechen embroidery) per NF-04.",
+        "chunk_id": "chunk_001"
+      },
+      {
+        "scene": "Thistle discovery and reflection on the black-earth field",
+        "current_pov": "Authorial Narrator (first-person observer outside the story world)",
+        "recommended_pov": "VISUAL — camera as silent observer; open on extreme close-up of the broken thistle on black earth, no narrator present. Cut to title or direct match-cut into Caucasian episode. Per NF-04: dissolve narrator voice; per SC-06: translate inner experience into image.",
+        "chunk_id": "chunk_002"
+      },
+      {
+        "scene": "Narrator's philosophical reflection on the thistle and the Caucasian episode ('What vitality! … I remembered …')",
+        "current_pov": "Authorial I — omniscient, retrospective, explicit moral commentary",
+        "recommended_pov": "TRANSLATE_TO_VISUAL: open on a close-up of the thistle crushed by the wheel, still upright — cut directly to Hadji Murad riding alone into Makhmet. The thistle image speaks without the narrator. CF-08 + NF-04.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "scene": "Exposition of Hadji Murad's former status as banner-bearing naib with dozens of murids",
+        "current_pov": "Omniscient narrator telling the audience what HM used to be",
+        "recommended_pov": "REFOCAL via visual contrast: a brief flash (memory or montage) of HM with his full retinue, then hard-cut to the present lone rider. Alternatively, a reaction shot from a villager who recognises him but says nothing — the gap between former glory and present secrecy told through other eyes. NF-09, CF-08.",
+        "chunk_id": "chunk_003"
+      },
+      {
+        "scene": "Arrival at saklya — old man on roof waking",
+        "current_pov": "Omniscient authorial narrator (Tolstoy observes the old man's physical details from outside)",
+        "recommended_pov": "Hadji Murad's POV — we see only what he sees arriving: the sleeping figure, the ritual greeting, the domestic interior. Cuts authorial description, retains visual beat → CF-08, NF-04",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "scene": "Boy's sparkling eyes fixed on new arrivals",
+        "current_pov": "Authorial narrator noting the boy's appearance",
+        "recommended_pov": "HM's gaze — he clocks the boy, reads the household; brief shot/reverse shot. The boy's wonder mirrors the audience's. → CF-08",
+        "chunk_id": "chunk_004"
+      },
+      {
+        "scene": "Old man's allegorical intelligence briefing",
+        "current_pov": "Third-person omniscient narrator, with slight old-man interiority ('did not wish to say')",
+        "recommended_pov": "Hadji Murad's POV exclusively — we read his face reading the old man; what he infers is shown through micro-reaction, not narration",
+        "chunk_id": "chunk_005"
+      }
+    ],
+    "locations": {
+      "Russian Summer Fields (Frame)": "Unnamed Russian countryside in midsummer, post-hay-harvest, pre-rye-reaping. A ditch flanked by wildflowers including the crimson 'Tartar' thistle. Abstract pastoral setting; functions as symbolic frame, not a physical story location.",
+      "Black-Earth Field (ploughed)": "A large freshly ploughed field belonging to a landed proprietor; dusty path crosses it; the site where the narrator finds the broken-but-standing thistle.",
+      "Makhmet Aoul": "A hostile Chechen village (aoul) roughly fifteen miles from Russian territory, permeated with kizyak smoke, crowded saklyas built into the hillside, and a fountain at the lower end — the first stop on Hadji Murad's clandestine defection route.",
+      "Chechen Saklya (interior — unnamed aoul)": "A traditional stone Chechen house with a penthouse entrance, inner and outer doors, a chimney with wooden-heeled slippers, weapons hung on nails, and cushions along the front wall. The roof serves as sleeping space. Intimate, domestic, impoverished but hospitable.",
+      "Mitchit Aoul": "Chechen village whose hay stores were burned by Russian forces; referenced by the old man as evidence of ongoing Russian reprisals — not visited on screen"
+    }
+  },
+  "chunk_tension_index": {
+    "chunk_001": {
+      "tension": 0.1,
+      "is_key_scene": false
+    },
+    "chunk_002": {
+      "tension": 0.15,
+      "is_key_scene": false
+    },
+    "chunk_003": {
+      "tension": 0.6,
+      "is_key_scene": false
+    },
+    "chunk_004": {
+      "tension": 0.3,
+      "is_key_scene": false
+    },
+    "chunk_005": {
+      "tension": 0.35,
+      "is_key_scene": false
+    }
+  },
+  "chunk_character_map": {
+    "chunk_001": [
+      "Narrator (Authorial I)"
+    ],
+    "chunk_002": [
+      "Narrator (Authorial I)"
+    ],
+    "chunk_003": [
+      "Narrator (Authorial I)",
+      "Hadji Murad",
+      "Hadji Murad's Murid (unnamed, active)",
+      "Old man on the saklya roof",
+      "Shamil"
+    ],
+    "chunk_004": [
+      "Old Host (unnamed)",
+      "Host's Son (boy of fifteen)",
+      "Host's Wife (unnamed)",
+      "Hadji Murad",
+      "Hadji Murad's Murid (unnamed, active)"
+    ],
+    "chunk_005": [
+      "Eldar",
+      "Hadji Murad",
+      "Hadji Murad's Murid (unnamed, active)",
+      "Old man on the saklya roof"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "locations_new": [
+    {
+      "name": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+      "literary_description": "The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth. The land was well tilled and nowhere was there a blade of grass or any kind of plant to be seen, it was all black.",
+      "cinematic_description": "Wide-angle lens emphasizing the oppressive scale of the field. Camera at ground level, dark soil filling the frame edge to edge. Overcast light, no shadows. The narrator as a small figure ascending the dusty path — dwarfed by black earth stretching to the horizon. Cut to extreme close-up: the thistle plant, broken and mud-soaked, standing erect.",
+      "atmosphere": "Existential desolation masking stubborn vitality. The field as emblem of imperial destruction — everything flattened, one thing refuses to yield. Thematic mirror for Hadji Murad.",
+      "recurring": false,
+      "timeframe": "Frame narrative — present day of narrator, before main story. Daytime, midsummer implied.",
+      "production_notes": [
+        "All-black soil, no green visible anywhere except the thistle",
+        "Thistle: three branches, one broken, two bearing blackened flowers, soiled with mud but erect",
+        "Dusty path cutting through the field — worn, cartwheel tracks visible",
+        "Overcast or harsh midday light — no romantic golden hour",
+        "Props: the thistle itself is a key object — must be practical, not CGI"
+      ]
+    },
+    {
+      "name": "EXT. MAKHMET AOUL - NIGHT",
+      "literary_description": "On a cold November evening Hadji Murad rode into Makhmet, a hostile Chechen aoul that lay some fifteen miles from Russian territory and was filled with the scented smoke of burning Kizyak. The strained chant of the muezzin had just ceased, and though the clear mountain air, impregnated with kizyak smoke, above the lowing of the cattle and the bleating of the sheep that were dispersing among the saklyas (which were crowded together like the cells of honeycomb), could be clearly heard the guttural voices of disputing men, and sounds of women's and children's voices rising from near the fountain below.",
+      "cinematic_description": "Establishing shot from ridge: the aoul as a tight cluster of stone saklyas on a mountainside, smoke rising from every roof in the cold air. Blue-black night sky, mountain peaks behind. Cut to street level: Hadji Murad on horseback moving through narrow lanes, his silhouette lit by the ember-glow from doorways. Sound design is dense — cattle, sheep, voices, silence of the muezzin just ended. The village feels enclosed, watchful, hostile.",
+      "atmosphere": "Tense arrival. The aoul is hostile territory — for Russians and potentially for Hadji Murad both. Cold mountain night, smoke as sensory marker of inhabited danger. Epic scale with intimate unease.",
+      "recurring": true,
+      "timeframe": "Act 1 — late November 1851, cold evening/night.",
+      "production_notes": [
+        "Kizyak smoke: dense, aromatic, low-hanging — practical smoke effect, not digital",
+        "Saklyas packed tight 'like cells of honeycomb' — cramped stone architecture, narrow lanes",
+        "Livestock dispersing through streets — practical animals needed",
+        "Fountain below village — sound cue, not yet visible",
+        "Cold breath visible on actors and horses",
+        "Hadji Murad arrives on horseback with retinue — banner not yet described in this chunk",
+        "Color palette: ochre stone, black shadow, orange ember-glow from interiors",
+        "Reference: Come and See for oppressive village atmosphere; Lawrence of Arabia for mountain arrival scale"
+      ]
+    }
+  ],
+  "locations_updated": [
+    {
+      "name": "Makhmet Aoul",
+      "update": "First cinematic description established in Chunk 002. Confirmed as hostile Chechen village ~15 miles from Russian territory. November night setting. Kizyak smoke, livestock, saklyas packed like honeycomb. Muezzin chant just ended. Fountain below village. Hadji Murad arrives on horseback."
+    }
+  ],
+  "timeline_events": [
+    {
+      "event": "Narrator walks through a black-earth ploughed field, notices a thistle plant that has survived being crushed by a cartwheel — this triggers his memory of the Hadji Murad episode.",
+      "time": "Present day of narrator (frame narrative). Daytime, midsummer implied.",
+      "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+      "characters": ["Narrator"],
+      "chunk_id": "002"
+    },
+    {
+      "event": "Hadji Murad rides into Makhmet, a hostile Chechen aoul 15 miles from Russian territory. The muezzin's evening chant has just ended. The village is filled with kizyak smoke, livestock sounds, and disputing voices.",
+      "time": "Cold November evening, end of 1851.",
+      "location": "EXT. MAKHMET AOUL - NIGHT",
+      "characters": ["Hadji Murad"],
+      "chunk_id": "002"
+    }
+  ]
+}

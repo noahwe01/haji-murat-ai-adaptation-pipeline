@@ -1,0 +1,84 @@
+You are the World Agent. You translate literary space and
+time descriptions into concrete, cinematically usable data.
+
+Chunk text:
+I ascended the dusty path.  The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth.  The land was well tilled and nowhere was there a blade of grass or any kind of plant to be seen, it was all black.  "Ah, what a destructive creature is man....How many different plant-lives he destroys to support his own existence!" thought I, involuntarily looking around for some living thing in this lifeless black field.  In front of me to the right of the road I saw some kind of little clump, and drawing nearer I found it was the same kind of thistle as that which I had vainly plucked and thrown away.  This "Tartar" plant had three branches.  One was broken and stuck out like the stump of a mutilated arm.  Each of the other two bore a flower, once red but now blackened. One stalk was broken, and half of it hung down with a soiled flower at its tip.  The other, though also soiled with black mud, still stood erect.  Evidently a cartwheel had passed over the plant but it had risen again, and that was why, though erect, it stood twisted to one side, as if a piece of its body had been torn from it, its bowels drawn out, an arm torn off, and one of its eyes plucked out.  Yet it stood firm and did not surrender to man who had destroyed all its brothers around it....
+
+"What vitality!" I thought.  "Man has conquered everything and destroyed millions of plants, yet this one won't submit."  And I remembered a Caucasian episode of years ago, which I had partly seen myself, partly heard of from eye-witnesses, and in part imagined.
+
+The episode, as it has taken shape in my memory and imagination, was as follows.
+
+ 
+
+
+
+ 
+
+It happened towards the end of 1851.
+
+On a cold November evening Hadji Murad rode into Makhmet, a hostile Chechen aoul that lay some fifteen miles from Russian territory and was filled with the scented smoke of burning Kizyak.  The strained chant of the muezzin had just ceased, and though the clear mountain air, impregnated with kizyak smoke, above the lowing of the cattle and the bleating of the sheep that were dispersing among the saklyas (which were crowded together like the cells of honeycomb), could be clearly heard the guttural voices of disputing men, and sounds of women's and children's voices rising from near the fountain below.
+
+This Hadji Murad was Shamil's naib, famous for his exploits, who used never to ride out without his banne
+
+Existing location data:
+Midsummer Meadow (Narrator's Field), Black-Earth Ploughed Field, Makhmet Aoul, Sado's Saklya, Argun River Glade, Mitchit Aoul, Ploughed Field (Narrator's Walk), Chechen aoul side street / safe saklya, Interior of the Old Man's Saklya, Sado's Saklya (Chechen Aoul), Chechen Aoul Night Streets, Forest Camp (Murids' Glade), Vozdvizhensk Fort, Ambush Post (Plane Tree), Vorontsov Drawing Room, Shalin Glade (Wood-Felling Site), Road to Fort (Surrender Route)
+
+Style manifest:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "English",
+  "special_notes": "Novel-to-feature compression: 46.290 words → 120 min. Original features a frame narrative (the thistle) — keep or cut is an explicit directorial choice, not default. Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM as central protagonist; other POVs become relationships to him. 30+ named figures — fusion-candidates will be identified by Story Analyst + Graphify preprocessor. Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.",
+  "title": "Hadji Murat",
+  "expansion_mode": "novel_to_feature",
+  "scene_budget": 60,
+  "pacing_expected_variance": 1.8
+}
+
+Extract for each identified location:
+
+1. LOCATION NAME: Unique identifier (e.g. "INT. CHILDHOOD APARTMENT - DAY")
+2. LITERARY DESCRIPTION: Exact text passages as basis
+3. CINEMATIC TRANSLATION: How does it look on film? (Camera, light, space)
+4. ATMOSPHERE: Emotional quality
+5. RECURRING: Yes/No
+6. TIMEFRAME: Act, time of day/season
+7. PRODUCTION DESIGN NOTES: Props, colors, textures for characterization
+
+Also extract timeline events:
+- What happens WHEN at WHICH location with WHICH characters?
+
+Respond as JSON:
+{
+  "locations_new": [
+    {
+      "name": "INT./EXT. LOCATION - TIME",
+      "literary_description": "...",
+      "cinematic_description": "...",
+      "atmosphere": "...",
+      "recurring": true/false,
+      "timeframe": "...",
+      "production_notes": ["..."]
+    }
+  ],
+  "locations_updated": [
+    {"name": "...", "update": "..."}
+  ],
+  "timeline_events": [
+    {
+      "event": "...",
+      "time": "...",
+      "location": "...",
+      "characters": ["..."],
+      "chunk_id": "..."
+    }
+  ]
+}

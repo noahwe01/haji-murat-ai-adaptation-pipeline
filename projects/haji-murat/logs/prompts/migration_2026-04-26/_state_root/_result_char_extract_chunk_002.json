@@ -1,0 +1,78 @@
+{
+  "characters_found": [
+    {
+      "name": "author-narrator",
+      "direct_quotes": [
+        "Ah, what a destructive creature is man....How many different plant-lives he destroys to support his own existence!",
+        "What vitality! Man has conquered everything and destroyed millions of plants, yet this one won't submit."
+      ],
+      "speech_descriptors": [
+        "internal monologue, reflective tone",
+        "exclamatory inner voice"
+      ],
+      "actions": [
+        "ascends a dusty path through a ploughed field",
+        "looks around the lifeless black field for living things",
+        "notices a thistle (Tartar plant) with three branches, one broken",
+        "reflects on the thistle's resilience",
+        "recalls a Caucasian episode from years ago"
+      ],
+      "inner_states": [
+        "involuntary revulsion at human destructiveness toward nature",
+        "admiration for the thistle's defiant vitality",
+        "associative memory triggered: thistle → Hadji Murad"
+      ],
+      "social_markers": [
+        "educated, literary sensibility",
+        "philosophical bent, prone to nature allegory",
+        "has personal connection to the Caucasus — partly witnessed, partly heard from eye-witnesses"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "nature / thistle",
+          "quality": "empathetic, identifies the plant as moral emblem of resistance"
+        },
+        {
+          "with": "hadji_murad",
+          "quality": "narrative bridge — the narrator's memory of HM is triggered by the thistle; HM is the human embodiment of the thistle's defiance"
+        }
+      ],
+      "new_info": [
+        "The narrator explicitly frames the entire story as a memory/imagination composite ('partly seen myself, partly heard from eye-witnesses, and in part imagined')",
+        "The thistle-as-Hadji-Murad metaphor is established here as the structural key image of the novella",
+        "The narrator has direct Caucasian experience — personal witness, not merely literary source"
+      ]
+    },
+    {
+      "name": "hadji_murad",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "rides into Makhmet, a hostile Chechen aoul, on a cold November evening in 1851"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Shamil's naib (military-political commander under Shamil)",
+        "famous for his exploits",
+        "never rides out without his banner (naib's insignia of rank)",
+        "operates in the Chechen highlands, approximately 15 miles from Russian territory",
+        "historical figure, late 1851 setting"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "shamil",
+          "quality": "subordinate — naib under Shamil's command; relationship not yet elaborated in this chunk"
+        }
+      ],
+      "new_info": [
+        "First direct introduction of Hadji Murad as a character (previously only referenced by name in chunk 1)",
+        "He is Shamil's naib — a high-ranking military-religious commander",
+        "He rides into a Chechen village (Makhmet) — described as 'hostile', suggesting complex political allegiances even within Chechen society",
+        "The setting is explicitly dated: end of 1851, cold November evening",
+        "He is described as 'famous for his exploits' — legendary status established immediately",
+        "He carries a banner as mark of his naib rank",
+        "The atmosphere of his arrival is richly sensory: kizyak smoke, muezzin chant, lowing cattle, guttural voices — establishing the world he inhabits"
+      ]
+    }
+  ]
+}

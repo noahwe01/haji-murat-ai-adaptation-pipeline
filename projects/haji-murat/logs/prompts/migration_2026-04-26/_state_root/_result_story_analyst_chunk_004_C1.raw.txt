@@ -1,0 +1,106 @@
+{
+  "new_characters": [
+    {
+      "name": "Hadji Murad",
+      "initial_description": "Chechen/Avar warrior-leader arriving secretly at a Tatar village; wears Circassian coat, burka, rifle, sword, hidden pistol; composed, ritual-observant, wary, speaks in measured questions. Historical anchor, protagonist.",
+      "role": "protagonist"
+    },
+    {
+      "name": "Sado's Father",
+      "initial_description": "Elderly man of Sado's household, lives at the apiary, came 'today to see his son'; lifeless red eyes, hoarse, speaks in veiled animal-parable about hares and eagles; bitter toward Russians ('May their faces be torn!'). Host-ritual keeper.",
+      "role": "supporting"
+    },
+    {
+      "name": "Sado's Wife",
+      "initial_description": "Slight, spare, middle-aged woman in yellow smock, red beshmet, blue trousers; performs traditional welcome, arranges cushions, bows nearly double; ceremonial, silent presence of household.",
+      "role": "supporting"
+    },
+    {
+      "name": "Eldar",
+      "initial_description": "Hadji Murad's murid; strong legs, soft stride, disciplined — mirrors his leader's disarming ritual; keeps dagger and pistol; loyal subordinate, visual double of HM's code.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Old man orders a boy to fetch Sado from the mosque — signals that Hadji Murad's arrival is clandestine and must be handled privately.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad is received into Sado's saklya under full guest-ritual: disarming, cushion-seating, mirrored prayer with open palms, beard-stroke closure.",
+      "act": 1,
+      "subplot_id": "sado_kunak_loyalty"
+    },
+    {
+      "description": "Ritual exchange 'Ne habar?' / 'Habar yok' — Hadji Murad probes for news; the old man signals through evasion that his son knows more and will speak.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Old man's parable: hares scheme against eagles while eagles pick them off; Russians have burned hay at Mitchit aoul. First explicit naming of Russian predation inside this chunk.",
+      "act": 1,
+      "subplot_id": "january_1852_raid"
+    },
+    {
+      "description": "Eldar enters, repeats the exact disarming ritual, and is accepted by the old man onto the felt beside Hadji Murad — the murid bond is inscribed visually.",
+      "act": 1,
+      "subplot_id": "hm_murids_introduced"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Sado's Saklya (interior)",
+      "description": "Clean clay-plastered, whitewashed walls; two large basins gleaming; weapons hung on nails between them; cushions along front wall; earthen floor; inner door leading deeper into household. Intimate, ordered, sacral — the moral core of the sequence."
+    }
+  ],
+  "tension": 0.55,
+  "act_estimation": 1,
+  "filmability_score": 0.85,
+  "theme_hints": [
+    "Hospitality as sacred contract under threat of war",
+    "Russian imperial violence against the mountain villages",
+    "Loyalty between kunaks across political danger",
+    "Ritual and code as survival"
+  ],
+  "symbols": [
+    "Paired weapons on the wall (HM's beside the master's) — kunak-bond visualized",
+    "Hares vs. eagles — the asymmetric war parable",
+    "Shared prayer gesture, palms upward then downward over beard — Islamic fraternity seal",
+    "Burnt hay of Mitchit aoul — Russian scorched-earth as offstage threat"
+  ],
+  "notes": "Chunk sits inside ch=1 arrival at Sado's Aoul (graph weight 10, ch=[1,4,16,17]) — the 'moral core of the sequence.' Chunk is almost entirely visual-behavioral, filmability very high: arrival, disarming, prayer mirror, the hare-eagle parable, the second disarming mirror when Eldar enters. Text is truncated mid-sentence on Eldar's description (ends on 'fixing his fine r'); I treat the ritual beat as closed. Sado himself is off-screen in this chunk (sent for from the mosque) — his entrance belongs to the next chunk and must be preserved. Old man, wife, and the unnamed boy-messenger are low-weight functionaries; in compression they become atmospheric dressing around the mirrored disarming ritual. Key visual setpiece to preserve verbatim: the paired hanging of weapons and the synchronous prayer — this is HM's voice-profile-in-action (M-05).",
+  "fusion_candidates": [
+    {
+      "chars": ["Sado's Wife", "Sado's Father"],
+      "reason": "Both are unnamed household functionaries whose only dramatic role is performing the guest-ritual; the father's parable line can migrate to Sado himself in the next chunk, the wife's cushion-arrangement can be absorbed as silent stage business — in a 120-min feature neither needs a line. Proposed merge into a single 'Sado's household' ensemble beat. CF-10 proposes; user-gate required."
+    }
+  ],
+  "cuttable": [
+    {
+      "element": "Unnamed boy dispatched to the mosque to fetch Sado",
+      "reason": "One-line functional messenger; his errand can be visualized as an offscreen cut (mosque door, running feet) or absorbed into the old man's gesture. No dramatic weight."
+    },
+    {
+      "element": "Sado's Wife's welcome and cushion-arrangement line ('May thy coming bring happiness!')",
+      "reason": "Atmosphere-only beat; not load-bearing for HM's trajectory; can be rendered as silent ceremonial action behind dialogue."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Old man's parable about hares, eagles, and the burnt hay of Mitchit aoul",
+      "current_pov": "Old man speaking in veiled metaphor to Hadji Murad",
+      "recommended_pov": "Kept on Hadji Murad — his listening face carries the political diagnosis; the parable stays as dialogue but the camera reads the war through his reaction, not through the old man's authority."
+    }
+  ]
+}
+
+DECISIONS:
+- KEEP Sado's Saklya interior ritual: moral core of sequence, filmability 0.85, preserve verbatim → SC-03, M-02
+- KEEP Hadji Murad prayer + disarming beat: sole on-screen instance of HM voice-signature so far → M-05
+- FUSE Sado's Father + Sado's Wife → single household ensemble: both unnamed, <1 function each, no historical weight → CF-01, CF-09
+- CUT unnamed mosque-messenger boy: one-line functional errand, no dramatic weight, absorbable into cut → SC-01, SC-02
+- COMPRESS hare-eagle parable to a single tight exchange anchored on HM's listening face → SC-04, NF-04
+- REFOCAL parable delivery onto Hadji Murad's reaction-shot rather than old-man authority → CF-08, NF-09
+- KEEP Eldar's mirrored disarming ritual: establishes murid-bond visually, must-keep thread hm_murids_introduced → SS-06
+- DEVIATION Sado's Father not flagged as pure CUT despite weight=1.0: his parable line is the chunk's only piece of political exposition and carries M-02 thematic load (Russian predation); demoted to fusion rather than cut until Sado himself enters next chunk → M-04

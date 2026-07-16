@@ -1,0 +1,70 @@
+You are the World Agent. You translate literary space and
+time descriptions into concrete, cinematically usable data.
+
+Chunk text:
+I was returning home by the fields.  It was midsummer, the hay harvest was over and they were just beginning to reap the rye.  At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains with blossoms slightly tinged with pink; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening or when growing old; and delicate almond-scented dodder flowers that withered quickly.  I gathered myself a large nosegay and was going home when I noticed in a ditch, in full bloom, a beautiful thistle plant of the crimson variety, which in our neighborhood they call "Tartar" and carefully avoid when mowing -- or, if they do happen to cut it down, throw out from among the grass for fear of pricking their hands.  Thinking to pick this thistle and put it in the center of my nosegay, I climbed down into the ditch, and after driving away a velvety bumble-bee that had penetrated deep into one of the flowers and had there fallen sweetly asleep, I set to work to pluck the flower. But this proved a very difficult task.  Not only did the stalk prick on every side -- even through the handkerchief I wrapped round my hand -- but it was so tough that I had to struggle with it for nearly five minutes, breaking the fibers one by one; and when I had at last plucked it, the stalk was all frayed and the flower itself no longer seemed so fresh and beautiful.  Moreover, owing to a coarseness and stiffness, it did not seem in place among the delicate blossoms of my nosegay.  I threw it away feeling sorry to have vainly destroyed a flower that looked beautiful in its proper place.
+
+"But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!" thought I, remembering the effort it had cost me to pluck the flower.  The way home led across black-earth fields that had just been ploughed up.  I ascended the dusty path.  The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth.  The land was well tilled and nowhere was there a blade of grass or any kind of
+
+Existing location data:
+Midsummer Meadow (Narrator's Field), Black-Earth Ploughed Field, Makhmet Aoul, Sado's Saklya, Argun River Glade, Mitchit Aoul, Ploughed Field (Narrator's Walk), Chechen aoul side street / safe saklya, Interior of the Old Man's Saklya, Sado's Saklya (Chechen Aoul), Chechen Aoul Night Streets, Forest Camp (Murids' Glade), Vozdvizhensk Fort, Ambush Post (Plane Tree), Vorontsov Drawing Room, Shalin Glade (Wood-Felling Site), Road to Fort (Surrender Route)
+
+Style manifest:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "English",
+  "special_notes": "Novel-to-feature compression: 46.290 words → 120 min. Original features a frame narrative (the thistle) — keep or cut is an explicit directorial choice, not default. Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM as central protagonist; other POVs become relationships to him. 30+ named figures — fusion-candidates will be identified by Story Analyst + Graphify preprocessor. Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.",
+  "title": "Hadji Murat",
+  "expansion_mode": "novel_to_feature",
+  "scene_budget": 60,
+  "pacing_expected_variance": 1.8
+}
+
+Extract for each identified location:
+
+1. LOCATION NAME: Unique identifier (e.g. "INT. CHILDHOOD APARTMENT - DAY")
+2. LITERARY DESCRIPTION: Exact text passages as basis
+3. CINEMATIC TRANSLATION: How does it look on film? (Camera, light, space)
+4. ATMOSPHERE: Emotional quality
+5. RECURRING: Yes/No
+6. TIMEFRAME: Act, time of day/season
+7. PRODUCTION DESIGN NOTES: Props, colors, textures for characterization
+
+Also extract timeline events:
+- What happens WHEN at WHICH location with WHICH characters?
+
+Respond as JSON:
+{
+  "locations_new": [
+    {
+      "name": "INT./EXT. LOCATION - TIME",
+      "literary_description": "...",
+      "cinematic_description": "...",
+      "atmosphere": "...",
+      "recurring": true/false,
+      "timeframe": "...",
+      "production_notes": ["..."]
+    }
+  ],
+  "locations_updated": [
+    {"name": "...", "update": "..."}
+  ],
+  "timeline_events": [
+    {
+      "event": "...",
+      "time": "...",
+      "location": "...",
+      "characters": ["..."],
+      "chunk_id": "..."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Phase 9.5 quality-gate agent output caps",
+  "description": "Caps for subtext_audit, table_read, pacing_analysis, dialog_thread_check, transition_map, narrative_coherence. Hard-cut applied post-LLM in each agent's run_* ingester.",
+  "type": "object",
+  "properties": {
+    "subtext_audit": {
+      "type": "object",
+      "properties": {
+        "scenes":          {"type": "array", "maxItems": 80},
+        "worst_offenders": {"type": "array", "maxItems": 30},
+        "best_moments":    {"type": "array", "maxItems": 20}
+      }
+    },
+    "table_read": {
+      "type": "object",
+      "properties": {
+        "scenes": {"type": "array", "maxItems": 80}
+      }
+    },
+    "pacing_analysis": {
+      "type": "object",
+      "properties": {
+        "cut_suggestions":       {"type": "array", "maxItems": 30},
+        "dialog_density_issues": {"type": "array", "maxItems": 30}
+      }
+    },
+    "dialog_thread_check": {
+      "type": "object",
+      "properties": {
+        "threads":             {"type": "array", "maxItems": 30},
+        "unresolved_promises": {"type": "array", "maxItems": 30}
+      }
+    },
+    "transition_map": {
+      "type": "object",
+      "properties": {
+        "transitions":           {"type": "array", "maxItems": 80},
+        "act_break_transitions": {"type": "array", "maxItems": 20},
+        "motif_connections":     {"type": "array", "maxItems": 30}
+      }
+    },
+    "narrative_coherence": {
+      "type": "object",
+      "properties": {
+        "dangling_threads":     {"type": "array", "maxItems": 25},
+        "missed_opportunities": {"type": "array", "maxItems": 25}
+      }
+    }
+  }
+}

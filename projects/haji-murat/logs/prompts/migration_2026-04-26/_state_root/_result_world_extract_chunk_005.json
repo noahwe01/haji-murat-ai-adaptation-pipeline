@@ -1,0 +1,39 @@
+{
+  "locations_new": [],
+  "locations_updated": [
+    {
+      "name": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+      "update": "Scene continues: Hadji Murad, Eldar, and old man are joined by Sado (master of the house, ~40 years old, small beard, long nose, black eyes) and his 15-year-old son who fetched him. Sado informs HM of Shamil's order to seize him alive or dead, envoys left the day before. People are afraid. Sado vows HM's safety inside his house but warns of the open fields. HM requests a letter-carrier to the Russians; Sado sends for his brother Bata. Bata is described: sinewy, short-legged, sun-darkened Chechen, worn yellow Circassian coat with frayed sleeves, crumpled black leggings. Spatial details confirmed: penthouse steps audible from inside, door creaks, felt floor covering, wooden slippers removed at door."
+    }
+  ],
+  "timeline_events": [
+    {
+      "event": "Old man introduces Eldar to Sado's household; tells story of two Russian soldiers captured the week before — one killed, one sent to Shamil in Veden.",
+      "time": "Night (same evening as HM's arrival at Chechen aoul); reference event 'week before'",
+      "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+      "characters": ["Old Man", "Hadji Murad", "Eldar"],
+      "chunk_id": "005"
+    },
+    {
+      "event": "Sado (master of house) enters with his son. Informs Hadji Murad that Shamil has ordered him seized alive or dead; envoys departed the day before. Warns that people fear disobeying Shamil but pledges HM's safety under his roof.",
+      "time": "Night — present action",
+      "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+      "characters": ["Sado", "Sado's son", "Hadji Murad", "Old Man", "Eldar"],
+      "chunk_id": "005"
+    },
+    {
+      "event": "Hadji Murad requests a guide to escort Eldar with a letter to the Russians. Sado nominates his brother Bata; son is sent to fetch him and returns ~10 minutes later with Bata.",
+      "time": "Night — present action, ~10 minutes after Sado's account",
+      "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+      "characters": ["Hadji Murad", "Sado", "Sado's son", "Eldar", "Bata"],
+      "chunk_id": "005"
+    },
+    {
+      "event": "Hadji Murad asks Bata directly whether he can conduct Eldar to the Russians. Bata agrees. (Text truncated at 'I can c...')",
+      "time": "Night — present action",
+      "location": "INT. SADO'S SAKLYA (CHECHEN AOUL) - NIGHT",
+      "characters": ["Hadji Murad", "Bata", "Eldar"],
+      "chunk_id": "005"
+    }
+  ]
+}

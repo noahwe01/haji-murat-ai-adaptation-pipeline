@@ -1,0 +1,65 @@
+You are a casting director working from the source novel.
+For the character Eldar, produce a structured physical + vocal
+archetype that a real casting director could act on.
+
+HARD CONSTRAINTS:
+- Describe a TYPE, not a specific modern actor. Do NOT name any living or
+  historical actor or public figure.
+- This is a FICTIONAL character. Build the archetype from voice_profile, physical_signature, and narrative function. Set historical_reference to null.
+- Draw on the voice profile, want/need, physical_signature, and role from
+  the character bible below. Do NOT invent traits that contradict the bible.
+- Keep every field to 1-2 sentences. Dense, specific, castable.
+
+CHARACTER BIBLE ENTRY:
+{
+  "role": "Supporting",
+  "age": "young (implied from junior murid status)",
+  "origin": "Caucasus, Muslim warrior culture",
+  "social_status": "Murid (disciple/bodyguard) of Hadji Murad; junior rank within the warrior band",
+  "want": "To serve Hadji Murad faithfully and never be separated from him, mirroring his every move as the ideal murid.",
+  "need": "To discover his own judgment as a man — to know who he is when his leader is no longer there to mirror.",
+  "fear": "Failing his leader; being left alone without a master to follow; acting wrongly on his own initiative.",
+  "contradiction": "His physical strength could make him a formidable independent warrior, yet he chooses the posture of a subordinate — softness of tread, lowered seat, silent obedience.",
+  "physical_signature": "",
+  "voice_profile": {
+    "voice_description": "Eldar speaks rarely and only when addressed, with the brevity of a warrior who has been trained to listen. His voice is low, steady, physically grounded — the voice of a body, not an argument. When he does speak, it is in short declarations of fact or loyalty, never in reflection.",
+    "vocabulary_level": "informal, uneducated, warrior-idiom; concrete nouns (weapons, horses, roads, names); no abstract or political vocabulary",
+    "sentence_structure": "very short; 3–7 words average; statements and single-word answers dominate; questions only for tactical clarification",
+    "verbal_tics": [
+      "'Yes, agha.'",
+      "opens replies with the name or title of the person addressed",
+      "names weapons or directions rather than feelings"
+    ],
+    "avoidances": [
+      "never contradicts Hadji Murad aloud",
+      "never speaks of his own desires",
+      "never jokes in the presence of elders",
+      "never uses Russian loanwords"
+    ],
+    "emotional_expression": "Emotion surfaces in the body — a tightened grip on the dagger, a step placed closer to his leader — not in words. When grief or anger must be spoken, it comes as a single flat sentence.",
+    "speech_rhythm": "measured, slow, with long silences between lines",
+    "dialog_examples": {
+      "neutral": "The horses are watered.",
+      "under_pressure": "They are close. Two ridges behind us.",
+      "hopeful": "We will reach him by morning, agha.",
+      "angry_hurt": "He was my leader. You do not say his name like that.",
+      "vulnerable": "I do not know the road without him."
+    },
+    "subtext_rules": "When Eldar says 'Yes' he often means 'I do not agree but I will obey.' When he reports a practical fact (weather, distance, weapons), he is signalling concern for Hadji Murad's safety. When he falls silent mid-conversation, it means he has seen something the others have missed."
+  }
+}
+
+GRAPH METADATA:
+- Role: Supporting
+- Historical: False
+- Dramatic weight: 12.65
+
+OUTPUT — valid JSON only, no markdown fences, no prose before or after:
+{
+  "character_name": "Eldar",
+  "physical_anchor": "1-2 sentences: body type, defining feature, posture, habitual gesture.",
+  "vocal_quality": "1 sentence: tone color, tempo, register.",
+  "age_range": "e.g. 'early 40s', 'mid 50s', 'elder (60+)'",
+  "social_presence": "1 sentence: how this character occupies a room — authority, menace, invisibility, warmth.",
+  "historical_reference": null
+}

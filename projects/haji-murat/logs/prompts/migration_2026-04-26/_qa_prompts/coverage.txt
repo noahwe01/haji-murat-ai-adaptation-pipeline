@@ -1,0 +1,453 @@
+You are a professional script reader at a major production company (ICM/CAA level).
+Write a coverage report — a structured evaluation of this treatment/screenplay.
+
+Be honest, constructive, and specific. Reference exact scene IDs when citing issues.
+Compare to known successful films where relevant.
+Your tone should be direct and professional — like giving honest notes to a colleague.
+
+PROJECT INFO:
+Title: Hadji Murat
+Based on: Hadji Murat (literary adaptation)
+Genre: historical war tragedy / anti-imperial fable
+Tone: tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance
+Target runtime: 90 minutes
+Scene count: 6
+
+STYLE MANIFEST:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "en"
+}
+
+CHARACTER OVERVIEW:
+- Narrator (Authorial I) (supporting): Want=To tell — to frame and preserve the Caucasian episode of Hadji Murad as a witnessed-and-imagined memory, using the mutilated Tartar thistle as the governing emblem of unsubmitting life., Need=To reconcile his admiration for singular vitality with his grief over human destructiveness — to find moral meaning in the act of bearing witness to destruction he cannot undo.
+- Hadji Murad (Protagonist): Want=To secure protection and military support from the Russians so he can return to the mountains, destroy Shamil, and liberate his family (wife, mother, son Yusuf) from Shamil's captivity in Vedeno., Need=To accept that no power — neither Shamil nor the Tsar — will grant him both honor and his family intact, and to reclaim his own moral center as an Avar man of faith rather than as a tool of rival empires; in short, to stop trading one master for another and stand, even alone, as himself.
+- Old man on the saklya roof (supporting): Want=To keep his household and this night's secret meeting undisturbed — to receive Hadji Murad quietly, hear what must be heard, and pass the night without drawing the attention of the Russians or of neighbors who might talk., Need=To preserve a last shred of dignity and usefulness in a world where his people are ground between Shamil's imamate and the Russian empire — to matter, even as a silent witness on a roof, without having to pick a side that will cost him everything.
+- Shamil (Antagonist): Want=To crush Russian imperial advance in the Caucasus, preserve the Imamate as an independent theocratic state under Sharia, and bring Hadji Murat back under his authority — dead or alive — before the defection poisons the loyalty of every other naib., Need=To recognize that he has become the mirror of the Tsar he fights — ruling by fear, hostages, and the execution of his own sons-in-faith — and that the holy war has eaten the holiness. He will not recognize this.
+- Sado (Supporting): Want=To shelter Hadji Murat under the sacred law of kunak hospitality and protect him at any personal cost., Need=To preserve his own dignity and the honor of his village in a world where empires and imams alike reduce men to pawns.
+- Sado's Son (supporting): Want=To be noticed and trusted by Hadji Murad — to stand close to the legendary warrior and be seen as almost-a-man, not a child sent to fetch his father., Need=To learn that hospitality and loyalty are heavier than glory — that the men he worships will cost his family everything, and that manhood means witnessing, not wielding.
+- Sado's Wife (supporting): Want=To honor the guest who has entered her husband's house correctly, so that her family's name and Sado's standing in the aul remain unbroken., Need=To be seen as a person and not only as a pair of hands that arrange cushions — to have her silent labor recognized as the thing that actually holds the code of hospitality together.
+- Hadji Murad's Murid (unnamed, active) (supporting): Want=To protect Hadji Murad's body and dignity through every hour of this flight and deliver him safely to whatever shelter or alliance will save him., Need=To accept that absolute devotion to a master cannot substitute for a self — and that a murid whose leader falls must still carry the meaning of that bond forward alone.
+- Sado's Father (Old Man) (Minor): Want=To fulfill the sacred duty of hospitality toward Hadji Murad without betraying what he privately knows and fears about the war his son has entangled the household in., Need=To be heard — to pass on, before his body fails, the bitter wisdom that resistance against the Russian eagles is doomed no matter how many hares confer.
+- Eldar (Supporting): Want=To serve Hadji Murad faithfully and never be separated from him, mirroring his every move as the ideal murid., Need=To discover his own judgment as a man — to know who he is when his leader is no longer there to mirror.
+
+LOGLINE:
+
+
+FULL TREATMENT/SCREENPLAY:
+HADJI MURAT
+
+SCREENPLAY
+
+Based on the literary work by Lev Tolstoi
+Adapted by AI Adaptation Pipeline
+────────────────────────────────────────
+
+EXT. SUMMER FIELD — EDGE OF HARVESTED RYE — LATE AFTERNOON
+
+A field cut to the horizon. Rye stubble on the right, uncut grass and wildflowers on the left — clover, ox-eye daisies, cornflowers, pale scabious. A man's boots move through the long grass. He carries a loose nosegay.
+
+He stops.
+
+Below, in the ditch: a single crimson thistle, growing upright from the shadow and broken weeds, its flower violent, complete, anomalous.
+
+He looks at it a long moment.
+
+He wraps his handkerchief around his palm. Climbs into the ditch.
+
+He grips the stalk.
+
+It does not yield.
+
+He pulls again — the stalk bends, white fibers stretching, but does not break. He works at it. Methodically. Breaking the fibers one by one until the stalk comes free in his hand, frayed and ugly.
+
+The flower tilts. Already dimming.
+
+He holds the thistle beside the nosegay. It does not belong — the crimson wrong against the soft-colored clover, the broken stalk wrong against everything.
+
+He lets it drop back into the ditch.
+
+He stands above it for a moment, looking down at what he has done. Then he turns and walks away, into the amber rye light.
+
+The ditch and the thistle, diminished, remain.
+
+CUT TO BLACK.
+
+TITLE CARD: HADJI MURAT. 1851.
+
+---
+
+EXT. BLACK-EARTH FIELD — DIRT ROAD — LATE AFTERNOON
+
+A vast ploughed field. Black earth, uniformly furrowed, unbroken to every horizon. Not a blade of grass. Not a weed. The furrows are precise, total, absolute.
+
+A man walks a dirt road through the center of it.
+
+He stops.
+
+At the roadside: a Tartar thistle. Three-branched. One branch is snapped, hanging at the angle of a broken arm, its flower soiled and pressed into the mud. A second bends under its blackened head, nearly gone.
+
+The third stands upright.
+
+Twisted from the base — a cartwheel has crushed through, torquing the stem sideways. But the stem has not broken. The dark-edged flower at its tip is still open.
+
+The man crouches. He touches the erect stem with one finger.
+
+It does not give.
+
+He withdraws his hand. Straightens. He looks across the ruined field — the uniform black earth, the obliterated furrows, the nothing.
+
+He turns and walks on.
+
+The thistle remains. Alone. Surrounded by mud. Its single upright head the only vertical thing in the world.
+
+Wind moves across the field. The thistle sways. Does not fall.
+
+HARD CUT TO:
+
+The orange leap of firelight against mud-brick. Voices carried on night wind. The sound of a Chechen village arriving before the image does.
+
+---
+
+EXT. MAKHMET AOUL — NARROW SIDE STREET — DUSK
+
+A dry thistle stands at the road's edge — stem broken mid-stalk, head intact, burgundy against grey mud brick. The wind moves it.
+
+A horse rounds the corner from the upland track.
+
+HADJI MURAD — broad-shouldered, lithe even on horseback, a man who holds stillness like a weapon — hooded, burka drawn tight, the barrel of a rifle a dark line beneath the wool. He moves without hurry and without ease. His eyes move constantly; his head does not.
+
+One step behind him, close as a shadow: his MURID, a young warrior whose face is unreadable and whose body is entirely given over to watching.
+
+They hug the left wall. Away from the central square. The sound of the muezzin echo fades, absorbed by the mud-brick.
+
+Hadji Murad's gaze sweeps the length of the side street — doorways, rooflines, the gap between two walls. He reads it the way another man reads a page.
+
+He turns into the street.
+
+The alley narrows. The sound of the square falls away entirely. Only boots and hooves on packed earth.
+
+---
+
+EXT. SAKLYA ROOFTOP — MAKHMET — NIGHT FALLING
+
+The hillside is terraced with saklyos cut into the slope, their flat rooftops stacked like steps. Hadji Murad stops at the second one from the bottom. The penthouse below is dark — a cold firepit, a coil of rope.
+
+He looks up.
+
+On the flat roof, behind the freshly-plastered chimney: the shape of a man under sheepskin. Still as a stone.
+
+Hadji Murad raises his whip. Taps the chimney rim twice with the handle. Clean, deliberate.
+
+A pause.
+
+The sheepskin shifts. An OLD MAN rises — greasy beshmet, nightcap pushed sideways from sleep, the face of a man who has been woken before by things he would rather not know about. His eyes go left along the alley. Right, up the slope. Back to the figure below.
+
+OLD MAN ON THE SAKLYA ROOF
+Alone?
+
+Hadji Murad holds the old man's gaze.
+
+HADJI MURAD
+Two.
+
+The old man is still. The question behind his silence is not logistical.
+
+OLD MAN ON THE SAKLYA ROOF
+(low, a settling)
+Come down from the roof. As Allah wills.
+
+He turns from the edge. The faint creak of a ladder descending.
+
+The alley darkens. Somewhere behind a closed door: the smell of warm bread. Kizyak smoke. The ordinary life that has agreed, without speaking, to absorb the dangerous one.
+
+---
+
+EXT./INT. SADO'S SAKLYA — NIGHT
+
+The compound is dark. A single clay chimney bleeds smoke into a moonless sky. No lamp in any window.
+
+Hadji Murad reins in at the gate. Before the horse fully stops:
+
+ELDAR — young, square-built, a man whose economy of motion speaks of absolute competence — is already off his horse and at the gate.
+
+On the roof, the old grandfather stirs under his sheepskin. He sits up. He looks at the face below.
+
+He descends backward down the ladder, deliberate, hand over hand, as a man descends who knows what he is descending toward.
+
+Eldar takes the bridle from the old man's hand. Not roughly. Simply. Without acknowledgment in either direction.
+
+HADJI MURAD dismounts. He favors his left leg — a contained thing, the limp of a man who has absorbed the pain so long it has become posture. He ducks under the penthouse.
+
+A BOY freezes in the doorway. Twelve, perhaps thirteen, in a white shirt. His eyes are too wide and he cannot make them smaller.
+
+Inside, the WOMAN OF THE HOUSE moves in the peripheral lamplight, unhurried. She sets three cushions along the front wall.
+
+Between two posts, the master's weapons hang: his rifle, his sword. The old man lifts Hadji Murad's burka from his shoulders. Then the rifle. Then the sword. He adds them to that wall, beside the master's arms.
+
+HADJI MURAD
+Selaam aleikum.
+
+OLD MAN ON THE SAKLYA ROOF
+Aleikum, selaam.
+
+He turns to the boy in the doorway.
+
+OLD MAN ON THE SAKLYA ROOF (CONT'D)
+Run to the mosque. Fetch your father.
+
+The boy does not move for one breath.
+
+OLD MAN ON THE SAKLYA ROOF (CONT'D)
+Go.
+
+The boy goes. Bare feet on packed earth, fading into the dark.
+
+SADO'S WIFE
+May thy coming bring happiness.
+
+HADJI MURAD
+May thy sons live.
+
+The lamp-light shrinks. Outside, the boy's feet on packed earth growing distant.
+
+
+INT. CHECHEN SAKLYA — NIGHT
+
+The room is low-ceilinged, clay-plastered. A single oil lamp burns on the floor. Its flame catches in the hammered copper basins hung along one wall — a dozen small suns in the dark.
+
+ELDAR, Hadji Murad's murid, stands at the door. Young, still. A rifle across his back and a hand already resting on the latch.
+
+Hadji Murad enters first.
+
+He unslings his burka from his shoulders. Sets it aside.
+
+Then the rifle. He lifts it free and holds it level — offering it.
+
+THE OLD MAN receives it with both hands, the way a man receives bread. He runs his thumb along the blade of the bayonet. Then hangs the rifle beside his own on the wall.
+
+Hadji Murad unbuckles the sword. Holds it out.
+
+The Old Man takes it. Hangs it.
+
+The weapons wall grows — Chechen beside Avar, guest's iron beside host's iron.
+
+Hadji Murad adjusts the pistol at the small of his back. Leaves it there.
+
+He crosses to the cushions near the lamp and sits, pulling his Circassian coat closed.
+
+OLD MAN
+Ne habar?
+
+A beat.
+
+HADJI MURAD
+Habar yok.
+
+OLD MAN
+I live at the apiary. I came in today to see my son.
+
+HADJI MURAD
+He knows.
+
+The Old Man nods.
+
+OLD MAN
+Who is he?
+
+HADJI MURAD
+My murid. Eldar is his name.
+
+OLD MAN
+That is well.
+
+Eldar does not move.
+
+Both men raise their palms upward, level with their chests.
+
+They speak a prayer — low, brief, in unison.
+
+Then both draw their joined hands slowly down their beards.
+
+OLD MAN (CONT'D)
+There is no good news. The hares have been
+discussing how to drive away the eagles.
+
+OLD MAN (CONT'D)
+The eagles tear first one, then another.
+
+Hadji Murad does not answer. He looks at the lamp.
+
+OLD MAN (CONT'D)
+The other day the Russian dogs burnt the hay
+in the Mitchit aoul.
+
+OLD MAN (CONT'D)
+May their faces be torn.
+
+Hadji Murad lifts his eyes from the lamp and looks at the wall of weapons.
+
+He looks back at the flame.
+
+Eldar has not moved from the door.
+
+Outside, wind moves through dry grass.
+
+
+---
+
+Evaluate in these 7 categories (0-100 each):
+
+1. CONCEPT/PREMISE (10%)
+   - Logline strength and clarity
+   - Originality of the hook
+   - Central dramatic question identifiable?
+   - Would you want to read the screenplay based on the concept alone?
+
+2. STRUCTURE (20%)
+   - Three-act integrity
+   - Act breaks at approximately 25%/50%/75%
+   - Inciting incident, midpoint, climax identifiable and properly placed?
+   - Does Act II have a clear throughline with escalating obstacles?
+   - Is the ending earned by the preceding story?
+
+3. CHARACTERS (20%)
+   - Arc completeness (Want/Need clear and resolved?)
+   - Is the protagonist ACTIVE or passive?
+   - Antagonist/opposing force present and compelling?
+   - Character distinguishability (can you tell them apart?)
+   - Are supporting characters dimensional or functional?
+
+4. DIALOGUE (20%)
+   - Subtext present? (Not everything stated directly?)
+   - Voice differentiation (do characters sound different?)
+   - On-the-nose percentage (how much dialogue is too direct?)
+   - Naturalness (does it sound spoken or written?)
+   - Is dialogue doing work that visual storytelling could do better?
+
+5. PACING (15%)
+   - Scene-to-runtime ratio appropriate?
+   - Tension curve with variation (not flat)?
+   - No dead zones (scenes that advance neither plot nor character)?
+   - Rhythm changes present (short/long scene alternation)?
+   - Does the film earn its runtime?
+
+6. VISUAL STORYTELLING (10%)
+   - Show-don't-tell ratio
+   - Camera-ready descriptions (can you see it)?
+   - Visual subtext (images carrying emotional meaning)?
+   - Stage directions precise and filmable?
+   - Are there powerful visual moments that only cinema can deliver?
+
+7. MARKETABILITY (5%)
+   - Genre expectations met?
+   - Target audience identifiable?
+   - Comparable successful films?
+   - Festival or theatrical potential?
+   - Castable roles?
+
+INDUSTRY FAILURE PATTERNS TO CHECK (flag each if found):
+- Passive protagonist (lead reacts rather than drives)
+- On-the-nose dialogue (characters stating feelings/exposition directly)
+- Weak Act II throughline (no clear escalating obstacles in the middle)
+- One-dimensional supporting characters (functional, not human)
+- Logic holes (characters behaving inconsistently with established traits)
+- Repetitive scenes (covering the same emotional ground without advancing)
+- Missing "known world" (first 10 pages fail to establish ordinary life)
+- Tonal inconsistency (comedy shifting to drama without justification)
+- Unearned emotional moments (catharsis without sufficient buildup)
+- Exposition dumps (information delivered without dramatic justification)
+- Unfilmable action lines (describing internal states or metaphors that cannot be filmed — flag with exact quotes)
+- Director intrusions in screenplay (CLOSE ON, SMASH CUT, camera movements, "the camera", "we see" — list every occurrence)
+- Static emotional scenes (characters walking/sitting and talking without physical tasks, environmental interruptions, or spatial changes — especially in Act III)
+- Subtext captions (action lines that explain what dialogue really means instead of letting subtext carry itself — flag for deletion)
+
+Respond as JSON:
+{
+  "script_verdict": "PASS|CONSIDER|RECOMMEND",
+  "writer_verdict": "PASS|CONSIDER|RECOMMEND",
+  "overall_score": 0-100,
+  "synopsis": "Complete plot summary, 200-400 words, present tense, spoilers included",
+  "character_breakdown": [
+    {"name": "...", "role": "LEAD|CO-LEAD|FEATURED", "age": "...", "description": "2-3 sentences"}
+  ],
+  "categories": {
+    "concept": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."]},
+    "structure": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."], "act_breaks": {"act_i_end": "S...", "midpoint": "S...", "act_ii_end": "S...", "climax": "S..."}},
+    "characters": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."], "protagonist_active": true},
+    "dialog": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."], "on_the_nose_scenes": ["S..."], "voice_issues": ["..."]},
+    "pacing": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."], "dead_zones": [{"scene_id": "S...", "issue": "...", "severity": "..."}]},
+    "visual_storytelling": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."], "tell_not_show_scenes": ["S..."]},
+    "marketability": {"score": 0-100, "notes": "...", "strengths": ["..."], "weaknesses": ["..."], "target_audience": ["..."], "comparable_films": ["..."]}
+  },
+  "failure_patterns_found": ["pattern name — scene reference — brief explanation"],
+  "top_issues": [
+    {
+      "issue_id": 1,
+      "scene_ids": ["S..."],
+      "issue": "Description of the problem",
+      "severity": "critical|high|medium|low",
+      "impact": "What this costs the story",
+      "comparable_solution": "How [film] solved a similar problem: ...",
+      "revision_instruction": "Specific, actionable instruction for the revision agent"
+    }
+  ],
+  "strengths": ["..."],
+  "comparable_films": ["Film — why relevant"],
+  "overall_comments": "2-3 paragraph assessment covering craft, potential, and path to improvement"
+}
+
+METHODOLOGY SKILLS (mandatory application):
+
+### coverage-volltext-evaluation
+# Coverage: Volltext-Evaluation statt Truncation
+
+## Das Problem
+
+Ein Coverage Agent, der nur die ersten 50.000 Zeichen eines Screenplays sieht, bewertet blind:
+- **Akt III fehlt komplett** — Resolution, Climax, Denouement werden nicht gelesen
+- **Pacing-Score ist falsch** — kann nur den Aufbau bewerten, nicht ob er sich auszahlt
+- **Struktur-Score ist blind** — der entscheidende Plot Point 2 liegt bei ~75% des Textes
+- **Dialog-Score verfälscht** — Figuren-Entwicklung zeigt sich erst im letzten Drittel
+- **Marktfähigkeit nicht bewertbar** — ohne Ending kein Urteil über "satisfying resolution"
+
+Bei einem 19.000-Wort-Screenplay (~96k chars) schneidet `[:50000]` exakt 48% ab.
+
+## Lösung: Intelligente Kompression
+
+### Algorithmus
+1. **Wenn Text passt** (≤ 50k chars): unverändert zurückgeben
+2. **Szenen-Boundaries erkennen** (Regex: `INT.`, `EXT.`, `--- S`)
+3. **Pro Szene behalten:**
+   - Scene Header (Slugline)
+   - Erste 3 Action-Sätze
+   - Alle Dialog-Cues mit erster Zeile
+   - Letzter Satz
+4. **Falls immer noch zu lang:** Middle-Scenes auf Header-only komprimieren, Anfang (20%) und Ende (30%) volle Kompression behalten
+
+### Warum NICHT Multi-Pass?
+Multi-Pass (jeden Chunk einzeln evaluieren, dann aggregieren) verdoppelt die Token-Kosten. Bei einem $100/Monat Budget ist das kritisch. Die Kompression verliert ~50% Text, behält aber die dramatische Struktur (Headers, Dialog-Stimmen, Schlüsselszenen).
+
+### Ergebnis (Der Schneesturm, 2026-04-07)
+- Original: 65.640 chars → Komprimiert: 30.296 chars (53% Reduktion)
+- 49 Szenen erhalten
+- ACT THREE bei 79% des komprimierten Textes (vorher: abgeschnitten)
+- Bourmin (entscheidende Figur für Resolution) ab 59% sichtbar
+
+## Anwendungsregel
+**Nie `[:50000]` verwenden.** Immer `_compress_for_coverage()` nutzen. Die Kompression ist deterministisch (kein LLM nötig) und kostet 0 Tokens.
+
+## Warnung (Anti-Pattern)
+Multi-Pass klingt eleganter, aber: 
+- Doppelte Kosten (2× Sonnet-Call)
+- Aggregation von Teilscores ist mathematisch fragwürdig (ein Pacing-Score aus dem Mittelteil sagt nichts über das Gesamtpacing)
+- Der Coverage Agent braucht die Gesamtstruktur, nicht die Summe der Teile

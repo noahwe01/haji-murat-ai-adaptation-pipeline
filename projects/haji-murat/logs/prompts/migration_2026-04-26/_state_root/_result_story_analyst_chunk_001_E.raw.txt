@@ -1,0 +1,84 @@
+{
+  "new_characters": [
+    {
+      "name": "Narrator",
+      "initial_description": "First-person authorial voice, a rural walker in midsummer Russia; frames the tale of Hadji Murad through the emblem of the crushed 'Tartar' thistle. Functions as Tolstoy's auktorial narrator stand-in, not a dramatic agent.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Narrator crosses a summer field, gathers a bouquet of delicate wildflowers, and notices a crimson 'Tartar' thistle blooming defiantly in a ditch.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator struggles for nearly five minutes to break off the thistle, is pricked through his handkerchief, and finally rips it out with its fibers frayed and its beauty destroyed.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "The mangled thistle no longer fits among the delicate flowers; the narrator discards it and feels remorse for having vainly destroyed something beautiful in its proper place — seeding the thematic premise of the novella.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator begins an interior exclamation about the thistle's energy and tenacity — the bridge into Hadji Murad's story (truncated at chunk boundary).",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Russian Summer Field",
+      "description": "Rural Central Russian meadow at midsummer after the hay harvest, rich with named wildflowers (clover, ox-eye daisies, rape, campanulas, vetch, scabious, plaintain, cornflowers, dodder). Generic pastoral setting — low cinematic weight as a discrete location; serves only as staging ground for the Thistle Frame."
+    },
+    {
+      "name": "Roadside Ditch",
+      "description": "A shallow ditch beside the field path where the crimson 'Tartar' thistle grows in full bloom. Micro-location, inseparable from the field; cinematically realized as a single insert rather than a separate setpiece."
+    }
+  ],
+  "tension": 0.2,
+  "act_estimation": 1,
+  "filmability_score": 0.55,
+  "theme_hints": [
+    "Tenacity of life against destruction",
+    "Beauty violated by imperial/agricultural force",
+    "The native defender crushed in his proper place",
+    "Senselessness of vain destruction"
+  ],
+  "symbols": [
+    "Crimson 'Tartar' thistle — Hadji Murad himself and the Caucasian resistance",
+    "The nosegay of delicate flowers — civilized Russian/European order",
+    "The ditch — margin where the wild survives",
+    "The handkerchief pricked through — Russia wounded by the very thing it tries to remove"
+  ],
+  "notes": "This chunk is the entire Thistle Prologue — Tolstoy's authorial frame that launches the Hadji Murad narrative. Zero dramatic action in the screenplay sense, pure emblem. Historical anchors (Hadji Murad, Shamil, Vorontsov, Nicholas I) are not yet introduced in this chunk; graph hints refer to later chapters. Primary adaptation problem: the entire chunk is a 1st-person auktorial meditation — a prime NF-04 case. Options: (a) translate to a pre-credits visual cold open of a horseman rider framed like the thistle, (b) keep a brief silent-field opening with the thistle pluck as pure image (no VO), (c) cut entirely and open on the mountain raid. Recommendation noted in DECISIONS. NO fusion candidates trigger in this chunk (no characters beyond the narrator). Cuttable: the narrator himself as an onscreen figure. Refocalize: the entire frame must be re-seen through Hadji Murad's trajectory, not a Russian observer's.",
+  "fusion_candidates": [],
+  "cuttable": [
+    {
+      "element": "First-person authorial narrator voice",
+      "reason": "Pure Tolstoyan auktorial commentary; non-dramatized, non-filmable as speech; historical anchor status does not apply (fictional frame device)."
+    },
+    {
+      "element": "Catalogue of named wildflowers (clover, ox-eye daisies, campanulas, scabious, etc.)",
+      "reason": "Literary enumeration with no dramatic function; compressible to a single lyrical image or a brief montage."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Thistle-pluck prologue in the Russian field",
+      "current_pov": "Unnamed Russian first-person narrator (Tolstoy stand-in)",
+      "recommended_pov": "Objective camera — silent opening image; if kept, frame must read as an emblem of Hadji Murad, not of a Russian observer. Alternatively: relocate emblem to the Caucasus (a real thistle in Sado's aoul / on the Mansokha path) so the symbol is anchored to the protagonist's world."
+    }
+  ]
+}
+
+DECISIONS:
+- KEEP_FRAME thistle_prologue_opening: single silent cold-open image, no VO, carries core premise → NF-04, NF-08
+- CUT narrator_voice_over: auktorialer Erzähler non-filmable; translate meaning into visual emblem → NF-04, SS-04
+- TRANSLATE_TO_VISUAL flower_catalogue: replace list with one montage shot of nosegay vs. ditch thistle → SC-06
+- CUT_SUBPLOT thistle_frame_reprise_risk: forbid closing reprise of same emblem to avoid doubled frame → NF-08
+- REFOCAL thistle_prologue_pov: re-anchor emblem to Hadji Murad's Caucasus world, not Russian observer → CF-08, NF-09
+- KEEP thistle_symbol_core: thematic carrier (tenacity/destruction) — premise-bearing, immune to cut → M-02
+- DEVIATION narrator_as_character: narrator is fictional, not historical, but functions as structural frame — decision deferred to NF-03 review once chapter 25 epilogue is analyzed; kept as open flag rather than final cut this chunk → M-04

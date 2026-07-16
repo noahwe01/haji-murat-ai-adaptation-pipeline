@@ -1,0 +1,111 @@
+{
+  "characters_found": [
+    {
+      "name": "Narrator (Authorial I)",
+      "direct_quotes": ["What vitality! Man has conquered everything and destroyed millions of plants, yet this one won't submit."],
+      "speech_descriptors": ["I thought"],
+      "actions": [
+        "Reflects on the vitality of a plant that refuses to submit",
+        "Remembers a Caucasian episode from years ago",
+        "Frames the coming narrative as partly witnessed, partly heard from eye-witnesses, and partly imagined"
+      ],
+      "inner_states": [
+        "Admiration for resilient, unsubmitting life",
+        "Contemplative, associative mind that moves from the plant to a remembered historical episode",
+        "Awareness that the episode has been shaped by his own memory and imagination"
+      ],
+      "social_markers": [
+        "Educated, reflective first-person narrator",
+        "Russian authorial voice with knowledge of the Caucasus",
+        "Literary register, philosophical tone"
+      ],
+      "relationship_dynamics": [
+        {"with": "the thistle/plant (implicit)", "quality": "admiring, projects heroic quality of resistance onto it"},
+        {"with": "Hadji Murad (as subject of memory)", "quality": "mediates and frames his story; positions himself as witness/curator"}
+      ],
+      "new_info": [
+        "Explicitly admits the episode is a hybrid of personal observation, second-hand reports, and imagination",
+        "Anchors the coming narrative in late 1851 and in the Caucasus"
+      ]
+    },
+    {
+      "name": "Hadji Murad",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Rides into Makhmet, a hostile Chechen aoul, on a cold November evening in late 1851",
+        "Travels as a fugitive with only one murid, wrapped in hood and burka with a rifle protruding",
+        "Tries to attract as little attention as possible",
+        "Peers with quick black eyes into the faces of passers-by",
+        "Avoids the main road to the open square, turns left into a narrow side street",
+        "Stops at the second saklya, cut into the hillside, and looks round",
+        "Touches the man lying on the roof with the handle of his leather-plaited whip and clicks his tongue to rouse him"
+      ],
+      "inner_states": [
+        "Cautious, vigilant, aware of hostile surroundings",
+        "Calculating — deliberately dims his usual display to avoid detection",
+        "Purposeful: knows exactly which saklya he is heading for"
+      ],
+      "social_markers": [
+        "Shamil's naib — high-ranking Caucasian military/political figure under the Imam",
+        "Famous warrior known for his exploits",
+        "Normally travels with a banner and dozens of caracoling murids — indicator of elevated status",
+        "Muslim Caucasian (enters an aoul during/after muezzin's call, uses saklya, burka, beshmet culture)"
+      ],
+      "relationship_dynamics": [
+        {"with": "Shamil", "quality": "formally his naib, but now a fugitive — relationship has fractured or become dangerous"},
+        {"with": "his murid (the one accompanying him)", "quality": "trusted enough to be his sole companion in flight"},
+        {"with": "the old man on the roof", "quality": "knows him / knows the house; approaches non-verbally with whip and tongue-click, suggesting familiarity or a pre-arranged contact"},
+        {"with": "the hostile Chechen aoul Makhmet", "quality": "enters it as an enemy territory, must conceal himself"}
+      ],
+      "new_info": [
+        "Setting anchor: late 1851, cold November evening, aoul Makhmet, ~15 miles from Russian territory",
+        "Has just become a fugitive — stripped down from naib-with-entourage to fugitive-with-one-murid",
+        "Has a specific destination and contact in Makhmet (the second saklya cut into the hillside)",
+        "Physical description detail: quick black eyes; carries rifle under burka; uses a leather-plaited whip"
+      ]
+    },
+    {
+      "name": "Hadji Murad's Murid (unnamed, active)",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Rides alongside Hadji Murad as his sole companion into hostile Makhmet"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Murid — devoted follower in the Caucasian Muslim resistance sense",
+        "Willing to accompany his leader into enemy aoul at great personal risk"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "loyal sole companion in fugitive flight; the last of what was once dozens of murids"}
+      ],
+      "new_info": [
+        "Of the former entourage of dozens of murids, only this one remains with Hadji Murad in his flight"
+      ]
+    },
+    {
+      "name": "Old man on the saklya roof",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Lies asleep/resting on the roof of the saklya behind the freshly plastered clay chimney, covered with a sheepskin",
+        "Rises from under the sheepskin when Hadji Murad touches him with the whip handle and clicks his tongue"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Old man — advanced age",
+        "Wears a greasy old beshmet and a nightcap — domestic, modest, worn clothing, suggesting humble or everyday status in the aoul",
+        "Caucasian Muslim village inhabitant (sleeps on saklya roof, beshmet)"
+      ],
+      "relationship_dynamics": [
+        {"with": "Hadji Murad", "quality": "addressee of Hadji Murad's silent, familiar summons; appears to be the contact Hadji Murad rode to meet"}
+      ],
+      "new_info": [
+        "First physical introduction: sleeps on the roof behind the chimney under a sheepskin",
+        "Attire: greasy old beshmet and nightcap",
+        "Responds to the non-verbal summons rather than to a shout — consistent with a discreet, possibly pre-arranged meeting"
+      ]
+    }
+  ]
+}

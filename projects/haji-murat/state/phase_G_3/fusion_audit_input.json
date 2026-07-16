@@ -1,0 +1,624 @@
+{
+  "fuse_recommendations": [
+    {
+      "char": "Sado",
+      "role": "supporting",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Sado",
+        "rationale": "Sado's Father, Mother, Wife and Son all serve the single dramatic function of household-hospitality and warning; per CF-01 (each <2 scenes, identical kunak function) their gestures and the father's warning proverb collapse into Sado himself, giving the saklya one moral voice instead of four — Old Man of Saklya likewise absorbed as prologue-variant of the same hosting function."
+      },
+      "justification": "",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Marya Vasilevna",
+      "role": "supporting",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Marya Vasilevna Vorontsova",
+        "rationale": "Absorb Manana Orbelyani's single intervention at the Tiflis dinner into Marya Vasilevna; she already fulfills the identical dramatic function (social moderator at the imperial salon) and a feature script cannot carry two interchangeable hostess figures."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_026: Princess at Vorontsov's house; mentioned at chunk's end as Vorontsov arrives home with Hadji Murad",
+        "Chunk chunk_027: Princess, Vorontsov's wife; elegantly dressed, socially adept, charmed by Hadji Murad's flush when she extended her hand"
+      ]
+    },
+    {
+      "char": "Abu Nutsal Khan",
+      "role": "Minor",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Umma Khan",
+        "rationale": "Abu Nutsal Khan and Umma Khan share an identical dramatic function (Khansha's son, foster-bonded to HM, doomed victim of Hamzad's massacre, fewer than 5 scenes each); per CF-01 and CF-09 the two collapse into a single compound 'eldest Khan son' carried by Umma Khan, whose sworn-brother bond with HM is the more dramatically potent vessel and whose name retains historical specificity, while Abu Nutsal's pride-and-shame beat (the mother's taunt, the refusal to heed HM's warning) is transferred onto Umma Khan as the trigger that walks him into the trap."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_048: One of three young Khans; foster-brother of Hadji Murad's brother Osman; mentioned as part of the Khansha's court in Hadji Murad's childhood memory.",
+        "Chunk chunk_050: Eldest son of the Khansha; proud and easily shamed into dangerous action — the Khansha calls him afraid and he rides to Hamzad despite Hadji Murad's warning; headed toward the massacre."
+      ]
+    },
+    {
+      "char": "Umma Khan",
+      "role": "Minor",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Abu Nutsal Khan",
+        "rationale": "Umma Khan and Abu Nutsal Khan share an identical dramatic function in the Hamzad-massacre flashback (lured Khan-brother hostage, doomed patron of HM's youth); collapsing them into a single composite Khan-brother preserves the trap's escalation and HM's guilt while honouring CF-01 (<5 scenes, shared function) and CF-09 (scene economy)."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_048: One of three young Khans; Hadji Murad's sworn brother from the Khansha's palace; part of childhood memory.",
+        "Chunk chunk_049: Second son of the old Khansha; sent with Hadji Murad to Tiflis to seek Russian help; physically strong and brave but weak-willed, corrupted by Russian officers"
+      ]
+    },
+    {
+      "char": "Baron Rosen",
+      "role": "Minor",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "General Rosen",
+        "rationale": "'Baron Rosen' and 'General Rosen' (idx 12) are the same historical person — Baron Grigory Vladimirovich Rosen, Russian Commander-in-Chief in the Caucasus before Vorontsov; one mention each, identical dramatic function (imperial gatekeeper who refuses Hadji Murad), no thematic contrast lost by collapsing the two surface-name variants into a single canonical entry."
+      },
+      "justification": "I was sent here to hold a frontier, not to arbitrate blood feuds between mountain chieftains; verbal assurances are all the Empire can afford to give men who will be dead by next winter.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Aseldar",
+      "role": "Minor",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Kazi-Mulla",
+        "rationale": "Aseldar appears in only one chunk as a single-action backstory figure (kills the Khansha, dies in Hamzad's mosque ambush); his dramatic function (Hamzad-loyalist murid executing the dynastic massacre) is identical to Kazi-Mulla's, and feature compression cannot sustain a named role with one mention — collapse the action into Kazi-Mulla as the composite Hamzad-murid, or cut entirely if the mosque massacre is rendered as exposition rather than scene."
+      },
+      "justification": "The khans are corrupt collaborators with the infidel and the Khansha protects their line; killing her at Hamzad's word is not murder but the will of God enacted through a faithful hand.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "General Rosen",
+      "role": "antagonist",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Baron Rosen",
+        "rationale": "Historically identical figure (Baron Grigory Vladimirovich Rosen, Russian commander in the Caucasus); both entries refer to the same general who granted Hadji Murad his commission and authority over Avaria — keeping them separate would duplicate one historical anchor."
+      },
+      "justification": "I gave this mountain wolf the rank of an officer and Avaria itself — order in the Caucasus is bought one chieftain at a time, and any general who refuses that arithmetic loses the line.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Prince Baryatinsky",
+      "role": "antagonist",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Vorontsov",
+        "rationale": "Baryatinsky appears in only 3 mentions, enters at chunk_096 with no arc of his own, and serves the same dramatic function as Vorontsov (Russian imperial commander whose orders shape HM's fate) — his command authority over the left flank and his Petersburg-court entanglements can be absorbed into Vorontsov without losing dramatic information, consistent with Seger's fusion principle (collapse one figure, transfer one gesture/line) for novel-to-feature compression."
+      },
+      "justification": "The Empire has entrusted me with its will in this region; my orders come from the Tsar, my friendships from the Viceroy, and my conscience answers to both — what looks like ambition from below is serv",
+      "arc_notes_first2": [
+        "Chunk chunk_097: Senior Russian officer who replaced Kozlovsky as commander of the left flank; known for affair with Marya Vasilevna"
+      ]
+    },
+    {
+      "char": "Karganov",
+      "role": "antagonist",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Hadji Aga",
+        "rationale": "Karganov is a single-function pursuit-antagonist (reach=1, three mentions, no arc) whose only dramatic beats — leading the encirclement and calling for surrender — are structurally duplicated by Hadji Aga, who is the dramatically richer version because his parley is freighted with kunak betrayal; collapsing Karganov's parley line and command of the ring into Hadji Aga preserves every plot beat while removing one Russian-uniformed functionary the audience would not retain (CF-01, SC-02)."
+      },
+      "justification": "A sworn Russian officer with a fugitive insurgent commander cornered on his district's ground has one duty — to close the ring and end it; any other choice betrays the men under his command and the Ts",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Hadji Aga",
+      "role": "antagonist",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Hadji Aga",
+        "absorbs": [
+          "Akhmet Khan",
+          "Karganov"
+        ],
+        "rationale": "Hadji Aga is the dramatically richest variant of the 'Caucasian-native-aligned-with-Russia / parley-then-kill' function — kunak-betrayal gives him moral weight Akhmet Khan and Karganov lack; per CF-01 (<5 scenes, identical antagonist function) and SC-02, Akhmet Khan's informant/lineage beat and Karganov's parley beat collapse cleanly into Hadji Aga without losing thematic content."
+      },
+      "justification": "Hadji Murad abandoned Shamil, abandoned his own kunak-oath when he ran to the Russians — he broke the bond first, so I owe him only the blade he taught me to carry.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Butler",
+      "role": "supporting",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Butler",
+        "rationale": "Butler is the canonical Russian-officer POV of Section 22 (24 mentions, sustained arc); Freze and Petrovsky are sub-3-scene functional duplicates (junior officer / skeptical commentator) and can be collapsed into Butler under CF-01, while Petrov is REJECTED from fusion because his independent dramatic function as the cuckolded comrade-host is load-bearing for Butler's restraint subplot."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_076: ...eaks that played with the light like diamonds.  At the head of the 5th Company, Butler, a tall handsome officer who had recently exchanged from the Guards, marched along in a black coat and tall cap, shouldering his sword.  He was filled with a buoyant sense of the joy of living, the danger of death...",
+        "Chunk chunk_077: ...-- and tore up the ground in the field by the roadside.  \"It's beginning,\" said Butler with a bright smile to a comrade who was walking beside him.  And so it was.  After the shell a thick crowd of mounted Chechens appeared with their banners from under the shelter of the forest.  In the midst of th..."
+      ]
+    },
+    {
+      "char": "Meller-Zakomelsky",
+      "role": "Minor",
+      "fusion_decision_raw": {
+        "verdict": "FUSE",
+        "merge_into": "Kozlovsky",
+        "rationale": "Both are mid-tier Russian generals functioning as bureaucratic chain-of-custody figures over Hadji Murat with no independent dramatic action; collapsing them into a single Composite-Russian-Frontline-Officer (canonical: Kozlovsky) preserves the jurisdictional-friction beat (offended by not being informed first) while eliminating a redundant rank-tier per CF-01 and CF-09."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_029: ...spring several times, listened, and nodded his head approvingly.  After dinner, Meller-Zakomelsky's aide-de-camp was announced.  The aide-de-camp informed the prince that the general, having heard of Hadji Murad's arrival, was highly displeased that this had not been reported to him, and required Ha...",
+        "Chunk chunk_031: ...that he would be able to demand much from them.  He also understood that though Meller-Zakomelsky was the commanding officer, he had not as much influence as his subordinate Vorontsov, and that Vorontsov was important and Meller-Zakomelsky unimportant; and therefore when Meller- Zakomelsky sent for..."
+      ]
+    }
+  ],
+  "all_fusion_decisions": [
+    {
+      "char": "Hadji Murad",
+      "role": "Protagonist",
+      "first_mention": "chunk_002",
+      "fusion_decision": {
+        "verdict": "NA",
+        "merge_into": null,
+        "rationale": "Protagonist and historical anchor; cannot be fused with any other figure under novel_to_feature compression."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_003: Shamil's former naib, famous warrior and leader, now a fugitive riding with only one murid, cloaked in hood and burka with rifle, limping slightly, alert eyes scanning faces — a man of commanding presence reduced to hiding."
+      ]
+    },
+    {
+      "char": "Eldar",
+      "role": "Supporting",
+      "first_mention": "chunk_004",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Eldar is THE archetypal murid — HM's closest body-double in loyalty and the one who dies beside him in the final ambush; he is the figure into whom other minor murids (Khanefi's song, Gamzalo's preparation beats) are absorbed, not the figure to be dissolved, and his silent visual presence carries the film's central image of unbought devotion across all 29 of his chunks."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_005: Hadji Murad's murid (devoted follower); young, silent, with fine ram-like eyes; sits cross-legged and observes the old man's talk.",
+        "Chunk chunk_008: One of Hadji Murad's murids; follows his leader's cue to stop eating, shows disciplined loyalty."
+      ]
+    },
+    {
+      "char": "Sado",
+      "role": "supporting",
+      "first_mention": "chunk_005",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Sado",
+        "rationale": "Sado's Father, Mother, Wife and Son all serve the single dramatic function of household-hospitality and warning; per CF-01 (each <2 scenes, identical kunak function) their gestures and the father's warning proverb collapse into Sado himself, giving the saklya one moral voice instead of four — Old Man of Saklya likewise absorbed as prologue-variant of the same hosting function."
+      },
+      "justification": "",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Bata",
+      "role": "supporting",
+      "first_mention": "chunk_005",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Bata's role as the independent hired Chechen guide and outsider-intermediary is thematically distinct from Khan Mahoma's insider-murid status — fusing them would collapse the insider/outsider tension that Tolstoi uses to mirror Hadji Murad's own divided loyalty."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_006: Sinewy, short-legged Chechen, sun-darkened, wearing a worn yellow Circassian coat and crumpled black leggings; a skilled guide boasting no Chechen can pass where he can; loyal to Hadji Murad for honor, not money.",
+        "Chunk chunk_011: Shorter Chechen man who approaches Russian sentry post at night, declares himself friendly, unarmed, and acting as a messenger for a prince"
+      ]
+    },
+    {
+      "char": "Khan Mahoma",
+      "role": "supporting",
+      "first_mention": "chunk_006",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Khan Mahoma carries a distinct frivolous-impulsive voice and the dramatic function of HM's outward-facing envoy/messenger murid; collapsing him into Khanefi (earnest) or Bata (outsider guide) would erase the contrast inside HM's murid quartet and remove the only murid whose levity humanizes the group before the final battle."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_019: Departed with Bata before Hadji Murad's arrival; messenger/envoy figure",
+        "Chunk chunk_020: One of Hadji Murad's murids, sent on a mission to the Russian prince; returns with news that the prince received him warmly"
+      ]
+    },
+    {
+      "char": "Panov",
+      "role": "Supporting",
+      "first_mention": "chunk_008",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Panov is the dramatically active comrade in the Avdeev death-arc and the informational anchor near Butler at the assault — he carries dialogue, decisions, and the letter-writing scene; the proposed merge partners (Serogin, Nikitin, Bondarenko, Old Sergeant-Major) are functionally absorbable INTO Panov, not the other way around, so Panov stays as the canonical NCO-witness and the others fold upward."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_009: Non-commissioned officer on night ambush duty; pragmatic, leads soldiers in casual camp behavior; addresses Avdeev familiarly",
+        "Chunk chunk_010: Russian soldier, calm and pragmatic; mediates disputes within the company; pipe smoker on night watch."
+      ]
+    },
+    {
+      "char": "Avdeev",
+      "role": "supporting",
+      "first_mention": "chunk_009",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "The Avdeev episode is a self-contained symbolic counterweight to the imperial dispatch — fusing him into another soldier would erase Tolstoy's anti-imperial statement about the namelessness of peasant casualties."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_010: Russian soldier, cheerful but plagued by existential dullness; admits to drinking away his sadness; confides openly about despair."
+      ]
+    },
+    {
+      "char": "Simon Vorontsov",
+      "role": "antagonist",
+      "first_mention": "chunk_012",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Simon Vorontsov and his father Mikhail Vorontsov occupy distinct dramatic functions — Simon is the personal host who pledges his word in his own tent, Mikhail is the distant Viceroy whose institutional authority overrides that word; collapsing them would erase the father-son betrayal vector that gives the Vorontsov plotline its Tolstoian moral weight, and the suggested fusion with Marya Vasilevna is a CUT-not-fusion (her thematic Baryatinsky subplot belongs elsewhere or is dropped, not absorbed into a male officer)."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_013: Prince, Commander of the Kurin Regiment, Imperial Aide-de-Camp, son of the Commander-in-Chief; long-faced, wearing insignia and gold cords"
+      ]
+    },
+    {
+      "char": "Marya Vasilevna",
+      "role": "supporting",
+      "first_mention": "chunk_013",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Marya Vasilevna Vorontsova",
+        "rationale": "Absorb Manana Orbelyani's single intervention at the Tiflis dinner into Marya Vasilevna; she already fulfills the identical dramatic function (social moderator at the imperial salon) and a feature script cannot carry two interchangeable hostess figures."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_026: Princess at Vorontsov's house; mentioned at chunk's end as Vorontsov arrives home with Hadji Murad",
+        "Chunk chunk_027: Princess, Vorontsov's wife; elegantly dressed, socially adept, charmed by Hadji Murad's flush when she extended her hand"
+      ]
+    },
+    {
+      "char": "Poltoratsky",
+      "role": "supporting",
+      "first_mention": "chunk_013",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Poltoratsky is the load-bearing Russian-officer POV that bridges the Tiflis salon world (Marya Vasilevna, card play, infatuation) with the active Caucasus front (woodcutting expedition, fire beyond the Shagirinsk Gate); collapsing him into Butler, Avdeev or Major Petrov would either fuse incompatible functions (Butler is the late-novel disillusioned newcomer; Avdeev is the doomed peasant-soldier; the Major is the cynical Mentor-Herald) or destroy the salon-to-front bridge that no other single character carries — instead, the smaller satellites Adjutant, Tikhonov and Freze can be absorbed into Poltoratsky per the extraction notes."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_021: Russian officer commanding two companies of woodcutters beyond the Shagirinsk Gate; formerly at Cadet College with Baron Freze"
+      ]
+    },
+    {
+      "char": "Khanefi",
+      "role": "Supporting",
+      "first_mention": "chunk_019",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "The five murids (Eldar, Khan Mahoma, Gamzalo, Bata, Khanefi) form a deliberate ensemble in which Khanefi alone carries the milk-brotherhood backstory, the household-steward function, and the singer's voice — collapsing him erases the blood-feud-resolution motif and the song-of-the-avenger scene that thematically mirrors HM's own arc."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_020: One of Hadji Murad's murids who carries equipment (ewer) in the group's packs; logistical support figure",
+        "Chunk chunk_025: Thick-set, hairy Avar murid with meeting eyebrows; manages all of Hadji Murad's property and leads the pack-horse with saddle bags."
+      ]
+    },
+    {
+      "char": "Gamzalo",
+      "role": "supporting",
+      "first_mention": "chunk_019",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Among the five murids around Hadji Murad, Gamzalo holds a distinct dramatic function — the grim, scarred veteran whose silent readiness embodies the cost of loyalty — which neither Khanefi (logistics) nor Eldar (younger follower) can carry without flattening the inner-circle's tonal range."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_025: Chechen murid, short red beard, no eyebrows or lashes, blind in one eye, scar across nose and face. Menacing presence."
+      ]
+    },
+    {
+      "char": "Michael Vorontsov",
+      "role": "Antagonist",
+      "first_mention": "chunk_037",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Vorontsov is a historical anchor and the structural face of imperial soft power on the Caucasian side; his function — civilized captor whose courtesy is the cage — cannot be absorbed by Nikolai I (raw autocracy) or by any military officer (overt force) without collapsing the novel's central indictment that empire kills most efficiently when it smiles."
+      },
+      "justification": "An empire is held together by the patience of men like me; if I can turn the most dangerous warrior of the Caucasus into a guest at my table without firing a shot, then what others would call duplicit",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Loris-Melikov",
+      "role": "Supporting",
+      "first_mention": "chunk_045",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Loris-Melikov is a historical anchor (CF-04 immune) with two distinct, irreplaceable dramaturgical functions — Vorontsov's aide-de-camp AND the recorder of Hadji Murat's dictated life story — making him the central Russian-bureaucracy-as-mediator conduit; he absorbs Tarkhanov rather than the reverse."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_059: Russian officer receiving Hadji Murad's dictated life story; interlocutor and listener in this confession scene"
+      ]
+    },
+    {
+      "char": "Abu Nutsal Khan",
+      "role": "Minor",
+      "first_mention": "chunk_047",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Umma Khan",
+        "rationale": "Abu Nutsal Khan and Umma Khan share an identical dramatic function (Khansha's son, foster-bonded to HM, doomed victim of Hamzad's massacre, fewer than 5 scenes each); per CF-01 and CF-09 the two collapse into a single compound 'eldest Khan son' carried by Umma Khan, whose sworn-brother bond with HM is the more dramatically potent vessel and whose name retains historical specificity, while Abu Nutsal's pride-and-shame beat (the mother's taunt, the refusal to heed HM's warning) is transferred onto Umma Khan as the trigger that walks him into the trap."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_048: One of three young Khans; foster-brother of Hadji Murad's brother Osman; mentioned as part of the Khansha's court in Hadji Murad's childhood memory.",
+        "Chunk chunk_050: Eldest son of the Khansha; proud and easily shamed into dangerous action — the Khansha calls him afraid and he rides to Hamzad despite Hadji Murad's warning; headed toward the massacre."
+      ]
+    },
+    {
+      "char": "Umma Khan",
+      "role": "Minor",
+      "first_mention": "chunk_047",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Abu Nutsal Khan",
+        "rationale": "Umma Khan and Abu Nutsal Khan share an identical dramatic function in the Hamzad-massacre flashback (lured Khan-brother hostage, doomed patron of HM's youth); collapsing them into a single composite Khan-brother preserves the trap's escalation and HM's guilt while honouring CF-01 (<5 scenes, shared function) and CF-09 (scene economy)."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_048: One of three young Khans; Hadji Murad's sworn brother from the Khansha's palace; part of childhood memory.",
+        "Chunk chunk_049: Second son of the old Khansha; sent with Hadji Murad to Tiflis to seek Russian help; physically strong and brave but weak-willed, corrupted by Russian officers"
+      ]
+    },
+    {
+      "char": "Baron Rosen",
+      "role": "Minor",
+      "first_mention": "chunk_049",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "General Rosen",
+        "rationale": "'Baron Rosen' and 'General Rosen' (idx 12) are the same historical person — Baron Grigory Vladimirovich Rosen, Russian Commander-in-Chief in the Caucasus before Vorontsov; one mention each, identical dramatic function (imperial gatekeeper who refuses Hadji Murad), no thematic contrast lost by collapsing the two surface-name variants into a single canonical entry."
+      },
+      "justification": "I was sent here to hold a frontier, not to arbitrate blood feuds between mountain chieftains; verbal assurances are all the Empire can afford to give men who will be dead by next winter.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Aseldar",
+      "role": "Minor",
+      "first_mention": "chunk_055",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Kazi-Mulla",
+        "rationale": "Aseldar appears in only one chunk as a single-action backstory figure (kills the Khansha, dies in Hamzad's mosque ambush); his dramatic function (Hamzad-loyalist murid executing the dynastic massacre) is identical to Kazi-Mulla's, and feature compression cannot sustain a named role with one mention — collapse the action into Kazi-Mulla as the composite Hamzad-murid, or cut entirely if the mosque massacre is rendered as exposition rather than scene."
+      },
+      "justification": "The khans are corrupt collaborators with the infidel and the Khansha protects their line; killing her at Hamzad's word is not murder but the will of God enacted through a faithful hand.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "General Rosen",
+      "role": "antagonist",
+      "first_mention": "chunk_056",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Baron Rosen",
+        "rationale": "Historically identical figure (Baron Grigory Vladimirovich Rosen, Russian commander in the Caucasus); both entries refer to the same general who granted Hadji Murad his commission and authority over Avaria — keeping them separate would duplicate one historical anchor."
+      },
+      "justification": "I gave this mountain wolf the rank of an officer and Avaria itself — order in the Caucasus is bought one chieftain at a time, and any general who refuses that arithmetic loses the line.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Marya Dmitrievna",
+      "role": "supporting",
+      "first_mention": "chunk_079",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Marya Dmitrievna belongs to the frontier-fort world of Major Petrov and Butler, while Marya Vasilevna is a Tiflis aristocrat in Vorontsov's household — they share only a first name and inhabit incompatible social worlds, dramatic functions, and registers, so fusing them would collapse the novel's deliberate contrast between salon and outpost."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_080: Handsome, fair-haired, freckled, childless woman of thirty; Major Petrov's faithful companion and caretaker",
+        "Chunk chunk_091: The major's wife at the fort; quarrelled with Khanefi but shows genuine sympathy and respect for Hadji Murad, actively follows family-rescue negotiations"
+      ]
+    },
+    {
+      "char": "Yusuf",
+      "role": "supporting",
+      "first_mention": "chunk_085",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Yusuf is the emotional fulcrum of Hadji Murat's defection — his captivity at Vedeno is HM's primary motive for negotiating with the Russians and cannot be collapsed into any other figure without destroying the central want."
+      },
+      "justification": "",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Arslan Khan",
+      "role": "antagonist",
+      "first_mention": "chunk_094",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Arslan Khan's blood-feud claim is morally and structurally distinct from Hadji Aga (rival warlord politics) and Karganov (imperial Russian pursuit) — collapsing them would erase Tolstoi's three-front antagonism (clan honor, native rivalry, empire) which is the thematic spine of HM's death."
+      },
+      "justification": "Hadji Murad spilled the blood of my house — until that blood is answered, I am no Khan, only a debtor with a name.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Prince Baryatinsky",
+      "role": "antagonist",
+      "first_mention": "chunk_096",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Vorontsov",
+        "rationale": "Baryatinsky appears in only 3 mentions, enters at chunk_096 with no arc of his own, and serves the same dramatic function as Vorontsov (Russian imperial commander whose orders shape HM's fate) — his command authority over the left flank and his Petersburg-court entanglements can be absorbed into Vorontsov without losing dramatic information, consistent with Seger's fusion principle (collapse one figure, transfer one gesture/line) for novel-to-feature compression."
+      },
+      "justification": "The Empire has entrusted me with its will in this region; my orders come from the Tsar, my friendships from the Viceroy, and my conscience answers to both — what looks like ambition from below is serv",
+      "arc_notes_first2": [
+        "Chunk chunk_097: Senior Russian officer who replaced Kozlovsky as commander of the left flank; known for affair with Marya Vasilevna"
+      ]
+    },
+    {
+      "char": "Karganov",
+      "role": "antagonist",
+      "first_mention": "chunk_115",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Hadji Aga",
+        "rationale": "Karganov is a single-function pursuit-antagonist (reach=1, three mentions, no arc) whose only dramatic beats — leading the encirclement and calling for surrender — are structurally duplicated by Hadji Aga, who is the dramatically richer version because his parley is freighted with kunak betrayal; collapsing Karganov's parley line and command of the ring into Hadji Aga preserves every plot beat while removing one Russian-uniformed functionary the audience would not retain (CF-01, SC-02)."
+      },
+      "justification": "A sworn Russian officer with a fugitive insurgent commander cornered on his district's ground has one duty — to close the ring and end it; any other choice betrays the men under his command and the Ts",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Hadji Aga",
+      "role": "antagonist",
+      "first_mention": "chunk_116",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Hadji Aga",
+        "absorbs": [
+          "Akhmet Khan",
+          "Karganov"
+        ],
+        "rationale": "Hadji Aga is the dramatically richest variant of the 'Caucasian-native-aligned-with-Russia / parley-then-kill' function — kunak-betrayal gives him moral weight Akhmet Khan and Karganov lack; per CF-01 (<5 scenes, identical antagonist function) and SC-02, Akhmet Khan's informant/lineage beat and Karganov's parley beat collapse cleanly into Hadji Aga without losing thematic content."
+      },
+      "justification": "Hadji Murad abandoned Shamil, abandoned his own kunak-oath when he ran to the Russians — he broke the bond first, so I owe him only the blade he taught me to carry.",
+      "arc_notes_first2": []
+    },
+    {
+      "char": "Butler",
+      "role": "supporting",
+      "first_mention": "chunk_076",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Butler",
+        "rationale": "Butler is the canonical Russian-officer POV of Section 22 (24 mentions, sustained arc); Freze and Petrovsky are sub-3-scene functional duplicates (junior officer / skeptical commentator) and can be collapsed into Butler under CF-01, while Petrov is REJECTED from fusion because his independent dramatic function as the cuckolded comrade-host is load-bearing for Butler's restraint subplot."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_076: ...eaks that played with the light like diamonds.  At the head of the 5th Company, Butler, a tall handsome officer who had recently exchanged from the Guards, marched along in a black coat and tall cap, shouldering his sword.  He was filled with a buoyant sense of the joy of living, the danger of death...",
+        "Chunk chunk_077: ...-- and tore up the ground in the field by the roadside.  \"It's beginning,\" said Butler with a bright smile to a comrade who was walking beside him.  And so it was.  After the shell a thick crowd of mounted Chechens appeared with their banners from under the shelter of the forest.  In the midst of th..."
+      ]
+    },
+    {
+      "char": "Shamil",
+      "role": "antagonist",
+      "first_mention": "chunk_044",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Shamil is a historical anchor (per style manifest: 'Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable') and the singular off-stage antagonist whose sacred-political duality is the structural counterpoint to Tsar Nicholas — fusing him erases the central anti-imperial mirror of the work."
+      },
+      "justification": "Hadji Murad was my best warrior and now he runs to the infidel — he dies or he returns, no third path is possible, for if I show mercy to the deserter the mountain itself will follow him.",
+      "arc_notes_first2": [
+        "Chunk chunk_044: ...f so important a man, he went on, addressing the interpreter:  \"Akhmet Khan and Shamil are both my enemies.  Tell the prince that Akhmet Khan is dead and I cannot revenge myself on him, but Shamil lives and I will not die without taking vengeance on him,\" said he, knitting his brows and tightly clos...",
+        "Chunk chunk_048: ...As I feared not death, so my boy will ne'er fear it.\"     \"My mother is now in Shamil's hands,\" he added, \"and she must be rescued.\"  He remembered the fountain below the hill, when holding on to his mother's sarovary (loose Turkish trousers) he had gone with her for water.  He remembered how she h..."
+      ]
+    },
+    {
+      "char": "Nicholas I",
+      "role": "antagonist",
+      "first_mention": "chunk_063",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Nicholas I is a historical anchor and the structural apex of the imperial antagonism — he cannot be fused with any other figure without collapsing the film's anti-imperial spine; Tolstoi's Chapter 15 portrait depends on his singular, unmistakable presence."
+      },
+      "justification": "Russia is given into my hand by God; harshness toward rebels and thieves is not cruelty but the discharge of a sacred imperial duty no one else has the strength to perform.",
+      "arc_notes_first2": [
+        "Chunk chunk_063: ...He is a truly worthy man whom I trust entirely.  He also has won Hadji Murad's confidence, and through him alone -- as he speaks Tartar perfectly -- we have discussed the most delicate and secret matters.  I have consulted Tarkhanov about Hadji Murad...",
+        "Chunk chunk_064: ...d as they might have been had Chernyshov presented his report at another time.  It was half-past nine o'clock when through the mist of the cold morning (the thermometer showed 13 degrees below zero Fahrenheit) Chernyshov's fat, bearded coachman, sitting on the box of a small sledge (like the one Nic..."
+      ]
+    },
+    {
+      "char": "Chernyshov",
+      "role": "supporting",
+      "first_mention": "chunk_059",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Chernyshov is a named historical figure (CF-04 protected) with a distinct dramatic function — the bureaucratic mirror through which Nicholas's prejudice becomes imperial policy — that no other character in the novel performs; absorbing him into Vorontsov or a generic 'Imperial Aide' would erase the institutional-vs-frontier antagonism that Tolstoi sets up between Petersburg and the Caucasus."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_059: ...concluding his story.   CHAPTER XIV  On the 20th of December Vorontsov wrote to Chernyshov, the Minister of War.  The letter was in French:  \"I did not write to you by the last post, dear Prince, as I wished first to decide what we should do with Hadji Murad, and for the last two or three days I hav...",
+        "Chunk chunk_063: ...dozen horses and beaten a dozen drivers till they bled, delivered it to Prince Chernyshov who at that time was Minister of War; and on the 1st of January 1852 Chernyshov took Vorontsov's report, among other papers, to the Emperor Nicholas.  Chernyshov disliked Vorontsov because of the general respe..."
+      ]
+    },
+    {
+      "char": "Akhmet Khan",
+      "role": "supporting",
+      "first_mention": "chunk_042",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Akhmet Khan is the historically anchored trigger of the entire main plot — his denunciation of HM over the turban is the direct cause of HM's defection to Shamil and thus of the film's premise; collapsing him into Hadji Aga or Mahomet-Murza would erase the named originator of HM's tragedy and conflate two distinct narrative functions (backstory-betrayer vs. present-day executioner-kunak), violating M-03 (historically anchored) and the figurenfusion rule that fusion requires identical dramatic function."
+      },
+      "justification": "Hadji Murad is a turbaned upstart who blocked my son's marriage and courts Shamil behind Russian backs — denouncing him is the only way to protect my house and the Avar khanate from a man who serves n",
+      "arc_notes_first2": [
+        "Chunk chunk_042: ...cap draped turban-fashion -- that same turban for which, on the denunciation of Akhmet Khan, he had been arrested by General Klugenau and which had been the cause of his going ove...",
+        "Chunk chunk_044: ...d the Russians faithfully and would never have deserted them had not his enemy, Akhmet Khan, wishing to ruin him, calumniated him to General Klugenau.\"  \"I know, I know,\" said Vorontsov (though if he had ever known he had long forgotten it).  \"I know,\" he repeated, sitting down and motioning Hadji M..."
+      ]
+    },
+    {
+      "char": "Hamzad",
+      "role": "antagonist",
+      "first_mention": "chunk_048",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Hamzad is a historically anchored Imam (1832–1834), the named predecessor of Shamil and the agent of a specific recounted atrocity (the Khunzakh massacre) that supplies Hadji Murat's blood-feud motivation and defection logic; like Shamil and Vorontsov he is an anchor figure and cannot be fused without erasing the causal chain that makes HM's switch to the Russians intelligible."
+      },
+      "justification": "The Khans bargained with the infidel and threatened the Ghazavat; under God's law their lives were already forfeit, and a single treacherous act in my tent saves a thousand believers from Russian chai",
+      "arc_notes_first2": [
+        "Chunk chunk_048: ..., and went on like that till the time when Kazi-Mulla, the Imam, was killed and Hamzad succeeded him.  Hamzad sent envoys to the Khans to say that if they did not join the...",
+        "Chunk chunk_049: ..., and went on like that till the time when Kazi-Mulla, the Imam, was killed and Hamzad succeeded him.  Hamzad sent envoys to the Khans to say that if they did not join the Ghazavat he would destroy Khunzakh.  \"This needed consideration.  The Khans feared the Russians, but were also afraid to join in..."
+      ]
+    },
+    {
+      "char": "Meller-Zakomelsky",
+      "role": "Minor",
+      "first_mention": "chunk_029",
+      "fusion_decision": {
+        "verdict": "FUSE",
+        "merge_into": "Kozlovsky",
+        "rationale": "Both are mid-tier Russian generals functioning as bureaucratic chain-of-custody figures over Hadji Murat with no independent dramatic action; collapsing them into a single Composite-Russian-Frontline-Officer (canonical: Kozlovsky) preserves the jurisdictional-friction beat (offended by not being informed first) while eliminating a redundant rank-tier per CF-01 and CF-09."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_029: ...spring several times, listened, and nodded his head approvingly.  After dinner, Meller-Zakomelsky's aide-de-camp was announced.  The aide-de-camp informed the prince that the general, having heard of Hadji Murad's arrival, was highly displeased that this had not been reported to him, and required Ha...",
+        "Chunk chunk_031: ...that he would be able to demand much from them.  He also understood that though Meller-Zakomelsky was the commanding officer, he had not as much influence as his subordinate Vorontsov, and that Vorontsov was important and Meller-Zakomelsky unimportant; and therefore when Meller- Zakomelsky sent for..."
+      ]
+    },
+    {
+      "char": "Major Petrov",
+      "role": "supporting",
+      "first_mention": "chunk_079",
+      "fusion_decision": {
+        "verdict": "REJECT",
+        "merge_into": null,
+        "rationale": "Petrov is the load-bearing commandant figure of the Butler / fort-life vignette (Section 22 strand) and the husband whose dissolution gives Marya Dmitrievna her dramatic ground; fusing him with Poltoratsky, Bogdanovich, or Serogin would either flatten the frontier-rot theme into one generic officer or destroy the only domestic Russian household in the script."
+      },
+      "justification": "",
+      "arc_notes_first2": [
+        "Chunk chunk_079: ...agers are, Fagers are!\"  Butler rode beside the officer next in rank above him, Major Petrov, with whom he lived, and he felt he could not be thankful enough to have exchanged from the Guards and come to the Caucasus.  His chief reason for exchanging was that he had lost all he had at cards and was...",
+        "Chunk chunk_107: ...hich the regimental singers performed and which ended up with a drinking bout.  Major Petrov, very drunk and no longer red but ash pale, sat astride a chair and, drawing his sword, hacked at imaginary foes, alternately swearing and laughi..."
+      ]
+    }
+  ]
+}

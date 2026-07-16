@@ -1,0 +1,119 @@
+{
+  "canonical_name": "Hadji Murad",
+  "role": "Protagonist",
+  "basic_data": {
+    "age_estimate": "mid-forties (historical figure, late 1851 setting)",
+    "origin": "Avar highlands, North Caucasus",
+    "social_status": "Naib under Shamil — high-ranking military-religious commander; famous warrior; currently fugitive reduced to one murid",
+    "physical_signature": "Prominent cheekbones and a slight limp when walking — the limp betrays every covert movement; the cheekbones catch torchlight in interiors and are unmistakable even when his face is wrapped in the hood of his burka. For casting: the actor must carry a measured, weight-shifted gait that never fully hides the injury, paired with a still, hawk-like face that moves only at the eyes."
+  },
+  "psychology": {
+    "want": "To reach the Russians alive, secure their protection, and use their power to free his family from Shamil and return to take revenge — a concrete, operational goal driving every scene.",
+    "need": "To recognize that no sovereign — neither Shamil nor the Tsar — will treat him as a man rather than an instrument; his need is the acceptance of sovereign solitude, the warrior's dignity that does not depend on a patron.",
+    "fear": "That his family (mother, wives, sons) will be seized or killed by Shamil before he can act — and beneath that, the fear of dying as a pawn in another man's war.",
+    "contradiction": "A legendary warrior who travels disguised and silent; a man of Islamic devotion who prepares to ally with Christian occupiers; a commander who commands murids yet defers with reverence to an old apiarist and accepts indirect answers without pressing.",
+    "justification": null
+  },
+  "arc": {
+    "act_1_start": "Famous naib reduced to fugitive — arrives at night in a hostile aoul with one murid, still carrying the posture and authority of command but stripped of banner and escort. Believes strategy and alliance can save his family.",
+    "act_2_change": "Enters Russian orbit — courted, watched, measured. Learns that the Russian court treats him as a trophy, not an ally; that Vorontsov's courtesy and Nikolaus's indifference are two faces of the same empire. Family remains hostage; every diplomatic path narrows.",
+    "act_3_end": "Breaks out in a final ride — chooses death in motion over captivity in either court. Dies outnumbered, severed from both worlds, having refused to be anyone's instrument. Head paraded; legend intact; man erased.",
+    "arc_type": "Fall"
+  },
+  "voice_profile": {
+    "voice_description": "Hadji Murad speaks in short, functional sentences — every word is an action or a probe, never ornament. His register moves between the ritualized formality of Islamic and Chechen greeting (elevated, cadenced, near-liturgical) and the clipped imperative of a commander assigning a task. Silence is his primary rhetorical tool: he listens with his eyes on the door, and when he speaks it is to decide.",
+    "vocabulary_level": "Formal-plain. Educated in religious and military tradition, not in courtly rhetoric. Uses Chechen and Arabic-Islamic formulas (Selaam aleikum, Ne habar, Habar yok) in greetings and questions. Archaic second person in English rendering (thou, thy, canst) for gravitas; no abstract, sentimental, or introspective vocabulary.",
+    "sentence_structure": "Average 5–10 words. Predominantly declarative and imperative. Questions are direct and singular (never compound). Fragments appear under pressure. Almost never uses subordinate clauses — thought moves by juxtaposition, not by hinging.",
+    "verbal_tics": [
+      "Opens exchanges with ritual greeting before any content ('Selaam aleikum', 'May thy sons live')",
+      "Asks 'Ne habar?' (Is there anything new?) as standing probe for intelligence",
+      "Introduces subordinates by function and name in one beat ('My murid. Eldar is his name.')",
+      "'Now we must —' as pivot from listening to decision",
+      "Nods once instead of acknowledging verbally"
+    ],
+    "avoidances": [
+      "Never explains his feelings — no 'I am afraid', 'I am tired', 'I miss'",
+      "Never complains about Shamil, the Russians, or fate — grievance is beneath a naib",
+      "Never uses abstract or philosophical language ('freedom', 'destiny', 'honor' as concepts) — honor is shown in conduct, not named",
+      "Never begs, pleads, or negotiates in emotional register — requests are framed as assignments or questions",
+      "Never interrupts an elder; never presses a host who has signaled reticence",
+      "Never swears, never jokes loosely, never uses diminutives or endearments even with his murid",
+      "Never speaks of his family by name in front of strangers — they exist as silence"
+    ],
+    "emotional_expression": "Feeling is carried almost entirely in body and tempo: the slight limp, a hand closing on the hilt of the sword, closed eyes during prayer, listening past the speaker to sounds outside the door. Verbal emotion appears only as compression — a shortened sentence, a pivot mid-exchange, a name spoken once. Love and grief for his family surface only in ritual phrasing ('May thy sons live') displaced onto others.",
+    "speech_rhythm": "Measured with sudden accelerations. Long stillnesses of listening, then a cluster of imperative sentences that resolve a decision. Never hectic, never meandering.",
+    "subtext_rules": {
+      "when_he_says_Ne_habar_he_means": "Is Shamil's hand already on my family, and is this house still safe for me tonight?",
+      "when_he_nods_slightly_he_means": "I have heard what you refused to say, and I will not force you to say it.",
+      "when_he_greets_formally_he_means": "I am placing myself under the protection of your hearth; betrayal of me is now betrayal of your house.",
+      "when_he_gives_an_order_without_preamble_he_means": "The situation is worse than I will tell you; act now so I do not have to explain why.",
+      "when_he_falls_silent_mid_conversation_he_means": "I am listening for horses; continue talking so the room sounds normal.",
+      "when_he_speaks_of_the_Russians_as_a_destination_he_means": "I have no allies left; I am choosing the lesser captor."
+    },
+    "example_dialog_lines": {
+      "neutral_everyday": "Selaam aleikum. Ne habar?",
+      "under_pressure": "Now we must send a man with a letter to the Russians. My murid will go. He will need a guide.",
+      "hopeful_joyful": "May thy sons live, and thy house stand after thee.",
+      "angry_hurt": "Shamil has my mother. He has my wives. He has my sons. I do not need to hear more.",
+      "vulnerable_honest": "I have ridden with a banner and fifty murids. Tonight I ride with one. A man learns what he is when the banner is down."
+    }
+  },
+  "relationships": [
+    {
+      "with": "Shamil",
+      "type": "former sovereign turned mortal threat",
+      "quality": "Subordinate-in-rebellion. Reverence for the Imamate collides with the certainty that Shamil will kill his family to break him.",
+      "power_dynamic": "Shamil holds the hostages; Hadji Murad holds his own legend and his sword. Asymmetric — Shamil can act, Hadji Murad can only move.",
+      "register_shift": "Never names Shamil casually; when forced to speak of him, uses the title, not the man. Tone flattens to pure operational language."
+    },
+    {
+      "with": "Eldar (murid)",
+      "type": "commander to loyal murid",
+      "quality": "Bond of function and faith; Eldar is introduced with a single sentence and positioned with a glance.",
+      "power_dynamic": "Absolute authority, absolutely trusted; Eldar obeys without verbal order.",
+      "register_shift": "Shortest possible sentences, imperatives, no softening."
+    },
+    {
+      "with": "Sado (kunak / host)",
+      "type": "guest-friend under oath of hospitality",
+      "quality": "Mutual obligation: Sado shelters at mortal risk; Hadji Murad honors Sado's counsel by listening fully and acting on it.",
+      "power_dynamic": "Equal — host and warrior-guest; sacred parity under the law of kunachestvo.",
+      "register_shift": "Ritualized greeting, attentive silence, approving nod; direct but never commanding."
+    },
+    {
+      "with": "Old apiarist (elder informant)",
+      "type": "younger warrior to elder of the village",
+      "quality": "Deferential: performs prayer beside him, accepts evasive answers, does not press.",
+      "power_dynamic": "Elder holds moral authority; Hadji Murad holds rank but bows his posture.",
+      "register_shift": "Elevated, liturgical, patient; questions singular and soft."
+    },
+    {
+      "with": "Vorontsov (Russian patron, anticipated)",
+      "type": "fugitive warrior to imperial governor",
+      "quality": "Strategic alliance-in-offering; mutual use dressed as mutual respect.",
+      "power_dynamic": "Vorontsov holds the empire's machinery; Hadji Murad holds intelligence and legend. Courteous parity on the surface, captivity underneath.",
+      "register_shift": "Most formal register, ritual compliments translated through an interpreter, no volunteered information."
+    },
+    {
+      "with": "Bata (local guide)",
+      "type": "commander to instrument",
+      "quality": "Purely functional; assessed in one question.",
+      "power_dynamic": "Transactional authority.",
+      "register_shift": "Immediate task-framing, no preamble: 'Canst thou conduct my murid to the Russians?'"
+    },
+    {
+      "with": "Woman of the house",
+      "type": "guest to hostess under Islamic etiquette",
+      "quality": "Formal, minimal, reciprocal; she is a presence of the hearth, not an interlocutor.",
+      "power_dynamic": "Ritualized — her hospitality binds him; his greeting honors the house.",
+      "register_shift": "Single ceremonial line, eyes averted, no further address."
+    },
+    {
+      "with": "Family (mother, wives, sons) — offstage",
+      "type": "hostages; the absent center of every action",
+      "quality": "Unspoken. They drive every decision and appear in dialogue only as silence or as displaced blessings onto other men's sons.",
+      "power_dynamic": "They are the gravity; he is the orbit.",
+      "register_shift": "He never names them aloud in company. When alone or broken, their names are the only words that would come."
+    }
+  ]
+}

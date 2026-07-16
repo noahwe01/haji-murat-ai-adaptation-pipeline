@@ -1,0 +1,212 @@
+{
+  "characters_found": [
+    {
+      "name": "hadji_murad",
+      "direct_quotes": [
+        "My murid. Eldar is his name.",
+        "Very well. Now we must send a man with a letter to the Russians. My murid will go but he will need a guide.",
+        "Canst thou conduct my murid to the Russians?"
+      ],
+      "speech_descriptors": [
+        "said Hadji Murad",
+        "he said (introducing Eldar)",
+        "immediately asked (without wasting a single word)"
+      ],
+      "actions": [
+        "Introduces Eldar to the old man as his murid",
+        "Listens absently to the old man, looking at the door and listening to sounds outside",
+        "Listens with attention and nods approvingly when Sado speaks",
+        "After Sado finishes, proposes sending a letter to the Russians via his murid",
+        "Greets Bata upon his arrival",
+        "Asks Bata without delay whether he can guide his murid to the Russians"
+      ],
+      "inner_states": [
+        "Distracted and vigilant — listening to sounds outside rather than the old man's story",
+        "Alert to external threats (Shamil's order to seize him)",
+        "Approves of Sado's report; quickly pivots to action (sending letter to Russians)"
+      ],
+      "social_markers": [
+        "Commander figure — others defer to him",
+        "Economical with words — no small talk, purely functional speech",
+        "Has murids (followers), indicating religious/military leadership status",
+        "Strategic thinker — immediately plans contact with Russians upon hearing Shamil's threat"
+      ],
+      "relationship_dynamics": [
+        {"with": "eldar", "quality": "commander to loyal murid; introduces him authoritatively"},
+        {"with": "sado", "quality": "kunak (guest-friend); listens attentively, approves of his counsel"},
+        {"with": "old_man_(apiarist)", "quality": "polite guest; listens but is mentally elsewhere"},
+        {"with": "bata", "quality": "direct and businesslike; wastes no words in assigning him a task"}
+      ],
+      "new_info": [
+        "Plans to send a letter to the Russians — first concrete strategic action shown",
+        "His murid (Eldar) is designated as the messenger to the Russians",
+        "He needs a local guide (Bata) for this mission, indicating unfamiliarity with the terrain or danger of traveling alone"
+      ]
+    },
+    {
+      "name": "eldar",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Enters the saklya as Hadji Murad's murid (newcomer)",
+        "Sits down on felt beside Hadji Murad after being motioned by the old man",
+        "Sits cross-legged, fixing his eyes on the old man who is speaking"
+      ],
+      "inner_states": [
+        "Attentive — fixes his 'fine ram-like eyes' on the old man; watchful presence"
+      ],
+      "social_markers": [
+        "Murid (follower/disciple) of Hadji Murad",
+        "Young, physically striking (fine ram-like eyes)",
+        "Silent and obedient — takes assigned seat without a word"
+      ],
+      "relationship_dynamics": [
+        {"with": "hadji_murad", "quality": "devoted murid; completely deferential, follows instructions implicitly"},
+        {"with": "old_man_(apiarist)", "quality": "respectful newcomer; sits where directed and listens"}
+      ],
+      "new_info": [
+        "Formally named and introduced for the first time: 'Eldar is his name'",
+        "Designated by Hadji Murad as the messenger who will carry the letter to the Russians"
+      ]
+    },
+    {
+      "name": "sado",
+      "direct_quotes": [
+        "In my house, no one shall injure my kunak while I live, but how will it be in the open fields?...We must think it over.",
+        "I will send brother Bata.",
+        "Go and call Bata."
+      ],
+      "speech_descriptors": [
+        "said Sado",
+        "he added, turning to his son"
+      ],
+      "actions": [
+        "Enters the saklya (steps heard under penthouse before he enters)",
+        "Takes off wooden slippers at the door",
+        "Pushes old worn cap to back of head",
+        "Squats down in front of Hadji Murad",
+        "Lifts palms upward, repeats a prayer, strokes face downward before speaking",
+        "Reports Shamil's order to seize Hadji Murad alive or dead",
+        "Reports that Shamil's envoys left the day before",
+        "Warns that the people fear to disobey Shamil",
+        "Declares his house safe for Hadji Murad as kunak but expresses concern for open fields",
+        "Volunteers his brother Bata as a guide",
+        "Directs his son to fetch Bata"
+      ],
+      "inner_states": [
+        "Loyal to kunak-obligation — emphatic that no one shall harm Hadji Murad under his roof",
+        "Pragmatically worried about safety beyond his house — 'We must think it over'",
+        "Acts with deliberate ritual (prayer before speaking), suggesting gravity of the situation"
+      ],
+      "social_markers": [
+        "Chechen village host, about forty years old",
+        "Small beard, long nose, black eyes",
+        "Head unshaved so long it is beginning to regrow black hair — modest/rural appearance",
+        "Follows Chechen hospitality ritual (prayer before speech)",
+        "Has a brother (Bata) and a fifteen-year-old son",
+        "Kunak relationship with Hadji Murad — strong honor obligation"
+      ],
+      "relationship_dynamics": [
+        {"with": "hadji_murad", "quality": "kunak — deeply loyal host; pledges protection within his home"},
+        {"with": "sado's_son", "quality": "father gives direct commands; son obeys instantly"},
+        {"with": "bata", "quality": "brother; trusts him to guide Eldar to the Russians"}
+      ],
+      "new_info": [
+        "Master of the house (confirmed)",
+        "Has received news of Shamil's order to seize Hadji Murad alive or dead",
+        "Shamil's envoys departed only the day before — urgency is high",
+        "Volunteers Bata (his brother) as guide for the mission to the Russians"
+      ]
+    },
+    {
+      "name": "old_man_(apiarist)",
+      "direct_quotes": [
+        "Who is he?"
+      ],
+      "speech_descriptors": [
+        "asked the old man, pointing to the newcomer",
+        "was telling how their brave fellows had caught two Russian soldiers the week before and had killed one and sent the other to Shamil in Veden"
+      ],
+      "actions": [
+        "Points to Eldar and asks who he is",
+        "Motions Eldar to a place on felt beside Hadji Murad",
+        "Tells story of brave fellows catching two Russian soldiers the week before (killing one, sending other to Shamil)"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Elder figure — authority to seat guests",
+        "Chechen, connected to armed resistance (speaks approvingly of capturing Russian soldiers)",
+        "Storyteller/informant role in the gathering"
+      ],
+      "relationship_dynamics": [
+        {"with": "eldar", "quality": "host authority; motions him to a seat after identifying him"},
+        {"with": "hadji_murad", "quality": "shows deference by seating his murid; converses with him"}
+      ],
+      "new_info": [
+        "Provides context: local Chechen fighters recently captured two Russian soldiers — one killed, one sent to Shamil in Veden"
+      ]
+    },
+    {
+      "name": "sado's_son",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "Enters with his father Sado and sits down by the door",
+        "Instantly bounds to his feet when Sado tells him to call Bata",
+        "Leaves the saklya swinging his arms rapidly",
+        "Returns approximately ten minutes later with Bata"
+      ],
+      "inner_states": [
+        "Energetic, spring-like physical presence — described as 'on springs'"
+      ],
+      "social_markers": [
+        "Fifteen years old",
+        "Sado's son — established in earlier chunk",
+        "Obedient and fast-moving; acts as errand-runner for his father"
+      ],
+      "relationship_dynamics": [
+        {"with": "sado", "quality": "obedient son; responds instantly to father's commands"},
+        {"with": "bata", "quality": "fetches him on errand; no other interaction shown"}
+      ],
+      "new_info": [
+        "Acts as the physical messenger who fetches Bata — confirms his utility role in the household"
+      ]
+    },
+    {
+      "name": "bata",
+      "direct_quotes": [
+        "I can. I can c..."
+      ],
+      "speech_descriptors": [
+        "gaily replied Bata"
+      ],
+      "actions": [
+        "Arrives at the saklya brought by Sado's son",
+        "Greets Hadji Murad (greeted in return)",
+        "Replies willingly to Hadji Murad's question about guiding his murid"
+      ],
+      "inner_states": [
+        "Willing, confident, cheerful — replies 'gaily'"
+      ],
+      "social_markers": [
+        "Sado's brother",
+        "Sinewy, short-legged Chechen",
+        "Burnt almost black by the sun — outdoor/active lifestyle",
+        "Wearing worn and tattered yellow Circassian coat with frayed sleeves, crumpled black leggings — modest/poor appearance",
+        "Local guide — knows the terrain and routes to Russian positions"
+      ],
+      "relationship_dynamics": [
+        {"with": "sado", "quality": "brother; trusted enough to be sent on a dangerous mission"},
+        {"with": "hadji_murad", "quality": "respectful; greeted and quickly assigned a task"},
+        {"with": "eldar", "quality": "will serve as guide — task relationship, no personal interaction yet shown"}
+      ],
+      "new_info": [
+        "Introduced for the first time in this chunk",
+        "Sado's brother",
+        "Will guide Eldar to the Russian lines with Hadji Murad's letter",
+        "Physically distinctive: sun-darkened, sinewy, worn clothing",
+        "Replies cheerfully — suggests fearlessness or willingness around danger"
+      ]
+    }
+  ]
+}

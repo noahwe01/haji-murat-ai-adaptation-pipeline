@@ -1,0 +1,544 @@
+{
+  "scenes": [
+    {
+      "scene_id": "S003",
+      "speakability_score": 92,
+      "performance_range": 88,
+      "rhythm_score": 90,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "SADO",
+          "line": "The hares keep debating how to drive away the eagles. The Russians burned the hay in Mitchit. May their faces be torn.",
+          "why": "Three simultaneous readings: complaint, warning, accusation — and the proverb lands differently depending on whether Sado is frightened or defiant"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "Who tends your animals tonight?",
+          "why": "Ostensibly pastoral; actually: 'have you secured the perimeter?' — an actor can play concern, suspicion, or tactical calculation"
+        },
+        {
+          "character": "ELDAR",
+          "line": "Inshallah.",
+          "why": "Single word carrying surrender, faith, and readiness simultaneously — actor controls which"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'My son. He knows.' — a full beat where Hadji Murad registers that Sado has already prepared his son for death. No line needed.",
+        "After 'Habar yok.' — the silence before the fire-talk lets the audience feel the unspoken weight of what Sado already knows"
+      ]
+    },
+    {
+      "scene_id": "S005",
+      "speakability_score": 94,
+      "performance_range": 86,
+      "rhythm_score": 91,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "A rope should be long. A speech — short.",
+          "why": "Proverb-as-dismissal: can be cold correction, sardonic wit, or a test of Bata's ego — three actor readings"
+        },
+        {
+          "character": "BATA",
+          "line": "Then I'll hold my tongue.",
+          "why": "Acceptance, wounded pride, or calculated submission — all three live in this single beat"
+        },
+        {
+          "character": "SADO",
+          "line": "Eat first. The road does not leave before morning.",
+          "why": "Hospitality as protest — Sado is both calming the room and asserting that this house still has its own rhythm"
+        }
+      ],
+      "silence_opportunities": [
+        "After Hadji Murad recites the meeting point — a beat where Bata absorbs the instructions. Cutting this silence makes the mission feel rushed."
+      ]
+    },
+    {
+      "scene_id": "S006",
+      "speakability_score": 91,
+      "performance_range": 82,
+      "rhythm_score": 88,
+      "dead_lines": [
+        {
+          "character": "SADO",
+          "line": "It shall be done.",
+          "issue": "single_interpretation",
+          "rewrite": "It is done. (present tense collapses the distance between promise and deed — more in Sado's register)"
+        }
+      ],
+      "alive_lines": [
+        {
+          "character": "SADO",
+          "line": "Our honey is good. This year above all others — plentiful and good.",
+          "why": "Non-sequitur that carries enormous freight: peace, normalcy, the house as sanctuary — actor can play oblivious host or heartbroken man making the best of it"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "I thank thee.",
+          "why": "Two syllables covering the note, the house, the honey, the risk of his host's life — the less the actor explains, the more it lands"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'To be handed to my son.' — the weight of the note as object. Sado should hold it a beat before asking where to send it."
+      ]
+    },
+    {
+      "scene_id": "S008",
+      "speakability_score": 96,
+      "performance_range": 84,
+      "rhythm_score": 94,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "PANOV",
+          "line": "What a smart lad you are, Avdeev.",
+          "why": "Can be genuine warmth, gentle sarcasm, or the older soldier recognizing the younger as someone worth keeping alive — all three are true"
+        },
+        {
+          "character": "AVDEEV",
+          "line": "That'll be as the company decides.",
+          "why": "Deflection that can read as cowardice, wisdom, loyalty, or exhaustion — the actor's pause before 'company' makes it"
+        }
+      ],
+      "silence_opportunities": [
+        "Before Avdeev finds the stem — a beat of Panov rummaging while Avdeev watches. Physical comedy that needs no line."
+      ]
+    },
+    {
+      "scene_id": "S009",
+      "speakability_score": 90,
+      "performance_range": 91,
+      "rhythm_score": 86,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "AVDEEV",
+          "line": "Panov... do you ever feel dull?",
+          "why": "The ellipsis is the scene — everything Avdeev cannot say lives in the pause before 'do you'"
+        },
+        {
+          "character": "AVDEEV",
+          "line": "I do. Sometimes so dull I don't know what I might not do to myself. That time I drank all the money — that was from it. It took hold of me till I thought: I'll just get blind drunk.",
+          "why": "The longest line in the scene — its length is the point; the confession accelerates because stopping it would be worse. Actor can crack on 'to myself' or hold until 'blind drunk'. Either reading works."
+        },
+        {
+          "character": "PANOV",
+          "line": "Sometimes drinking makes it worse.",
+          "why": "The most loaded understatement in the screenplay — acknowledgment, deflection, solidarity, and failure all at once"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'Sometimes drinking makes it worse.' — the silence where Avdeev decides whether to say more. He doesn't. The darkness is complete.",
+        "After 'Dull, why?' — Panov's question lands too quickly; a half-beat of not-knowing-what-to-say before Avdeev confesses would heighten the intimacy"
+      ]
+    },
+    {
+      "scene_id": "S016",
+      "speakability_score": 93,
+      "performance_range": 87,
+      "rhythm_score": 92,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "SADO",
+          "line": "Listen. A woman from her roof saw you. The aoul knows. The Elders have gone to the mosque. They mean to keep you here.",
+          "why": "Four staccato clauses of escalating disaster, each landing like a separate blow — the actor controls pace, deciding when Sado's own terror enters"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "It is well. I must be off.",
+          "why": "Absolute calm that can read as courage, resignation, or the calm of a man who has already decided to die if necessary"
+        },
+        {
+          "character": "ELDAR",
+          "line": "And — ready.",
+          "why": "The dash is the character. 'And' connects Sado's hospitality to what comes next. Actor can deliver this as a whisper, a statement, or a question-answered-before-asked"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'My house is your house. The horses are saddled.' — the beat where Hadji Murad and Sado recognize this is a farewell, even if they don't say it"
+      ]
+    },
+    {
+      "scene_id": "S034",
+      "speakability_score": 82,
+      "performance_range": 85,
+      "rhythm_score": 80,
+      "dead_lines": [
+        {
+          "character": "MELLER-ZAKOMELSKY",
+          "line": "I have not served twenty-seven years so that men who began yesterday, relying on family connections, should act under my nose.",
+          "issue": "too_long_for_single_breath",
+          "rewrite": "Twenty-seven years, Simon. Twenty-seven. And you — what, six? — acting under my nose because your uncle writes to Petersburg."
+        }
+      ],
+      "alive_lines": [
+        {
+          "character": "SIMON VORONTSOV",
+          "line": "Your Excellency, I ask you not to say things that are not correct.",
+          "why": "Diplomatic refusal that is simultaneously a threat — the phrasing 'things that are not correct' rather than 'lies' is the class tell"
+        },
+        {
+          "character": "MELLER-ZAKOMELSKY'S WIFE",
+          "line": "Come, Baron — Simon did not wish to displease you. You know what they say: a bad peace is worth more than a good quarrel.",
+          "why": "The proverb is her real weapon — it ends the scene and also positions her as the room's actual power"
+        }
+      ],
+      "silence_opportunities": [
+        "After Meller-Zakomelsky's accusation — Simon should take one beat before answering. His speed exposes his guilt even as he denies it."
+      ]
+    },
+    {
+      "scene_id": "S036",
+      "speakability_score": 88,
+      "performance_range": 95,
+      "rhythm_score": 87,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "AVDEEV",
+          "line": "Serogin... write so. 'Your son Peter has given orders that you should live long. He envied his brother — I told you about that today — and now he is himself glad. Don't worry him. Let him live. God grant it. I am glad.' Write that.",
+          "why": "The dictated letter is simultaneously a lie, a prayer, a correction, and a farewell — the interpolated clause 'I told you about that today' is the crack in the armor; the actor who finds it breaks the room"
+        },
+        {
+          "character": "AVDEEV",
+          "line": "And your pipe — did you find it, brother?",
+          "why": "The smallest possible retreat from the largest possible truth — can play tender, ironic, delirious, or heartbreaking"
+        },
+        {
+          "character": "AVDEEV",
+          "line": "Well then. Give me a candle to hold. That's how it is.",
+          "why": "Resignation made ritual — three readings: peace, defeat, or the formal closing of an account. 'That's how it is' lands differently depending on which syllable the actor emphasizes"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'Write that.' — the silence where Serogin lifts the pen and Panov realizes Avdeev is already composing his own epitaph",
+        "After 'Give me a candle to hold.' — the flame as the last image; the scene can end here without the final 'That's how it is' if a director wants to trust the image"
+      ]
+    },
+    {
+      "scene_id": "S044",
+      "speakability_score": 89,
+      "performance_range": 92,
+      "rhythm_score": 85,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "Vorontsov. Shamil is my enemy and yours. I will serve in faith to the last drop. Allah knows.",
+          "why": "The surname alone as address — no title, no Your Excellency — is a political declaration before the first sentence. 'Allah knows' as closure shuts the door on any Russian counterproposal"
+        },
+        {
+          "character": "MICHAEL VORONTSOV",
+          "line": "Mon cher Hadji Murad. Such resolve, one might suppose, deserves a resolve to match it. Quite, quite.",
+          "why": "The double 'Quite, quite' is either approval or dismissal — the actor decides which, and the scene meaning turns on it"
+        },
+        {
+          "character": "MICHAEL VORONTSOV",
+          "line": "I shall write to Petersburg, mon ami. You are entirely free here, of course. Is it not so?",
+          "why": "'Is it not so?' turns on whether Vorontsov means it as a question to HM or to his staff — the line is a cage described as a courtesy"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'My mother. My wives. My son Yusuf. They are in the imam's hand.' — Vorontsov should not answer immediately. The silence is his answer.",
+        "After Prince Tarkhanov translates — the moment where HM watches Vorontsov's face for the real reaction before the diplomatic response comes"
+      ]
+    },
+    {
+      "scene_id": "S048",
+      "speakability_score": 88,
+      "performance_range": 90,
+      "rhythm_score": 83,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "My mother nursed the Khan's sons. She reared Umma Khan. When I was born — when the Khansha bore Bulach Khan — my father ordered her to go again as wet-nurse. She refused. She said: I should again kill my own son, and I will not go.",
+          "why": "The embedded reported speech ('She said: ...') is the scene's revelation — HM is quoting a woman he was never old enough to hear speak these words; it is received memory, not witnessed memory"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "My father struck her with a dagger.",
+          "why": "The shortest, flattest line in the scene — its emptiness is its power. Actor cannot play this big. It lands only if delivered as fact."
+        }
+      ],
+      "silence_opportunities": [
+        "After 'My father struck her with a dagger.' — Loris-Melikov should not fill this silence. The note about the song should come only after HM has had his pause.",
+        "The whole scene benefits from longer pauses between HM's sentences — he is not narrating for the Russian's benefit; he is recalling for his own"
+      ]
+    },
+    {
+      "scene_id": "S049",
+      "speakability_score": 90,
+      "performance_range": 89,
+      "rhythm_score": 88,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "My white bosom was pierced by bright steel — but I laid my dear boy close upon it, till his body was bathed in my blood. She did not fear death. She taught me the same.",
+          "why": "Recitation of the mother's song — the shift from 'my white bosom' (her voice) to 'She did not fear death' (his voice) should register in the actor's body; the seam is the most alive moment in the speech"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "Shamil threw him over a cliff. But that came later.",
+          "why": "The parenthetical 'But that came later' — casual register for a murder — signals that HM has normalized so much death that he files it by sequence. Devastating if delivered flat."
+        }
+      ],
+      "silence_opportunities": [
+        "After 'She is in Shamil's hands now. She must be rescued.' — the declarative with no qualifier. Loris-Melikov should write in silence; the pen-scratch is the only sound needed here."
+      ]
+    },
+    {
+      "scene_id": "S050",
+      "speakability_score": 87,
+      "performance_range": 88,
+      "rhythm_score": 84,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "Near Tselmess. A murid. I shot him. He was still alive when I came to take his weapons. He looked at me and said — 'Thou hast killed me. I am happy. But thou art a Mussulman. Join the Ghazavat. God wills it.'",
+          "why": "The dying man's blessing is the scene's wound — the quote inside the quote asks the actor to voice both the witness and the witnessed; the tense shift ('he looked at me and said') must land as still-present"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "I did not. But it made me think.",
+          "why": "The most understated line in the screenplay about a man's entire religious and political life — 'it made me think' is either the most honest thing HM says or the most evasive"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'No. There was another reason.' — HM should not continue immediately; the pause tells Loris-Melikov (and the audience) this is the real wound"
+      ]
+    },
+    {
+      "scene_id": "S053",
+      "speakability_score": 94,
+      "performance_range": 93,
+      "rhythm_score": 92,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "I was seized with fear. I ran away.",
+          "why": "Spoken by a man who has never admitted anything like this — the four-word second sentence is either the confession of a lifetime or the first breath after a long drowning; both readings require stillness"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "Never after that. Since then I have always remembered that shame — and when I recalled it, I feared nothing.",
+          "why": "The logic is exact and strange: shame as armor. An actor who plays this as pride misses it; it is a clinical autopsy of the self"
+        },
+        {
+          "character": "LORIS-MELIKOV",
+          "line": "It is a good watch. Pray, then. I will wait.",
+          "why": "The most generous line Loris-Melikov speaks in the screenplay — 'I will wait' can be professional patience, genuine respect, or the first moment he forgets he is filing a report"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'It is time for me to pray.' — Loris-Melikov should not speak for a full beat; the scene is over and both men know it; the watch-gift then fills the silence instead of words"
+      ]
+    },
+    {
+      "scene_id": "S055",
+      "speakability_score": 93,
+      "performance_range": 82,
+      "rhythm_score": 90,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "KHAN MAHOMA",
+          "line": "For you, Gamzalo, stones are enough. Allah gave you a simple appetite.",
+          "why": "Joke-as-wound: Khan Mahoma is testing whether Gamzalo can be reached; the actor playing Gamzalo decides if this lands or bounces"
+        },
+        {
+          "character": "KHAN MAHOMA",
+          "line": "Both of you. Like stones. Inshallah.",
+          "why": "The resignation in 'Inshallah' here — used as punctuation, not prayer — is the loneliness of the scene made audible"
+        }
+      ],
+      "silence_opportunities": [
+        "After Eldar exits to the horses — the silence between Khan Mahoma and Gamzalo before Gamzalo's final line is the scene; every prior exchange was preamble to this refusal to connect"
+      ]
+    },
+    {
+      "scene_id": "S056",
+      "speakability_score": 95,
+      "performance_range": 88,
+      "rhythm_score": 91,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "GAMZALO",
+          "line": "No.",
+          "why": "The shortest possible word as the most complete possible answer — an actor who delivers this as aggression misses it; it is indifference, which is harder to act and more frightening to watch"
+        },
+        {
+          "character": "KHANEFI",
+          "line": "Two months — no shaving, no cutting of nails. Then I came. His mother gave me her breast. That is all.",
+          "why": "'That is all' — the curtain on the explanation. The actor playing Khanefi must make this the end of the conversation, not an invitation; Loris-Melikov understands that he has reached the edge of what is translatable"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'Brother — what does that mean, exactly?' — Khanefi's pause before answering should be long enough that Loris-Melikov (and the audience) fears he will not answer at all"
+      ]
+    },
+    {
+      "scene_id": "S057",
+      "speakability_score": 86,
+      "performance_range": 92,
+      "rhythm_score": 83,
+      "dead_lines": [
+        {
+          "character": "LORIS-MELIKOV",
+          "line": "Khan Mahoma — a jolly fellow. I have been in to have a talk with thy henchmen. The young one, Eldar — I liked him. Quiet. He watches the door even while he stands still.",
+          "issue": "too_long_for_single_breath",
+          "rewrite": "Khan Mahoma is good company. The young one, Eldar — I liked him. He watches the door even when he stands still."
+        }
+      ],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "Where the forelegs go, the hind legs must follow. So it was with Hamzad's house. Aseldar struck the Khansha from behind. A man who kills women from behind teaches his master the same hand. Shamil learned it well.",
+          "why": "The proverb as legal brief — HM is simultaneously explaining history, making a threat, and issuing a demand; the three-step logic only lands if the actor does not rush the connections"
+        },
+        {
+          "character": "LORIS-MELIKOV",
+          "line": "Permit me — 'where the forelegs have gone, the hind legs must follow.' Say it again, brother. I want it on the page exactly so. Not for the Prince alone — for the record itself.",
+          "why": "'Not for the Prince alone — for the record itself' is Loris-Melikov's one moment of genuine solidarity; the actor can play this as professional duty or as the first act of unofficial advocacy"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "Allah knows the rest. Shall I go on, or has the sardar heard enough for one evening?",
+          "why": "Closing the session with a question that is not a question — the 'sardar' formality signals the mood shift; HM is withdrawing behind protocol"
+        }
+      ],
+      "silence_opportunities": [
+        "After Loris-Melikov asks to have the proverb repeated — HM should pause before repeating it; the pause is his recognition that this Russian is actually listening"
+      ]
+    },
+    {
+      "scene_id": "S060",
+      "speakability_score": 96,
+      "performance_range": 90,
+      "rhythm_score": 95,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "On the seventh day they untied me. Forty rifles. Hands bound.",
+          "why": "Three fragments with the rhythm of a military report — the actor can let the number 'Forty' land as it needs to; no emphasis required"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "I went to the right. The soldier wished to stop me. I took him with me.",
+          "why": "'I took him with me' is the sentence that rewrites the escape — not killing, not survival, but taking; the verb is HM's self-portrait in three words"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "He was killed. I, as you see, remained alive.",
+          "why": "The comma after 'I' — the pause embedded in the grammar — is where the actor lives; 'as you see' can be flat statement, black humor, or acknowledgment that survival itself is the unanswerable question"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'Permit me — your ribs.' — Loris-Melikov reaching toward HM (or stopping himself) without words; the scene ends in the body, not language"
+      ]
+    },
+    {
+      "scene_id": "S061",
+      "speakability_score": 91,
+      "performance_range": 87,
+      "rhythm_score": 89,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "HADJI MURAD",
+          "line": "I wrote that the turban was for Allah, not for Shamil. That I could not go to the Russians — I had been dishonored. A bound man was spat upon in Khunzakh. That man was me.",
+          "why": "The move from third person ('A bound man') to first person ('That man was me') is the scene's turn — the actor must land the second sentence as a reclamation, not a complaint"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "He died. I did not. It is well.",
+          "why": "'It is well' as HM's closing formula — by this scene the phrase has accumulated enough iterations that the actor can let it carry all prior meaning without restating"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'The Khan wanted me dead. A letter is a clean way to arrange it.' — the pause where Loris-Melikov decides whether to contest this or accept it; he accepts it; the silence is the acceptance"
+      ]
+    },
+    {
+      "scene_id": "S064",
+      "speakability_score": 89,
+      "performance_range": 88,
+      "rhythm_score": 85,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "LORIS-MELIKOV",
+          "line": "Save my family. Then give me a chance to serve. One month. If I bring you nothing — punish me as you see fit.",
+          "why": "Loris-Melikov quoting HM back to him — the scene's pivoting irony: the Russian now inhabits the Avar's vow, and both men know the translation is wrong"
+        },
+        {
+          "character": "HADJI MURAD",
+          "line": "That is what I said.",
+          "why": "Confirmation and correction simultaneously — 'I said it; your version empties it'; the actor playing HM can play this as resignation or controlled anger"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'Everything is in God's hands.' — Loris-Melikov should not respond immediately; the non-answer is HM's full answer and the silence makes that clear"
+      ]
+    },
+    {
+      "scene_id": "S067",
+      "speakability_score": 97,
+      "performance_range": 88,
+      "rhythm_score": 95,
+      "dead_lines": [],
+      "alive_lines": [
+        {
+          "character": "NICHOLAS I",
+          "line": "No.",
+          "why": "Single-word veto after a two-sentence lobbying speech — the ratio of Chernyshov's effort to Nicholas's response is the scene's entire meaning"
+        },
+        {
+          "character": "NICHOLAS I",
+          "line": "The Caucasus remains as it is.",
+          "why": "Five words ending a policy debate — can be delivered as boredom, confidence, or the finality of a man who has stopped thinking about consequences"
+        },
+        {
+          "character": "CHERNYSHOV",
+          "line": "It looks like Hadji Murad may be more useful inland, until his family is recovered.",
+          "why": "The euphemism 'more useful inland' — every word chosen to give the Tsar maximum deniability; the actor playing Chernyshov must know what he is actually proposing while appearing merely helpful"
+        }
+      ],
+      "silence_opportunities": [
+        "After 'No.' — Nicholas should not elaborate; Chernyshov's visible recalibration in silence tells the scene's story faster than any follow-up line"
+      ]
+    }
+  ],
+  "overall_stats": {
+    "avg_speakability": 91,
+    "avg_performance_range": 88,
+    "avg_rhythm": 88,
+    "dead_line_count": 3,
+    "alive_line_count": 47,
+    "silence_opportunities": 29
+  },
+  "best_exchange": {
+    "scene_id": "S053",
+    "characters": [
+      "HADJI MURAD",
+      "LORIS-MELIKOV"
+    ],
+    "why": "The confession of cowardice and its alchemical transformation into the engine of all subsequent courage — every line is alive, the rhythm alternates perfectly between long revelation and short acknowledgment, and the final exchange (watch / 'I will wait') earns its silence without asking for it"
+  },
+  "weakest_exchange": {
+    "scene_id": "S034",
+    "characters": [
+      "MELLER-ZAKOMELSKY",
+      "SIMON VORONTSOV"
+    ],
+    "issue": "Meller-Zakomelsky's central grievance line runs too long for a single breath and risks sounding oratorical rather than wounded; the subordinate clause structure belongs to a monologue, not a confrontation — needs surgical trimming to preserve the seniority-vs-nepotism tension without tipping into speechifying"
+  }
+}

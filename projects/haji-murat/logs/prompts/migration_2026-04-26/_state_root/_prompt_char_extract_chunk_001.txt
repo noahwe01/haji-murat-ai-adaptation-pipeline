@@ -1,0 +1,37 @@
+You are the Character Agent in extraction mode.
+You analyze a text chunk and extract ALL information about characters.
+You do not write creative text — only structured extraction.
+
+Chunk text:
+I was returning home by the fields.  It was midsummer, the hay harvest was over and they were just beginning to reap the rye.  At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains with blossoms slightly tinged with pink; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening or when growing old; and delicate almond-scented dodder flowers that withered quickly.  I gathered myself a large nosegay and was going home when I noticed in a ditch, in full bloom, a beautiful thistle plant of the crimson variety, which in our neighborhood they call "Tartar" and carefully avoid when mowing -- or, if they do happen to cut it down, throw out from among the grass for fear of pricking their hands.  Thinking to pick this thistle and put it in the center of my nosegay, I climbed down into the ditch, and after driving away a velvety bumble-bee that had penetrated deep into one of the flowers and had there fallen sweetly asleep, I set to work to pluck the flower. But this proved a very difficult task.  Not only did the stalk prick on every side -- even through the handkerchief I wrapped round my hand -- but it was so tough that I had to struggle with it for nearly five minutes, breaking the fibers one by one; and when I had at last plucked it, the stalk was all frayed and the flower itself no longer seemed so fresh and beautiful.  Moreover, owing to a coarseness and stiffness, it did not seem in place among the delicate blossoms of my nosegay.  I threw it away feeling sorry to have vainly destroyed a flower that looked beautiful in its proper place.
+
+"But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!" thought I, remembering the effort it had cost me to pluck the flower.  The way home led across black-earth fields that had just been ploughed up.  I ascended the dusty path.  The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth.  The land was well tilled and nowhere was there a blade of grass or any kind of
+
+Known characters so far:
+author-narrator, hadji_murad, eldar, sado, old_man_(apiarist), sado's_son, bata, sado's_wife, sado's_daughter, khan_mahoma, author-narrator_(i), old_man_(unnamed_host), boy_(host's_grandson/son), woman_of_the_house_(unnamed), murid_(unnamed,_single_companion), old_man's_wife, khanefi, gamzalo, panov, avdeev, nikitin, bondarenko, simon_vorontsov, marya_vasilevna, poltoratsky, baron_freze, tikhonov, vovilo, bulka, regimental_adjutant, tutor
+
+Extract for EVERY character appearing in this chunk:
+
+1. DIRECT QUOTES: Exact dialog lines from the character (verbatim speech)
+2. SPEECH DESCRIPTORS: How the character speaks ("he said quietly", "she exclaimed")
+3. ACTIONS: What the character does in this chunk
+4. INNER STATES: Thoughts, feelings, motivations (if described by the narrator)
+5. SOCIAL MARKERS: Class, education, era, region, speech register
+6. RELATIONSHIP DYNAMICS: How does the character speak/act toward different people?
+7. NEW INFORMATION: What do we learn new about the character in this chunk?
+
+Respond as JSON:
+{
+  "characters_found": [
+    {
+      "name": "...",
+      "direct_quotes": ["..."],
+      "speech_descriptors": ["..."],
+      "actions": ["..."],
+      "inner_states": ["..."],
+      "social_markers": ["..."],
+      "relationship_dynamics": [{"with": "...", "quality": "..."}],
+      "new_info": ["..."]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Sado's Son",
+  "role": "supporting",
+  "basic_data": {
+    "age": 15,
+    "origin": "Chechen aul (Caucasian mountain village), lives in Sado's saklya",
+    "social_status": "Son of Sado, grandson of the Old Man; adolescent villager, not yet a warrior",
+    "physical_signature": "Eyes black as ripe sloes that widen and spark whenever he is surprised or in awe — a fixed, staring openness of the face that reads on camera as the village's last unguarded gaze"
+  },
+  "psychology": {
+    "want": "To be noticed and trusted by Hadji Murad — to stand close to the legendary warrior and be seen as almost-a-man, not a child sent to fetch his father.",
+    "need": "To learn that hospitality and loyalty are heavier than glory — that the men he worships will cost his family everything, and that manhood means witnessing, not wielding.",
+    "fear": "That he will be dismissed as a boy — sent back inside, sent on errands — while history happens in the next room without him.",
+    "contradiction": "Idolises the fighter who has brought doom to his household; his awe grows in exact measure with the danger Hadji Murad carries across the threshold.",
+    "justification": null
+  },
+  "arc": {
+    "starting_state": "Act 1 — A wide-eyed errand-boy, astonished by the night-time arrival; sent to the mosque to fetch his father. The war is still a story told by older men.",
+    "change": "Act 2 — Hovers at the edge of the guests' circle, learns by watching: the cadence of Hadji Murad's silences, the grandfather's fury at the Russians, the murid's discipline. His reverence deepens even as the household's fear grows.",
+    "end_state": "Act 3 — Survives the reprisal that destroys the aul or loses it; left standing among the ruin, sloe-black eyes now fixed and old. He has not fired a shot; he has only seen. The war has entered him.",
+    "arc_type": "Revelation"
+  },
+  "voice_profile": {
+    "voice_description": "He speaks in short, breath-held sentences, the way adolescents speak when they are trying to sound older than they are. Chechen-inflected, formally respectful to elders and guests — every sentence leans slightly forward, as if asking permission. When awe overtakes him, syntax breaks and he drops into half-questions and fragments.",
+    "vocabulary_level": "Informal-reverent; limited vocabulary of a 15-year-old mountain villager, salted with the formal greetings and religious phrases of his elders (Salaam aleikum, inshallah). No abstractions; concrete nouns — horse, rifle, father, door.",
+    "sentence_structure": "Average 5–9 words. Mostly statements and respectful questions. Heavy use of fragments under emotional pressure. Rarely compound; almost never subordinated.",
+    "verbal_tics": [
+      "addresses elders and guests with honorifics ('Father', 'Uncle', 'Hadji')",
+      "repeats the last word of an elder's command as confirmation before running off",
+      "starts excited reports with 'He — he is —' before finding the noun"
+    ],
+    "avoidances": [
+      "never curses or blasphemes in front of elders",
+      "never contradicts his father or grandfather directly",
+      "never speaks of women outside the household",
+      "never boasts about himself — only about the men he admires",
+      "no abstract or philosophical statements"
+    ],
+    "emotional_expression": "Feelings leak through the body before the voice — widened eyes, a half-step forward, a swallowed breath. When words come they are understated ('It is him.' 'He came.') and the emotion lives in what is not said.",
+    "speech_rhythm": "Measured and respectful with elders; quick, breathy, almost stammered when excited or afraid. Alternating.",
+    "dialog_examples": {
+      "neutral_everyday": "Father is at the mosque. I will fetch him.",
+      "under_pressure": "The Russians — they are at the edge of the wood. Grandfather says come inside. Now.",
+      "hopeful_joyful": "It is him. It is really him. He is in our house, Father — Hadji Murad is in our house.",
+      "angry_hurt": "I am not a child. I can hold a rifle. Why do you always send me to the door?",
+      "vulnerable_honest": "When he looked at me, I could not speak. I wanted to tell him I would ride with him. I said nothing."
+    },
+    "subtext_rules": "When he says 'I will fetch him,' he means 'let me be useful, let me stay near this.' When he repeats an elder's words, he is asking to be trusted. When he says of Hadji Murad 'He is tired,' he means 'I am watching him the way a son watches a father.' When he falls silent in company, he is memorising — he knows, without naming it, that this night will be told for the rest of his life."
+  },
+  "relationships": [
+    {
+      "with": "Sado (Father)",
+      "type": "Father-son",
+      "quality": "Obedient, devoted; receives orders without question but watches his father for cues on how a man behaves in a crisis.",
+      "power_dynamic": "Clear hierarchy — father commands, son executes.",
+      "speech_register_shift": "Shortest, most deferential register; answers in fragments, calls him 'Father'."
+    },
+    {
+      "with": "Sado's Father (Old Man / Grandfather)",
+      "type": "Grandson-grandfather",
+      "quality": "Reverent awe; absorbs the old man's hatred of the Russians as inheritance rather than argument.",
+      "power_dynamic": "Grandfather is moral authority; boy does not interrupt.",
+      "speech_register_shift": "Most formal register; repeats commands back as confirmation."
+    },
+    {
+      "with": "Hadji Murad",
+      "type": "Awestruck observer to legend",
+      "quality": "Hero-worship; studies his posture, his weapons, his silences. Hadji Murad barely registers him, which only intensifies the boy's attention.",
+      "power_dynamic": "Total asymmetry — the boy is invisible to the man he cannot stop watching.",
+      "speech_register_shift": "Barely speaks in his presence; when he does, voice drops, sentences break."
+    },
+    {
+      "with": "Eldar and the murids",
+      "type": "Near-peer admiration",
+      "quality": "Sees in Eldar (the youngest murid) the man he wants to become — armed, trusted, silent at his master's side.",
+      "power_dynamic": "Outsider looking in; the murids treat him as a child of the house, not as a comrade.",
+      "speech_register_shift": "Tries to speak older than he is; fails charmingly."
+    }
+  ],
+  "physical_signature": "Eyes black as ripe sloes — a fixed, spark-wide gaze that the camera returns to at every threshold moment of the aul sequence; the village's witness."
+}

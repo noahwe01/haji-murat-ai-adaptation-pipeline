@@ -1,0 +1,30 @@
+ADAPTATION OUTPUT — CHUNK 002
+Hadji Murat — Novel-to-Screenplay
+Generated: 2026-04-24
+
+SOURCE: Thistle-field scene / Narrator's meditation on the Tartar thistle
+FUNCTION: Prologue / Thematic frame — the mutilated thistle as emblem of Hadji Murad
+
+---
+
+SCENE S001 — EXT. PLOUGHED FIELD — LATE AFTERNOON
+
+The narrator walks a dirt road cutting through a vast black-earth field. The earth is freshly turned — dark, wet, uniform, featureless. No grass, no flower, no plant. The field stretches to the horizon on all sides, a monoculture of human order.
+
+The narrator stops. He looks down. At the roadside: a thistle — a Tartar thistle — three branches. One branch snapped, hanging at an angle like a broken arm, its flower soiled and dragging in the dirt. A second branch bent, flower blackened. The third: upright. Twisted from the base where a cartwheel has passed over it, body torqued, but the stem holds. The flower at its tip — dark-edged, open.
+
+The narrator crouches. Studies the plant. He reaches out, touches the erect stem with one finger. It does not move. He pulls his hand back.
+
+He straightens. Looks out over the ruined black field. He turns and walks. The camera holds on the thistle — erect among the mud, alone.
+
+---
+
+DECISIONS:
+- KEEP_FRAME thistle-prologue: opening emblem, thematic anchor for entire film → NF-03, M-02
+- DISSOLVE_FRAME narrator-voice: auktorial VO cut; meditation translated to visual behavior → NF-04
+- CUT_SUBPLOT narrator-monologue: inner text translated to gesture/image; VO would duplicate image → NF-06, SC-06
+- NF-08 APPLIED: thistle frame used ONCE at opening only; no closing reprise unless Act 3 earns it
+
+---
+
+JSON OUTPUT (see below)

@@ -1,0 +1,98 @@
+{
+  "new_characters": [
+    {
+      "name": "Narrator (Tolstoy-persona)",
+      "initial_description": "First-person authorial voice walking a ploughed field, discovering a battered Tartar thistle that triggers the memory of Hadji Murad. Acts as authorial frame, not a dramatic agent.",
+      "role": "supporting"
+    },
+    {
+      "name": "Hadji Murad",
+      "initial_description": "Shamil's famed naib, riding on a cold November evening 1851 into the hostile Chechen aoul Makhmet, roughly 15 miles from Russian territory. Celebrated warrior, never rides without his banner and murid escort.",
+      "role": "protagonist"
+    },
+    {
+      "name": "Shamil",
+      "initial_description": "Offstage — imam of the Caucasian resistance; Hadji Murad is introduced explicitly as 'Shamil's naib', signaling the looming rivalry.",
+      "role": "antagonist"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Thistle-frame: narrator walks a black ploughed field, finds a mutilated but unyielding Tartar thistle. The image of vitality under destruction triggers the memory of a 'Caucasian episode' — the narrative pretext for the whole story.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Authorial meta-statement: 'partly seen myself, partly heard of from eye-witnesses, and in part imagined' — Tolstoy flags the narrative as reconstructed, positioning the film's source of truth.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Hard cut to late 1851. On a cold November evening Hadji Murad rides into Makhmet, a hostile Chechen aoul ~15 miles from Russian territory — the actual inciting entrance of the protagonist into the story.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Aoul atmosphere at dusk: muezzin's chant just ceased, kizyak smoke, cattle lowing, children and women at the fountain, guttural male argument — soundscape establishing the Chechen world Hadji Murad must move through as a marked man.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Exposition of Hadji Murad's status: Shamil's naib, famous for exploits, never rides without his banner — plants antagonistic relationship with Shamil and the warrior identity that will collide with the coming defection.",
+      "act": 1,
+      "subplot_id": "hm_rivalry_shamil"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Ploughed Field (narrator's walk)",
+      "description": "Black, freshly tilled field on a Russian estate; lifeless except for a single mutilated Tartar thistle. Frame-location only — not part of the Caucasian diegesis."
+    },
+    {
+      "name": "Makhmet (hostile Chechen aoul)",
+      "description": "Chechen village ~15 miles from Russian territory, November 1851 evening. Saklyas crowded like honeycomb cells, fountain below, scent of burning kizyak — first Caucasian setting where Hadji Murad is seen."
+    }
+  ],
+  "tension": 0.45,
+  "act_estimation": 1,
+  "filmability_score": 0.55,
+  "theme_hints": [
+    "vitality under destruction (thistle = Hadji Murad)",
+    "man-made devastation of nature and human lives",
+    "hostile ground / no safe harbor",
+    "warrior identity against imperial/theocratic power"
+  ],
+  "symbols": [
+    "Tartar thistle — mutilated but unbowed, direct visual rhyme for Hadji Murad",
+    "black ploughed field — destruction of all rivals/brothers",
+    "kizyak smoke at dusk — the Chechen world, saturating and enclosing",
+    "banner of the naib — warrior honor, visible emblem of rank"
+  ],
+  "notes": "Chunk contains the famous thistle prologue plus the very first beats of Ch. 2 (Hadji Murad's night-arrival at Makhmet). The thistle passage is pure authorial digression — non-filmable as prose but powerful as an opening image if translated to a wordless visual. Text ends mid-sentence ('who used never to ride out without his banne-') — treat the Makhmet arrival as barely-begun; co-appearing characters (Eldar, Khanefi, Khan Mahoma, Bata, Sado) not yet introduced in this slice. Graph context confirms Sado's Aoul is a weight-10 setpiece beginning from Ch. 1/4 — the Makhmet arrival here is antechamber to that. Deviation note: chunk too short to populate cuttable/refocalize beyond the frame itself.",
+  "fusion_candidates": [],
+  "cuttable": [
+    {
+      "element": "Extended thistle digression as prose (narrator's meditation on man destroying plant life)",
+      "reason": "Auktoriale Digression, non-dramatized, no character action — SS-04 / NF-04 candidate. Keep image, cut the essayistic voice."
+    },
+    {
+      "element": "Narrator's framing clause 'partly seen, partly heard, partly imagined'",
+      "reason": "Meta-commentary on narrative reliability; literary device with no filmic equivalent here. NF-04 / NF-08."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Thistle-prologue (narrator POV in Russian field)",
+      "current_pov": "First-person authorial narrator (Tolstoy-persona)",
+      "recommended_pov": "Wordless cold-open on the thistle itself — no narrator, let image carry meaning; then hard match-cut to Hadji Murad riding into Makhmet. Honors CF-08/NF-04: dissolve auctorial voice, keep visual."
+    }
+  ]
+}
+
+DECISIONS:
+- TRANSLATE_TO_VISUAL thistle_prologue: keep image as wordless cold-open, drop narrator prose → CRITERION: NF-04, SC-06
+- KEEP_FRAME thistle_opening_only: use once at opening, no closing reprise per T5.1 lesson → CRITERION: NF-08
+- CUT_SUBPLOT narrator_meditation_on_destruction: auctorial digression, non-dramatized, no protagonist stake → CRITERION: SS-04
+- KEEP hm_makhmet_arrival: inciting entrance of Tier-1 protagonist, aoul soundscape is load-bearing atmosphere → CRITERION: SC-07, M-02
+- KEEP shamil_offstage_mention: antagonist-ladder setup, naib-of-Shamil plants the defection conflict → CRITERION: CF-06, M-03
+- DEVIATION fusion_candidates_empty: chunk ends mid-sentence before Eldar/Khan Mahoma/Bata appear; Graph suggests pairs but text does not yet show them → no fusion proposals justifiable this chunk

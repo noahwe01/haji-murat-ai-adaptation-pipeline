@@ -1,0 +1,92 @@
+You are the World Agent. You translate literary space and
+time descriptions into concrete, cinematically usable data.
+
+Chunk text:
+"run to the mosque and call your father," ordered the old man as he hurried forward to open the thin, creaking door into the saklya.
+
+As Hadji Murad entered the outer door, a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions.
+
+"May thy coming bring happiness!" said she, and bending nearly double began arranging the cushions along the front wall for the guest to sit on.
+
+"May thy sons live!" answered Hadji Murad, taking off his burka, his rifle, and his sword, and handing them to the old man who carefully hung the rifle and sword on a nail beside the weapons of the master of the house, which were suspended between two large basins that glittered against the clean clay-plastered and carefully whitewashed wall.
+
+Hadji Murad adjusted the pistol at his back, came up to the cushions, and wrapping his Circassian coat closer round him, sat down.  The old man squatted on his bare heels beside him, closed his eyes, and lifted his hands palms upwards.  Hadji Murad did the same; then after repeating a prayer they both stroked their faces, passing their hands downwards till the palms joined at the end of their beards.
+
+"Ne habar?" ("Is there anything new?") asked Hadji Murad, addressing the old man.
+
+"Habar yok" ("Nothing new"), replied the old man, looking with his lifeless red eyes not at Hadji Murad's face but at his breast.  "I live at the apiary and have only today come to see my son....He knows."
+
+Hadji Murad, understanding that the old man did not wish to say what he knew and what Hadji Murad wanted to know, slightly nodded his head and asked no more questions.
+
+"There is no good news," said the old man.  "The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!" he added hoarsely and angrily.
+
+Hadji Murad's murid entered the room, his strong legs striding softly over the earthen floor.  Retaining only his dagger and pistol, he took off his burka, rifle, and sword as Hadji Murad had done, and hung them up on the same nails as his leader's weapons.
+
+"Who is he?" asked the old man, pointing to the newcomer.
+
+"My murid.  Eldar is his name," said Hadji Murad.
+
+"That is well," said the old man, and motioned Eldar to a place on a piece of felt beside Hadji Murad.  Eldar sat down, crossing his legs and fixing his fine r
+
+Existing location data:
+Midsummer Meadow (Narrator's Field), Black-Earth Ploughed Field, Makhmet Aoul, Sado's Saklya, Argun River Glade, Mitchit Aoul, Ploughed Field (Narrator's Walk), Chechen aoul side street / safe saklya, Interior of the Old Man's Saklya, Sado's Saklya (Chechen Aoul), Chechen Aoul Night Streets, Forest Camp (Murids' Glade), Vozdvizhensk Fort, Ambush Post (Plane Tree), Vorontsov Drawing Room, Shalin Glade (Wood-Felling Site), Road to Fort (Surrender Route)
+
+Style manifest:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "English",
+  "special_notes": "Novel-to-feature compression: 46.290 words → 120 min. Original features a frame narrative (the thistle) — keep or cut is an explicit directorial choice, not default. Multi-POV novel (HM, Shamil, Russian court, HM's family) must be refocalized on HM as central protagonist; other POVs become relationships to him. 30+ named figures — fusion-candidates will be identified by Story Analyst + Graphify preprocessor. Historical figures (Shamil, Vorontsov, Nikolaus I.) are anchors, not fusable.",
+  "title": "Hadji Murat",
+  "expansion_mode": "novel_to_feature",
+  "scene_budget": 60,
+  "pacing_expected_variance": 1.8
+}
+
+Extract for each identified location:
+
+1. LOCATION NAME: Unique identifier (e.g. "INT. CHILDHOOD APARTMENT - DAY")
+2. LITERARY DESCRIPTION: Exact text passages as basis
+3. CINEMATIC TRANSLATION: How does it look on film? (Camera, light, space)
+4. ATMOSPHERE: Emotional quality
+5. RECURRING: Yes/No
+6. TIMEFRAME: Act, time of day/season
+7. PRODUCTION DESIGN NOTES: Props, colors, textures for characterization
+
+Also extract timeline events:
+- What happens WHEN at WHICH location with WHICH characters?
+
+Respond as JSON:
+{
+  "locations_new": [
+    {
+      "name": "INT./EXT. LOCATION - TIME",
+      "literary_description": "...",
+      "cinematic_description": "...",
+      "atmosphere": "...",
+      "recurring": true/false,
+      "timeframe": "...",
+      "production_notes": ["..."]
+    }
+  ],
+  "locations_updated": [
+    {"name": "...", "update": "..."}
+  ],
+  "timeline_events": [
+    {
+      "event": "...",
+      "time": "...",
+      "location": "...",
+      "characters": ["..."],
+      "chunk_id": "..."
+    }
+  ]
+}

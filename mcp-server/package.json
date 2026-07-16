@@ -1,0 +1,15 @@
+{
+  "name": "screenwriting-reference-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server für Drehbuch-Referenzmaterial — Theorie, Screenplays, Treatments",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "build-index": "node indexer.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "pdf-parse": "^1.1.1"
+  }
+}

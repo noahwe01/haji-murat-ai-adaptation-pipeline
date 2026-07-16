@@ -1,0 +1,66 @@
+{
+  "new_characters": [
+    {
+      "name": "Narrator",
+      "initial_description": "First-person authorial voice walking home across ploughed fields; reflective, moralizing witness who frames the story of Hadji Murad through the metaphor of the broken but unyielding Tartar thistle.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Narrator discards the plucked thistle, reflecting on the violence it cost to pluck a beautiful wild thing.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator crosses a vast, freshly ploughed black-earth field — an entirely lifeless landscape — and meditates on man as a destructive creature.",
+      "act": 1,
+      "subplot_id": "author_digression"
+    },
+    {
+      "description": "Narrator discovers a second Tartar thistle: mutilated by a cartwheel, one arm broken, stalks soiled, yet still standing erect and unsurrendered.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Resolved to its vitality, the narrator remembers a Caucasian episode of years past — partly witnessed, partly told by eyewitnesses — triggering the frame into the main story of Hadji Murad.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Ploughed Black-Earth Field",
+      "description": "Vast, freshly tilled proprietor's field on the way home; evenly furrowed moist black earth stretching to the hill, devoid of any living plant — emblem of human domination over nature."
+    },
+    {
+      "name": "Dusty Path Home",
+      "description": "Road ascending the hill across the ploughed field where the narrator walks and finds the surviving thistle."
+    }
+  ],
+  "tension": 0.2,
+  "act_estimation": 1,
+  "filmability_score": 0.35,
+  "theme_hints": [
+    "indomitable vitality in the face of destruction",
+    "man as destroyer of life",
+    "resistance and refusal to submit",
+    "beauty crushed by civilization",
+    "memory as gateway to story"
+  ],
+  "symbols": [
+    "Tartar thistle (mutilated but erect)",
+    "broken stalk / torn arm",
+    "ploughed lifeless field",
+    "cartwheel (unseen violence)",
+    "blackened red flower"
+  ],
+  "notes": "Chapter 2 completes the framing prologue: the thistle becomes the explicit metaphor for Hadji Murad. Heavily interior/authorial — low filmability in literal terms, but the IMAGE of the broken-yet-standing thistle in a black field is highly cinematic if translated visually (NF-04 applies). No named characters, no dialogue, no dramatic action — pure frame device. Per NF-08, the frame must be used ONCE at opening without closing reprise. Graph hints confirmed: thistle_frame thread is a must-keep opener; author_digression is SS-04 cut candidate. Bridge line 'I remembered a Caucasian episode' is the hard cut into the main narrative."
+}
+
+DECISIONS:
+- TRANSLATE_TO_VISUAL thistle_frame: mutilated-but-erect thistle in black field as opening image, no voice-over → NF-04, SC-06
+- CUT_SUBPLOT author_digression: Tolstoi's moralizing interjections on man-as-destroyer are non-dramatized commentary → SS-04, NF-04
+- KEEP_FRAME thistle_opening: single use at film open, no closing reprise per doubled-thistle warning → NF-08
+- DISSOLVE_FRAME narrator_voice: first-person narrator has no dramatic stakes of his own, dissolve into pure visual prologue → NF-03, NF-09
+- DEVIATION thistle_metaphor_retention: SS-04 would cut all digression, but M-02 theme-priority preserves thistle as central symbol of HM's vitality

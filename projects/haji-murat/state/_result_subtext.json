@@ -1,0 +1,1605 @@
+{
+  "scenes": [
+    {
+      "scene_id": "S002",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Selaam aleikum.",
+          "subtext_score": 10,
+          "actual_meaning": "I am here. You know what it means that I am here.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Sado",
+          "text": "Aleikum selaam.",
+          "subtext_score": 8,
+          "actual_meaning": "I see you. I will not pretend I do not.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Sado",
+          "text": "Sit. The bread is warm. My house is your house tonight.",
+          "subtext_score": 6,
+          "actual_meaning": "Whatever comes through that door after you, it comes through me first.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 8.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Selaam aleikum.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S003",
+      "lines": [
+        {
+          "character": "Sado",
+          "text": "Ne habar?",
+          "subtext_score": 9,
+          "actual_meaning": "I already know the answer. I need to hear how much you will tell me.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Habar yok.",
+          "subtext_score": 7,
+          "actual_meaning": "There is nothing you need to carry. Not yet.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sado",
+          "text": "The hares keep debating how to drive away the eagles. The Russians burned the hay in Mitchit. May their faces be torn.",
+          "subtext_score": 6,
+          "actual_meaning": "My village is exposed. You have brought the eagles closer by coming here.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Who tends your animals tonight?",
+          "subtext_score": 7,
+          "actual_meaning": "I understand the danger you are in. I am not asking you to say it aloud.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sado",
+          "text": "My son. He knows.",
+          "subtext_score": 7,
+          "actual_meaning": "The house is sealed. We will not be betrayed from inside.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Eldar",
+          "text": "Inshallah.",
+          "subtext_score": 10,
+          "actual_meaning": "Whatever comes, we have placed ourselves in God's hands and in yours.",
+          "technique": "radical economy — single utterance multiple registers"
+        }
+      ],
+      "scene_avg": 7.7,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Eldar: \"Inshallah.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S004",
+      "lines": [
+        {
+          "character": "Sado",
+          "text": "My house is yours. The open road — that I cannot promise.",
+          "subtext_score": 9,
+          "actual_meaning": "I will die before they take you here, but I cannot protect you outside these walls.",
+          "technique": "understatement — mortal stakes buried under practical surface"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "A letter must go to the Russian commander. My murid carries it. He needs a guide.",
+          "subtext_score": 7,
+          "actual_meaning": "I have already weighed all risks. I need execution, not counsel.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bata",
+          "text": "Two smokes to the ford. The mare knows it better than I do — but I know it too.",
+          "subtext_score": 7,
+          "actual_meaning": "I am the best man for this and we both know it. Now name the coin.",
+          "technique": "shared unspoken knowledge — truth present between the lines"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Go tonight. Deliver it to the sardar's hand. No one else.",
+          "subtext_score": 6,
+          "actual_meaning": "Failure here ends everything. I am trusting a stranger with my only move.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bata",
+          "text": "Tonight, then. Inshallah.",
+          "subtext_score": 6,
+          "actual_meaning": "God willing — and if not God, then still tonight.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 7.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Sado: \"My house is yours. The open road — that I cannot promise.\" — understatement — mortal stakes buried under practical surface"
+    },
+    {
+      "scene_id": "S005",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Canst thou take him there — and bring him back?",
+          "subtext_score": 7,
+          "actual_meaning": "I am not paying for a one-way trip. I am paying for a man who returns.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bata",
+          "text": "I can. There is not another Chechen who would pass as I can.",
+          "subtext_score": 5,
+          "actual_meaning": "My worth is the route. Without me, you go nowhere.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "A rope should be long. A speech — short.",
+          "subtext_score": 7,
+          "actual_meaning": "You are already talking too much. Prove it with your feet.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bata",
+          "text": "Then I'll hold my tongue.",
+          "subtext_score": 5,
+          "actual_meaning": "I accept. And I am not offended.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "By the bend of the Argun — the two haystacks at the forest glade. Ask for Khan Mahoma. He knows what to do.",
+          "subtext_score": 7,
+          "actual_meaning": "The plan is already in motion. You are the last piece.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sado",
+          "text": "Eat first. The road does not leave before morning.",
+          "subtext_score": 6,
+          "actual_meaning": "This house still offers peace. Whatever comes, that remains.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.2,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Canst thou take him there — and bring him back?\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S006",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "To be handed to my son.",
+          "subtext_score": 7,
+          "actual_meaning": "My son is hostage. This note is the only thread I hold.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sado",
+          "text": "Where must the answer be sent?",
+          "subtext_score": 7,
+          "actual_meaning": "I am already committed — I only need the mechanics.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "To thee. And thou must forward it to me.",
+          "subtext_score": 6,
+          "actual_meaning": "You are now my courier. That is kunak duty, not request.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sado",
+          "text": "It shall be done.",
+          "subtext_score": 7,
+          "actual_meaning": "My life is now also pledged to your son's survival.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sado",
+          "text": "Our honey is good. This year above all others — plentiful and good.",
+          "subtext_score": 6,
+          "actual_meaning": "You are a guest in this house. For this moment, pretend the war is outside.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "I thank thee.",
+          "subtext_score": 7,
+          "actual_meaning": "The honey. The house. The note. All of it.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.7,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"To be handed to my son.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S007",
+      "lines": [
+        {
+          "character": "Panov",
+          "text": "Good job it's dry. Last week I had water in my boots for three days.",
+          "subtext_score": 6,
+          "actual_meaning": "He is managing fear with talk about small discomforts — the body, not the danger.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "They say he crossed over near Mahket. Hadji Murad himself. You believe it?",
+          "subtext_score": 6,
+          "actual_meaning": "He half-believes it. The name carries weight even here.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Panov: \"Good job it's dry. Last week I had water in my boots for three days.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S008",
+      "lines": [
+        {
+          "character": "PANOV",
+          "text": "Good job it's dry.",
+          "subtext_score": 7,
+          "actual_meaning": "Noting the small mercy that makes a hard night bearable.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "AVDEEV",
+          "text": "What are you looking for?",
+          "subtext_score": 6,
+          "actual_meaning": "Already watching Panov, already half a step ahead.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "PANOV",
+          "text": "Bowl of my pipe. Where the devil has it got to.",
+          "subtext_score": 6,
+          "actual_meaning": "Small loss, real irritation — a man's comforts are few.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "AVDEEV",
+          "text": "Stem's there though.",
+          "subtext_score": 6,
+          "actual_meaning": "The problem is already solved in his mind.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "PANOV",
+          "text": "What a smart lad you are, Avdeev.",
+          "subtext_score": 6,
+          "actual_meaning": "Genuine warmth, rare between these men — Avdeev is liked.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "AVDEEV",
+          "text": "That'll be as the company decides.",
+          "subtext_score": 6,
+          "actual_meaning": "Deflecting — unwilling to take sides on the officer question, loyal by default.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.2,
+      "on_the_nose_count": 0,
+      "deepest_moment": "PANOV: \"Good job it's dry.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S009",
+      "lines": [
+        {
+          "character": "PANOV",
+          "text": "It's not the first time. He takes it, he gives it back.",
+          "subtext_score": 6,
+          "actual_meaning": "Don't start a fight we can't finish — the hierarchy always wins.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "AVDEEV",
+          "text": "The community is a strong man.",
+          "subtext_score": 6,
+          "actual_meaning": "I agree with you, Panov, to end this before it turns ugly.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "AVDEEV",
+          "text": "Panov... do you ever feel dull?",
+          "subtext_score": 6,
+          "actual_meaning": "I am disappearing out here and I need someone to notice.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "PANOV",
+          "text": "Dull, why?",
+          "subtext_score": 9,
+          "actual_meaning": "Don't ask me to carry this. I'm barely carrying my own.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "AVDEEV",
+          "text": "I do. Sometimes so dull I don't know what I might not do to myself. That time I drank all the money — that was from it. It took hold of me till I thought: I'll just get blind drunk.",
+          "subtext_score": 5,
+          "actual_meaning": "I am confessing to a darkness I have no name for.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "PANOV",
+          "text": "Sometimes drinking makes it worse.",
+          "subtext_score": 7,
+          "actual_meaning": "I know exactly what you mean and I will not say so aloud.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "PANOV: \"Dull, why?\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S010",
+      "lines": [
+        {
+          "character": "Avdeev",
+          "text": "It's chiefly because of that — went instead of my brother — that I feel so dull. He's living like a king. And I'm here.",
+          "subtext_score": 3,
+          "actual_meaning": "He chose sacrifice and now can't forgive himself for it.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "Well, brother. That's how it is.",
+          "subtext_score": 7,
+          "actual_meaning": "There's no comfort to give. He knows it. Avdeev knows it.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bata",
+          "text": "Me — friendly Chechen. Gun, yok. Sword, yok. Want prince.",
+          "subtext_score": 5,
+          "actual_meaning": "I am unarmed. I am a messenger. Do not shoot.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "On your knees. Both of you.",
+          "subtext_score": 6,
+          "actual_meaning": "I don't trust this, but I'm listening.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bata",
+          "text": "Letter. For prince. Hadji Murat sends.",
+          "subtext_score": 6,
+          "actual_meaning": "This is bigger than you. Don't make a mistake.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.4,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Panov: \"Well, brother. That's how it is.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S011",
+      "lines": [
+        {
+          "character": "Bata",
+          "text": "Prince want. Big business.",
+          "subtext_score": 6,
+          "actual_meaning": "I carry enough authority to demand access — don't treat me as a prisoner.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "You know, mates — those shaved-headed boys are fine. One of them's married. I asked him, 'Molly bar?' He says 'bar.' Two of them. What a talk.",
+          "subtext_score": 5,
+          "actual_meaning": "The enemy is a man like me — that fact is too large to sit with quietly.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Nikitin",
+          "text": "Nice. Meet him alone and he'd let your guts out soon enough.",
+          "subtext_score": 5,
+          "actual_meaning": "Don't get soft. Softness gets you killed.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "Maybe so. Still — fine fellows.",
+          "subtext_score": 5,
+          "actual_meaning": "I know. I don't care.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.2,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Bata: \"Prince want. Big business.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S012",
+      "lines": [
+        {
+          "character": "Regimental Adjutant",
+          "text": "That is the second ace you have sacrificed tonight.",
+          "subtext_score": 5,
+          "actual_meaning": "You are embarrassing this regiment in its own drawing room.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Poltoratsky",
+          "text": "Mais voyez-vous — the cards conspire against me, mon cher.",
+          "subtext_score": 5,
+          "actual_meaning": "I am not here for the cards.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Marya Vasilevna",
+          "text": "Do forgive him. I distracted him — didn't I tell you so?",
+          "subtext_score": 5,
+          "actual_meaning": "I know exactly what I am doing.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Regimental Adjutant: \"That is the second ace you have sacrificed tonight.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S013",
+      "lines": [
+        {
+          "character": "Michael Vorontsov",
+          "text": "Is it your company ordered to the forest tomorrow?",
+          "subtext_score": 7,
+          "actual_meaning": "I know what the officer on duty brought. You will see it for yourself soon enough.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Poltoratsky",
+          "text": "Yes. Mine. Why?",
+          "subtext_score": 6,
+          "actual_meaning": "He is barely listening — his eyes track Marya Vasilevna across the room.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Michael Vorontsov",
+          "text": "Then we shall meet tomorrow.",
+          "subtext_score": 6,
+          "actual_meaning": "The prize I have been offered will land in your sector first.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.3,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Michael Vorontsov: \"Is it your company ordered to the forest tomorrow?\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S014",
+      "lines": [
+        {
+          "character": "Marya Vasilevna",
+          "text": "Eh bien. Vous allez me dire ce que c'est.",
+          "subtext_score": 6,
+          "actual_meaning": "I already know. I want to see if you'll lie to me.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "Mais, ma chère—",
+          "subtext_score": 6,
+          "actual_meaning": "Stalling. He has no plausible denial ready.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Marya Vasilevna",
+          "text": "C'était Hadji Murat, n'est-ce pas?",
+          "subtext_score": 6,
+          "actual_meaning": "Say yes. Say it was him. Let me have been right about something tonight.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "Not Hadji Murat himself. His emissary. He will come tomorrow — to meet me at the wood-cutting site.",
+          "subtext_score": 7,
+          "actual_meaning": "The correction is real but the pride is unmistakable: I will deliver him to my father.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Marya Vasilevna",
+          "text": "Tomorrow.",
+          "subtext_score": 9,
+          "actual_meaning": "Not a question. She is calculating what that means for Simon — and for the man coming in.",
+          "technique": "radical economy — single utterance multiple registers"
+        }
+      ],
+      "scene_avg": 6.8,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Marya Vasilevna: \"Tomorrow.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S016",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "What is it?",
+          "subtext_score": 10,
+          "actual_meaning": "He has already counted the doors and the men.",
+          "technique": "tactical surface — professional calm over lethal calculation"
+        },
+        {
+          "character": "Sado",
+          "text": "Listen. A woman from her roof saw you. The aoul knows. The Elders have gone to the mosque. They mean to keep you here.",
+          "subtext_score": 6,
+          "actual_meaning": "I have failed to hide you, but I have not failed you yet.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "It is well. I must be off.",
+          "subtext_score": 8,
+          "actual_meaning": "The matter is decided; do not try to keep me.",
+          "technique": "implication — decision already made, surface is aftermath"
+        },
+        {
+          "character": "Sado",
+          "text": "My house is your house. The horses are saddled.",
+          "subtext_score": 9,
+          "actual_meaning": "I will die before they take you from this room.",
+          "technique": "understatement — mortal stakes buried under practical surface"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Eldar.",
+          "subtext_score": 8,
+          "actual_meaning": "We are leaving now. No questions.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Eldar",
+          "text": "And — ready.",
+          "subtext_score": 10,
+          "actual_meaning": "I was already awake; I am yours.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 8.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"What is it?\" — tactical surface — professional calm over lethal calculation"
+    },
+    {
+      "scene_id": "S017",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Sado — may God reward you.",
+          "subtext_score": 10,
+          "actual_meaning": "I will not see you again, and we both know it.",
+          "technique": "shared unspoken knowledge — truth present between the lines"
+        },
+        {
+          "character": "Sado",
+          "text": "Inshallah. Ride.",
+          "subtext_score": 7,
+          "actual_meaning": "Do not waste this moment on me.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Eldar",
+          "text": "And — Agha. Ahead.",
+          "subtext_score": 7,
+          "actual_meaning": "I have already chosen which man I would kill first.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Allah knows.",
+          "subtext_score": 10,
+          "actual_meaning": "The matter is closed; the ride is the only argument now.",
+          "technique": "implication — decision already made, surface is aftermath"
+        }
+      ],
+      "scene_avg": 8.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Sado — may God reward you.\" — shared unspoken knowledge — truth present between the lines"
+    },
+    {
+      "scene_id": "S018",
+      "lines": [
+        {
+          "character": "VILLAGE GUARD (O.S.)",
+          "text": "Stop. Who's that. Stop!",
+          "subtext_score": 5,
+          "actual_meaning": "We have to be seen to try — Shamil is watching.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Sado.",
+          "subtext_score": 10,
+          "actual_meaning": "I take your roof with me; I cannot give it back.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Sado",
+          "text": "Go. The road is yours.",
+          "subtext_score": 10,
+          "actual_meaning": "I will die before I name where you went.",
+          "technique": "understatement — mortal stakes buried under practical surface"
+        }
+      ],
+      "scene_avg": 8.3,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Sado.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S019",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "What do you want?",
+          "subtext_score": 9,
+          "actual_meaning": "I have already decided what happens next; speak quickly.",
+          "technique": "implication — decision already made, surface is aftermath"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Do you wish to take me?... Take me, then.",
+          "subtext_score": 9,
+          "actual_meaning": "The first man forward dies; the second decides whether more die.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Eldar",
+          "text": "Agha.",
+          "subtext_score": 10,
+          "actual_meaning": "I am here. Whichever one steps first, he is mine.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "It is well.",
+          "subtext_score": 9,
+          "actual_meaning": "The matter is decided. The talking ends here.",
+          "technique": "implication — decision already made, surface is aftermath"
+        }
+      ],
+      "scene_avg": 9.2,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Eldar: \"Agha.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S020",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Put out the fire.",
+          "subtext_score": 7,
+          "actual_meaning": "We are hunted. The fire is a target.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Has Bata been here?",
+          "subtext_score": 7,
+          "actual_meaning": "Are the first steps of the plan already in motion?",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Khanefi",
+          "text": "Long ago. With Khan Mahoma. That way.",
+          "subtext_score": 6,
+          "actual_meaning": "The mission moves faster than you. It is already beyond your reach.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "We must take care. I was followed.",
+          "subtext_score": 7,
+          "actual_meaning": "I am already an enemy of the world I left.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.8,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Put out the fire.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S021",
+      "lines": [
+        {
+          "character": "Khan Mahoma",
+          "text": "Eh — the prince himself. We sat, we ate. White bread.",
+          "subtext_score": 5,
+          "actual_meaning": "The mission went better than expected; he is proud and wants HM to feel reassured",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "What did he say.",
+          "subtext_score": 7,
+          "actual_meaning": "Strip the pleasure from it — give me the substance",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Khan Mahoma",
+          "text": "He is pleased. He will receive you. Tomorrow, if you come.",
+          "subtext_score": 5,
+          "actual_meaning": "The door is open — all HM's calculation has worked",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "It is well.",
+          "subtext_score": 7,
+          "actual_meaning": "He expected this — fate has confirmed what he already knew",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"What did he say.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S022",
+      "lines": [
+        {
+          "character": "Poltoratsky",
+          "text": "Well. He actually came.",
+          "subtext_score": 6,
+          "actual_meaning": "He expected a trap or a no-show — not this.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Khan Mahoma",
+          "text": "Eh — I told you. He said he would come. He came.",
+          "subtext_score": 5,
+          "actual_meaning": "Pride in having brokered this. Also mild reproach at Russian skepticism.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Poltoratsky",
+          "text": "Tell him the prince expects him. We ride at once.",
+          "subtext_score": 5,
+          "actual_meaning": "He has no script for this moment — falls back on orders.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "It is well.",
+          "subtext_score": 7,
+          "actual_meaning": "He has already read every Russian face in the clearing. He sees what they are.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.8,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"It is well.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S023",
+      "lines": [
+        {
+          "character": "POLTORATSKY",
+          "text": "Hullo — that's our line. Kostya, now's your chance. Get back to the company. I'll bring the whole force up and we'll arrange a battle that will be simply delightful... and then we'll make a report.",
+          "subtext_score": 5,
+          "actual_meaning": "He performs valor the way Sleptsov performed it in the story they just told — for the record, for the report, for the wo",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "FREZE",
+          "text": "Sir.",
+          "subtext_score": 8,
+          "actual_meaning": "He understands the game. He does not question it.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "FREZE: \"Sir.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S024",
+      "lines": [
+        {
+          "character": "Poltoratsky",
+          "text": "Splendid morning for it. Carry on, eh?",
+          "subtext_score": 6,
+          "actual_meaning": "He has decided to make a war out of nothing because nothing is what frightens him.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "As you say, your honor.",
+          "subtext_score": 7,
+          "actual_meaning": "He has seen this kind of order kill a man before breakfast.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Panov: \"As you say, your honor.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S025",
+      "lines": [
+        {
+          "character": "Poltoratsky",
+          "text": "What is it, lad. Hit?",
+          "subtext_score": 6,
+          "actual_meaning": "He is trying to keep the salon voice on; the salon voice is failing.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Soldier",
+          "text": "Just going to load, your honor. Heard a click. Looked, and he'd dropped his gun.",
+          "subtext_score": 5,
+          "actual_meaning": "He is reciting because reciting is the only thing keeping him upright.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "It doesn't hurt. Only stops me walking. A drop of vodka, your honor.",
+          "subtext_score": 5,
+          "actual_meaning": "It hurts. He is asking, without asking, to be eased out of the world.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "My soul turns against it, brother. You drink.",
+          "subtext_score": 6,
+          "actual_meaning": "He is letting go of the body — of its small comforts — quietly, in advance.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "Well, brother. Never mind.",
+          "subtext_score": 7,
+          "actual_meaning": "He is naming the thing as small so it will not crush them both.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.8,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Panov: \"Well, brother. Never mind.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S026",
+      "lines": [
+        {
+          "character": "Avdeev",
+          "text": "My soul turns against it. Drink it yourself.",
+          "subtext_score": 6,
+          "actual_meaning": "I will not have my last act be a flinch — and I want him to have it.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "Well, brother. Never mind.",
+          "subtext_score": 7,
+          "actual_meaning": "I cannot bear this and I will not let you see it.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Sergeant-Major",
+          "text": "Your honor — the colonel.",
+          "subtext_score": 6,
+          "actual_meaning": "Compose yourself, the institution is here.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Poltoratsky",
+          "text": "All right. Will you see to him?",
+          "subtext_score": 6,
+          "actual_meaning": "I am abandoning him to you because the rank requires it.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.2,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Panov: \"Well, brother. Never mind.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S027",
+      "lines": [
+        {
+          "character": "Simon Vorontsov",
+          "text": "Hadji Murad. You are welcome here. You have my word.",
+          "subtext_score": 6,
+          "actual_meaning": "I will protect you as far as my rank allows — and we are about to discover together how short that distance is.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Sardar. Hadji Murad has come. It is well.",
+          "subtext_score": 9,
+          "actual_meaning": "The decision is made in my head; I have crossed the line and there is no further discussion.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "It is only a matter of arrangements now. My father's house will receive you, mon cher. You are quite, quite safe.",
+          "subtext_score": 5,
+          "actual_meaning": "I am converting a political prisoner into a personal guest because that is the only register I can decently inhabit.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "I am the Tsar's servant. Allah knows.",
+          "subtext_score": 7,
+          "actual_meaning": "I am performing the role required for survival; the mountains remain my only true allegiance — and this topic ends here.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "Splendid. We shall ride together to the fort.",
+          "subtext_score": 6,
+          "actual_meaning": "I am ending the formal address before either of us says anything that cannot be unsaid.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.6,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Sardar. Hadji Murad has come. It is well.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S028",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "I surrender myself to the will of the Russian Tsar. I wish to serve him. I wished to long ago — Shamil would not let me.",
+          "subtext_score": 6,
+          "actual_meaning": "This is not defeat; it is a tactical repositioning. The words are for the record, not the heart.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "You honor us. My father has spoken of you.",
+          "subtext_score": 5,
+          "actual_meaning": "He needs this more than HM does. The Vorontsov name needs the trophy.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "These men serve the Russians. As I do.",
+          "subtext_score": 7,
+          "actual_meaning": "He is claiming his murids as non-negotiable; they are not prisoners, they are his household.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "They are welcome here.",
+          "subtext_score": 6,
+          "actual_meaning": "He means: within limits I have not yet disclosed.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"These men serve the Russians. As I do.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S029",
+      "lines": [
+        {
+          "character": "Simon Vorontsov",
+          "text": "Do you know who that is?",
+          "subtext_score": 6,
+          "actual_meaning": "I want this name to land — I want them to feel what I've done today.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "SOLDIER",
+          "text": "No, Your Excellency.",
+          "subtext_score": 6,
+          "actual_meaning": "Wary — officers who single you out usually mean trouble.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "Hadji Murad.",
+          "subtext_score": 6,
+          "actual_meaning": "Just the name. Let it do the work.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "SOLDIER",
+          "text": "We've beaten him many a time, Your Excellency. And he's given us plenty back.",
+          "subtext_score": 5,
+          "actual_meaning": "Respect without submission — the man's a soldier too, and soldiers know soldiers.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "Let them look.",
+          "subtext_score": 6,
+          "actual_meaning": "This moment is mine — and theirs. It will travel.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.8,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Simon Vorontsov: \"Do you know who that is?\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S030",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Tell the prince: Hadji Murad is in his house. A kunak's house is sacred to him. His family is sacred.",
+          "subtext_score": 6,
+          "actual_meaning": "Establishing the terms of this arrangement on his own code — not Russian hospitality, adat.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Marya Vasilevna",
+          "text": "If every time a kunak admired something you gave it to him — you would soon have nothing left at all.",
+          "subtext_score": 5,
+          "actual_meaning": "Testing how much of a man he is beneath the legend; flirting with danger at safe distance.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Allah knows. A man keeps only what he does not show.",
+          "subtext_score": 6,
+          "actual_meaning": "He deflects the joke into philosophy — he will not play the exotic curiosity.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "You will dine with us tonight, of course. My wife has been impatient to meet you.",
+          "subtext_score": 5,
+          "actual_meaning": "Covering his relief that the meeting went well — and his anxiety about Petersburg's reaction — with practiced grace.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Tell the prince: Hadji Murad is in his house. A kunak's house is sacred to him. \" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S031",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Thy son, kunak?",
+          "subtext_score": 7,
+          "actual_meaning": "Testing the boundaries of this hospitality — how much warmth is real, how much performance",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "A beautiful dagger. I thank thee.",
+          "subtext_score": 6,
+          "actual_meaning": "Accepting the gift also means accepting the obligation — he knows it",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "I want nothing. Only a place to say my prayers.",
+          "subtext_score": 6,
+          "actual_meaning": "I will not ask you for anything that lets you feel you hold me",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Eldar",
+          "text": "Horses in the stable. Men in the barn. Arms not taken. Interpreter brings food.",
+          "subtext_score": 6,
+          "actual_meaning": "He has checked everything you would check. We are not yet prisoners.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Good.",
+          "subtext_score": 10,
+          "actual_meaning": "Not reassured — that a cage is comfortable does not make it less a cage",
+          "technique": "radical economy — single utterance multiple registers"
+        }
+      ],
+      "scene_avg": 7.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Good.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S032",
+      "lines": [
+        {
+          "character": "Marya Vasilevna",
+          "text": "He takes from my side of the dish. Every time.",
+          "subtext_score": 5,
+          "actual_meaning": "He suspects poison — and he is right not to trust us.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "He will pray again at sunset. The fifth hour.",
+          "subtext_score": 6,
+          "actual_meaning": "I am showing him I pay attention — I want him to feel seen.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Again.",
+          "subtext_score": 10,
+          "actual_meaning": "This machine is strange power — I want to understand it.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Marya Vasilevna",
+          "text": "Give it to him.",
+          "subtext_score": 6,
+          "actual_meaning": "A gift costs nothing and binds him to us.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "—",
+          "subtext_score": 10,
+          "actual_meaning": "He accepts — but the hand goes to his chest first, over his heart. The old courtesy. Not submission.",
+          "technique": "radical economy — single utterance multiple registers"
+        }
+      ],
+      "scene_avg": 7.4,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Again.\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S033",
+      "lines": [
+        {
+          "character": "Simon Vorontsov",
+          "text": "The general is expecting you. A formality only.",
+          "subtext_score": 6,
+          "actual_meaning": "He is trying to soothe HM while managing his own dread of this meeting.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "I have waited before.",
+          "subtext_score": 7,
+          "actual_meaning": "I know what anterooms mean. Every power uses them the same way.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"I have waited before.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S034",
+      "lines": [
+        {
+          "character": "Meller-Zakomelsky",
+          "text": "All negotiations with the enemy pass through me. Why was I not informed?",
+          "subtext_score": 4,
+          "actual_meaning": "You made me invisible in my own command — I need that corrected on record.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "His emissary came to me. He wished to surrender to no one else. I intended to report to you — there was no time to—",
+          "subtext_score": 5,
+          "actual_meaning": "The situation moved faster than protocol. I am not sorry for the result.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Meller-Zakomelsky",
+          "text": "I have not served twenty-seven years so that men who began yesterday, relying on family connections, should act under my nose.",
+          "subtext_score": 4,
+          "actual_meaning": "Your name got you here. My rank means nothing to you or to Petersburg.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Simon Vorontsov",
+          "text": "Your Excellency, I ask you not to say things that are not correct.",
+          "subtext_score": 5,
+          "actual_meaning": "I will not let that stand — but I cannot afford to break with him.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Meller-Zakomelsky's wife",
+          "text": "Come, Baron — Simon did not wish to displease you. You know what they say: a bad peace is worth more than a good quarrel.",
+          "subtext_score": 4,
+          "actual_meaning": "I am ending this before either of you does something irreversible.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Meller-Zakomelsky",
+          "text": "Very well. He stays here — under my jurisdiction — until I send him to the left flank commander.",
+          "subtext_score": 4,
+          "actual_meaning": "I will accept the peace, but the prize is mine to administer.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 4.3,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Simon Vorontsov: \"His emissary came to me. He wished to surrender to no one else. I intended to re\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S035",
+      "lines": [
+        {
+          "character": "Hand-Wound Soldier",
+          "text": "Five shots. Just five.",
+          "subtext_score": 6,
+          "actual_meaning": "I took twenty in a raid and walked out. Why him?",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Bearer",
+          "text": "Each man gets what fate sends.",
+          "subtext_score": 5,
+          "actual_meaning": "There is no justice here. Stop asking.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "Don't — don't fuss.",
+          "subtext_score": 6,
+          "actual_meaning": "I know what this is. Let me have some quiet with it.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.7,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hand-Wound Soldier: \"Five shots. Just five.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S036",
+      "lines": [
+        {
+          "character": "Doctor",
+          "text": "What's this on his back?",
+          "subtext_score": 6,
+          "actual_meaning": "He is already filing the body — the man is paperwork now.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "That was done long ago, your honor. For the money I drank. And there you are.",
+          "subtext_score": 5,
+          "actual_meaning": "Naming the punishment is easier than naming the wound; he is offering the doctor a story to file instead of a death.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Panov",
+          "text": "Petrukha. Have you no message for home?",
+          "subtext_score": 7,
+          "actual_meaning": "Treats him as a son, not a soldier — Panov has stopped soldiering and started witnessing.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "Serogin... write so. 'Your son Peter has given orders that you should live long. He envied his brother — I told you about that today — and now he is himself glad. Don't worry him. Let him live. God grant it. I am glad.' Write that.",
+          "subtext_score": 5,
+          "actual_meaning": "He is asking, without asking, whether his life still belonged to anyone — and answering himself: it did, and it was smal",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "And your pipe — did you find it, brother?",
+          "subtext_score": 6,
+          "actual_meaning": "He has come too close to the truth and is stepping back from it; the pipe is the smallest, safest thing he can think to ",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Avdeev",
+          "text": "Well then. Give me a candle to hold. That's how it is.",
+          "subtext_score": 5,
+          "actual_meaning": "He has accepted something he does not agree with — quietly, without ceremony.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.7,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Panov: \"Petrukha. Have you no message for home?\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S037",
+      "lines": [
+        {
+          "character": "Poltoratsky",
+          "text": "How goes it, my lad. Badly?",
+          "subtext_score": 6,
+          "actual_meaning": "He is using the lightest possible phrase because the heavier ones would crack his voice.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Poltoratsky",
+          "text": "Splendid fellow. Splendid.",
+          "subtext_score": 7,
+          "actual_meaning": "He cannot find the words a man of consequence is supposed to have here, so he reaches for the smallest, most useless one",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Orderly",
+          "text": "Sir?",
+          "subtext_score": 9,
+          "actual_meaning": "A simple question that exposes how empty the officer's hands are.",
+          "technique": "radical economy — single utterance multiple registers"
+        },
+        {
+          "character": "Poltoratsky",
+          "text": "Nothing. Carry on.",
+          "subtext_score": 7,
+          "actual_meaning": "The first time tonight he means 'nothing' instead of 'splendid' — and it is the truer word.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 7.2,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Orderly: \"Sir?\" — radical economy — single utterance multiple registers"
+    },
+    {
+      "scene_id": "S038",
+      "lines": [
+        {
+          "character": "AVDEEV",
+          "text": "Bring a candle. I am going to die.",
+          "subtext_score": 6,
+          "actual_meaning": "He is not asking for comfort — he is issuing his last directive, asserting the one act of will still open to him.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "POLTORATSKY",
+          "text": "How goes it, my lad. Badly?",
+          "subtext_score": 6,
+          "actual_meaning": "He already knows. The question is the only form of presence he knows how to offer.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "PANOV",
+          "text": "It was in my gag.",
+          "subtext_score": 7,
+          "actual_meaning": "He is accounting for the candle — the small practical fact is all he has to offer against the size of what is happening.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.3,
+      "on_the_nose_count": 0,
+      "deepest_moment": "PANOV: \"It was in my gag.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S039",
+      "lines": [
+        {
+          "character": "Avdeev's Mother",
+          "text": "Which church do we go to for the requiem?",
+          "subtext_score": 7,
+          "actual_meaning": "She will not break. Grief is a task to be managed, not performed.",
+          "technique": "performance refusal — grief as discipline not spectacle"
+        }
+      ],
+      "scene_avg": 7.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Avdeev's Mother: \"Which church do we go to for the requiem?\" — performance refusal — grief as discipline not spectacle"
+    },
+    {
+      "scene_id": "S040",
+      "lines": [
+        {
+          "character": "Michael Vorontsov",
+          "text": "It would seem our Caucasus has produced a surprise. Hadji Murad has crossed to our side.",
+          "subtext_score": 5,
+          "actual_meaning": "I now hold a piece the Tsar cannot ignore. This is my advantage.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Elizabeth Ksaverevna Vorontsova",
+          "text": "Then we must receive him properly.",
+          "subtext_score": 6,
+          "actual_meaning": "I understand the political stakes — I will help you make this a performance.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Michael Vorontsov",
+          "text": "Mon cher, we already are.",
+          "subtext_score": 6,
+          "actual_meaning": "The reception has begun the moment I chose to read this here, in front of witnesses.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.7,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Elizabeth Ksaverevna Vorontsova: \"Then we must receive him properly.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S041",
+      "lines": [
+        {
+          "character": "Michael Vorontsov",
+          "text": "Simon a eu de la chance. Hadji Murad — Shamil's right hand — has come over to us. He will be in Tiflis within days.",
+          "subtext_score": 5,
+          "actual_meaning": "My son delivered me a political prize. This table should understand what that means for my command.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Princess Manana Orbelyani",
+          "text": "Hadji Murad. Here.",
+          "subtext_score": 6,
+          "actual_meaning": "I know that name from another world — not the one at this table.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Carroty General",
+          "text": "I have met him. More than once, Princess.",
+          "subtext_score": 6,
+          "actual_meaning": "I survived those meetings. I would rather not elaborate on the terms.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Michael Vorontsov",
+          "text": "He will dine with us, I imagine. When he is ready.",
+          "subtext_score": 6,
+          "actual_meaning": "He is already mine to schedule — the threat is already archived.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.8,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Princess Manana Orbelyani: \"Hadji Murad. Here.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S042",
+      "lines": [
+        {
+          "character": "Carroty General",
+          "text": "It was he who cut the detachment in two at the rescue — if your Excellency will permit me to call it that.",
+          "subtext_score": 5,
+          "actual_meaning": "Oblivious to the social wound he is reopening; proud of his story, proud of Hadji Murad's cleverness.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Michael Vorontsov",
+          "text": "Where, did you say?",
+          "subtext_score": 7,
+          "actual_meaning": "He heard perfectly. He is testing whether the man will say the word again — and giving him one last chance not to.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Carroty General",
+          "text": "At the rescue, your Excellency. He had us nearly encircled before the fresh troops arrived.",
+          "subtext_score": 5,
+          "actual_meaning": "Still oblivious — he admires Hadji Murad and wants credit for having witnessed greatness.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Manana Orbelyani",
+          "text": "General — have you found comfortable quarters here in Tiflis? I hear the upper district is quite impossible this season.",
+          "subtext_score": 5,
+          "actual_meaning": "She is saving Vorontsov. This is a social rescue of her own — performed without acknowledgment.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Michael Vorontsov: \"Where, did you say?\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S043",
+      "lines": [
+        {
+          "character": "Fair-Haired Aide-de-Camp",
+          "text": "The prince will see you directly.",
+          "subtext_score": 6,
+          "actual_meaning": "You are not like the others. The rules bend for you.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 6.0,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Fair-Haired Aide-de-Camp: \"The prince will see you directly.\" — compression — short surface, layered meaning"
+    },
+    {
+      "scene_id": "S044",
+      "lines": [
+        {
+          "character": "Hadji Murad",
+          "text": "Sardar. Hadji Murad places himself under the protection of the great Tsar and of yourself.",
+          "subtext_score": 6,
+          "actual_meaning": "I name you my patron because no other door is open. Watch what I withhold.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Prince Tarkhanov",
+          "text": "He places himself under the protection of the great Tsar and of Your Excellency.",
+          "subtext_score": 5,
+          "actual_meaning": "I render only the words; the meaning is between these two.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "Vorontsov. Shamil is my enemy and yours. I will serve in faith to the last drop. Allah knows.",
+          "subtext_score": 6,
+          "actual_meaning": "The door is closed on this question. Now move.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Michael Vorontsov",
+          "text": "Mon cher Hadji Murad. Such resolve, one might suppose, deserves a resolve to match it. Quite, quite.",
+          "subtext_score": 5,
+          "actual_meaning": "I have heard you and I will give you nothing today.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Hadji Murad",
+          "text": "My mother. My wives. My son Yusuf. They are in the imam's hand.",
+          "subtext_score": 6,
+          "actual_meaning": "Every hour you delay, a knife moves nearer to my son.",
+          "technique": "compression — short surface, layered meaning"
+        },
+        {
+          "character": "Michael Vorontsov",
+          "text": "I shall write to Petersburg, mon ami. You are entirely free here, of course. Is it not so?",
+          "subtext_score": 5,
+          "actual_meaning": "You are placed in a cage of paperwork. You are entirely watched.",
+          "technique": "compression — short surface, layered meaning"
+        }
+      ],
+      "scene_avg": 5.5,
+      "on_the_nose_count": 0,
+      "deepest_moment": "Hadji Murad: \"Sardar. Hadji Murad places himself under the protection of the great Tsar and of\" — compression — short surface, layered meaning"
+    }
+  ],
+  "overall_stats": {
+    "total_lines": 173,
+    "avg_subtext_score": 6.4,
+    "on_the_nose_pct": 0,
+    "deep_subtext_pct": 15,
+    "lines_above_threshold_pct": 75,
+    "passes_70_30": true
+  },
+  "worst_offenders": [
+    {
+      "scene_id": "S010",
+      "character": "Avdeev",
+      "line": "It's chiefly because of that — went instead of my brother — that I feel so dull. He's living like a king. And I'm here.",
+      "score": 3,
+      "fix_suggestion": "Add deflection beat — address a third subject instead of naming the feeling directly"
+    }
+  ],
+  "best_moments": [
+    {
+      "scene_id": "S002",
+      "character": "Hadji Murad",
+      "line": "Selaam aleikum.",
+      "score": 10,
+      "why": "I am here. You know what it means that I am here."
+    },
+    {
+      "scene_id": "S003",
+      "character": "Eldar",
+      "line": "Inshallah.",
+      "score": 10,
+      "why": "Whatever comes, we have placed ourselves in God's hands and in yours."
+    },
+    {
+      "scene_id": "S016",
+      "character": "Hadji Murad",
+      "line": "What is it?",
+      "score": 10,
+      "why": "He has already counted the doors and the men."
+    },
+    {
+      "scene_id": "S016",
+      "character": "Eldar",
+      "line": "And — ready.",
+      "score": 10,
+      "why": "I was already awake; I am yours."
+    },
+    {
+      "scene_id": "S017",
+      "character": "Hadji Murad",
+      "line": "Sado — may God reward you.",
+      "score": 10,
+      "why": "I will not see you again, and we both know it."
+    }
+  ]
+}

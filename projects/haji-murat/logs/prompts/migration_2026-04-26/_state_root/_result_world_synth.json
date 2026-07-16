@@ -1,0 +1,356 @@
+{
+  "project": "Hadji Murat",
+  "generated_by": "world_agent_synthesis",
+  "style_manifest": {
+    "genre": "historical war tragedy / anti-imperial fable",
+    "tone": "tragic and sober, epic distance with intimate moments",
+    "reference_films": ["Lawrence of Arabia", "The English Patient", "Come and See", "War and Peace (Bondarchuk 1966)"]
+  },
+
+  "locations": [
+    {
+      "id": "loc_001",
+      "name": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+      "cinematic_description": "Wide establishing shot: rolling meadow in peak midsummer light, shallow depth of field pulling focus through layers of wildflowers. Color palette rich and saturated — blues, reds, whites, yellows. A lone figure (the Narrator) moves through the field collecting flowers. Natural golden-hour or high noon light. Handheld camera, slow drift. The world is abundant, unguarded, alive.",
+      "atmosphere": "Pastoral abundance; deceptive serenity before violence; the beauty that will be destroyed. Functions as ironic counterpoint to the story of Hadji Murat — a frame of natural grace enclosing imperial brutality.",
+      "recurring": false,
+      "timeframe": "Frame narrative — pre-Act I / prologue. Midsummer, daytime.",
+      "narrative_function": "Ironic prologue; establishes the thistle-as-Hadji-Murat motif; chromatic peak before the story strips color away",
+      "production_notes": [
+        "Wildflower palette: crimson, white, blue, lilac, yellow — maximum chromatic richness",
+        "Thistle (crimson 'Tartar' variety) must be practical prop, prominently placed in ditch",
+        "Bumble-bee on flower: undisturbed natural world, quiet life of small creatures",
+        "Nosegay of delicate flowers contrasts with single, tough thistle — central visual motif",
+        "Ditch where thistle grows slightly recessed from the main meadow — isolates the thistle spatially",
+        "Late-season feel: hay already cut, rye just beginning — transitional moment, end of something"
+      ]
+    },
+    {
+      "id": "loc_002",
+      "name": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+      "cinematic_description": "Cut from the flower field to stark, desolate ploughed earth. Wide shot: the Narrator a small figure on a dust-white path crossing endless dark furrows to a hill horizon. No colour, no life — only uniformity. Drone or crane shot to emphasise scale and erasure of nature. Dust rises from the path.",
+      "atmosphere": "Erasure, domination, order imposed on nature. Visual echo of empire's logic: the landed proprietor's will made visible in the land. Transition space between the living world and the dead. Pre-figures Russian imperial flattening of Chechen culture.",
+      "recurring": true,
+      "timeframe": "Frame narrative — prologue, directly after the meadow, midsummer, daytime. Also: second thistle encounter (crushed by cartwheel) triggers the main story.",
+      "narrative_function": "Visual bridge from pastoral prologue to main narrative; thistle-crushed-but-erect triggers memory of Hadji Murat; empire-as-landowner motif established",
+      "production_notes": [
+        "Dusty path cutting through the field — worn, cartwheel tracks visible",
+        "Overcast or harsh midday light — no romantic golden hour",
+        "All-black soil, no green visible anywhere except the thistle",
+        "Thistle: three branches, one broken, two bearing blackened flowers, soiled with mud but erect",
+        "Path is dusty-white against the dark earth — strong graphic contrast for wide shots",
+        "Black earth (chernozem): deep brown-black, moist, freshly turned — high contrast against dusty path",
+        "Scale of the field emphasises the proprietor's ownership — land as political statement"
+      ]
+    },
+    {
+      "id": "loc_003",
+      "name": "EXT. MAKHMET AOUL - NIGHT",
+      "cinematic_description": "Establishing shot from ridge: the aoul as a tight cluster of stone saklyas on a mountainside, smoke rising from every roof in the cold air. Blue-black night sky, mountain peaks behind. Cut to street level: Hadji Murat on horseback moving through narrow lanes, his silhouette lit by the ember-glow from doorways. Sound design dense — cattle, sheep, voices, silence of the muezzin just ended. The village feels enclosed, watchful, hostile.",
+      "atmosphere": "Tense arrival. The aoul is hostile territory — for Russians and potentially for Hadji Murat both. Cold mountain night, kizyak smoke as sensory marker of inhabited danger. Epic scale with intimate unease.",
+      "recurring": true,
+      "timeframe": "Act 1 — late November 1851, cold evening/night.",
+      "narrative_function": "First appearance of the Chechen world; establishes the political geography (15 miles from Russian territory); introduces Hadji Murat's fugitive status",
+      "production_notes": [
+        "Kizyak smoke: dense, aromatic, low-hanging — practical smoke effect, not digital",
+        "Saklyas packed tight 'like cells of honeycomb' — cramped stone architecture, narrow lanes",
+        "Livestock dispersing through streets — practical animals needed",
+        "Cold breath visible on actors and horses",
+        "Color palette: ochre stone, black shadow, orange ember-glow from interiors",
+        "Reference: Come and See for oppressive village atmosphere; Lawrence of Arabia for mountain arrival scale"
+      ]
+    },
+    {
+      "id": "loc_004",
+      "name": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+      "cinematic_description": "Tight, shadowed alley between stone saklyas carved into a hillside. Low angle on Hadji Murat's horse moving cautiously. His eyes scan doorways and rooftops. The street is deserted — a deliberate choice by a man who knows what surveillance looks like.",
+      "atmosphere": "Paranoia and concealment. A fugitive threading the needle between visibility and safety. The narrowness of the street mirrors his narrowing options.",
+      "recurring": true,
+      "timeframe": "Act 1 — daytime, arrival sequence at the aoul",
+      "narrative_function": "Spatial compression; HM avoids main square — establishes his tactical thinking and knowledge of the village layout",
+      "production_notes": [
+        "Stone and clay construction, buildings carved directly into hillside — organic, fortress-like quality",
+        "Penthouse (covered porch/overhang) in front of the saklya is key architectural element",
+        "Freshly plastered clay chimney — domestic life amid danger",
+        "Sheepskin as universal prop: bedding, cloak, marker of poverty and simplicity"
+      ]
+    },
+    {
+      "id": "loc_005",
+      "name": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+      "cinematic_description": "Flat roof, midday heat. An old man asleep behind a chimney — a sentinel who has stopped watching. Hadji Murat taps him awake with a whip handle. The contrast between the dormant old man and Hadji Murat's coiled alertness captures the scene's tension.",
+      "atmosphere": "Fragile safety. The trust network Hadji Murat relies on is aging and slow. A quiet dread beneath the mundane.",
+      "recurring": true,
+      "timeframe": "Act 1 — daytime, arrival sequence (continuous with loc_004)",
+      "narrative_function": "First contact in the village; the old man's dormancy signals the community's vulnerability; roof as liminal space between public and private",
+      "production_notes": [
+        "Wooden-heeled slippers by the chimney — unhurried village life",
+        "Old man's greasy beshmet and nightcap: poverty, comfort, age",
+        "Ladder leaning against roof: vertical movement, escape route implied",
+        "Sunburnt, shrivelled neck — physical decay contrasting with Hadji Murat's vitality"
+      ]
+    },
+    {
+      "id": "loc_006",
+      "name": "INT. OLD MAN'S SAKLYA / SADO'S SAKLYA - NIGHT",
+      "cinematic_description": "Dark interior, low ceiling. Warm colour burst as the woman enters — yellow, red, blue against stone grey. Cushions, weapons hung on walls, felt mats, a prayer ritual, whispered intelligence about Shamil's orders. The space contracts around Hadji Murat. Multiple characters cycle in — woman, old man, Eldar, Sado, Sado's son, Bata — the room filling with a conspiracy of hospitality.",
+      "atmosphere": "Brief sanctuary. Domesticity as refuge. The hospitality ritual creates a fragile bubble of safety — the audience knows it cannot last. As Shamil's threat is revealed, the warmth cools to controlled fear.",
+      "recurring": true,
+      "timeframe": "Act 1 — daytime (initial entry) and night (extended council scene), November 1851",
+      "narrative_function": "Core exposition scene: HM's defection rationale, Shamil's kill order, the plan to contact the Russians. All major Act 1 information passes through this room.",
+      "production_notes": [
+        "Thin, creaking door — sound design: the creak announces every entry",
+        "Outer door and inner door structure — staging depth, character blocking",
+        "Woman's costume: yellow smock, red beshmet, wide blue trousers — vivid against grey stone",
+        "Cushions, felt mats, weapons on wall: domestic detail that doubles as arsenal",
+        "Hadji Murat's slight limp — recurring physical motif, established on first crossing of threshold",
+        "Both men pray together (palms upward, stroking faces/beards) — liturgical staging moment",
+        "Casting note: the old man and Sado are separate characters; old man may be fusable with minor household figure depending on Story Analyst output"
+      ]
+    }
+  ],
+
+  "timeline": [
+    {
+      "order": 1,
+      "narrative_layer": "frame_narrative",
+      "event": "Narrator walks through midsummer meadow, gathers nosegay of wildflowers, notices crimson thistle ('Tartar') in a ditch, struggles to pluck it, finally breaks it free — stalk frayed, flower diminished. Reflects on the thistle's tenacity.",
+      "time_label": "Midsummer, afternoon. Frame narrative — before the main story begins.",
+      "location_id": "loc_001",
+      "characters": ["Narrator"],
+      "chunk_id": "chunk_001"
+    },
+    {
+      "order": 2,
+      "narrative_layer": "frame_narrative",
+      "event": "Narrator walks home across vast black-earth ploughed field on dusty path toward a hill. Transition from the living meadow to barren, cultivated land.",
+      "time_label": "Midsummer, daytime. Immediately follows thistle encounter.",
+      "location_id": "loc_002",
+      "characters": ["Narrator"],
+      "chunk_id": "chunk_001"
+    },
+    {
+      "order": 3,
+      "narrative_layer": "frame_narrative",
+      "event": "Narrator crosses the black-earth field again; notices a thistle plant that has survived being crushed by a cartwheel — this triggers his memory of the Hadji Murat episode and initiates the main narrative.",
+      "time_label": "Midsummer, daytime. Present-tense frame narrative.",
+      "location_id": "loc_002",
+      "characters": ["Narrator"],
+      "chunk_id": "chunk_002"
+    },
+    {
+      "order": 4,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat rides into Makhmet, a hostile Chechen aoul 15 miles from Russian territory. The muezzin's evening chant has just ended. The village is filled with kizyak smoke, livestock sounds, and disputing voices.",
+      "time_label": "Cold November evening, end of 1851.",
+      "location_id": "loc_003",
+      "characters": ["Hadji Murat"],
+      "chunk_id": "chunk_002"
+    },
+    {
+      "order": 5,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat and his single murid (Eldar) ride into the aoul, avoiding the main square by taking a narrow side street toward the second saklya cut into the hillside.",
+      "time_label": "Daytime — arrival sequence, post-defection, Act 1.",
+      "location_id": "loc_004",
+      "characters": ["Hadji Murat", "Eldar"],
+      "chunk_id": "chunk_003"
+    },
+    {
+      "order": 6,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat stops at the second saklya; finds an old man asleep on the roof under a sheepskin; wakes him with his whip handle. Old man recognizes him, exchanges Selaam greeting.",
+      "time_label": "Daytime — continuous from arrival.",
+      "location_id": "loc_005",
+      "characters": ["Hadji Murat", "Old Man"],
+      "chunk_id": "chunk_003"
+    },
+    {
+      "order": 7,
+      "narrative_layer": "main_narrative",
+      "event": "Old man descends the ladder, orders his grandson (boy of ~15) to fetch the boy's father from the mosque.",
+      "time_label": "Daytime — continuous.",
+      "location_id": "loc_005",
+      "characters": ["Hadji Murat", "Old Man", "Boy (grandson, ~15)"],
+      "chunk_id": "chunk_003"
+    },
+    {
+      "order": 8,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat enters the saklya. Middle-aged woman comes through inner door with cushions. Hadji Murat crosses threshold, limping.",
+      "time_label": "Daytime — continuous with arrival.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Middle-Aged Woman (household)"],
+      "chunk_id": "chunk_003"
+    },
+    {
+      "order": 9,
+      "narrative_layer": "main_narrative",
+      "event": "Old man sends child to mosque to fetch his son. Hadji Murat enters the saklya through creaking outer door. Woman arranges cushions. HM and old man exchange traditional greetings ('May thy coming bring happiness' / 'May thy sons live').",
+      "time_label": "Night — arrival under cover of darkness.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Old Man", "Middle-Aged Woman", "Child"],
+      "chunk_id": "chunk_004"
+    },
+    {
+      "order": 10,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat removes burka, rifle, sword — old man hangs weapons on wall beside household weapons. HM adjusts pistol, sits on cushions. Both men pray together (palms upward, stroking faces/beards).",
+      "time_label": "Night — continuous.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Old Man"],
+      "chunk_id": "chunk_004"
+    },
+    {
+      "order": 11,
+      "narrative_layer": "main_narrative",
+      "event": "Old man cryptically reports no good news; speaks in parable ('hares and eagles') about Russian oppression; mentions Russians burned hay in Mitchit Aoul.",
+      "time_label": "Night — continuous.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Old Man"],
+      "chunk_id": "chunk_004"
+    },
+    {
+      "order": 12,
+      "narrative_layer": "main_narrative",
+      "event": "Eldar (HM's murid) enters the saklya, removes weapons, hangs them beside his leader's. Old man seats him on felt beside Hadji Murat.",
+      "time_label": "Night — continuous.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Old Man", "Eldar"],
+      "chunk_id": "chunk_004"
+    },
+    {
+      "order": 13,
+      "narrative_layer": "main_narrative",
+      "event": "Old man introduces household as Sado's. Tells story of two Russian soldiers captured the week before — one killed, one sent to Shamil in Veden.",
+      "time_label": "Night — same evening as HM's arrival. Reference event 'week before'.",
+      "location_id": "loc_006",
+      "characters": ["Old Man", "Hadji Murat", "Eldar"],
+      "chunk_id": "chunk_005"
+    },
+    {
+      "order": 14,
+      "narrative_layer": "main_narrative",
+      "event": "Sado (master of house) enters with his son. Informs Hadji Murat that Shamil has ordered him seized alive or dead; envoys departed the day before. Warns that people fear disobeying Shamil but pledges HM's safety under his roof.",
+      "time_label": "Night — present action.",
+      "location_id": "loc_006",
+      "characters": ["Sado", "Sado's son", "Hadji Murat", "Old Man", "Eldar"],
+      "chunk_id": "chunk_005"
+    },
+    {
+      "order": 15,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat requests a guide to escort Eldar with a letter to the Russians. Sado nominates his brother Bata; son is sent to fetch him and returns ~10 minutes later with Bata.",
+      "time_label": "Night — present action, ~10 minutes after Sado's account.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Sado", "Sado's son", "Eldar", "Bata"],
+      "chunk_id": "chunk_005"
+    },
+    {
+      "order": 16,
+      "narrative_layer": "main_narrative",
+      "event": "Hadji Murat asks Bata directly whether he can conduct Eldar to the Russians. Bata agrees. The defection plan is set in motion.",
+      "time_label": "Night — present action.",
+      "location_id": "loc_006",
+      "characters": ["Hadji Murat", "Bata", "Eldar"],
+      "chunk_id": "chunk_005"
+    }
+  ],
+
+  "recurring_locations": [
+    {
+      "location_id": "loc_002",
+      "name": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+      "appearances": 2,
+      "notes": "Both frame-narrative appearances. Second visit triggers the main story — the crushed-but-standing thistle. Could be shot as single location with two time passes. Set-planning priority: MEDIUM (exterior, practical field, minimal dressing)."
+    },
+    {
+      "location_id": "loc_003",
+      "name": "EXT. MAKHMET AOUL - NIGHT",
+      "appearances": 2,
+      "notes": "Arrival establishing shot + implied recurring presence as the aoul is the primary Chechen setting for Act 1. Set-planning priority: HIGH (mountain village exterior, practical animals, smoke effects)."
+    },
+    {
+      "location_id": "loc_004",
+      "name": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+      "appearances": 2,
+      "notes": "Arrival approach + ongoing movement through the village. Narrow practical set, can double with loc_003 dressing. Set-planning priority: MEDIUM-HIGH."
+    },
+    {
+      "location_id": "loc_005",
+      "name": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+      "appearances": 2,
+      "notes": "Initial encounter with old man + penthouse/ladder scene with grandson. Single practical rooftop set. Set-planning priority: MEDIUM."
+    },
+    {
+      "location_id": "loc_006",
+      "name": "INT. OLD MAN'S SAKLYA / SADO'S SAKLYA - NIGHT",
+      "appearances": 5,
+      "notes": "The dominant interior of Chunks 3–5. Highest set-planning priority. All major Act 1 plot information passes through this space. Must accommodate 6+ characters, weapons display, prayer staging, and door-creak sound design. Set-planning priority: CRITICAL."
+    }
+  ],
+
+  "atmosphere_map": [
+    {
+      "phase": "Prologue — Frame Narrative (Chunks 1–2)",
+      "chunks": ["chunk_001", "chunk_002"],
+      "dominant_locations": ["loc_001", "loc_002"],
+      "visual_mood": "Chromatic abundance collapsing into monochrome erasure",
+      "color_palette": "Peak saturation: crimson, white, blue, lilac, yellow → stripped to black earth and dust-white path",
+      "camera_language": "Handheld slow drift in the meadow; crane/drone for the field's scale",
+      "lighting": "Golden-hour meadow → harsh midday on the field",
+      "emotional_register": "Wonder and innocence, then quiet dread. The audience does not yet know what is coming.",
+      "thematic_signal": "Nature as victim of empire; the thistle as defiance against erasure",
+      "transition_to_next": "Crushed thistle standing upright → cut to Hadji Murat on horseback"
+    },
+    {
+      "phase": "Mountain Arrival — Chechen World Established (Chunk 2–3)",
+      "chunks": ["chunk_002", "chunk_003"],
+      "dominant_locations": ["loc_003", "loc_004", "loc_005"],
+      "visual_mood": "Cold epic grandeur compressing into claustrophobic surveillance",
+      "color_palette": "Blue-black sky, ochre stone, orange ember-glow, cold grey shadow",
+      "camera_language": "Wide ridge-shot establishing scale → tight low-angle in the lanes",
+      "lighting": "Night. No artificial sources except kizyak ember and doorway glow.",
+      "emotional_register": "Watchful tension. Epic scale (mountain peaks) offset by the intimate paranoia of a hunted man.",
+      "thematic_signal": "The Chechen world as besieged community; Hadji Murat as both fugitive and legend",
+      "transition_to_next": "Waking the old man on the roof → descent into the saklya interior"
+    },
+    {
+      "phase": "Kunak Ritual — Interior Sanctuary (Chunks 3–5)",
+      "chunks": ["chunk_003", "chunk_004", "chunk_005"],
+      "dominant_locations": ["loc_006"],
+      "visual_mood": "Fragile warmth under existential threat",
+      "color_palette": "Stone grey relieved by bursts of textile colour (yellow, red, blue of the woman's costume); weapons gleaming on the wall",
+      "camera_language": "Interior close-ups; faces in partial shadow; the door-creak as rhythmic punctuation",
+      "lighting": "Oil lamp or single practical source; darkness beyond the threshold",
+      "emotional_register": "Hospitality as courage. The rituals of greeting, prayer, and cushion-laying are acts of defiance against Shamil's order. Tension mounts with each new arrival.",
+      "thematic_signal": "Kunak (host-guest bond) as the moral counterforce to imperial command; Sado's pledge is the act of a free man",
+      "transition_to_next": "Bata agrees to guide Eldar to the Russians → the defection begins"
+    }
+  ],
+
+  "production_notes": {
+    "overall_design_brief": "Historical war tragedy. Lawrence of Arabia scale in exterior shots; The English Patient intimacy in interior scenes. No romanticisation of violence. Austerity in production design — practical materials, no digital enhancement of landscapes.",
+    "costume": {
+      "Hadji_Murat": "Burka over riding clothes; pistol always retained even when weapons are hung; slight limp — must be consistent from first threshold crossing onward",
+      "Chechen_men": "Beshmet (quilted coat), papakha (sheepskin cap), weapons as daily dress",
+      "Chechen_women": "Vivid textile colour against grey stone interiors — yellow smock, red beshmet, wide blue trousers. Color contrast is cinematically intentional.",
+      "Old_man": "Greasy beshmet, nightcap — poverty and age read immediately"
+    },
+    "production_design": {
+      "saklya_interior": "Stone and clay, low ceiling, single door with practical creak, weapons wall, felt mats, cushions. No furniture beyond basics. The room is a fortress and a home simultaneously.",
+      "aoul_exterior": "Practical stone village on hillside. Narrow lanes, buildings carved into rock face. Practical kizyak smoke (low-hanging, aromatic). Livestock for sound and movement.",
+      "prologue_field": "Real black-earth field (chernozem). Thistle must be practical prop — three-branched, one broken, soiled but erect. No CGI.",
+      "flower_meadow": "Peak midsummer wildflower diversity — practical field, not studio. Crimson thistle in a ditch isolated from the main meadow."
+    },
+    "casting_anchors": {
+      "tier_1_suggestions": {
+        "Hadji_Murat": "Mads Mikkelsen — physical coiled energy, military bearing, capable of tragic silence",
+        "Russian_commander_Vorontsov": "Ralph Fiennes — imperial authority, moral complexity, The English Patient register"
+      },
+      "note": "30+ named characters in the novel. Story Analyst + Graphify preprocessor will identify fusion candidates before casting decisions. Historical anchors (Shamil, Vorontsov, Tsar Nicholas I) are non-fusable."
+    },
+    "frame_narrative_decision": "DIRECTORIAL CHOICE — not default. The thistle prologue is structurally essential as ironic frame (Tolstoy's authorial voice made visible). Cutting it removes the anti-imperial thesis from Act 1. Recommendation: retain as 3-minute cold open. Final decision at Treatment stage.",
+    "scene_budget_note": "60 scenes budgeted. Chunks 1–5 account for approximately 6–8 scenes (prologue 2, arrival 2, saklya council 3–4). Compression ratio from remaining ~140 chunks must be approximately 1 scene per 3 chunks on average."
+  }
+}

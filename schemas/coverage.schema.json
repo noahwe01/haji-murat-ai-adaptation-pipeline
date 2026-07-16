@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "coverage_agent + revision issue caps",
+  "type": "object",
+  "properties": {
+    "top_issues":  {"type": "array",  "maxItems": 12},
+    "strengths":   {"type": "array",  "maxItems": 12, "items": {"type": "string", "maxLength": 300}},
+    "summary":     {"type": "string", "maxLength": 3000},
+    "verdict_notes": {"type": "string", "maxLength": 1500}
+  }
+}

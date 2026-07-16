@@ -1,0 +1,75 @@
+{
+  "coherence_score": 76,
+  "momentum": {
+    "score": 72,
+    "stall_points": [
+      "S060-S077: Russian-camp diplomatic-waiting cluster — court ceremonies, deferral scenes, and scouting repeat the same value-state (HM captive in limbo) without escalating the obstacle; viewer loses the pressure of the family-rescue throughline",
+      "S078-S085: Sado's aoul / Avdeev sub-arc cycles through grief and institutional indifference; three consecutive scenes cover the same emotional territory (debt acknowledged, child mourned, soldier buried) without a clear turn",
+      "S102-S128: The long fragmentation into micro-scenes (S102=44w, S103=31w, S106=14w, S114-S117 100% dialog) suggests the adaptation lost structural control in mid-Act-III; the final buildup to the escape feels diffuse rather than accelerating"
+    ],
+    "surge_points": [
+      "S001-S020: The opening run is the screenplay's strongest continuous sequence — high tension (0.9), low dialog (world-building mode), relentless momentum from thistle prologue through defection",
+      "S044-S057: The Vorontsov negotiation cluster builds genuine escalating tension as each exchange tightens HM's diplomatic trap",
+      "S129-S135: The escape, ditch ambush, and three-room news-receipt coda (S133) form the film's finest structural sequence — the last stand earns its emotional payoff through compression and counterpoint"
+    ]
+  },
+  "emotional_architecture": {
+    "score": 80,
+    "peak_moment": "S132 — Last Stand in the ditch: Hadji Murat sighting without hurry while Eldar dies on his leg, then rising to charge alone — a death that is an assertion of selfhood, not defeat. Properly set up through the thistle prologue and every Act II negotiation that demanded surrender of identity.",
+    "earned_ending": true,
+    "earned_ending_notes": "The three-room simultaneous news-receipt (S133) is earned on the thematic and structural levels — the empire's paperwork closes over HM's death just as it did over Avdeev's. The thistle epilogue match-cut closes the formal frame correctly. Emotionally earned on 3 of 4 levels; the 4th (character transformation) is complicated by HM's intentional stasis — he does not change, he refuses to. This is a valid Tolstoyan stance, but audiences expecting protagonist evolution may feel cheated.",
+    "quiet_loud_contrast": "Present but unevenly deployed. S085 (silent, 93w) before S086 (Butler arrival) works. The mid-film quiet zones (S032-S033, both under 80w) dissipate tension rather than charging it — they arrive too early for maximum contrast effect.",
+    "audience_feeling": "Grief mixed with admiration — the feeling of watching something irreducible be destroyed by systems too large to hate any single part of. The anti-imperial elegy lands. A viewer who came for action may feel the scale is earned; a viewer who came for prestige drama will feel the thistle image one week later."
+  },
+  "thematic_coherence": {
+    "score": 83,
+    "themes_shown_not_told": true,
+    "themes_shown_not_told_notes": "The core themes — agency vs. paralysis, imperial machinery erasing individual lives, loyalty as provisional — surface consistently through behavior: HM folds the Emperor's letter along its original crease and hands it back without a word; Vorontsov's 'I will think it over' as a weapon; the lamp throwing two shadows that do not touch. On-the-nose risk is present in Russian court scenes where dialog risks becoming historical contextual delivery rather than dramatic exchange.",
+    "crystallizing_moment": "The thistle prologue and match-cut epilogue. The bent-but-flowering thistle → midsummer light → mountains unmoved is the single image that contains the entire film's thesis: the crushed thing was alive, vital, irreducible. Tolstoy's structural image earns its place as the formal spine.",
+    "formal_echoes": [
+      "Thistle motif bookends the film (S001 prologue → S135 epilogue match-cut)",
+      "Three-room simultaneous news-receipt (S133) mirrors the three-world architecture of Acts I-II (Caucasus / Russian camp / Shamil's court)",
+      "Silence as speech: HM's wordless acts (letter fold, ablutions in mud, cartridge count) echo across all three worlds",
+      "Bureaucratic paper-stamping in St Petersburg parallels Shamil's Quranic recitation as parallel performance-of-power across empires"
+    ],
+    "thematic_coherence_risk": "The Avdeev subplot carries the anti-war elegy beautifully but is underweighted in the final third — Aksinya's grief and the falsified death-report never return after their introduction, leaving a thematic loose end in the epilogue sequence."
+  },
+  "character_ecosystem": {
+    "score": 70,
+    "redundant_characters": [
+      "The Author-Narrator character has no discernible dramatic function — if retained in screenplay, role must be defined or cut entirely",
+      "Poltoratsky appears in character notes but is absent from the compressed treatment as a speaking dramatic agent — the Marya Dmitrievna romantic subplot appears to have been cut without resolution",
+      "Arslan Khan, Kazi-Mulla, Kozlovsky variants: functionally cuttable — they carry no want/need and duplicate antagonist pressure already supplied by Shamil and Karganov",
+      "Baryatinsky: off-stage throughout; his expedition appears thematically (military brutality + aristocratic corruption) but has no scene-level presence — the theme could be absorbed into existing Vorontsov scenes"
+    ],
+    "interlocking_arcs": false,
+    "interlocking_arcs_notes": "HM's arc (preserve selfhood) does not force changes in the supporting cast — Vorontsov remains a bureaucratic deferrer, Shamil remains a theocratic performer, Butler remains a morally confused observer. Their arcs run parallel rather than interlocking. The screenplay misses the structural opportunity to show HM's presence forcing an involuntary choice in at least one antagonist.",
+    "transformation_visible": "HM's transformation is deliberately absent — he refuses to change, and this refusal is his heroism. However, Butler (the Western-gaze surrogate) shows no visible behavioral transformation either, leaving the audience without an emotional proxy whose growth they can track. Butler's arc needs one scene where his behavior shifts in response to what he has witnessed.",
+    "character_count_problem": "60+ named characters in state, majority with Want=? and Need=?. Coverage identified this as a critical liability for a 120-minute film. Phase 8 compression must execute aggressive consolidation — target: 8-10 named speaking roles."
+  },
+  "dangling_threads": [
+    "Avdeev's falsified death-report and Aksinya's grief are introduced as a powerful anti-war counterpoint but receive no callback in the final act — the imperial machinery theme is stated but the human cost thread goes silent after the hospital scenes",
+    "Khan Mahoma's singing in the last-stand ditch (noted in coverage) is unestablished as a motif — if it is meant as a callback to an earlier scene, that earlier scene is not visible in the adapted scenes; if it is a spontaneous act, its dramatic payload is unclear",
+    "Bata's loyalty-as-craft characterization appears in character notes but is not dramatized before the escape sequence — his presence in the ditch is unearned; the 'loyalty' theme in the final stand is diluted because only Gamzalo and Eldar have been established as individuals",
+    "The Author-Narrator device introduced in the character list never resolves into a clear dramatic function — a Chekhov's gun that was never fired",
+    "Poltoratsky's romantic relationship with Marya Dmitrievna appears to have been compressed out of the treatment without closure — if the subplot was intentionally cut, the character's continued presence in the Russian-camp scenes creates unexplained dramatic weight"
+  ],
+  "missed_opportunities": [
+    "BIGGEST: The Yusuf/Patimat captivity scenes in Vedeno are treated as inserts rather than as a parallel dramatic engine. Intercut against HM's Russian-camp negotiations in real-time, they would create relentless pressure and close the story's structural gap — the audience would feel the family-rescue stakes in every bureaucratic deferral scene rather than intermittently. This is the screenplay's single largest structural opportunity not taken.",
+    "Avdeev's death and the falsified report could be intercut with a Nicholas I bureaucratic triumph scene for devastating irony — the Tsar signs a document celebrating military victory in the same moment the family receives a lie instead of a body. This contrast is present in Tolstoy and is the anti-war argument made visible. It does not appear to be deployed in the adapted scenes.",
+    "Butler's moral reckoning — the Western-gaze character who has watched HM be destroyed by imperial machinery — is never crystallized into a single scene where his behavior changes. A scene showing Butler's response to HM's death (not just witnessing but acting differently because of it) would give the audience an emotional proxy for their own transformation.",
+    "The three-world architecture (Caucasus / Russian camp / Shamil's Vedeno) is established but never brought into simultaneous collision. A structural sequence where the same moment — say, the moment HM decides to escape — is shown from all three worlds in tight intercutting would crystallize the film's thesis about institutional indifference to individual life.",
+    "Karganov's institutional dehumanization of HM could be sharpened into a single scene of direct confrontation — currently his bureaucratic antagonism is diffuse across multiple scenes. One clear scene where he explicitly denies HM's personhood (and HM's response asserts it) would give the central conflict a human face beyond the abstract imperial machinery."
+  ],
+  "why_this_film": "Because no other film has shown empire the way Tolstoy understood it — not as ideology or spectacle but as paperwork. A man who cannot be broken by battle is destroyed by deferred meetings and unanswered letters. The thistle image is not a metaphor for defeat; it is an argument that vitality is real and irreducible even when crushed. In the era of Lawrence of Arabia revisionism and post-colonial historical drama, Hadji Murat is the story that got there first — and this adaptation, at its best moments (the ditch ambush, the folded letter, the lamp with two shadows), understands what Tolstoy was doing. A viewer one week later will remember Hadji Murat lowering his rifle when he recognizes Hadji Aga, and speaking across the open ground — 'Once you ate from my dish. Today you bring two hundred guns to my ditch.' That line is the film.",
+  "overall_assessment": "The screenplay has the right bones and the wrong proportions. Act One is lean and confident; Act Three recovers with genuine force in the ditch sequence and epilogue. Act Two is the structural failure — 75+ scenes (S020-S128) that cycle through diplomatic limbo without a clear midpoint event raising the stakes irreversibly. The Shamil/captivity subplot runs parallel instead of interlocking, so the family-rescue pressure feels intermittent. The estimated 264-minute runtime (vs. 120-minute target) is not a trimming problem; it is a restructuring problem. Phase 8 revision must halve the scene count through strategic compression and parallel intercutting, not cosmetic cutting. The thematic intelligence is present throughout; the emotional machinery is present at the beginning and end; the middle needs a structural intervention, not a polish pass. The film earns its ending only if Act Two earns its escalation first.",
+  "revision_priority": [
+    "CRITICAL: Establish a midpoint scene (approx. S067-S070) where HM's defection strategy irrevocably shifts — a scene that closes one option and forces a new one, raising stakes permanently",
+    "CRITICAL: Intercut Yusuf/Patimat Vedeno scenes against Russian-camp scenes in Act II to make family-rescue pressure continuous rather than intermittent",
+    "HIGH: Give Butler one behavioral-change scene after HM's death — the Western-gaze proxy needs to close his arc through action, not observation",
+    "HIGH: Establish Khan Mahoma's singing as a motif earlier (Act I or early Act II) so the last-stand callback lands with weight",
+    "HIGH: Establish Bata's character voice (loyalty as craft) in at least one dialog scene before the escape sequence",
+    "MEDIUM: Sharpen the Avdeev death / falsified report thread — either commit to the Aksinya callback in the final act or cut the subplot to a single scene",
+    "MEDIUM: Define or eliminate the Author-Narrator device before screenplay phase"
+  ]
+}

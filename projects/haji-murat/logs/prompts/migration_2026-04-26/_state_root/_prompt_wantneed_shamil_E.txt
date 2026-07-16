@@ -1,0 +1,200 @@
+You are the Character Agent in synthesis mode.
+From the collected extraction data, you create a complete character profile
+with a Voice Profile — the most critical element for dialog quality.
+
+Character: Shamil
+Casting suggestion: No casting suggestion
+
+Collected data from all chunks:
+{}
+
+Style manifest:
+{
+  "genre": "historical war tragedy / anti-imperial fable",
+  "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "reference_films": [
+    "Lawrence of Arabia",
+    "The Last Duel (2021)",
+    "The English Patient",
+    "War and Peace (Bondarchuk 1966)",
+    "Come and See",
+    "Ran"
+  ],
+  "language": "en"
+}
+
+Create a complete profile:
+
+1. BASIC DATA
+   - Role (Protagonist/Antagonist/Supporting/Minor)
+   - Age, origin, social status (only from text, do not invent)
+   - physical_signature: ONE recurring body-marker that makes the character visually identifiable in every scene.
+     Examples: Anna Karenina's heavy eyelids, Pierre's broad build, Hadji Murat's prominent cheekbones + slight limp,
+     Vorontsov's pale hands and quiet voice. Draw from the source text when possible. For casting: translates to
+     a specific gesture, feature, or habit the actor must embody. REQUIRED for all Tier-1 and Tier-2 characters.
+
+2. PSYCHOLOGY
+   - WANT: What the character consciously pursues (drives the plot)
+   - NEED: What the character truly needs (drives the theme)
+   - FEAR: What the character fears most
+   - CONTRADICTION: Where does the character contradict themselves?
+   - justification: REQUIRED for role=Antagonist. ONE sentence (from the character's own perspective) that
+     explains why their actions are legitimate to THEM. Tolstoi-principle: antagonists are understood from
+     their own logic, not dismissed as villains. Example for Shamil: "Hadji Murad was my best warrior and
+     now he runs to the enemy — he dies or returns, no third option is possible." Leave null for non-antagonists.
+
+3. ARC
+   - Starting state (Act 1)
+   - Change (Act 2)
+   - End state (Act 3)
+   - Arc type (Transformation/Fall/Stagnation/Revelation)
+
+4. VOICE PROFILE (CRITICAL)
+   - voice_description: 3 sentences describing how the character speaks
+   - Vocabulary level: formal/informal, education level, era
+   - Sentence structure: Average length, complexity, question/statement/fragment tendency
+   - Verbal tics: Recurring expressions, idioms
+   - avoidances: What this character would NEVER say
+   - emotional_expression: How does the character express feelings verbally?
+   - Speech rhythm: measured/hectic/alternating
+   - 5 example dialog lines for different emotional states:
+     a) neutral/everyday
+     b) under pressure
+     c) hopeful/joyful
+     d) angry/hurt
+     e) vulnerable/honest
+   - subtext_rules: What does the character say when they mean X?
+
+5. RELATIONSHIPS
+   - For each relevant character: Type, quality, power dynamic, speech register shift
+
+Respond as JSON.
+
+
+METHODOLOGY SKILLS (mandatory application):
+
+### character-want-need
+# Character Want vs. Need
+
+## Das grundlegende Spannungsverhältnis
+
+**Want** (Wollen) und **Need** (Brauchen) sind die zwei zentralen Antriebskräfte jeder dramatischen Figur. Sie sind selten identisch — und genau aus dieser Lücke entsteht der emotionale Kern einer Geschichte.
+
+| Dimension | Want | Need |
+|---|---|---|
+| Funktion | Plot-Treiber | Thema-Treiber |
+| Bewusstsein | Figur ist sich bewusst | Figur erkennt es oft erst spät oder nie |
+| Manifestation | Äußeres Ziel | Innere Transformation |
+| Dramatik | erzeugt Spannung | erzeugt Bedeutung |
+| Konflikt | mit Antagonist, Umwelt | mit sich selbst |
+
+## Frank Daniels Formel als Ausgangspunkt
+
+Howard/Daniel definieren die dramatische Grundsituation als: *"Somebody wants something badly and is having difficulty getting it."*
+
+Das "wants something" beschreibt das **Want** — das externe, bewusste Ziel der Figur. Aber in gut konstruierten Geschichten hat die Figur auch ein **Need** — etwas, das sie braucht, um als Mensch ganz zu werden, auch wenn sie selbst das nicht erkennt.
+
+## Die Lücke erzeugt den Arc
+
+Die **Differenz zwischen Want und Need** ist der Motor des Character Arc. Drei Grundmuster:
+
+### Muster 1: Die Figur bekommt was sie will, aber nicht was sie braucht
+→ Tragische oder leere Auflösung. Die Figur "siegt", aber verliert sich selbst.
+*Beispiel: Macbeth bekommt die Krone (Want), braucht aber inneren Frieden und moralische Integrität (Need) — und zerstört beides.*
+
+### Muster 2: Die Figur bekommt nicht was sie will, aber was sie braucht
+→ Reifungsgeschichte, oft mit Schmerz. Die äußere Niederlage wird zur inneren Erfüllung.
+*Beispiel: Rick in Casablanca gibt Ilsa (Want) auf und gewinnt seine Würde und Handlungsfähigkeit zurück (Need).*
+
+### Muster 3: Die Figur erkennt den Unterschied und wählt das Need
+→ Klassischer positiver Arc mit bewusster Transformation.
+
+### Muster 4: Die Figur erkennt den Unterschied nicht — Stagnation oder Fall
+→ Tragischer Arc oder Anti-Held ohne Wachstum. Das Need bleibt unerfüllt.
+
+## Want als Plot-Treiber
+
+Das Want gibt der Geschichte ihre **äußere Struktur**. Es erzeugt:
+- Die Aufgabe oder das Ziel (Objective)
+- Den Antagonisten oder das Hindernis
+- Die Spannung ("wird sie es schaffen?")
+- Die Szenensequenz (was muss die Figur tun, um ihr Want zu erreichen?)
+
+Nach Howard: Ohne klares Want keine dramatische Empathie. Das Publikum muss verstehen, **was** die Figur will und **warum** es schwierig ist.
+
+## Need als Thema-Treiber
+
+Das Need ist die tiefere Frage, die das Werk stellt. Es manifestiert sich:
+- In den Themen, die das Werk verhandelt
+- In der moralischen oder emotionalen Transformation der Figur
+- In der Prämisse (nach Egri): Das Need ist oft der unerfüllte Teil der Prämisse
+
+Nach Egri: Die Prämisse *bestimmt* das Need. "Blind trust leads to destruction" — Lears Need ist Selbsterkenntnis, die er sich verweigert.
+
+Nach Seger: Das Need ist oft in den **Paradoxien** der Figur versteckt. Der Teil, der der Konsistenz widerspricht — das ist häufig, was die Figur wirklich braucht.
+
+## Adaptions-spezifisches Problem
+
+Im Roman kann das Need explizit im inneren Monolog benannt werden. Im Drehbuch muss es **sichtbar** werden:
+- Durch Verhalten, das dem Want widerspricht
+- Durch Spiegel-Figuren, die das Need der Hauptfigur verkörpern
+- Durch symbolische Handlungen, die die innere Leere zeigen
+- Durch die Konsequenzen des unerfüllten Needs
+
+Der Adapteur muss beim Lesen des Romans explizit fragen:
+> Was will diese Figur? Und was braucht sie wirklich?
+
+Wenn die Antworten identisch sind, hat die Figur keinen Arc — oder der Arc ist noch nicht vollständig übersetzt.
+
+## Beispiel: Adaptation eines Romanhelden
+
+Ein Romanheld will Ruhm und gesellschaftliche Anerkennung (Want). Im Roman beschreibt der Erzähler explizit, dass er eigentlich Zugehörigkeit und Liebe braucht (Need). 
+
+Im Drehbuch:
+- Want: Handlungssequenzen, in denen er Ruhm jagt
+- Need: durch Momente zeigen, in denen er verbindungsfähig wäre, aber flieht — oder in denen andere ihm spiegeln, was er wirklich sucht
+- Der Arc: er erkennt (oder verweigert die Erkenntnis) am Ende
+
+## Anwendungsregel für Adaptation
+
+1. Want und Need für jede Hauptfigur explizit in einem Satz formulieren
+2. Prüfen: Ist die Lücke groß genug für einen Arc?
+3. Mindestens drei Szenen identifizieren, in denen das Need **sichtbar** wird (ohne Dialogue)
+4. Die Prämisse des Werks gegen das Need der Hauptfigur spiegeln — stimmen sie überein?
+
+## Verwandte Konzepte
+
+- [[character-arc]] — die Bewegung von Want Richtung Need (oder Scheitern dabei)
+- [[praemisse]] — Egris Prämisse und das Need sind strukturell verknüpft
+- [[show-dont-tell]] — das Need muss gezeigt werden, nicht erklärt
+- [[innerer-monolog-visuell]] — inneres Need sichtbar machen
+- [[david-howard]] — Daniels Formel als Basis
+- [[lajos-egri]] — Prämisse als Ursprung des Need
+
+## Quellen
+
+- Howard, David. *The Tools of Screenwriting*. 1993. Kapitel: Protagonist and Objective, Theme.
+- Egri, Lajos. *The Art of Dramatic Writing*. 1946. Kapitel: Premise, Character Growth.
+- Seger, Linda. *Creating Unforgettable Characters*. 1990. Kapitel: Defining the Character, Adding Values.
+
+---
+
+#konzept #want-need #character-development #arc #plot-treiber #thema-treiber #adaptation
+
+
+### figurenstimme-differenzieren
+# Figurenstimmen Differenzieren
+
+#dialog #konzept #charakterisierung #mckee #kempton
+
+> "Ideally, every character is a walking dictionary of his or her unique collection of words."
+> — Robert McKee, *Dialogue: The Art of Verbal Action*
+
+---
+
+## Warum Figurenstimmen differenzieren?
+
+Wenn alle Figuren gleich klingen, ist das nicht nur ein stilistisches Problem — es ist ein *Charakter-Problem*. Figuren, die keine eigene Stimme haben, haben keine eigene Seele. Ein Blindtest ist das härteste Qualitätskriterium: Kannst du erkennen, wer spricht, wenn du die Figurenbezeichnungen entfernst?
+
+McKee:
+> "Each of his characters speaks with a syntax, rhythm, tonality, and, most importantly, word choices that no one but that character would use. Ideally, every character is a...

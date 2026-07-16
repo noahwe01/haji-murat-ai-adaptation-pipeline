@@ -1,0 +1,195 @@
+{
+  "characters_found": [
+    {
+      "name": "hadji_murad",
+      "direct_quotes": [
+        "Selaam aleikum!"
+      ],
+      "speech_descriptors": [
+        "repeating the customary greeting"
+      ],
+      "actions": [
+        "rides as a fugitive with only one murid, wrapped in hood and burka",
+        "has a rifle protruding from under burka",
+        "peers with quick black eyes into faces of those he meets",
+        "turns left into narrow side street instead of main road",
+        "stops at second saklya and looks around",
+        "touches sleeping old man with handle of leather-plaited whip and clicks tongue",
+        "uncovers his face after greeting",
+        "dismounts and walks with a slight limp",
+        "enters under the penthouse"
+      ],
+      "inner_states": [
+        "trying to attract as little attention as possible",
+        "alert and watchful — peering into faces of those he meets"
+      ],
+      "social_markers": [
+        "Shamil's naib (lieutenant/governor)",
+        "famous for his exploits",
+        "normally rides with banner and dozens of murids",
+        "currently a fugitive — reduced to one murid",
+        "Chechen/Avar warrior elite",
+        "uses customary Islamic greeting 'Selaam aleikum'",
+        "carries leather-plaited whip — marker of rank"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "old_man_(unnamed_host)",
+          "quality": "recognized and welcomed; uses customary greeting, uncovers face only after greeting"
+        },
+        {
+          "with": "murid_(unnamed,_single_companion)",
+          "quality": "commands loyalty; murid quickly takes over from old man without being ordered verbally"
+        }
+      ],
+      "new_info": [
+        "has a slight limp when walking",
+        "travels disguised — no banner, no escort, contrary to his normal mode of travel",
+        "knows this village and specific saklya — goes directly to side street and second house",
+        "currently a fugitive from Shamil"
+      ]
+    },
+    {
+      "name": "murid_(unnamed,_single_companion)",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "rides alongside Hadji Murad",
+        "quickly dismounts before old man can help",
+        "motions old man aside and takes his place at Hadji Murad's stirrup"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "murid — religious/military follower",
+        "strong and active",
+        "protective role, acts as bodyguard/attendant"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "hadji_murad",
+          "quality": "loyal, protective, anticipates needs without verbal instruction"
+        },
+        {
+          "with": "old_man_(unnamed_host)",
+          "quality": "displaces him from serving Hadji Murad without hostility — matter of protocol"
+        }
+      ],
+      "new_info": [
+        "sole remaining companion of Hadji Murad in his fugitive state",
+        "physically strong and quick — described as 'strong active murid'"
+      ]
+    },
+    {
+      "name": "old_man_(unnamed_host)",
+      "direct_quotes": [
+        "aleikum, selaam!",
+        "run to the mosque and call your father"
+      ],
+      "speech_descriptors": [
+        "mumbling with toothless mouth while descending ladder",
+        "orders boy to call his father"
+      ],
+      "actions": [
+        "lies on roof of saklya covered with sheepskin",
+        "rises when touched with whip",
+        "blinks to unstick moist red eyelids",
+        "responds to greeting with smile",
+        "raises himself on thin legs",
+        "thrusts feet into wooden-heeled slippers",
+        "slips arms into crumpled sheepskin",
+        "descends ladder backwards while dressing",
+        "shakes head and mumbles while climbing down",
+        "reaches ground and hospitably seizes Hadji Murad's bridle and right stirrup",
+        "is motioned aside by murid",
+        "hurries forward to open the thin, creaking door into the saklya"
+      ],
+      "inner_states": [
+        "recognizes Hadji Murad and smiles — implicit familiarity and welcome"
+      ],
+      "social_markers": [
+        "old, physically frail — thin legs, shrivelled sunburnt neck, toothless, no eyelashes",
+        "wears greasy old beshmet and nightcap — lower class, poor material goods",
+        "resting on roof during day — rural Chechen peasant lifestyle",
+        "wooden-heeled slippers — regional Caucasian footwear",
+        "hospitable by reflex — grabs bridle and stirrup immediately",
+        "patriarch of household — commands boy directly"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "hadji_murad",
+          "quality": "recognizes him without hesitation; welcomes him hospitably; defers to him socially"
+        },
+        {
+          "with": "boy_(host's_grandson/son)",
+          "quality": "commands him directly — authority figure"
+        }
+      ],
+      "new_info": [
+        "distinct from 'old_man_(apiarist)' in earlier chunks — this is a different unnamed old man who is the host at this saklya",
+        "has a son (called from mosque) and a boy (grandson or son) in household"
+      ]
+    },
+    {
+      "name": "boy_(host's_grandson/son)",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "comes quickly out of the door",
+        "meets Hadji Murad",
+        "fixes sparkling eyes wonderingly on the new arrivals"
+      ],
+      "inner_states": [
+        "wonder and curiosity at the new arrivals"
+      ],
+      "social_markers": [
+        "approximately fifteen years old",
+        "eyes described as black as ripe sloes — Caucasian physical type",
+        "member of rural Chechen household"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "old_man_(unnamed_host)",
+          "quality": "obedient; old man commands him immediately"
+        },
+        {
+          "with": "hadji_murad",
+          "quality": "stares in wonder — does not know him personally but reacts to his presence"
+        }
+      ],
+      "new_info": [
+        "approximately 15 years old",
+        "sent to mosque to call his father — implies father is at mosque prayer"
+      ]
+    },
+    {
+      "name": "woman_of_the_house_(unnamed)",
+      "direct_quotes": [
+        "May thy coming bring happiness!"
+      ],
+      "speech_descriptors": [
+        "says traditional welcome while bending nearly double to arrange cushions"
+      ],
+      "actions": [
+        "comes through inner door carrying cushions",
+        "bends nearly double to begin arranging cushions (for guests)"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "slight and spare, middle-aged",
+        "wears yellow smock, red beshmet, wide blue trousers — traditional Chechen women's dress, colourful",
+        "immediately serves guests — traditional hospitality role",
+        "moves through inner door — domestic space, segregated from outer entry"
+      ],
+      "relationship_dynamics": [
+        {
+          "with": "hadji_murad",
+          "quality": "offers traditional welcome greeting; serves him as honoured guest"
+        }
+      ],
+      "new_info": [
+        "traditional Chechen greeting 'May thy coming bring happiness' — hospitality formula",
+        "dress details: yellow smock, red beshmet, wide blue trousers — specific visual description for costume/production design"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scenes": [],
+  "overall_stats": {
+    "total_lines": 16,
+    "avg_subtext_score": 8.1,
+    "on_the_nose_pct": 0,
+    "deep_subtext_pct": 62,
+    "passes_70_30": true
+  },
+  "worst_offenders": [],
+  "best_moments": [
+    {
+      "scene_id": "S004",
+      "line": "Two.",
+      "score": 9
+    },
+    {
+      "scene_id": "S005",
+      "line": "May thy sons live.",
+      "score": 9
+    },
+    {
+      "scene_id": "S006",
+      "line": "hares and eagles parable",
+      "score": 9
+    }
+  ]
+}

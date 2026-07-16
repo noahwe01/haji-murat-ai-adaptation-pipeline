@@ -1,0 +1,38 @@
+{
+  "method": "pure-python keyword-cross-check",
+  "config_genre": "historical war tragedy / anti-imperial fable",
+  "config_ton": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+  "voice_register_audit": {
+    "synth_chars_total": 33,
+    "formal_register_count": 33,
+    "informal_register_count": 33,
+    "mixed_register_count": 33,
+    "neither_count": 0
+  },
+  "production_notes_color_audit": {
+    "color_strategy_text": "The mountain world begins in saturated earth tones — ochre, terracotta, firelight amber — and progressively desaturates as Hadji Murad moves deeper into Russian control. The imperial world (Tiflis, Petersburg) is always golden but cold: gilded surfaces that produce no warmth. The final sequence at the thicket ditch returns the palette to raw earth, with the single red of HM's blood echoing the opening thistle — suggesting not defeat but completion of an unbroken moral arc. Nicholas I's Petersbur",
+    "sober_palette_keyword_hits": [
+      "desatur",
+      "earth",
+      "cold",
+      "ochre",
+      "pale"
+    ],
+    "matches_tragic_ton": true
+  },
+  "hadji_murad_arc_audit": {
+    "tragedy_signals": [
+      "tragic",
+      "fall"
+    ],
+    "transformation_signals": [
+      "change"
+    ],
+    "revelation_signals": [],
+    "expected_arc_type": "tragedy",
+    "arc_matches_genre": true
+  },
+  "issues": [],
+  "warnings": [],
+  "passed": true
+}

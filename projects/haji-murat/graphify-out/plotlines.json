@@ -1,0 +1,3718 @@
+{
+  "threads": [
+    {
+      "thread_id": "hm_defection",
+      "name": "Hadji Murad's Hidden Goal — Rescuing His Family from Shamil",
+      "type": "main",
+      "characters_involved": [
+        "Akhmet Khan",
+        "Avar adherents",
+        "Bata",
+        "Butler",
+        "Chernyshov",
+        "Eldar",
+        "Gamzalo",
+        "Hadji Aga",
+        "Hadji Murad",
+        "Hadji Murad's son",
+        "Karganov",
+        "Khan Mahoma",
+        "Khanefi",
+        "Loris-Melikov",
+        "Major Ivan Matveich Petrov",
+        "Marya Dmitrievna",
+        "Marya Vasilevna Vorontsova",
+        "Meller-Zakomelsky",
+        "Nazarov",
+        "Nicholas I",
+        "Patimat",
+        "Prince Mikhail Vorontsov",
+        "Prince Simon Vorontsov",
+        "Prince Tarkhanov",
+        "Sado",
+        "Semyon Vorontsov",
+        "Shamil",
+        "Sofiat",
+        "Tavlinian spy",
+        "Vorontsov",
+        "Yusuf",
+        "old spy",
+        "spies"
+      ],
+      "chapters_active": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25
+      ],
+      "span": [
+        1,
+        25
+      ],
+      "reach": 20,
+      "final_status": "resolved",
+      "timeline": [
+        {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "status": "developed",
+          "description": "Fleeing Shamil's murids, Hadji Murad hides in Sado's saklya, sends Bata and Khan Mahoma as envoys to Prince Vorontsov at Vozvizhensk, escapes the hostile aoul under fire, regroups with his four murids in the forest, and formally surrenders to Vorontsov at the Shalin glade on a tree-felling expedition.",
+          "dramatic_function": "Drives the entire A-story: the protagonist's high-stakes crossover from Shamil's camp to the Russian side, setting up the central political gamble of the novella.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            1,
+            4
+          ],
+          "status": "introduced",
+          "description": "Hadji Murad entrusts Sado with a concealed note 'to be handed to my son' and dreams of using a Russian army to march on Shamil, seize him and his wives, and reclaim Avaria and Chechnya — planting the buried motive behind his defection.",
+          "dramatic_function": "Plants the true stakes beneath the political surrender — the family held hostage — that will drive the tragic second half.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            6,
+            9,
+            10
+          ],
+          "status": "developed",
+          "description": "Hadji Murad is received by the younger Vorontsov, then handed upward through the Russian command chain until he meets the Viceroy Mikhail Vorontsov in Tiflis to negotiate terms, offering to destroy Shamil in exchange for help rescuing his family.",
+          "dramatic_function": "Establishes the protagonist's central bargain and his precarious position between two powers",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "status": "developed",
+          "description": "Hadji Murad in Tiflis as Vorontsov's guest, increasingly restless about his family held by Shamil, pleading to be sent to Grozny to establish contact and negotiate ransom. His fate becomes a matter of imperial-level decision-making.",
+          "dramatic_function": "Sustains central dramatic question: will HM be able to save his family? Transitions his status from guest to semi-prisoner/tool of empire.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            18,
+            19,
+            20
+          ],
+          "status": "ongoing",
+          "description": "Hadji Murad arrives at the fort under Russian guard with orders permitting contact with mountaineers via spies but forbidding exit without Cossack convoy. He lodges a week in Major Petrov's household, receives repeatedly bad news from spies about his family's captivity in Vedeno, befriends Butler, earns Marya Dmitrievna's respect, and departs still seeking a solution for his family.",
+          "dramatic_function": "Core protagonist arc — establishes HM's trapped position between two systems, the stakes (his imprisoned family), and the foundation of the tragedy that follows his departure.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "status": "resolved",
+          "description": "Hadji Murad, unable to rescue his family through Vorontsov's diplomacy and abandoned by his Avar allies, decides to flee the Russians at Nukha. He kills his Cossack escort during a ride on April 25, flees toward the mountains, becomes bogged down in flooded rice-fields, is surrounded by Karganov's militia and then Hadji Aga's 200 men, entrenches in a ditch, fights heroically while wounded, and is finally killed and beheaded.",
+          "dramatic_function": "Climax and tragic resolution of the protagonist's arc. The hero's last stand mirrors the Hamzad song he heard the night before, fulfilling the thistle frame.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            22,
+            23
+          ],
+          "status": "closed_in_range_unresolved",
+          "description": "Shamil holds Hadji Murad's wife, mother, and son Yusuf hostage in Vedeno, threatening to blind/kill the son. Hadji Murad offers 3000 rubles for their liberation. His Avar allies ultimately refuse out of fear of Shamil, forcing Hadji Murad's decision to flee and attempt rescue himself. The family's fate remains unresolved when he dies.",
+          "dramatic_function": "Primary motivation driving the hero's fatal decision. The unresolved hostage situation gives his death its tragic weight.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "hm_defection"
+      ],
+      "description_concat": "Fleeing Shamil's murids, Hadji Murad hides in Sado's saklya, sends Bata and Khan Mahoma as envoys to Prince Vorontsov at Vozvizhensk, escapes the hostile aoul under fire, regroups with his four murids in the forest, and formally surrenders to Vorontsov at the Shalin glade on a tree-felling expedition. | Hadji Murad entrusts Sado with a concealed note 'to be handed to my son' and dreams of using a Russian army to march on Shamil, seize him and his wives, and reclaim Avaria and Chechnya — planting the buried motive behind his defection. | Hadji Murad is received by the younger Vorontsov, then handed upward through the Russian command chain until he meets the Viceroy Mikhail Vorontsov in Tiflis to negotiate terms, offering to destroy Shamil in exchange for help rescuing his family. | Hadji Murad in Tiflis as Vorontsov's guest, increasingly restless about his family held by Shamil, pleading to be sent to Grozny to establish contact and negotiate ransom. His fate becomes a matter of imperial-level decision-making. | Hadji Murad arrives at the fort under Russian guard with orders permitting contact with mountaineers via spies but forbidding exit without Cossack convoy. He lodges a week in Major Petrov's household, receives repeatedly bad news from spies about his family's captivity in Vedeno, befriends Butler, earns Marya Dmitrievna's respect, and departs still seeking a solution for his family. | Hadji Murad, unable to rescue his family through Vorontsov's diplomacy and abandoned by his Avar allies, decides to flee the Russians at Nukha. He kills his Cossack escort during a ride on April 25, flees toward the mountains, becomes bogged down in flooded rice-fields, is surrounded by Karganov's militia and then Hadji Aga's 200 men, entrenches in a ditch, fights heroically while wounded, and is finally killed and beheaded. | Shamil holds Hadji Murad's wife, mother, and son Yusuf hostage in Vedeno, threatening to blind/kill the son. Hadji Murad offers 3000 rubles for their liberation. His Avar allies ultimately refuse out of fear of Shamil, forcing Hadji Murad's decision to flee and attempt rescue himself. The family's fate remains unresolved when he dies."
+    },
+    {
+      "thread_id": "hm_murids_introduced",
+      "name": "Hadji Murad's Four Murids Assembled",
+      "type": "subplot",
+      "characters_involved": [
+        "Eldar",
+        "Gamzalo",
+        "Hadji Murad",
+        "Khan Mahoma",
+        "Khanefi"
+      ],
+      "chapters_active": [
+        1,
+        4,
+        5
+      ],
+      "span": [
+        1,
+        5
+      ],
+      "reach": 3,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            1,
+            4,
+            5
+          ],
+          "status": "introduced",
+          "description": "Eldar is introduced at Sado's; in the forest camp Khanefi, Gamzalo, Khan Mahoma join; all five ride with Hadji Murad into Russian custody, each sharply individuated at the Shalin glade.",
+          "dramatic_function": "Builds the retinue as a collective protagonist that will carry much of the novella's later action.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "hm_defection"
+      ],
+      "description_concat": "Eldar is introduced at Sado's; in the forest camp Khanefi, Gamzalo, Khan Mahoma join; all five ride with Hadji Murad into Russian custody, each sharply individuated at the Shalin glade."
+    },
+    {
+      "thread_id": "sado_kunak_loyalty",
+      "name": "Sado's Hospitality and Risk",
+      "type": "subplot",
+      "characters_involved": [
+        "Hadji Murad",
+        "Old man (Sado's father)",
+        "Sado",
+        "Sado's daughter",
+        "Sado's son",
+        "Sado's wife"
+      ],
+      "chapters_active": [
+        1,
+        4
+      ],
+      "span": [
+        1,
+        4
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            1,
+            4
+          ],
+          "status": "closed_in_range",
+          "description": "Sado knowingly risks death to shelter Hadji Murad as his kunak, domestic rituals of hospitality unfold, then a neighbor's wife spots the arrival and Sado wakes Hadji Murad in time to flee — fulfilling the guest-bond.",
+          "dramatic_function": "Dramatizes Chechen kunak-code and contrasts personal honor with collective political fear.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "hm_defection"
+      ],
+      "description_concat": "Sado knowingly risks death to shelter Hadji Murad as his kunak, domestic rituals of hospitality unfold, then a neighbor's wife spots the arrival and Sado wakes Hadji Murad in time to flee — fulfilling the guest-bond."
+    },
+    {
+      "thread_id": "company_cashbox",
+      "name": "The Company Commander's Borrowing from the Cashbox",
+      "type": "subplot",
+      "characters_involved": [
+        "Avdeev",
+        "Company Commander",
+        "Nikitin",
+        "Panov"
+      ],
+      "chapters_active": [
+        2
+      ],
+      "span": [
+        2,
+        2
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            2
+          ],
+          "status": "introduced",
+          "description": "In the ambush chat, Nikitin grumbles that the commander has again dipped into the company's communal cashbox for gambling losses; Panov and Avdeev defend him.",
+          "dramatic_function": "Micro-portrait of petty corruption and soldier self-management inside the imperial army — a thread of institutional rot at the bottom of the chain.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "avdeev_arc"
+      ],
+      "description_concat": "In the ambush chat, Nikitin grumbles that the commander has again dipped into the company's communal cashbox for gambling losses; Panov and Avdeev defend him."
+    },
+    {
+      "thread_id": "hadji_murad_family_hostage",
+      "name": "Hadji Murad's Family Held by Shamil",
+      "type": "subplot",
+      "characters_involved": [
+        "Hadji Murad",
+        "Prince Mikhail Vorontsov",
+        "Shamil"
+      ],
+      "chapters_active": [
+        10
+      ],
+      "span": [
+        10,
+        10
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            10
+          ],
+          "status": "introduced",
+          "description": "Hadji Murad reveals that his wife, mother, and children are in Shamil's hands and demands a prisoner exchange before he can openly serve the Russians. This becomes the central lever that constrains all his subsequent choices.",
+          "dramatic_function": "Plants the ticking-clock stakes that drive the rest of the novel",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Hadji Murad reveals that his wife, mother, and children are in Shamil's hands and demands a prisoner exchange before he can openly serve the Russians. This becomes the central lever that constrains all his subsequent choices."
+    },
+    {
+      "thread_id": "avdeev_family_home_arc",
+      "name": "The Avdeev Family Threshing and Mourning at Home",
+      "type": "subplot",
+      "characters_involved": [
+        "Akim Avdeev",
+        "Aksinya",
+        "Avdeev's daughter-in-law",
+        "Avdeev's mother",
+        "Old Avdeev",
+        "Peter Avdeev"
+      ],
+      "chapters_active": [
+        8
+      ],
+      "span": [
+        8,
+        8
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            8
+          ],
+          "status": "closed_in_range",
+          "description": "On the day Peter dies, his family threshes oats and quarrels about him; his mother dictates a letter with a ruble which is returned with news of his death. His widow Aksinya mourns publicly but is secretly relieved because she is pregnant by a shopkeeper.",
+          "dramatic_function": "Tolstoyan counterpoint showing the domestic, economic, and moral costs of one conscript's death",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "avdeev_death_arc"
+      ],
+      "description_concat": "On the day Peter dies, his family threshes oats and quarrels about him; his mother dictates a letter with a ruble which is returned with news of his death. His widow Aksinya mourns publicly but is secretly relieved because she is pregnant by a shopkeeper."
+    },
+    {
+      "thread_id": "hm_family_captivity_vedeno",
+      "name": "HM's Family Captivity under Shamil in Vedeno",
+      "type": "subplot",
+      "characters_involved": [
+        "HM's children",
+        "HM's two wives",
+        "Ibrahim Raschid",
+        "Patimat",
+        "Shamil",
+        "Yusuf",
+        "fellow prisoners"
+      ],
+      "chapters_active": [
+        19
+      ],
+      "span": [
+        19,
+        19
+      ],
+      "reach": 1,
+      "final_status": "sentence_pronounced",
+      "timeline": [
+        {
+          "chapters": [
+            19
+          ],
+          "status": "sentence_pronounced",
+          "description": "HM's mother Patimat and wives are kept under guard at Ibrahim Raschid's saklya; his 18-year-old son Yusuf is in a 7-foot pit with seven criminals. Shamil sentences: if HM does not return by Bairam, the women will be dispersed to different aouls and Yusuf will be beheaded — commuted to blinding.",
+          "dramatic_function": "The ticking clock that drives HM's entire subsequent desperate action; raises stakes from abstract to visceral. Yusuf's attempted suicide after the sentence dramatizes the trap.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "HM's mother Patimat and wives are kept under guard at Ibrahim Raschid's saklya; his 18-year-old son Yusuf is in a 7-foot pit with seven criminals. Shamil sentences: if HM does not return by Bairam, the women will be dispersed to different aouls and Yusuf will be beheaded — commuted to blinding."
+    },
+    {
+      "thread_id": "arslan_khan_blood_feud_attempt",
+      "name": "Arslan Khan's Blood-Feud Attack at Departure",
+      "type": "subplot",
+      "characters_involved": [
+        "Arslan Khan",
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Kumukh princes",
+        "Major Petrov",
+        "Tash-Kichu villagers"
+      ],
+      "chapters_active": [
+        20
+      ],
+      "span": [
+        20,
+        20
+      ],
+      "reach": 1,
+      "final_status": "self_contained_incident",
+      "timeline": [
+        {
+          "chapters": [
+            20
+          ],
+          "status": "self_contained_incident",
+          "description": "Tash-Kichu villagers invite HM to their mosque; Kumukh princes (blood-feud with HM) forbid it, fight the people; Russians cancel visit. At departure, Arslan Khan rides up, draws pistol, misses; HM springs cat-like despite his lameness, grabs bridle and dagger, is separated by Butler/Eldar/major. HM: 'if he kills me, such is Allah's will.'",
+          "dramatic_function": "Demonstrates HM's physical prowess one last time on screen; embodies the literal law of blood-feud that dooms him; final glimpse of his fatalistic courage. Mid-sized action beat, adaptable as a cinematic vignette.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "k",
+        "l",
+        "n",
+        "o",
+        "s",
+        "u"
+      ],
+      "description_concat": "Tash-Kichu villagers invite HM to their mosque; Kumukh princes (blood-feud with HM) forbid it, fight the people; Russians cancel visit. At departure, Arslan Khan rides up, draws pistol, misses; HM springs cat-like despite his lameness, grabs bridle and dagger, is separated by Butler/Eldar/major. HM: 'if he kills me, such is Allah's will.'"
+    },
+    {
+      "thread_id": "reward_bounty",
+      "name": "1000-Ruble Bounty",
+      "type": "subplot",
+      "characters_involved": [
+        "commander at Nukha"
+      ],
+      "chapters_active": [
+        25
+      ],
+      "span": [
+        25,
+        25
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            25
+          ],
+          "status": "closed_in_range",
+          "description": "After Mishkin's alarm the commander offers 1000 rubles for Hadji Murad alive or dead, and 200+ militia gallop out.",
+          "dramatic_function": "Mechanic of the manhunt; signals the imperial machinery's response speed and monetary logic.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "g",
+        "i",
+        "k",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v"
+      ],
+      "description_concat": "After Mishkin's alarm the commander offers 1000 rubles for Hadji Murad alive or dead, and 200+ militia gallop out."
+    },
+    {
+      "thread_id": "marya_vasilevna_baryatinsky_affair",
+      "name": "Marya Vasilevna and Baryatinsky Affair",
+      "type": "subplot",
+      "characters_involved": [
+        "Baryatinsky",
+        "Marya Vasilevna",
+        "Vorontsov (young)"
+      ],
+      "chapters_active": [
+        21
+      ],
+      "span": [
+        21,
+        21
+      ],
+      "reach": 1,
+      "final_status": "ongoing_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            21
+          ],
+          "status": "ongoing_in_range",
+          "description": "Baryatinsky's open affair with Marya Vasilevna (Vorontsov's wife) causes officers and soldiers to be told off to lie in ambush at night to protect her from shelling, provoking their resentment.",
+          "dramatic_function": "Aristocratic decadence imposed on soldier bodies; moral corruption of the high command.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "c",
+        "d",
+        "g",
+        "i",
+        "k",
+        "m",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "Baryatinsky's open affair with Marya Vasilevna (Vorontsov's wife) causes officers and soldiers to be told off to lie in ambush at night to protect her from shelling, provoking their resentment."
+    },
+    {
+      "thread_id": "butler_marya_attraction",
+      "name": "Butler's Restrained Attraction to Marya Dmitrievna",
+      "type": "character_arc",
+      "characters_involved": [
+        "Butler",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "chapters_active": [
+        16,
+        18,
+        21,
+        24
+      ],
+      "span": [
+        16,
+        24
+      ],
+      "reach": 4,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            16,
+            18
+          ],
+          "status": "introduced_and_suspended",
+          "description": "Butler finds Marya Dmitrievna attractive, senses she may want him, but refuses to betray his comrade Petrov and maintains a simple respectful attitude. A quiet ethical micro-conflict that stays subtext.",
+          "dramatic_function": "Establishes Butler's moral fiber and the domestic tension at the fort; primes the later emotional weight of Marya's sympathy for HM.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            21,
+            24
+          ],
+          "status": "closed_in_range",
+          "description": "After the gambling loss Butler courts Marya Dmitrievna grossly; she rebuffs him decisively. After Kamenev arrives with Hadji Murad's head, Marya Dmitrievna calls the soldiers 'cut-throats' and denounces war, becoming the moral voice of the chapter.",
+          "dramatic_function": "Marya Dmitrievna serves as moral witness condemning the barbarity of the victors; her outrage counterpoints the drunk officers' celebration.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "g",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Butler finds Marya Dmitrievna attractive, senses she may want him, but refuses to betray his comrade Petrov and maintains a simple respectful attitude. A quiet ethical micro-conflict that stays subtext. | After the gambling loss Butler courts Marya Dmitrievna grossly; she rebuffs him decisively. After Kamenev arrives with Hadji Murad's head, Marya Dmitrievna calls the soldiers 'cut-throats' and denounces war, becoming the moral voice of the chapter."
+    },
+    {
+      "thread_id": "hm_butler_kunak_friendship",
+      "name": "Hadji Murad & Butler's Kunak Friendship",
+      "type": "character_arc",
+      "characters_involved": [
+        "Butler",
+        "Eldar",
+        "Hadji Murad",
+        "Khanefi",
+        "Sofiat (memory)",
+        "Yusuf (memory)",
+        "interpreter",
+        "mother (memory)"
+      ],
+      "chapters_active": [
+        18,
+        20,
+        22,
+        23
+      ],
+      "span": [
+        18,
+        23
+      ],
+      "reach": 4,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            18,
+            20
+          ],
+          "status": "arc_completes_within_range",
+          "description": "From first meeting (ch.18) HM takes immediate liking to Butler, consults him, shares spy news; Butler visits HM's room, listens to Khanefi's mournful song about blood-feud, adopts Caucasian dress. They part as kunaks (sworn friends) at HM's departure.",
+          "dramatic_function": "Provides the emotional bond that carries the reader/viewer through HM's final journey; externalizes HM's isolation and nobility in a sympathetic relationship.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            22,
+            23
+          ],
+          "status": "closed_in_range",
+          "description": "Hadji Murad sits through the night weighing options: return to Shamil (who is 'a red liar' and will not trust him), remain with the Russians, or flee. The falcon-with-bells fable and memories of his son Yusuf, his young mother carrying him in a basket, and the Hamzad song crystallize his resolve to flee.",
+          "dramatic_function": "Interior climax; the tragic choice that seals his fate. Provides the hero's deepest psychological moment.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "From first meeting (ch.18) HM takes immediate liking to Butler, consults him, shares spy news; Butler visits HM's room, listens to Khanefi's mournful song about blood-feud, adopts Caucasian dress. They part as kunaks (sworn friends) at HM's departure. | Hadji Murad sits through the night weighing options: return to Shamil (who is 'a red liar' and will not trust him), remain with the Russians, or flee. The falcon-with-bells fable and memories of his son Yusuf, his young mother carrying him in a basket, and the Hamzad song crystallize his resolve to flee."
+    },
+    {
+      "thread_id": "butler_romantic_caucasus_illusion",
+      "name": "Butler's Romantic Caucasus Illusion",
+      "type": "character_arc",
+      "characters_involved": [
+        "Butler",
+        "Hadji Murad",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "chapters_active": [
+        16,
+        18,
+        20
+      ],
+      "span": [
+        16,
+        20
+      ],
+      "reach": 3,
+      "final_status": "deepening",
+      "timeline": [
+        {
+          "chapters": [
+            16,
+            18,
+            20
+          ],
+          "status": "deepening",
+          "description": "Butler, a Guards officer who fled Petersburg gambling debts, experiences war as poetic adventure, admires horses, avoids looking at corpses, buys a beshmet and imagines himself a mountaineer after befriending HM. His naive aestheticization of war and the Caucasus is the reader's lens onto HM.",
+          "dramatic_function": "POV character and audience surrogate; his romantic blindness contrasts Tolstoy's brutal reality. Provides the sympathetic Russian gaze on HM that humanizes him for the viewer.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Butler, a Guards officer who fled Petersburg gambling debts, experiences war as poetic adventure, admires horses, avoids looking at corpses, buys a beshmet and imagines himself a mountaineer after befriending HM. His naive aestheticization of war and the Caucasus is the reader's lens onto HM."
+    },
+    {
+      "thread_id": "shamil_threat_offstage",
+      "name": "Shamil as Offstage Antagonist",
+      "type": "character_arc",
+      "characters_involved": [
+        "Hadji Murad (memory)",
+        "Shamil"
+      ],
+      "chapters_active": [
+        22,
+        23,
+        25
+      ],
+      "span": [
+        22,
+        25
+      ],
+      "reach": 3,
+      "final_status": "ongoing_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            22,
+            23,
+            25
+          ],
+          "status": "ongoing_in_range",
+          "description": "Shamil remains offstage but exerts decisive pressure: he holds the family, threatens to blind Yusuf, tortures anyone who helps. Hadji Murad imagines his 'pale, red-bearded face with half-closed eyes' in his dying vision.",
+          "dramatic_function": "Unseen pincer force that makes escape attempt suicidal; final antagonist image in Hadji Murad's dying mind.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Shamil remains offstage but exerts decisive pressure: he holds the family, threatens to blind Yusuf, tortures anyone who helps. Hadji Murad imagines his 'pale, red-bearded face with half-closed eyes' in his dying vision."
+    },
+    {
+      "thread_id": "avdeev_arc",
+      "name": "Avdeev — Soldier's Homesickness and Mortal Wound",
+      "type": "character_arc",
+      "characters_involved": [
+        "Avdeev",
+        "Bondarenko",
+        "Nikitin",
+        "Panov",
+        "Poltoratsky"
+      ],
+      "chapters_active": [
+        2,
+        5
+      ],
+      "span": [
+        2,
+        5
+      ],
+      "reach": 2,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            2,
+            5
+          ],
+          "status": "developed",
+          "description": "In ambush Avdeev confesses homesickness and regret for having volunteered in his brother's stead; the next morning during the wood-cutting skirmish — a skirmish that is essentially theatrical — he is shot in the stomach and carried back to the fort.",
+          "dramatic_function": "Gives the anonymous Russian rank-and-file a face and an inner life, so that the senseless wounding indicts the whole imperial enterprise.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "In ambush Avdeev confesses homesickness and regret for having volunteered in his brother's stead; the next morning during the wood-cutting skirmish — a skirmish that is essentially theatrical — he is shot in the stomach and carried back to the fort."
+    },
+    {
+      "thread_id": "poltoratsky_infatuation",
+      "name": "Poltoratsky's Infatuation with Marya Vasilevna",
+      "type": "character_arc",
+      "characters_involved": [
+        "Marya Vasilevna Vorontsova",
+        "Poltoratsky",
+        "Tikhonov",
+        "Vovilo"
+      ],
+      "chapters_active": [
+        3,
+        5
+      ],
+      "span": [
+        3,
+        5
+      ],
+      "reach": 2,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            3,
+            5
+          ],
+          "status": "developed",
+          "description": "Poltoratsky loses hands at cards because Marya Vasilevna's nearness dazzles him, goes home ecstatic imagining her smile, then leads his company into the wood-felling skirmish in that same 'elated, carelessly gay' mood.",
+          "dramatic_function": "Links sexual/social elation to battlefield light-heartedness — the officer class treats war as theatre.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "vorontsov_household"
+      ],
+      "description_concat": "Poltoratsky loses hands at cards because Marya Vasilevna's nearness dazzles him, goes home ecstatic imagining her smile, then leads his company into the wood-felling skirmish in that same 'elated, carelessly gay' mood."
+    },
+    {
+      "thread_id": "hadji_murad_guarded_mistrust",
+      "name": "Hadji Murad's Private Vigilance Amid Russian Hospitality",
+      "type": "character_arc",
+      "characters_involved": [
+        "Eldar",
+        "Hadji Murad",
+        "Marya Vasilevna Vorontsova",
+        "Prince Mikhail Vorontsov",
+        "Semyon Vorontsov"
+      ],
+      "chapters_active": [
+        6,
+        10
+      ],
+      "span": [
+        6,
+        10
+      ],
+      "reach": 2,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            6,
+            10
+          ],
+          "status": "developed",
+          "description": "Behind the courteous exterior, Hadji Murad systematically assesses threats: checks on his murids' weapons, eats only from shared dishes, keeps his dagger close, and reads the political pecking order. The silent eye-meeting with old Vorontsov crystallises the mutual mistrust.",
+          "dramatic_function": "Builds the protagonist's interiority and dramatic irony beneath diplomatic surface",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Behind the courteous exterior, Hadji Murad systematically assesses threats: checks on his murids' weapons, eats only from shared dishes, keeps his dagger close, and reads the political pecking order. The silent eye-meeting with old Vorontsov crystallises the mutual mistrust."
+    },
+    {
+      "thread_id": "marya_sympathy_for_hm",
+      "name": "Marya Dmitrievna's Sympathy and Respect for Hadji Murad",
+      "type": "character_arc",
+      "characters_involved": [
+        "Butler",
+        "Hadji Murad",
+        "Khanefi",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "chapters_active": [
+        18,
+        20
+      ],
+      "span": [
+        18,
+        20
+      ],
+      "reach": 2,
+      "final_status": "arc_completes_within_range",
+      "timeline": [
+        {
+          "chapters": [
+            18,
+            20
+          ],
+          "status": "arc_completes_within_range",
+          "description": "Marya moves from flustered curiosity (ch.18) to active service, interest in the spy-negotiations about HM's family, receiving HM's burka as farewell gift, and a final open defense of HM against Petrovsky's and the major's slurs: 'Though he's a Tartar he's still a good man!'",
+          "dramatic_function": "Humanizes HM through the eyes of a Russian woman; provides moral counterweight to military-political cynicism. One of few uncomplicatedly warm relationships in the novel.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Marya moves from flustered curiosity (ch.18) to active service, interest in the spy-negotiations about HM's family, receiving HM's burka as farewell gift, and a final open defense of HM against Petrovsky's and the major's slurs: 'Though he's a Tartar he's still a good man!'"
+    },
+    {
+      "thread_id": "petrov_alcohol_domestic",
+      "name": "Major Petrov's Alcoholism and Domestic Life",
+      "type": "character_arc",
+      "characters_involved": [
+        "Major Ivan Matveich Petrov",
+        "Marya Dmitrievna"
+      ],
+      "chapters_active": [
+        16,
+        18
+      ],
+      "span": [
+        16,
+        18
+      ],
+      "reach": 2,
+      "final_status": "established",
+      "timeline": [
+        {
+          "chapters": [
+            16,
+            18
+          ],
+          "status": "established",
+          "description": "Petrov drinks himself to oblivion after the raid, wakes with a headache, asks his orderly for 'medicine' (vodka) before facing HM. Marya nurses him.",
+          "dramatic_function": "Atmospheric grounding of frontier Russian officer life; mild comic relief; sets up the contrast between Petrov's coarseness and HM's dignity.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "f",
+        "h",
+        "m",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "Petrov drinks himself to oblivion after the raid, wakes with a headache, asks his orderly for 'medicine' (vodka) before facing HM. Marya nurses him."
+    },
+    {
+      "thread_id": "butler_gambling_debt",
+      "name": "Butler's Gambling Downfall",
+      "type": "character_arc",
+      "characters_involved": [
+        "Butler",
+        "Major Petrov",
+        "Marya Dmitrievna",
+        "Poltoratsky",
+        "the Jew moneylender",
+        "the adjutant"
+      ],
+      "chapters_active": [
+        21,
+        24
+      ],
+      "span": [
+        21,
+        24
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range_partial",
+      "timeline": [
+        {
+          "chapters": [
+            21,
+            24
+          ],
+          "status": "closed_in_range_partial",
+          "description": "At Baryatinsky's farewell dinner for Kozlovsky, Butler breaks his vow not to gamble and loses 470 rubles. He writes to his brother and a stingy relative for loans, later borrows from a Jew at exorbitant interest. He sinks further into drink and makes a crude pass at Marya Dmitrievna, who rebuffs him.",
+          "dramatic_function": "Parallel moral decline mirrors larger themes of corruption; provides audience surrogate for witnessing Hadji Murad's death.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [],
+      "description_concat": "At Baryatinsky's farewell dinner for Kozlovsky, Butler breaks his vow not to gamble and loses 470 rubles. He writes to his brother and a stingy relative for loans, later borrows from a Jew at exorbitant interest. He sinks further into drink and makes a crude pass at Marya Dmitrievna, who rebuffs him."
+    },
+    {
+      "thread_id": "murids_loyalty",
+      "name": "The Four Murids' Loyalty and Fate",
+      "type": "character_arc",
+      "characters_involved": [
+        "Bata",
+        "Eldar",
+        "Gamzalo",
+        "Khan Mahoma",
+        "Khanefi"
+      ],
+      "chapters_active": [
+        23,
+        25
+      ],
+      "span": [
+        23,
+        25
+      ],
+      "reach": 2,
+      "final_status": "resolved",
+      "timeline": [
+        {
+          "chapters": [
+            23,
+            25
+          ],
+          "status": "resolved",
+          "description": "Hadji Murad's henchmen prepare weapons through the night. In the final battle Eldar is killed with a ram-like gaze at his master; Bata is wounded in the neck; Gamzalo sings with joy at each hit; Khan Mahoma sings prayers; Khanefi loads rifles. Three survive captured.",
+          "dramatic_function": "Ensemble tragic chorus; individualizes the tribal loyalty Hadji Murad commanded and shows different modes of warrior death/survival.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Hadji Murad's henchmen prepare weapons through the night. In the final battle Eldar is killed with a ram-like gaze at his master; Bata is wounded in the neck; Gamzalo sings with joy at each hit; Khan Mahoma sings prayers; Khanefi loads rifles. Three survive captured."
+    },
+    {
+      "thread_id": "vovilo_serf",
+      "name": "Vovilo the Serf's Resentment",
+      "type": "character_arc",
+      "characters_involved": [
+        "Ivan Petrovich",
+        "Poltoratsky",
+        "Vovilo"
+      ],
+      "chapters_active": [
+        3
+      ],
+      "span": [
+        3,
+        3
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            3
+          ],
+          "status": "introduced",
+          "description": "Poltoratsky's serf-servant Vovilo, drunk at a name-day party, bitterly compares his indentured campaigning life to the ordnance sergeant's and fastens the door out of sleepy fear.",
+          "dramatic_function": "Shows the lowest rung of the Russian social order — an unfree domestic — mirroring the imperial hierarchy built above him.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "poltoratsky_infatuation"
+      ],
+      "description_concat": "Poltoratsky's serf-servant Vovilo, drunk at a name-day party, bitterly compares his indentured campaigning life to the ordnance sergeant's and fastens the door out of sleepy fear."
+    },
+    {
+      "thread_id": "avdeev_death_arc",
+      "name": "Peter Avdeev's Death in Hospital",
+      "type": "character_arc",
+      "characters_involved": [
+        "Panov",
+        "Peter Avdeev",
+        "Poltoratsky",
+        "Serogin"
+      ],
+      "chapters_active": [
+        7
+      ],
+      "span": [
+        7,
+        7
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            7
+          ],
+          "status": "closed_in_range",
+          "description": "The wounded soldier Avdeev dies in the Vozdvizhensk hospital, dictating a final message to his family and asking for a death candle. The doctor cannot extract the bullet.",
+          "dramatic_function": "Gives a concrete, human face to the nameless 'one killed' in official reports",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "avdeev_family_home_arc",
+        "official_report_vs_reality"
+      ],
+      "description_concat": "The wounded soldier Avdeev dies in the Vozdvizhensk hospital, dictating a final message to his family and asking for a death candle. The doctor cannot extract the bullet."
+    },
+    {
+      "thread_id": "aksinya_infidelity_micro",
+      "name": "Aksinya's Secret Life and Pregnancy",
+      "type": "character_arc",
+      "characters_involved": [
+        "Aksinya",
+        "Peter Avdeev"
+      ],
+      "chapters_active": [
+        8
+      ],
+      "span": [
+        8,
+        8
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            8
+          ],
+          "status": "closed_in_range",
+          "description": "Peter's widow has left the household, works in service, is pregnant by a shopkeeper, and is inwardly glad of her husband's death while lamenting loudly in public.",
+          "dramatic_function": "Undercuts official narrative of heroic sacrifice with private moral ambiguity",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "avdeev_family_home_arc"
+      ],
+      "description_concat": "Peter's widow has left the household, works in service, is pregnant by a shopkeeper, and is inwardly glad of her husband's death while lamenting loudly in public."
+    },
+    {
+      "thread_id": "marya_vasilevna_charm_arc",
+      "name": "Marya Vasilevna as Social Lubricant",
+      "type": "character_arc",
+      "characters_involved": [
+        "Bulka",
+        "Hadji Murad",
+        "Marya Vasilevna Vorontsova",
+        "Meller-Zakomelsky",
+        "Semyon Vorontsov"
+      ],
+      "chapters_active": [
+        6
+      ],
+      "span": [
+        6,
+        6
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            6
+          ],
+          "status": "closed_in_range",
+          "description": "Marya Vasilevna charms Hadji Murad, orchestrates the watch-gift, and single-handedly defuses the Meller-Vorontsov confrontation with a laugh and a proverb.",
+          "dramatic_function": "Shows soft power of aristocratic women; contrasts salon diplomacy with military vanity",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "vorontsov_meller_rivalry"
+      ],
+      "description_concat": "Marya Vasilevna charms Hadji Murad, orchestrates the watch-gift, and single-handedly defuses the Meller-Vorontsov confrontation with a laugh and a proverb."
+    },
+    {
+      "thread_id": "murids_household_observation",
+      "name": "Loris-Melikov's Observation of the Four Murids",
+      "type": "character_arc",
+      "characters_involved": [
+        "Eldar",
+        "Gamzalo",
+        "Khan Mahoma",
+        "Khanefi",
+        "Loris-Melikov"
+      ],
+      "chapters_active": [
+        12
+      ],
+      "span": [
+        12,
+        12
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            12
+          ],
+          "status": "introduced",
+          "description": "Loris-Melikov visits HM's murids, overhears them argue about Shamil's sainthood, learns Khan Mahoma won money gambling, hears Khanefi's milk-brother origin story. He classifies each man's motives — and grows suspicious of Gamzalo's open hatred of Russians.",
+          "dramatic_function": "Introduces the loyal-circle ensemble; plants seeds of suspicion that spies may be among them; texture of mountaineer culture.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Loris-Melikov visits HM's murids, overhears them argue about Shamil's sainthood, learns Khan Mahoma won money gambling, hears Khanefi's milk-brother origin story. He classifies each man's motives — and grows suspicious of Gamzalo's open hatred of Russians."
+    },
+    {
+      "thread_id": "sado_family_destruction",
+      "name": "Destruction of Sado's Aoul and Family",
+      "type": "character_arc",
+      "characters_involved": [
+        "Chechen villagers",
+        "Sado",
+        "Sado's grandfather",
+        "Sado's mother",
+        "Sado's son"
+      ],
+      "chapters_active": [
+        17
+      ],
+      "span": [
+        17,
+        17
+      ],
+      "reach": 1,
+      "final_status": "tragedy_closes_within_range",
+      "timeline": [
+        {
+          "chapters": [
+            17
+          ],
+          "status": "tragedy_closes_within_range",
+          "description": "Sado returns to find his saklya ruined, his bright-eyed son bayoneted, his mother wailing with torn smock, beehives and orchard burnt, fountain and mosque defiled. Villagers decide to appeal to Shamil and rebuild.",
+          "dramatic_function": "Moral indictment of the raid shown two chapters earlier; pays off HM's earlier hospitality arc with Sado; establishes the collective repulsion that makes HM's tightrope impossible.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Sado returns to find his saklya ruined, his bright-eyed son bayoneted, his mother wailing with torn smock, beehives and orchard burnt, fountain and mosque defiled. Villagers decide to appeal to Shamil and rebuild."
+    },
+    {
+      "thread_id": "shamil_plot_against_hm",
+      "name": "Shamil's Plot to Lure and Kill Hadji Murad",
+      "type": "character_arc",
+      "characters_involved": [
+        "Jemal Eddin",
+        "Shamil",
+        "Yusuf (as instrument)"
+      ],
+      "chapters_active": [
+        19
+      ],
+      "span": [
+        19,
+        19
+      ],
+      "reach": 1,
+      "final_status": "plan_activated",
+      "timeline": [
+        {
+          "chapters": [
+            19
+          ],
+          "status": "plan_activated",
+          "description": "Council concludes HM must be killed — either by assassin in Tiflis or by luring him back via his son. Yusuf is forced to write a letter threatening mutilation/dispersal.",
+          "dramatic_function": "The hidden counter-engine driving the tragedy; creates dramatic irony for every HM scene at the fort that follows.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "t",
+        "v",
+        "y"
+      ],
+      "description_concat": "Council concludes HM must be killed — either by assassin in Tiflis or by luring him back via his son. Yusuf is forced to write a letter threatening mutilation/dispersal."
+    },
+    {
+      "thread_id": "yusuf_in_pit",
+      "name": "Yusuf's Imprisonment, Interview and Attempted Suicide",
+      "type": "character_arc",
+      "characters_involved": [
+        "Patimat (offstage)",
+        "Shamil",
+        "Yusuf"
+      ],
+      "chapters_active": [
+        19
+      ],
+      "span": [
+        19,
+        19
+      ],
+      "reach": 1,
+      "final_status": "ongoing_in_pit",
+      "timeline": [
+        {
+          "chapters": [
+            19
+          ],
+          "status": "ongoing_in_pit",
+          "description": "Yusuf — originally admiring Shamil against his father — is summoned from the pit, threatened with blinding, dictated a letter, then tries to stab himself with a guard's dagger and is returned bound to the pit.",
+          "dramatic_function": "Makes the family threat concrete and embodied; generationally dramatizes the cost of HM's defection. Cruelty of the sentence (blinding) functions as thematic peer to Nicholas's sentencing earlier.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "t",
+        "v",
+        "y"
+      ],
+      "description_concat": "Yusuf — originally admiring Shamil against his father — is summoned from the pit, threatened with blinding, dictated a letter, then tries to stab himself with a guard's dagger and is returned bound to the pit."
+    },
+    {
+      "thread_id": "major_petrov_decline",
+      "name": "Major Petrov's Drunken Dissolution",
+      "type": "character_arc",
+      "characters_involved": [
+        "Butler",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "chapters_active": [
+        24
+      ],
+      "span": [
+        24,
+        24
+      ],
+      "reach": 1,
+      "final_status": "ongoing_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            24
+          ],
+          "status": "ongoing_in_range",
+          "description": "Major Petrov, very drunk and ash-pale, hacks at imaginary foes with his sword while singing of Shamil. He demands to kiss the severed head of Hadji Murad.",
+          "dramatic_function": "Embodies the degraded moral state of the Russian garrison; grotesque foil to Hadji Murad's dignity in death.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "d",
+        "e",
+        "g",
+        "i",
+        "l",
+        "m",
+        "n",
+        "r",
+        "t",
+        "u"
+      ],
+      "description_concat": "Major Petrov, very drunk and ash-pale, hacks at imaginary foes with his sword while singing of Shamil. He demands to kiss the severed head of Hadji Murad."
+    },
+    {
+      "thread_id": "cossack_escort_victims",
+      "name": "The Cossack Escort (Nazarov and Comrades)",
+      "type": "character_arc",
+      "characters_involved": [
+        "Ferapontov",
+        "Ignatov",
+        "Mishkin",
+        "Nazarov",
+        "Petrakov"
+      ],
+      "chapters_active": [
+        25
+      ],
+      "span": [
+        25,
+        25
+      ],
+      "reach": 1,
+      "final_status": "resolved",
+      "timeline": [
+        {
+          "chapters": [
+            25
+          ],
+          "status": "resolved",
+          "description": "Nazarov, young Old-Believer eldest son supporting his mother and siblings, leads the five-man Cossack escort. Brief biographical sketches establish each man before Hadji Murad's henchmen kill four of them; only Mishkin escapes to raise the alarm.",
+          "dramatic_function": "Tolstoyan authorial compassion — gives human weight to the 'enemy' victims; moral complication of Hadji Murad's heroism.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Nazarov, young Old-Believer eldest son supporting his mother and siblings, leads the five-man Cossack escort. Brief biographical sketches establish each man before Hadji Murad's henchmen kill four of them; only Mishkin escapes to raise the alarm."
+    },
+    {
+      "thread_id": "hadji_aga_betrayal",
+      "name": "Hadji Aga — Former Kunak Turned Killer",
+      "type": "character_arc",
+      "characters_involved": [
+        "Akhmet Khan",
+        "Hadji Aga",
+        "Hadji Murad"
+      ],
+      "chapters_active": [
+        25
+      ],
+      "span": [
+        25,
+        25
+      ],
+      "reach": 1,
+      "final_status": "resolved",
+      "timeline": [
+        {
+          "chapters": [
+            25
+          ],
+          "status": "resolved",
+          "description": "Hadji Aga, once Hadji Murad's kunak who lived with him in the mountains, now leads 200 men against him alongside Akhmet Khan (son of Hadji Murad's old enemy). He personally strikes the killing dagger-blow and beheads the corpse.",
+          "dramatic_function": "Embodies the corruption of mountaineer bonds under Russian occupation; the betrayal makes the death intimate rather than impersonal.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Hadji Aga, once Hadji Murad's kunak who lived with him in the mountains, now leads 200 men against him alongside Akhmet Khan (son of Hadji Murad's old enemy). He personally strikes the killing dagger-blow and beheads the corpse."
+    },
+    {
+      "thread_id": "karganov_pursuit",
+      "name": "Karganov's Pursuit",
+      "type": "character_arc",
+      "characters_involved": [
+        "Karganov",
+        "old wood-cutter"
+      ],
+      "chapters_active": [
+        25
+      ],
+      "span": [
+        25,
+        25
+      ],
+      "reach": 1,
+      "final_status": "resolved",
+      "timeline": [
+        {
+          "chapters": [
+            25
+          ],
+          "status": "resolved",
+          "description": "Karganov, military commander of the district, gives up the chase until an old man reveals he saw six horsemen in the rice-field shrubs. He surrounds the clump overnight and waits for dawn to take Hadji Murad alive or dead.",
+          "dramatic_function": "Introduces the encirclement mechanics; demonstrates role of native informant in imperial capture.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Karganov, military commander of the district, gives up the chase until an old man reveals he saw six horsemen in the rice-field shrubs. He surrounds the clump overnight and waits for dawn to take Hadji Murad alive or dead."
+    },
+    {
+      "thread_id": "kozlovsky_farewell",
+      "name": "Kozlovsky's Farewell Speech",
+      "type": "character_arc",
+      "characters_involved": [
+        "Baryatinsky",
+        "Butler",
+        "Kozlovsky",
+        "Marya Vasilevna",
+        "Poltoratsky",
+        "Vorontsov (young)"
+      ],
+      "chapters_active": [
+        21
+      ],
+      "span": [
+        21,
+        21
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            21
+          ],
+          "status": "closed_in_range",
+          "description": "At the dinner Kozlovsky, known for overusing the word 'how,' gives a stammering tearful speech of gratitude to the officers. Many eyes grow moist including Butler's.",
+          "dramatic_function": "Genuine soldierly emotion contrasted against the aristocratic schemes; sentiment immediately corrupted by the gambling that follows.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "c",
+        "d",
+        "g",
+        "i",
+        "k",
+        "m",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "At the dinner Kozlovsky, known for overusing the word 'how,' gives a stammering tearful speech of gratitude to the officers. Many eyes grow moist including Butler's."
+    },
+    {
+      "thread_id": "hm_vs_shamil",
+      "name": "Hadji Murad's Rivalry with Shamil",
+      "type": "political_framing",
+      "characters_involved": [
+        "Aoul Elders",
+        "Hadji Murad",
+        "Sado",
+        "Shamil"
+      ],
+      "chapters_active": [
+        1,
+        4,
+        13,
+        14
+      ],
+      "span": [
+        1,
+        14
+      ],
+      "reach": 4,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            1,
+            4
+          ],
+          "status": "introduced",
+          "description": "Shamil has issued a proclamation forbidding anyone in Chechnya from sheltering Hadji Murad on pain of death; the Makhmet aoul's elders assemble to detain him, forcing the midnight escape under gunfire.",
+          "dramatic_function": "Establishes the antagonist-regime (Shamil) as a concrete, armed threat — not an abstract enemy — and justifies Hadji Murad's desperation.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            13,
+            14
+          ],
+          "status": "developed",
+          "description": "HM's 'sharpest sword' remark to a succession question provokes Shamil's jealousy; Shamil tries to dispose of him in Tabasaran, confiscates his property, demands his death. HM flees to Vorontsov but leaves his family hostage.",
+          "dramatic_function": "Central antagonism driving both flashback and present action. The family hostage situation is the spine of the remaining film.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Shamil has issued a proclamation forbidding anyone in Chechnya from sheltering Hadji Murad on pain of death; the Makhmet aoul's elders assemble to detain him, forcing the midnight escape under gunfire. | HM's 'sharpest sword' remark to a succession question provokes Shamil's jealousy; Shamil tries to dispose of him in Tabasaran, confiscates his property, demands his death. HM flees to Vorontsov but leaves his family hostage."
+    },
+    {
+      "thread_id": "raid_makhket_shamil_counter",
+      "name": "January 1852 Raid on Chechnya and Shamil's Counter-Campaign",
+      "type": "political_framing",
+      "characters_involved": [
+        "Butler",
+        "Chechens",
+        "Major Petrov",
+        "Nicholas I (offstage)",
+        "Russian detachment",
+        "Sado",
+        "Sado's family",
+        "Shamil"
+      ],
+      "chapters_active": [
+        16,
+        17,
+        19
+      ],
+      "span": [
+        16,
+        19
+      ],
+      "reach": 3,
+      "final_status": "escalating",
+      "timeline": [
+        {
+          "chapters": [
+            16,
+            17,
+            19
+          ],
+          "status": "escalating",
+          "description": "Per Nicholas's order a Russian detachment raids a Chechen aoul — Butler experiences it as picturesque adventure; the same aoul (Sado's village, where HM spent his last night) is shown next morning in devastation: Sado's son bayoneted, beehives burnt, fountain polluted. Chapter 19 shows Shamil returning from an unsuccessful counter-campaign and issuing a proclamation against Chechen defection.",
+          "dramatic_function": "Shows the senseless cruelty of imperial warfare via Tolstoy's double-POV reversal (16 glorified → 17 victims). Politically frames why Chechens both hate Russians and waver, tightening the vice around HM.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Per Nicholas's order a Russian detachment raids a Chechen aoul — Butler experiences it as picturesque adventure; the same aoul (Sado's village, where HM spent his last night) is shown next morning in devastation: Sado's son bayoneted, beehives burnt, fountain polluted. Chapter 19 shows Shamil returning from an unsuccessful counter-campaign and issuing a proclamation against Chechen defection."
+    },
+    {
+      "thread_id": "vorontsov_household",
+      "name": "The Vorontsov Household at Vozvizhensk",
+      "type": "political_framing",
+      "characters_involved": [
+        "Marya Vasilevna Vorontsova",
+        "Poltoratsky",
+        "Prince Simon Vorontsov",
+        "Regimental Adjutant",
+        "Tutor"
+      ],
+      "chapters_active": [
+        3,
+        5
+      ],
+      "span": [
+        3,
+        5
+      ],
+      "reach": 2,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            3,
+            5
+          ],
+          "status": "introduced",
+          "description": "At the fort the Vorontsovs host a late card game in Petersburg-grade luxury; the emissary's arrival interrupts the game, the prince breaks out champagne, Marya Vasilevna pries the secret out in French, and next morning Vorontsov rides out in cheerful mood to accept the surrender.",
+          "dramatic_function": "Establishes the Russian imperial upper-command as socially frivolous, status-driven, and pleased by Hadji Murad's defection as a career coup — contrast to Avdeev's ambush.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "At the fort the Vorontsovs host a late card game in Petersburg-grade luxury; the emissary's arrival interrupts the game, the prince breaks out champagne, Marya Vasilevna pries the secret out in French, and next morning Vorontsov rides out in cheerful mood to accept the surrender."
+    },
+    {
+      "thread_id": "viceroy_vorontsov_court_arc",
+      "name": "Viceroy Mikhail Vorontsov's Court in Tiflis",
+      "type": "political_framing",
+      "characters_involved": [
+        "Countess Choiseuil",
+        "Doctor Andreevsky",
+        "Georgian prince",
+        "Manana Orbelyani",
+        "Prince Mikhail Vorontsov",
+        "Princess Elizabeth Vorontsova",
+        "carroty general"
+      ],
+      "chapters_active": [
+        9,
+        10
+      ],
+      "span": [
+        9,
+        10
+      ],
+      "reach": 2,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            9,
+            10
+          ],
+          "status": "developed",
+          "description": "The aged Viceroy receives news of Hadji Murad's surrender at a formal dinner, navigates social embarrassment over the Dargo disaster, then the next day holds audiences with petitioners and meets Hadji Murad for the first time, followed by an Italian opera and a ball.",
+          "dramatic_function": "Portrays imperial power as performance, flattery, and choreographed etiquette",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "The aged Viceroy receives news of Hadji Murad's surrender at a formal dinner, navigates social embarrassment over the Dargo disaster, then the next day holds audiences with petitioners and meets Hadji Murad for the first time, followed by an Italian opera and a ball."
+    },
+    {
+      "thread_id": "shamil_as_offstage_antagonist",
+      "name": "Shamil as the Absent Antagonist",
+      "type": "political_framing",
+      "characters_involved": [
+        "Hadji Murad",
+        "Prince Mikhail Vorontsov",
+        "Shamil"
+      ],
+      "chapters_active": [
+        9,
+        10
+      ],
+      "span": [
+        9,
+        10
+      ],
+      "reach": 2,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            9,
+            10
+          ],
+          "status": "developed",
+          "description": "Shamil is repeatedly invoked as the enemy whose fall is now imminent (dinner guests) and whom Hadji Murad swears to destroy, while he holds Hadji Murad's family hostage.",
+          "dramatic_function": "Keeps the off-stage antagonist pressure active; shapes Hadji Murad's motivation",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "hadji_murad_family_hostage"
+      ],
+      "description_concat": "Shamil is repeatedly invoked as the enemy whose fall is now imminent (dinner guests) and whom Hadji Murad swears to destroy, while he holds Hadji Murad's family hostage."
+    },
+    {
+      "thread_id": "baryatinsky_command_and_campaign",
+      "name": "Baryatinsky's New Command and Chechen Advance",
+      "type": "political_framing",
+      "characters_involved": [
+        "Baryatinsky",
+        "General Kozlovsky",
+        "Marya Vasilevna",
+        "Vorontsov (young)"
+      ],
+      "chapters_active": [
+        21,
+        24
+      ],
+      "span": [
+        21,
+        24
+      ],
+      "reach": 2,
+      "final_status": "ongoing_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            21,
+            24
+          ],
+          "status": "ongoing_in_range",
+          "description": "Prince Baryatinsky is appointed commander of the left flank, mustering a detachment in Kurin to continue the Tsar's campaign. Kozlovsky's farewell dinner marks the transition. Baryatinsky's affair with Marya Vasilevna creates tension; at end of April his detachment arrives at Butler's fort to advance through Chechnya.",
+          "dramatic_function": "Shows the Russian war machine grinding on indifferent to Hadji Murad; frames Russian aristocratic society's moral emptiness.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "d",
+        "e",
+        "g",
+        "i",
+        "l",
+        "m",
+        "n",
+        "r",
+        "t",
+        "u"
+      ],
+      "description_concat": "Prince Baryatinsky is appointed commander of the left flank, mustering a detachment in Kurin to continue the Tsar's campaign. Kozlovsky's farewell dinner marks the transition. Baryatinsky's affair with Marya Vasilevna creates tension; at end of April his detachment arrives at Butler's fort to advance through Chechnya."
+    },
+    {
+      "thread_id": "vorontsov_meller_rivalry",
+      "name": "Jurisdictional Quarrel Between Young Vorontsov and General Meller-Zakomelsky",
+      "type": "political_framing",
+      "characters_involved": [
+        "Madame Meller-Zakomelsky",
+        "Marya Vasilevna Vorontsova",
+        "Meller-Zakomelsky",
+        "Semyon Vorontsov"
+      ],
+      "chapters_active": [
+        6
+      ],
+      "span": [
+        6,
+        6
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            6
+          ],
+          "status": "closed_in_range",
+          "description": "Meller-Zakomelsky is furious that Vorontsov handled Hadji Murad's capitulation without reporting to him. The quarrel is defused by Marya Vasilevna's charm, and it is decided Hadji Murad will be routed onward.",
+          "dramatic_function": "Exposes Russian command hierarchy as driven by vanity, patronage, and family connections",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [],
+      "description_concat": "Meller-Zakomelsky is furious that Vorontsov handled Hadji Murad's capitulation without reporting to him. The quarrel is defused by Marya Vasilevna's charm, and it is decided Hadji Murad will be routed onward."
+    },
+    {
+      "thread_id": "petitioners_waiting_room",
+      "name": "The Waiting Room of Petitioners",
+      "type": "political_framing",
+      "characters_involved": [
+        "Armenian vodka-monopolist",
+        "Hadji Murad",
+        "caucasus-plan official",
+        "corrupt regimental commander",
+        "officer's widow",
+        "ruined Georgian prince",
+        "visiting Khan"
+      ],
+      "chapters_active": [
+        10
+      ],
+      "span": [
+        10,
+        10
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            10
+          ],
+          "status": "closed_in_range",
+          "description": "Before Hadji Murad's audience, the narrator itemises the gallery of supplicants, each embodying a corruption or dependency of the imperial system.",
+          "dramatic_function": "Satirical tableau of empire's patronage machine; frames Hadji Murad as one more petitioner",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [],
+      "description_concat": "Before Hadji Murad's audience, the narrator itemises the gallery of supplicants, each embodying a corruption or dependency of the imperial system."
+    },
+    {
+      "thread_id": "vorontsov_chernyshov_court_politics",
+      "name": "Chernyshov vs. Vorontsov Court Rivalry",
+      "type": "political_framing",
+      "characters_involved": [
+        "Chernyshov",
+        "Dolgoruky",
+        "Nicholas I",
+        "Vorontsov"
+      ],
+      "chapters_active": [
+        15
+      ],
+      "span": [
+        15,
+        15
+      ],
+      "reach": 1,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            15
+          ],
+          "status": "developed",
+          "description": "Chernyshov, envious of Vorontsov, tries to spin the HM affair against him, recommending deportation to Central Russia. His plan fails only because the Tsar happens to be in a foul mood.",
+          "dramatic_function": "Shows HM's fate decided by petty aristocratic resentments rather than strategy. Underscores absurd contingency of imperial decisions.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "g",
+        "h",
+        "i",
+        "l",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Chernyshov, envious of Vorontsov, tries to spin the HM affair against him, recommending deportation to Central Russia. His plan fails only because the Tsar happens to be in a foul mood."
+    },
+    {
+      "thread_id": "nicholas_political_framing",
+      "name": "Nicholas I's Caucasus Strategy Decision",
+      "type": "political_framing",
+      "characters_involved": [
+        "Chernyshov",
+        "Nicholas I",
+        "Vorontsov"
+      ],
+      "chapters_active": [
+        15
+      ],
+      "span": [
+        15,
+        15
+      ],
+      "reach": 1,
+      "final_status": "climaxed",
+      "timeline": [
+        {
+          "chapters": [
+            15
+          ],
+          "status": "climaxed",
+          "description": "Within the digression, a concrete plot beat: Nicholas approves Vorontsov's handling of HM and orders intensification of forest-felling and raids in Chechnya — sealing HM's operational fate and the war's escalation.",
+          "dramatic_function": "The decision that drives HM's subsequent actions and the war's brutality. Connects micro-arc (HM) to macro-arc (imperial war).",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "g",
+        "h",
+        "i",
+        "l",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Within the digression, a concrete plot beat: Nicholas approves Vorontsov's handling of HM and orders intensification of forest-felling and raids in Chechnya — sealing HM's operational fate and the war's escalation."
+    },
+    {
+      "thread_id": "slow_advance_forest_policy",
+      "name": "Caucasus Slow-Advance / Forest-Felling Policy",
+      "type": "political_framing",
+      "characters_involved": [
+        "Chernyshov",
+        "Ermolov (offscreen)",
+        "Nicholas I",
+        "Vorontsov"
+      ],
+      "chapters_active": [
+        15
+      ],
+      "span": [
+        15,
+        15
+      ],
+      "reach": 1,
+      "final_status": "climaxed",
+      "timeline": [
+        {
+          "chapters": [
+            15
+          ],
+          "status": "climaxed",
+          "description": "Nicholas re-endorses the Ermolov-Velyaminov slow-advance, forest-destruction, food-supply-destruction policy as if it were his own and orders its intensification.",
+          "dramatic_function": "Establishes the war policy that will frame the remainder of the story and HM's operational value.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "f",
+        "g",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t"
+      ],
+      "description_concat": "Nicholas re-endorses the Ermolov-Velyaminov slow-advance, forest-destruction, food-supply-destruction policy as if it were his own and orders its intensification."
+    },
+    {
+      "thread_id": "shamil_court_and_rule",
+      "name": "Shamil's Return, Triumphal Staging, and Domestic Power",
+      "type": "political_framing",
+      "characters_involved": [
+        "Aminal",
+        "Jemal Eddin",
+        "Shamil",
+        "Zeidat",
+        "murids",
+        "six-elder council"
+      ],
+      "chapters_active": [
+        19
+      ],
+      "span": [
+        19,
+        19
+      ],
+      "reach": 1,
+      "final_status": "established",
+      "timeline": [
+        {
+          "chapters": [
+            19
+          ],
+          "status": "established",
+          "description": "Shamil returns from defeat he frames as victory, performs stony public piety, judges criminals per Shariat, dictates the anti-defection proclamation, decides HM must be enticed back and killed, then is petty-snubbed by his young wife Aminal who hides from him because he gave silk to Zeidat.",
+          "dramatic_function": "Mirrors Nicholas I's earlier court chapter — shows that tyrannical self-worship operates identically on both sides of the war. Essential for Tolstoy's thematic symmetry.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Shamil returns from defeat he frames as victory, performs stony public piety, judges criminals per Shariat, dictates the anti-defection proclamation, decides HM must be enticed back and killed, then is petty-snubbed by his young wife Aminal who hides from him because he gave silk to Zeidat."
+    },
+    {
+      "thread_id": "vorontsov_diplomacy_failure",
+      "name": "Vorontsov Diplomacy and Nukha Relocation",
+      "type": "political_framing",
+      "characters_involved": [
+        "Argutinski",
+        "Councillor Kirillov",
+        "Hadji Murad",
+        "Vorontsov (Viceroy)"
+      ],
+      "chapters_active": [
+        22
+      ],
+      "span": [
+        22,
+        22
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            22
+          ],
+          "status": "closed_in_range",
+          "description": "Hadji Murad implores Vorontsov to arrange a prisoner exchange for his family. Vorontsov stalls, awaiting Argutinski. Hadji Murad is granted relocation to Nukha. Kirillov arrives with stipend money; Hadji Murad humiliates him with a slap on the bald head, signaling breakdown of diplomatic trust.",
+          "dramatic_function": "Demonstrates the futility of Russian bureaucratic process and triggers Hadji Murad's decision to act independently.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Hadji Murad implores Vorontsov to arrange a prisoner exchange for his family. Vorontsov stalls, awaiting Argutinski. Hadji Murad is granted relocation to Nukha. Kirillov arrives with stipend money; Hadji Murad humiliates him with a slap on the bald head, signaling breakdown of diplomatic trust."
+    },
+    {
+      "thread_id": "author_digression",
+      "name": "Authorial Narrator Commentary",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Narrator"
+      ],
+      "chapters_active": [
+        1,
+        5
+      ],
+      "span": [
+        1,
+        5
+      ],
+      "reach": 2,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            1,
+            5
+          ],
+          "status": "introduced",
+          "description": "Tolstoy's narrator interjects — framing the tale as remembered/imagined, and moralizing on man as a destructive creature and on the fiction of hand-to-hand heroic combat that soldiers believe in despite knowing better.",
+          "dramatic_function": "Narrator steps out of the story to moralize about violence, heroism-myth, and the destructiveness of man.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "thistle_frame"
+      ],
+      "description_concat": "Tolstoy's narrator interjects — framing the tale as remembered/imagined, and moralizing on man as a destructive creature and on the fiction of hand-to-hand heroic combat that soldiers believe in despite knowing better."
+    },
+    {
+      "thread_id": "official_report_vs_reality",
+      "name": "The Official Report vs. the Lived Truth",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Peter Avdeev"
+      ],
+      "chapters_active": [
+        7,
+        8
+      ],
+      "span": [
+        7,
+        8
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            7,
+            8
+          ],
+          "status": "closed_in_range",
+          "description": "Tolstoy juxtaposes Avdeev's agonising death and family grief with the clinical sentence in the Tiflis report, and again contrasts it with the army-clerk phrase 'defending his Tsar, his Fatherland, and the Orthodox Faith.'",
+          "dramatic_function": "Core anti-imperial irony of the novel; strips rhetoric from human cost",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "avdeev_death_arc",
+        "avdeev_family_home_arc"
+      ],
+      "description_concat": "Tolstoy juxtaposes Avdeev's agonising death and family grief with the clinical sentence in the Tiflis report, and again contrasts it with the army-clerk phrase 'defending his Tsar, his Fatherland, and the Orthodox Faith.'"
+    },
+    {
+      "thread_id": "vorontsov_biography_digression",
+      "name": "Authorial Portrait of Viceroy Vorontsov",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Prince Mikhail Vorontsov"
+      ],
+      "chapters_active": [
+        9
+      ],
+      "span": [
+        9,
+        9
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            9
+          ],
+          "status": "closed_in_range",
+          "description": "Narrator sketches Vorontsov's English education, courtier nature, Krasnoe reputation, wealth, Crimean palace, and need for 'power and submission'.",
+          "dramatic_function": "Characterises the imperial face opposing Shamil; exposition through digression",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "viceroy_vorontsov_court_arc"
+      ],
+      "description_concat": "Narrator sketches Vorontsov's English education, courtier nature, Krasnoe reputation, wealth, Crimean palace, and need for 'power and submission'."
+    },
+    {
+      "thread_id": "conscription_as_death_digression",
+      "name": "Narrator on Conscription as Social Death",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Akim Avdeev",
+        "Old Avdeev",
+        "Peter Avdeev"
+      ],
+      "chapters_active": [
+        8
+      ],
+      "span": [
+        8,
+        8
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            8
+          ],
+          "status": "closed_in_range",
+          "description": "Tolstoy pauses to explain that in those days conscription was 'like death' and a soldier was 'a severed branch', grounding the Avdeev family's fatalism.",
+          "dramatic_function": "Historical-moral framing; links private tragedy to structural violence",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "avdeev_family_home_arc"
+      ],
+      "description_concat": "Tolstoy pauses to explain that in those days conscription was 'like death' and a soldier was 'a severed branch', grounding the Avdeev family's fatalism."
+    },
+    {
+      "thread_id": "nicholas_authorial_digression",
+      "name": "A Day in the Life of Nicholas I",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Bibikov",
+        "Chernyshov",
+        "Dolgoruky",
+        "Helena Pavlovna",
+        "Kopervine (Swedish girl)",
+        "Nelidova",
+        "Nicholas I"
+      ],
+      "chapters_active": [
+        15
+      ],
+      "span": [
+        15,
+        15
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            15
+          ],
+          "status": "closed_in_range",
+          "description": "Tolstoy's famous satirical digression: Nicholas's masquerade seduction of a young virgin, morning rituals, cruel sentencing of the Polish student Bzhezovski to 12,000 strokes, self-mythologizing, approval of Vorontsov's slow-forest plan, evening ballet and diamond ring.",
+          "dramatic_function": "Anti-imperial moral frame of the novel. Exposes the Tsar's hypocrisy, cruelty, and delusional self-importance as the true source of Caucasian violence. Tolstoy's ideological centerpiece.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "Tolstoy's famous satirical digression: Nicholas's masquerade seduction of a young virgin, morning rituals, cruel sentencing of the Polish student Bzhezovski to 12,000 strokes, self-mythologizing, approval of Vorontsov's slow-forest plan, evening ballet and diamond ring."
+    },
+    {
+      "thread_id": "bzhezovski_student_digression",
+      "name": "The Polish Student Bzhezovski's Sentencing",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Bzhezovski",
+        "Chernyshov",
+        "Nicholas I"
+      ],
+      "chapters_active": [
+        15
+      ],
+      "span": [
+        15,
+        15
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            15
+          ],
+          "status": "closed_in_range",
+          "description": "A Polish medical student who wounded his professor is sentenced by Nicholas to run the gauntlet 12,000 strokes — certain torturous death disguised as mercy because 'we have no capital punishment'.",
+          "dramatic_function": "Miniature parable of tsarist cruelty and hypocrisy; parallels the Caucasus policy in moral structure.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "g",
+        "h",
+        "i",
+        "l",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "A Polish medical student who wounded his professor is sentenced by Nicholas to run the gauntlet 12,000 strokes — certain torturous death disguised as mercy because 'we have no capital punishment'."
+    },
+    {
+      "thread_id": "bibikov_uniate_peasants_digression",
+      "name": "Bibikov and the Uniate Peasants",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Bibikov",
+        "Nicholas I"
+      ],
+      "chapters_active": [
+        15
+      ],
+      "span": [
+        15,
+        15
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            15
+          ],
+          "status": "closed_in_range",
+          "description": "Nicholas approves court-martialing peasants who refuse Orthodoxy and transfers state peasants into serfdom. Bibikov silently complies to protect his career.",
+          "dramatic_function": "Widens indictment from Caucasus to the whole imperial system; shows institutional cowardice.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "g",
+        "h",
+        "i",
+        "l",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Nicholas approves court-martialing peasants who refuse Orthodoxy and transfers state peasants into serfdom. Bibikov silently complies to protect his career."
+    },
+    {
+      "thread_id": "hm_tiflis_offstage_reference",
+      "name": "HM's Tiflis Experience (Offstage Referential)",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Hadji Murad",
+        "Petrovsky",
+        "commander-in-chief (offstage)",
+        "interpreter"
+      ],
+      "chapters_active": [
+        20
+      ],
+      "span": [
+        20,
+        20
+      ],
+      "reach": 1,
+      "final_status": "referenced",
+      "timeline": [
+        {
+          "chapters": [
+            20
+          ],
+          "status": "referenced",
+          "description": "Petrovsky asks how HM liked Tiflis: HM liked the theater, disapproved of the ball dresses, delivers proverb about dog and ass giving each other wrong food.",
+          "dramatic_function": "Establishes HM's cultural dignity and the intractable incommensurability of the two worlds — the novel's core theme compressed into one exchange.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "r",
+        "s",
+        "u",
+        "y"
+      ],
+      "description_concat": "Petrovsky asks how HM liked Tiflis: HM liked the theater, disapproved of the ball dresses, delivers proverb about dog and ass giving each other wrong food."
+    },
+    {
+      "thread_id": "authorial_voice_chechen_attitude",
+      "name": "Authorial Digression on Chechen Attitude to Russians",
+      "type": "authorial_digression",
+      "characters_involved": [],
+      "chapters_active": [
+        17
+      ],
+      "span": [
+        17,
+        17
+      ],
+      "reach": 1,
+      "final_status": "self_contained",
+      "timeline": [
+        {
+          "chapters": [
+            17
+          ],
+          "status": "self_contained",
+          "description": "Tolstoy states the Chechen feeling toward Russians is 'not hatred' but a repulsion 'such as ... the desire to exterminate rats, poisonous spiders, or wolves ... as natural an instinct as self-preservation.'",
+          "dramatic_function": "Pure narratorial framing; cannot be filmed directly but shapes the emotional key of ch.17 and any adaptation's treatment of the Chechen POV.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u",
+        "y"
+      ],
+      "description_concat": "Tolstoy states the Chechen feeling toward Russians is 'not hatred' but a repulsion 'such as ... the desire to exterminate rats, poisonous spiders, or wolves ... as natural an instinct as self-preservation.'"
+    },
+    {
+      "thread_id": "falcon_fable_digression",
+      "name": "Falcon-with-Bells Fable",
+      "type": "authorial_digression",
+      "characters_involved": [
+        "Hadji Murad"
+      ],
+      "chapters_active": [
+        22
+      ],
+      "span": [
+        22,
+        22
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            22
+          ],
+          "status": "closed_in_range",
+          "description": "Hadji Murad recalls a Tavlinian fable: a falcon captured by men and returning to his kind wearing silver jesses is pecked to death because he no longer belongs. He realizes Shamil's people would do the same to him.",
+          "dramatic_function": "Articulates the tragedy of the double exile — neither Russian nor free mountaineer any more.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Hadji Murad recalls a Tavlinian fable: a falcon captured by men and returning to his kind wearing silver jesses is pecked to death because he no longer belongs. He realizes Shamil's people would do the same to him."
+    },
+    {
+      "thread_id": "gamzalo_suspicion_thread",
+      "name": "Suspicion of Hidden Motives (Gamzalo / Spy Fear)",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Gamzalo",
+        "Hadji Murad",
+        "Loris-Melikov"
+      ],
+      "chapters_active": [
+        12,
+        14,
+        15
+      ],
+      "span": [
+        12,
+        15
+      ],
+      "reach": 3,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            12,
+            14,
+            15
+          ],
+          "status": "introduced",
+          "description": "Loris-Melikov's hunch that HM's surrender might be a ruse is echoed by higher officials and finally voiced by Chernyshov to the Tsar. A distrust-thread that threatens HM's fragile position.",
+          "dramatic_function": "Political/paranoid counter-force to HM's open-hearted pleas; keeps stakes high even inside Russian hospitality.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "c",
+        "e",
+        "h",
+        "i",
+        "l",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "y"
+      ],
+      "description_concat": "Loris-Melikov's hunch that HM's surrender might be a ruse is echoed by higher officials and finally voiced by Chernyshov to the Tsar. A distrust-thread that threatens HM's fragile position."
+    },
+    {
+      "thread_id": "thistle_frame",
+      "name": "The Tartar Thistle Frame Narrative",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Narrator",
+        "narrator"
+      ],
+      "chapters_active": [
+        1,
+        25
+      ],
+      "span": [
+        1,
+        25
+      ],
+      "reach": 2,
+      "final_status": "resolved",
+      "timeline": [
+        {
+          "chapters": [
+            1
+          ],
+          "status": "introduced",
+          "description": "The first-person narrator walks home through fields, struggles to pluck a crimson 'Tartar' thistle, then discovers a mutilated but unbroken thistle in a ploughed field — which triggers the memory of Hadji Murad. Establishes the central metaphor of indomitable life crushed by civilization.",
+          "dramatic_function": "Establishes the controlling metaphor (vitality/resistance vs. destruction) and frames the entire novella as a remembered Caucasian episode.",
+          "source_range": []
+        },
+        {
+          "chapters": [
+            25
+          ],
+          "status": "resolved",
+          "description": "The narrator closes with the single line: 'It was of this death that I was reminded by the crushed thistle in the midst of the ploughed field.' Hadji Murad falls 'stretched out at full length like a thistle that had been mown down.'",
+          "dramatic_function": "Closes the novel's frame; establishes the thistle-as-resistance metaphor and universalizes Hadji Murad's death as image of trampled vitality.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "author_digression"
+      ],
+      "description_concat": "The first-person narrator walks home through fields, struggles to pluck a crimson 'Tartar' thistle, then discovers a mutilated but unbroken thistle in a ploughed field — which triggers the memory of Hadji Murad. Establishes the central metaphor of indomitable life crushed by civilization. | The narrator closes with the single line: 'It was of this death that I was reminded by the crushed thistle in the midst of the ploughed field.' Hadji Murad falls 'stretched out at full length like a thistle that had been mown down.'"
+    },
+    {
+      "thread_id": "war_as_poetic_vs_brutal_motif",
+      "name": "Thematic Motif: War as Poetic Adventure vs. War as Atrocity",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Butler",
+        "Sado",
+        "soldiers"
+      ],
+      "chapters_active": [
+        16,
+        17
+      ],
+      "span": [
+        16,
+        17
+      ],
+      "reach": 2,
+      "final_status": "payoff",
+      "timeline": [
+        {
+          "chapters": [
+            16,
+            17
+          ],
+          "status": "payoff",
+          "description": "Deliberate diptych: ch.16 sings war as diamond-peaks, songs, honeycombs, no wounded seen; ch.17 shows the identical raid from the victims' POV — disemboweled boy, dead bees, defiled water.",
+          "dramatic_function": "Tolstoy's most direct moral statement in this range — the author's lens flips to strip Butler's romanticism. In screenplay, this becomes a hard match-cut.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Deliberate diptych: ch.16 sings war as diamond-peaks, songs, honeycombs, no wounded seen; ch.17 shows the identical raid from the victims' POV — disemboweled boy, dead bees, defiled water."
+    },
+    {
+      "thread_id": "hamzad_song_motif",
+      "name": "Hamzad Song Prefigurement",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Bata",
+        "Hadji Murad",
+        "Khanefi"
+      ],
+      "chapters_active": [
+        23,
+        25
+      ],
+      "span": [
+        23,
+        25
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            23,
+            25
+          ],
+          "status": "closed_in_range",
+          "description": "Khanefi sings the song of dzhigit Hamzad, who killed his horses as a bulwark and died fighting Russians, crying to birds to tell his mother. Hadji Murad hears it the night before his escape and later, in the rice-field shrubs, thinks 'we shall fight like Hamzad.'",
+          "dramatic_function": "Mythic foreshadowing; elevates Hadji Murad's death to epic register and frames it as conscious repetition of heroic pattern.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Khanefi sings the song of dzhigit Hamzad, who killed his horses as a bulwark and died fighting Russians, crying to birds to tell his mother. Hadji Murad hears it the night before his escape and later, in the rice-field shrubs, thinks 'we shall fight like Hamzad.'"
+    },
+    {
+      "thread_id": "nightingale_motif",
+      "name": "Nightingale Song Motif",
+      "type": "theme_micro_arc",
+      "characters_involved": [],
+      "chapters_active": [
+        23,
+        25
+      ],
+      "span": [
+        23,
+        25
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            23,
+            25
+          ],
+          "status": "closed_in_range",
+          "description": "Nightingales sing at dawn in Nukha when Hadji Murad plans his escape, then fall silent during the final firefight in the shrubs, then resume singing after his death.",
+          "dramatic_function": "Natural counterpoint to violence; indifference of nature to human tragedy echoes the thistle frame.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Nightingales sing at dawn in Nukha when Hadji Murad plans his escape, then fall silent during the final firefight in the shrubs, then resume singing after his death."
+    },
+    {
+      "thread_id": "head_as_trophy",
+      "name": "The Severed Head Journey",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Butler",
+        "Chikhirev (Cossack)",
+        "Hadji Aga",
+        "Kamenev",
+        "Major Petrov",
+        "Marya Dmitrievna"
+      ],
+      "chapters_active": [
+        24,
+        25
+      ],
+      "span": [
+        24,
+        25
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            24,
+            25
+          ],
+          "status": "closed_in_range",
+          "description": "Hadji Aga beheads the corpse carefully to avoid soiling his shoes. Kamenev carries the head in a saddle-bag 'round to all the forts and aouls' as trophy-display. At Butler's fort he reveals it to Butler and Marya Dmitrievna; the drunk major kisses it.",
+          "dramatic_function": "Indictment of imperial barbarism; converts the hero's death into grotesque spectacle, triggering Marya Dmitrievna's denunciation.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "j",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Hadji Aga beheads the corpse carefully to avoid soiling his shoes. Kamenev carries the head in a saddle-bag 'round to all the forts and aouls' as trophy-display. At Butler's fort he reveals it to Butler and Marya Dmitrievna; the drunk major kisses it."
+    },
+    {
+      "thread_id": "sleptsov_heroism_myth",
+      "name": "The Sleptsov Death and the Heroism Myth",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Freze",
+        "General Sleptsov",
+        "Poltoratsky",
+        "Tikhonov"
+      ],
+      "chapters_active": [
+        5
+      ],
+      "span": [
+        5,
+        5
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            5
+          ],
+          "status": "closed_in_range",
+          "description": "Officers on drums eat, drink porter, and discuss General Sleptsov's death — celebrating hand-to-hand valor that the narrator explicitly calls a fiction; moments later real, pointless bullets fly.",
+          "dramatic_function": "Explicit thematic critique of the romantic war-myth the officer class lives inside, set against the actual wounding of Avdeev.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "author_digression",
+        "avdeev_arc"
+      ],
+      "description_concat": "Officers on drums eat, drink porter, and discuss General Sleptsov's death — celebrating hand-to-hand valor that the narrator explicitly calls a fiction; moments later real, pointless bullets fly."
+    },
+    {
+      "thread_id": "flattery_of_hadji_murad_legend",
+      "name": "Courtly Mythologising of Hadji Murad",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Armenian guest",
+        "Countess Choiseuil",
+        "Georgian prince",
+        "Manana Orbelyani",
+        "Prince Mikhail Vorontsov"
+      ],
+      "chapters_active": [
+        9
+      ],
+      "span": [
+        9,
+        9
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            9
+          ],
+          "status": "closed_in_range",
+          "description": "The dinner guests escalate Hadji Murad's reputation (Napoleon, Murat, great man, chivalrous), calibrating their praise to please Vorontsov and ignoring episodes like the ordered killing of 26 prisoners.",
+          "dramatic_function": "Shows how legend is socially manufactured; sets up ironic contrast with the real man",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "viceroy_vorontsov_court_arc"
+      ],
+      "description_concat": "The dinner guests escalate Hadji Murad's reputation (Napoleon, Murat, great man, chivalrous), calibrating their praise to please Vorontsov and ignoring episodes like the ordered killing of 26 prisoners."
+    },
+    {
+      "thread_id": "kunak_gift_economy",
+      "name": "The Kunak Gift-Exchange Motif",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Bulka",
+        "Hadji Murad",
+        "Marya Vasilevna Vorontsova",
+        "Semyon Vorontsov"
+      ],
+      "chapters_active": [
+        6
+      ],
+      "span": [
+        6,
+        6
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            6
+          ],
+          "status": "introduced",
+          "description": "Hadji Murad gives Bulka his dagger on kunak law; the Vorontsovs reciprocate with the chiming watch. The exchange codes cultural difference and sets up later gift-transactions.",
+          "dramatic_function": "Establishes Caucasian code of hospitality vs. Russian salon world; plants motif",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [],
+      "description_concat": "Hadji Murad gives Bulka his dagger on kunak law; the Vorontsovs reciprocate with the chiming watch. The exchange codes cultural difference and sets up later gift-transactions."
+    },
+    {
+      "thread_id": "hadji_murad_vs_alien_culture",
+      "name": "Hadji Murad Confronts Russian Culture (Opera, Ball, Half-Dressed Women)",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Hadji Murad",
+        "Loris-Melikov",
+        "Prince Mikhail Vorontsov",
+        "Princess Elizabeth Vorontsova"
+      ],
+      "chapters_active": [
+        10
+      ],
+      "span": [
+        10,
+        10
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            10
+          ],
+          "status": "introduced",
+          "description": "At the Italian opera and the Vorontsov ball, Hadji Murad displays Oriental indifference to bare-shouldered women, champagne, and music, answering only that 'among his people nothing of the kind was done.'",
+          "dramatic_function": "Cultural-clash set piece; sharpens the gap between his world and the Russian one",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "At the Italian opera and the Vorontsov ball, Hadji Murad displays Oriental indifference to bare-shouldered women, champagne, and music, answering only that 'among his people nothing of the kind was done.'"
+    },
+    {
+      "thread_id": "bulka_child_motif",
+      "name": "Bulka and the Dagger",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Bulka",
+        "Hadji Murad",
+        "Marya Vasilevna Vorontsova"
+      ],
+      "chapters_active": [
+        6
+      ],
+      "span": [
+        6,
+        6
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            6
+          ],
+          "status": "closed_in_range",
+          "description": "Six-year-old Bulka climbs onto the 'brigand's' knee, receives the dagger, and embodies innocent fascination with the warrior.",
+          "dramatic_function": "Humanises Hadji Murad; mirrors his own absent children held by Shamil",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "hadji_murad_family_hostage",
+        "kunak_gift_economy"
+      ],
+      "description_concat": "Six-year-old Bulka climbs onto the 'brigand's' knee, receives the dagger, and embodies innocent fascination with the warrior."
+    },
+    {
+      "thread_id": "vorontsov_watch_gift_motif",
+      "name": "Vorontsov's Repeater Watch Gift",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Hadji Murad",
+        "Vorontsov"
+      ],
+      "chapters_active": [
+        12
+      ],
+      "span": [
+        12,
+        12
+      ],
+      "reach": 1,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            12
+          ],
+          "status": "developed",
+          "description": "HM proudly displays the repeater watch Vorontsov gave him, calls Vorontsov 'kunak'. A small sustained motif of gift and supposed friendship.",
+          "dramatic_function": "Objectifies HM's belief in Russian friendship; ironic given distrust at the top. Could be a recurring visual/aural motif (the chime).",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "HM proudly displays the repeater watch Vorontsov gave him, calls Vorontsov 'kunak'. A small sustained motif of gift and supposed friendship."
+    },
+    {
+      "thread_id": "khanefi_bloodfeud_song",
+      "name": "Khanefi's Blood-Feud Song (Thematic Micro-Arc)",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Butler",
+        "Hadji Murad",
+        "Khanefi"
+      ],
+      "chapters_active": [
+        20
+      ],
+      "span": [
+        20,
+        20
+      ],
+      "reach": 1,
+      "final_status": "self_contained",
+      "timeline": [
+        {
+          "chapters": [
+            20
+          ],
+          "status": "self_contained",
+          "description": "Khanefi sings a mountain song about a warrior's death in a blood-feud ('The earth will dry on my grave...'), which HM praises as 'Good song! Wise song!' — foreshadowing his own fate.",
+          "dramatic_function": "Foreshadowing device; compresses Caucasian death-culture and the inevitability of HM's end into a single poetic beat. High cinematic value.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "k",
+        "l",
+        "m",
+        "n",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Khanefi sings a mountain song about a warrior's death in a blood-feud ('The earth will dry on my grave...'), which HM praises as 'Good song! Wise song!' — foreshadowing his own fate."
+    },
+    {
+      "thread_id": "two_courts_mirror_motif",
+      "name": "Thematic Mirror: Nicholas's Court vs. Shamil's Court",
+      "type": "theme_micro_arc",
+      "characters_involved": [
+        "Jemal Eddin",
+        "Nicholas I (by prior reference)",
+        "Shamil",
+        "council"
+      ],
+      "chapters_active": [
+        19
+      ],
+      "span": [
+        19,
+        19
+      ],
+      "reach": 1,
+      "final_status": "payoff",
+      "timeline": [
+        {
+          "chapters": [
+            19
+          ],
+          "status": "payoff",
+          "description": "Chapter 19's depiction of Shamil — stony face, ornament-free austerity as performance, petty domestic pique, performative piety, brutal sentencing by religious code — explicitly mirrors Nicholas's earlier chapter.",
+          "dramatic_function": "Tolstoy's central structural rhyme: imperial Russia and Imam's Imamate are morally isomorphic. Removing this destroys the book's political thesis.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "u"
+      ],
+      "description_concat": "Chapter 19's depiction of Shamil — stony face, ornament-free austerity as performance, petty domestic pique, performative piety, brutal sentencing by religious code — explicitly mirrors Nicholas's earlier chapter."
+    },
+    {
+      "thread_id": "envoy_mission",
+      "name": "The Envoy Mission to Vorontsov",
+      "type": "epistolary",
+      "characters_involved": [
+        "Avdeev",
+        "Bata",
+        "Bondarenko",
+        "Khan Mahoma",
+        "Nikitin",
+        "Panov",
+        "Prince Simon Vorontsov"
+      ],
+      "chapters_active": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "span": [
+        1,
+        4
+      ],
+      "reach": 4,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "status": "closed_in_range",
+          "description": "Hadji Murad dispatches Khan Mahoma with Chechen guide Bata; Panov's ambush intercepts them at the plane tree; Avdeev and Bondarenko escort them to the Colonel; they return with Vorontsov's promise to receive Hadji Murad as a guest.",
+          "dramatic_function": "Structural hinge connecting the Chechen and Russian storylines — a relay race of information that makes the surrender logistically possible.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "hm_defection"
+      ],
+      "description_concat": "Hadji Murad dispatches Khan Mahoma with Chechen guide Bata; Panov's ambush intercepts them at the plane tree; Avdeev and Bondarenko escort them to the Colonel; they return with Vorontsov's promise to receive Hadji Murad as a guest."
+    },
+    {
+      "thread_id": "vorontsov_report_decision",
+      "name": "Vorontsov's Written Report / Bureaucratic Handling of HM",
+      "type": "epistolary",
+      "characters_involved": [
+        "Chernyshov",
+        "Loris-Melikov",
+        "Prince Tarkhanov",
+        "Vorontsov"
+      ],
+      "chapters_active": [
+        14,
+        15
+      ],
+      "span": [
+        14,
+        15
+      ],
+      "reach": 2,
+      "final_status": "developed",
+      "timeline": [
+        {
+          "chapters": [
+            14,
+            15
+          ],
+          "status": "developed",
+          "description": "Vorontsov's December 20 letter to the Minister of War laying out the HM problem, proposing Grozny, sending Loris-Melikov with a Cossack escort. The dossier that travels up to the Tsar.",
+          "dramatic_function": "Transfers the decision upward; dramatizes empire-as-paperwork. The courier-who-beats-drivers motif frames imperial violence.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "c",
+        "e",
+        "h",
+        "i",
+        "l",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "y"
+      ],
+      "description_concat": "Vorontsov's December 20 letter to the Minister of War laying out the HM problem, proposing Grozny, sending Loris-Melikov with a Cossack escort. The dossier that travels up to the Tsar."
+    },
+    {
+      "thread_id": "klugenau_letters_epistolary",
+      "name": "Klugenau's Letters Offering Pardon",
+      "type": "epistolary",
+      "characters_involved": [
+        "Akhmet Khan",
+        "Hadji Murad",
+        "Klugenau"
+      ],
+      "chapters_active": [
+        13
+      ],
+      "span": [
+        13,
+        13
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            13
+          ],
+          "status": "closed_in_range",
+          "description": "Two preserved letters from General Klugenau assuring HM of Russian justice, urging him to return. HM does not believe them and goes to Shamil instead.",
+          "dramatic_function": "Mirrors present action (Vorontsov's new promises) — dramatic irony: Russian officials have promised safety before. Foreshadows tragic outcome.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "b",
+        "c",
+        "e",
+        "f",
+        "h",
+        "i",
+        "k",
+        "l",
+        "m",
+        "n",
+        "r",
+        "t",
+        "y"
+      ],
+      "description_concat": "Two preserved letters from General Klugenau assuring HM of Russian justice, urging him to return. HM does not believe them and goes to Shamil instead."
+    },
+    {
+      "thread_id": "hm_life_story_dictation",
+      "name": "Hadji Murad Dictates His Life Story to Loris-Melikov",
+      "type": "flashback",
+      "characters_involved": [
+        "Hadji Murad",
+        "Loris-Melikov"
+      ],
+      "chapters_active": [
+        11,
+        12,
+        13
+      ],
+      "span": [
+        11,
+        13
+      ],
+      "reach": 3,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            11,
+            12,
+            13
+          ],
+          "status": "closed_in_range",
+          "description": "Over multiple sessions HM narrates his entire backstory: childhood in Tselmess, his mother's song, Khunzakh Khans, the Hamzad massacre, his vengeance, alliance with Klugenau, betrayal by Akhmet Khan, fall from the cliff, and eventual alliance then break with Shamil.",
+          "dramatic_function": "Massive exposition device — delivers all HM's backstory in compressed form. Humanizes him, establishes blood-feud motivations, and gives the imperial dossier its content.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "Over multiple sessions HM narrates his entire backstory: childhood in Tselmess, his mother's song, Khunzakh Khans, the Hamzad massacre, his vengeance, alliance with Klugenau, betrayal by Akhmet Khan, fall from the cliff, and eventual alliance then break with Shamil."
+    },
+    {
+      "thread_id": "khans_of_khunzakh_massacre",
+      "name": "The Khunzakh Khans and Hamzad's Massacre",
+      "type": "flashback",
+      "characters_involved": [
+        "Abu Nutsal Khan",
+        "Aseldar",
+        "Bulach Khan",
+        "Hadji Murad",
+        "Hamzad",
+        "Khansha",
+        "Osman",
+        "Shamil",
+        "Umma Khan"
+      ],
+      "chapters_active": [
+        11,
+        13
+      ],
+      "span": [
+        11,
+        13
+      ],
+      "reach": 2,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            11,
+            13
+          ],
+          "status": "closed_in_range",
+          "description": "Recounted arc: the Avar Khans are lured to Hamzad's camp and slaughtered; HM flees in shame; he and brother Osman then assassinate Hamzad in revenge, Osman dies.",
+          "dramatic_function": "Seeds HM's blood debt and his foundational 'shame that made him fearless'. Explains why he cannot join Shamil (blood on Shamil's hands).",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "Recounted arc: the Avar Khans are lured to Hamzad's camp and slaughtered; HM flees in shame; he and brother Osman then assassinate Hamzad in revenge, Osman dies."
+    },
+    {
+      "thread_id": "dargo_campaign_shame",
+      "name": "The Dargo Campaign Embarrassment",
+      "type": "flashback",
+      "characters_involved": [
+        "Hadji Murad",
+        "Manana Orbelyani",
+        "Prince Mikhail Vorontsov",
+        "carroty general"
+      ],
+      "chapters_active": [
+        9
+      ],
+      "span": [
+        9,
+        9
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            9
+          ],
+          "status": "closed_in_range",
+          "description": "The red-haired general inadvertently reminds the dinner table that Hadji Murad's ambush nearly wiped out Vorontsov's Dargo detachment, forcing the courtiers to euphemise a past military disaster.",
+          "dramatic_function": "Reveals how truth is socially suppressed around power; characterises Vorontsov's vanity",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "viceroy_vorontsov_court_arc"
+      ],
+      "description_concat": "The red-haired general inadvertently reminds the dinner table that Hadji Murad's ambush nearly wiped out Vorontsov's Dargo detachment, forcing the courtiers to euphemise a past military disaster."
+    },
+    {
+      "thread_id": "hadji_murad_turban_backstory",
+      "name": "The Turban and the Klugenau-Akhmet-Khan Backstory",
+      "type": "flashback",
+      "characters_involved": [
+        "Akhmet Khan",
+        "General Klugenau",
+        "Hadji Murad",
+        "Prince Mikhail Vorontsov"
+      ],
+      "chapters_active": [
+        10
+      ],
+      "span": [
+        10,
+        10
+      ],
+      "reach": 1,
+      "final_status": "introduced",
+      "timeline": [
+        {
+          "chapters": [
+            10
+          ],
+          "status": "introduced",
+          "description": "The turban Hadji Murad wears is identified as the cause of his 1840 arrest by Klugenau after Akhmet Khan's denunciation, which drove him to Shamil. He now cites this history and his Avarian service record to Vorontsov.",
+          "dramatic_function": "Provides origin of his defection and vendetta; plants backstory for later chapters",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [],
+      "description_concat": "The turban Hadji Murad wears is identified as the cause of his 1840 arrest by Klugenau after Akhmet Khan's denunciation, which drove him to Shamil. He now cites this history and his Avarian service record to Vorontsov."
+    },
+    {
+      "thread_id": "hm_childhood_mother_bond",
+      "name": "Hadji Murad's Childhood and Mother's Wound",
+      "type": "flashback",
+      "characters_involved": [
+        "Hadji Murad",
+        "Patimat (mother)",
+        "father"
+      ],
+      "chapters_active": [
+        11
+      ],
+      "span": [
+        11,
+        11
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            11
+          ],
+          "status": "closed_in_range",
+          "description": "HM recalls his mother refusing to wet-nurse another Khan's son, being stabbed by her husband, and her song about the wound. Sensory memories of the aoul, grandfather, the lepeshki smell.",
+          "dramatic_function": "Establishes emotional stake for family rescue arc — his mother is now in Shamil's hands. Poetic/mythic texture; origin of HM's fearlessness after shame.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": false,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "d",
+        "e",
+        "f",
+        "h",
+        "i",
+        "l",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "t",
+        "y"
+      ],
+      "description_concat": "HM recalls his mother refusing to wet-nurse another Khan's son, being stabbed by her husband, and her song about the wound. Sensory memories of the aoul, grandfather, the lepeshki smell."
+    },
+    {
+      "thread_id": "akhmet_khan_betrayal_cliff",
+      "name": "Betrayal by Akhmet Khan and the Cliff Escape",
+      "type": "flashback",
+      "characters_involved": [
+        "Akhmet Khan",
+        "General Klugenau",
+        "General Rosen",
+        "Hadji Murad"
+      ],
+      "chapters_active": [
+        13
+      ],
+      "span": [
+        13,
+        13
+      ],
+      "reach": 1,
+      "final_status": "closed_in_range",
+      "timeline": [
+        {
+          "chapters": [
+            13
+          ],
+          "status": "closed_in_range",
+          "description": "Akhmet Khan frames HM as a traitor to the Russians; HM is chained, marched toward Temir-Khan-Shura, throws himself off a cliff pulling a soldier with him, survives broken. Klugenau's letters of pardon attempt to win him back.",
+          "dramatic_function": "Explains HM's structural distrust of Russian systems and his earlier defection to Shamil. Epistolary texture via the Klugenau letters.",
+          "source_range": []
+        }
+      ],
+      "cuttable_for_feature": true,
+      "fusion_candidate_with": [
+        "_",
+        "a",
+        "c",
+        "e",
+        "f",
+        "h",
+        "k",
+        "m",
+        "n",
+        "o",
+        "r",
+        "s",
+        "u",
+        "z"
+      ],
+      "description_concat": "Akhmet Khan frames HM as a traitor to the Russians; HM is chained, marched toward Temir-Khan-Shura, throws himself off a cliff pulling a soldier with him, survives broken. Klugenau's letters of pardon attempt to win him back."
+    }
+  ],
+  "fusion_edges": [
+    {
+      "a": "author_digression",
+      "b": "thistle_frame"
+    },
+    {
+      "a": "hm_defection",
+      "b": "sado_kunak_loyalty"
+    },
+    {
+      "a": "avdeev_arc",
+      "b": "company_cashbox"
+    },
+    {
+      "a": "poltoratsky_infatuation",
+      "b": "vorontsov_household"
+    },
+    {
+      "a": "poltoratsky_infatuation",
+      "b": "vovilo_serf"
+    },
+    {
+      "a": "author_digression",
+      "b": "sleptsov_heroism_myth"
+    },
+    {
+      "a": "avdeev_arc",
+      "b": "sleptsov_heroism_myth"
+    },
+    {
+      "a": "hm_defection",
+      "b": "hm_murids_introduced"
+    },
+    {
+      "a": "envoy_mission",
+      "b": "hm_defection"
+    },
+    {
+      "a": "avdeev_death_arc",
+      "b": "avdeev_family_home_arc"
+    },
+    {
+      "a": "avdeev_death_arc",
+      "b": "official_report_vs_reality"
+    },
+    {
+      "a": "aksinya_infidelity_micro",
+      "b": "avdeev_family_home_arc"
+    },
+    {
+      "a": "dargo_campaign_shame",
+      "b": "viceroy_vorontsov_court_arc"
+    },
+    {
+      "a": "flattery_of_hadji_murad_legend",
+      "b": "viceroy_vorontsov_court_arc"
+    },
+    {
+      "a": "avdeev_family_home_arc",
+      "b": "official_report_vs_reality"
+    },
+    {
+      "a": "viceroy_vorontsov_court_arc",
+      "b": "vorontsov_biography_digression"
+    },
+    {
+      "a": "hadji_murad_family_hostage",
+      "b": "shamil_as_offstage_antagonist"
+    },
+    {
+      "a": "marya_vasilevna_charm_arc",
+      "b": "vorontsov_meller_rivalry"
+    },
+    {
+      "a": "bulka_child_motif",
+      "b": "hadji_murad_family_hostage"
+    },
+    {
+      "a": "bulka_child_motif",
+      "b": "kunak_gift_economy"
+    },
+    {
+      "a": "avdeev_family_home_arc",
+      "b": "conscription_as_death_digression"
+    }
+  ],
+  "stats": {
+    "total_threads": 80,
+    "by_type": {
+      "theme_micro_arc": 14,
+      "authorial_digression": 10,
+      "main": 1,
+      "political_framing": 13,
+      "subplot": 9,
+      "character_arc": 24,
+      "epistolary": 3,
+      "flashback": 6
+    },
+    "cuttable_count": 37,
+    "non_cuttable_count": 43,
+    "fusion_edge_count": 21,
+    "main_thread_reach": [
+      20
+    ]
+  }
+}

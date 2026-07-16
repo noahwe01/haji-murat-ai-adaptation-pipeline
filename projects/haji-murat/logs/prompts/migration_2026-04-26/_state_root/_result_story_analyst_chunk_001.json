@@ -1,0 +1,91 @@
+{
+  "new_characters": [
+    {
+      "name": "Author-Narrator",
+      "initial_description": "Anonymous first-person narrator returning home through midsummer fields; gathers wildflowers; attempts to pluck a 'Tartar' thistle from a ditch; reflects on its resistance. Functions as a framing device — Tolstoy's authorial voice introducing the central metaphor.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Author-narrator walks home through midsummer fields and catalogues blooming wildflowers — establishing a pastoral, sensory prologue.",
+      "act": 1,
+      "subplot_id": "author_digression"
+    },
+    {
+      "description": "Narrator notices a crimson 'Tartar' thistle (locally called so; avoided by mowers) standing apart from the meadow flowers.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator attempts to pluck the thistle; struggles for five minutes against its prickles and tough stalk; finally tears it free — but the stem is frayed and the flower ruined.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator discards the broken thistle and reflects: 'What energy and tenacity! With what determination it defended itself, and how dearly it sold its life!' — establishing the central metaphor for Hadji Murad's arc before the protagonist has appeared.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator crosses a vast, freshly ploughed black-earth field — bare, without a single blade of grass — transitioning away from the flower world toward the novel's harsher terrain.",
+      "act": 1,
+      "subplot_id": "author_digression"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Midsummer Meadow (Narrator's Field)",
+      "description": "A Russian countryside meadow in high summer — hay harvest done, rye just beginning to ripen. Rich in named wildflowers (clover, daisies, rape, campanulas, cornflowers, dodder). A ditch runs alongside where the thistle grows. Cinematic compression candidate — low independent weight; serves solely as frame for the thistle metaphor."
+    },
+    {
+      "name": "Black-Earth Ploughed Field",
+      "description": "A large landed-proprietor's field, recently ploughed, nothing but evenly furrowed moist earth visible to the horizon on all sides. Narrator ascends a dusty path through it. Metaphoric transition space — from natural abundance to stripped, controlled ground."
+    }
+  ],
+  "tension": 0.15,
+  "act_estimation": 1,
+  "filmability_score": 0.55,
+  "theme_hints": [
+    "Resistance unto death — the thistle sells its life dearly",
+    "Destruction of beauty through force — the plucked flower is ruined",
+    "The outsider who does not belong among the cultivated — thistle vs. garden flowers",
+    "Nature as moral commentary — pastoral frame precedes political violence",
+    "Imperial pressure on the individual — the mowers avoid or discard the thistle"
+  ],
+  "symbols": [
+    "Crimson 'Tartar' thistle — Hadji Murad; fierce, beautiful, ultimately destroyed",
+    "Nosegay of cultivated flowers — Russian imperial society, polished and fragile",
+    "The ditch — margin, exile, the space outside accepted order",
+    "Frayed stalk — the cost of resistance; victory that destroys what it defends",
+    "Black-earth ploughed field — stripped land, imperial control, erasure of wildness"
+  ],
+  "notes": "Chunk 1 is the author-frame prologue — Tolstoy's personal voice, no dramatic action, no named historical characters. The thistle metaphor is the entire load-bearing content of this chunk: it announces Hadji Murad's fate (resistance, ruin, dearly sold life) before he appears. The chunk is short and functions as a cinematic title-card equivalent. Filmability is moderate (0.55) rather than low because the imagery is highly visual and a skilled director can render it without dialogue — but the inner reflection ('What energy and tenacity!') requires either V.O. or visual metaphor translation. The pre-computed graph confirms no fusion candidates appear here; no cuttable-list characters appear. The author_digression and thistle_frame plotline threads appear together and are flagged for fusion per the Plotline Graph hint.",
+  "fusion_candidates": [
+    {
+      "chars": ["author_digression", "thistle_frame"],
+      "reason": "Both threads are present in this chunk and inseparable: the botanical walk IS the framing device for the thistle. In the film they constitute a single pre-title visual prologue. Confirmed as fusable per Plotline Graph fusion suggestion."
+    }
+  ],
+  "cuttable": [
+    {
+      "element": "Extended flower catalogue (clover, ox-eye daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder)",
+      "reason": "Seven-flower enumeration is literary texture, not dramaturgical content. Film can render the meadow visually in 5 seconds. The list is non-load-bearing and cannot be filmed as written without becoming a nature documentary."
+    },
+    {
+      "element": "Author-narrator identity as literary device",
+      "reason": "The first-person Tolstoy-as-narrator frame is a prose convention with no direct film equivalent. The film can retain the thistle imagery as a cold-open visual metaphor without an authorial voice-over, or compress to a brief V.O. title card. The narrator as character has zero dramatic weight beyond this prologue."
+    },
+    {
+      "element": "Black-earth ploughed field transition",
+      "reason": "Purely transitional description; adds no plot, character, or conflict. Can be cut entirely or absorbed into a landscape cut leading to the main narrative."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Thistle prologue — narrator plucks and destroys the Tartar thistle",
+      "current_pov": "Author-Narrator (anonymous first-person Tolstoy stand-in)",
+      "recommended_pov": "Cut narrator entirely. Open on the thistle itself — ECU of crimson flower in a ditch, bumble-bee inside, then a hand (unseen, belonging to no one) tears it free. The internal reflection ('What determination — how dearly it sold its life') becomes a sparse V.O. line or title card. Alternatively: restage as a visual rhyme — cut from destroyed thistle to Hadji Murad's face in the closing chapter, establishing the bookend without an authorial proxy."
+    }
+  ]
+}

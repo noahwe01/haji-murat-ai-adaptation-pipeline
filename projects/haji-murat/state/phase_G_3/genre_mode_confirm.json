@@ -1,0 +1,55 @@
+{
+  "config_genre": "historical war tragedy / anti-imperial fable",
+  "expected_clusters": [
+    "power_empire",
+    "fate_honor",
+    "defection_betrayal"
+  ],
+  "cluster_match_counts": {
+    "power_empire": 173,
+    "fate_honor": 87,
+    "defection_betrayal": 81
+  },
+  "matched_themes_sample": {
+    "power_empire": [
+      "Absolute power enforces conformity through careerism — Bibikov's silence mirrors every subordinate's capitulation to Nic",
+      "Absolute power is porous — Shamil can condemn armies but cannot command a wife's attention",
+      "Anonymous soldiers die far from home while bureaucratic language ('defending his Tsar, his Fatherland, and the Orthodox "
+    ],
+    "fate_honor": [
+      "Anonymous soldiers die while the imperial machine erases and falsifies their deaths",
+      "Anonymous soldiers march and sing while Hadji Murad's fate is decided at imperial levels",
+      "Anonymous soldiers pay the price for imperial posturing — Avdeev's wound inflicted by casual military order, his death u"
+    ],
+    "defection_betrayal": [
+      "Baryatinsky's expedition and affair simultaneously illustrate how Russian imperial power operates: military brutality al",
+      "Betrayal by former kunak (Hadji Aga) as micro-image of the novel's macro-betrayal logic — loyalties are always provision",
+      "Betrayal by the ordinary — an unnamed old man, not a soldier, delivers HM to his executioners"
+    ]
+  },
+  "macro_visual_strategy_hits": [],
+  "meta_consistency": {
+    "expansion_mode": "novel_to_feature",
+    "adaptation_challenge": "compression",
+    "source_length_class": "novel",
+    "target_runtime_minutes": 120
+  },
+  "all_clusters_satisfied": true,
+  "mvs_genre_match": true,
+  "meta_compression_match": true,
+  "confirmed": true,
+  "production_notes_full_text_hits": [
+    "blood",
+    "caucas",
+    "crimson",
+    "death",
+    "imperial",
+    "irreconcilable",
+    "mountain",
+    "palace",
+    "red",
+    "single red",
+    "thistle",
+    "war"
+  ]
+}

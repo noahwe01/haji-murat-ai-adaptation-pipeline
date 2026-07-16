@@ -1,0 +1,174 @@
+{
+  "Prince Baryatinsky": {
+    "role": "antagonist",
+    "first_mention_chunk": "chunk_096",
+    "initial_description": "New commander of the left flank, old friend of the Viceroy, commands the Kabarda Regiment, carries out the Tsar's campaign orders; involved in an affair with Marya Vasilevna",
+    "arc_notes_count": 1,
+    "arc_notes_first3": [
+      "Chunk chunk_097: Senior Russian officer who replaced Kozlovsky as commander of the left flank; known for affair with Marya Vasilevna"
+    ],
+    "fusion_decision": {
+      "verdict": "FUSE",
+      "merge_into": "Vorontsov",
+      "rationale": "Baryatinsky appears in only 3 mentions, enters at chunk_096 with no arc of his own, and serves the same dramatic function as Vorontsov (Russian imperial commander whose orders shape HM's fate) — his command authority over the left flank and his Petersburg-court entanglements can be absorbed into Vorontsov without losing dramatic information, consistent with Seger's fusion principle (collapse one figure, transfer one gesture/line) for novel-to-feature compression."
+    },
+    "justification": "The Empire has entrusted me with its will in this region; my orders come from the Tsar, my friendships from the Viceroy, and my conscience answers to both — what looks like ambition from below is service from where I stand.",
+    "has_voice_profile": true
+  },
+  "Karganov": {
+    "role": "antagonist",
+    "first_mention_chunk": "chunk_115",
+    "initial_description": "Military commander of the district who leads the militia and Cossack force that surrounds Hadji Murad in the thicket",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": {
+      "verdict": "FUSE",
+      "merge_into": "Hadji Aga",
+      "rationale": "Karganov is a single-function pursuit-antagonist (reach=1, three mentions, no arc) whose only dramatic beats — leading the encirclement and calling for surrender — are structurally duplicated by Hadji Aga, who is the dramatically richer version because his parley is freighted with kunak betrayal; collapsing Karganov's parley line and command of the ring into Hadji Aga preserves every plot beat while removing one Russian-uniformed functionary the audience would not retain (CF-01, SC-02)."
+    },
+    "justification": "A sworn Russian officer with a fugitive insurgent commander cornered on his district's ground has one duty — to close the ring and end it; any other choice betrays the men under his command and the Tsar he serves.",
+    "has_voice_profile": true
+  },
+  "Aseldar": {
+    "role": "Minor",
+    "first_mention_chunk": "chunk_055",
+    "initial_description": "Hamzad's favorite murid who killed the Khansha and was in turn killed by Hadji Murad in the mosque ambush",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": {
+      "verdict": "FUSE",
+      "merge_into": "Kazi-Mulla",
+      "rationale": "Aseldar appears in only one chunk as a single-action backstory figure (kills the Khansha, dies in Hamzad's mosque ambush); his dramatic function (Hamzad-loyalist murid executing the dynastic massacre) is identical to Kazi-Mulla's, and feature compression cannot sustain a named role with one mention — collapse the action into Kazi-Mulla as the composite Hamzad-murid, or cut entirely if the mosque massacre is rendered as exposition rather than scene."
+    },
+    "justification": "The khans are corrupt collaborators with the infidel and the Khansha protects their line; killing her at Hamzad's word is not murder but the will of God enacted through a faithful hand.",
+    "has_voice_profile": true
+  },
+  "Meller-Zakomelsky's Aide-de-Camp": {
+    "role": "supporting",
+    "first_mention_chunk": "chunk_029",
+    "initial_description": "Military aide who delivers the general's demand that Hadji Murad be presented immediately; functionally anonymous messenger.",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": null,
+    "justification": "",
+    "has_voice_profile": false
+  },
+  "Meller-Zakomelsky's wife": {
+    "role": "supporting",
+    "first_mention_chunk": "chunk_030",
+    "initial_description": "Model-looking little lady, wife of Baron Meller-Zakomelsky, present during the confrontation but silent.",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": null,
+    "justification": "",
+    "has_voice_profile": false
+  },
+  "Meller-Zakomelsky": {
+    "role": "Minor",
+    "first_mention_chunk": "chunk_029",
+    "initial_description": "Russian general/staff officer in the Caucasus theater, intermediate command tier between Vorontsov and frontline; bureaucratic-military function.",
+    "arc_notes_count": 4,
+    "arc_notes_first3": [
+      "Chunk chunk_029: ...spring several times, listened, and nodded his head approvingly.  After dinner, Meller-Zakomelsky's aide-de-camp was announced.  The aide-de-camp informed the prince that the general, having heard of Hadji Murad's arrival, was highly displeased that this had not been reported to him, and required Ha...",
+      "Chunk chunk_031: ...that he would be able to demand much from them.  He also understood that though Meller-Zakomelsky was the commanding officer, he had not as much influence as his subordinate Vorontsov, and that Vorontsov was important and Meller-Zakomelsky unimportant; and therefore when Meller- Zakomelsky sent for...",
+      "Chunk chunk_041: ...from his son, who described Hadji Murad's surrender and his own encounter with Meller-Zakomelsky.  The princess came up and inquired what their son had written.  \"It's all about the same matter. ... Il a eu quelques desagrements avec le commandant de la place.  Simon a eu tort. ... But 'All's well..."
+    ],
+    "fusion_decision": {
+      "verdict": "FUSE",
+      "merge_into": "Kozlovsky",
+      "rationale": "Both are mid-tier Russian generals functioning as bureaucratic chain-of-custody figures over Hadji Murat with no independent dramatic action; collapsing them into a single Composite-Russian-Frontline-Officer (canonical: Kozlovsky) preserves the jurisdictional-friction beat (offended by not being informed first) while eliminating a redundant rank-tier per CF-01 and CF-09."
+    },
+    "justification": "",
+    "has_voice_profile": true
+  },
+  "Simon Vorontsov": {
+    "role": "antagonist",
+    "first_mention_chunk": "chunk_012",
+    "initial_description": "Prince Simon Mikhailovich Vorontsov, Commander of the Kurin Regiment, Imperial Aide-de-Camp, son of the Commander-in-Chief; identified as the 'Prince' the scouts seek",
+    "arc_notes_count": 1,
+    "arc_notes_first3": [
+      "Chunk chunk_013: Prince, Commander of the Kurin Regiment, Imperial Aide-de-Camp, son of the Commander-in-Chief; long-faced, wearing insignia and gold cords"
+    ],
+    "fusion_decision": {
+      "verdict": "REJECT",
+      "merge_into": null,
+      "rationale": "Simon Vorontsov and his father Mikhail Vorontsov occupy distinct dramatic functions — Simon is the personal host who pledges his word in his own tent, Mikhail is the distant Viceroy whose institutional authority overrides that word; collapsing them would erase the father-son betrayal vector that gives the Vorontsov plotline its Tolstoian moral weight, and the suggested fusion with Marya Vasilevna is a CUT-not-fusion (her thematic Baryatinsky subplot belongs elsewhere or is dropped, not absorbed into a male officer)."
+    },
+    "justification": "",
+    "has_voice_profile": true
+  },
+  "Michael Vorontsov": {
+    "role": "Antagonist",
+    "first_mention_chunk": "chunk_037",
+    "initial_description": "Russian Viceroy of the Caucasus, 70+; English-educated, ambitious, charming aristocrat who wields imperial power with elegant ease. Conqueror of Napoleon at Krasnoe. Receives the news of Hadji Murad's",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": {
+      "verdict": "REJECT",
+      "merge_into": null,
+      "rationale": "Vorontsov is a historical anchor and the structural face of imperial soft power on the Caucasian side; his function — civilized captor whose courtesy is the cage — cannot be absorbed by Nikolai I (raw autocracy) or by any military officer (overt force) without collapsing the novel's central indictment that empire kills most efficiently when it smiles."
+    },
+    "justification": "An empire is held together by the patience of men like me; if I can turn the most dangerous warrior of the Caucasus into a guest at my table without firing a shot, then what others would call duplicity I call statesmanship.",
+    "has_voice_profile": true
+  },
+  "Elizabeth Ksaverevna Vorontsova": {
+    "role": "supporting",
+    "first_mention_chunk": "chunk_037",
+    "initial_description": "Princess, wife of Michael Vorontsov; hostess of the Tiflis palace dinner.",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": null,
+    "justification": "",
+    "has_voice_profile": false
+  },
+  "Georgian Princess (Vorontsova's friend)": {
+    "role": "supporting",
+    "first_mention_chunk": "chunk_038",
+    "initial_description": "Graceful, dark, red-cheeked Georgian woman glittering with jewels, incessantly smiling; seated at Vorontsov's left.",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": null,
+    "justification": "",
+    "has_voice_profile": false
+  },
+  "Hadji Aga": {
+    "role": "antagonist",
+    "first_mention_chunk": "chunk_116",
+    "initial_description": "Hadji Aga of Mekhtuli — once Hadji Murad's kunak, now Russian-aligned; arrives with ~200 followers and leads the assault",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": {
+      "verdict": "FUSE",
+      "merge_into": "Hadji Aga",
+      "absorbs": [
+        "Akhmet Khan",
+        "Karganov"
+      ],
+      "rationale": "Hadji Aga is the dramatically richest variant of the 'Caucasian-native-aligned-with-Russia / parley-then-kill' function — kunak-betrayal gives him moral weight Akhmet Khan and Karganov lack; per CF-01 (<5 scenes, identical antagonist function) and SC-02, Akhmet Khan's informant/lineage beat and Karganov's parley beat collapse cleanly into Hadji Aga without losing thematic content."
+    },
+    "justification": "Hadji Murad abandoned Shamil, abandoned his own kunak-oath when he ran to the Russians — he broke the bond first, so I owe him only the blade he taught me to carry.",
+    "has_voice_profile": true
+  },
+  "Kazi-Mulla": {
+    "role": "supporting",
+    "first_mention_chunk": "chunk_048",
+    "initial_description": "Former Imam before Hamzad; killed before Hadji Murad's story begins; contextualizes the rise of Muridism.",
+    "arc_notes_count": 0,
+    "arc_notes_first3": [],
+    "fusion_decision": null,
+    "justification": "",
+    "has_voice_profile": false
+  },
+  "General Kozlovsky": {
+    "role": "supporting",
+    "first_mention_chunk": "chunk_027",
+    "initial_description": "Commander of the left flank at Grozny; named recipient of Vorontsov's formal report of Hadji Murad's defection",
+    "arc_notes_count": 1,
+    "arc_notes_first3": [
+      "Chunk chunk_097: Commander of the left flank until Baryatinsky's arrival; honored at farewell dinner; nervous about toasts"
+    ],
+    "fusion_decision": null,
+    "justification": "",
+    "has_voice_profile": false
+  }
+}

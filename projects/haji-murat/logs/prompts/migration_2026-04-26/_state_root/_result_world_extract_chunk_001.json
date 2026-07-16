@@ -1,0 +1,62 @@
+{
+  "locations_new": [
+    {
+      "name": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+      "literary_description": "It was midsummer, the hay harvest was over and they were just beginning to reap the rye. At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening.",
+      "cinematic_description": "Wide establishing shot: rolling meadow in peak midsummer light, shallow depth of field pulling focus through layers of wildflowers. Color palette rich and saturated — blues, reds, whites, yellows. A lone figure (the Narrator) moves through the field collecting flowers. Natural golden-hour or high noon light. Handheld camera, slow drift. The world is abundant, unguarded, alive.",
+      "atmosphere": "Pastoral abundance; deceptive serenity before violence; the beauty that will be destroyed. Functions as ironic counterpoint to the story of Hadji Murat — a frame of natural grace enclosing imperial brutality.",
+      "recurring": false,
+      "timeframe": "Frame narrative — pre-Act I / prologue. Midsummer, daytime.",
+      "production_notes": [
+        "Wildflower palette: crimson, white, blue, lilac, yellow — maximum chromatic richness",
+        "Thistle (crimson 'Tartar' variety) must be practical prop, prominently placed in ditch",
+        "Bumble-bee on flower: suggests undisturbed natural world, quiet life of small creatures",
+        "Nosegay of delicate flowers contrasts with single, tough thistle — central visual motif",
+        "Ditch where thistle grows slightly recessed from the main meadow — isolates the thistle spatially",
+        "Late-season feel: hay already cut, rye just beginning — transitional moment, end of something"
+      ]
+    },
+    {
+      "name": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+      "literary_description": "The way home led across black-earth fields that had just been ploughed up. I ascended the dusty path. The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth. The land was well tilled and nowhere was there a blade of grass or any kind of plant.",
+      "cinematic_description": "Cut from the flower field to stark, desolate ploughed earth. Wide shot: the Narrator a small figure on a dust-white path crossing endless dark furrows to a hill horizon. No colour, no life — only uniformity. The richness of the meadow is brutally absent. Camera could be mounted high (drone or crane) to emphasise scale and erasure of nature. Dust rises from the path.",
+      "atmosphere": "Erasure, domination, order imposed on nature. Visual echo of empire's logic: the landed proprietor's will made visible in the land. Transition space between the living world and the dead. Thematically pre-figures Russian imperial flattening of Chechen culture.",
+      "recurring": false,
+      "timeframe": "Frame narrative — prologue, directly after the meadow, midsummer, daytime.",
+      "production_notes": [
+        "Black earth (chernozem): deep brown-black, moist, freshly turned — high contrast against dusty path",
+        "Path is dusty-white against the dark earth — strong graphic contrast for wide shots",
+        "No vegetation, no colour except earth and sky — palette stripped to monochrome",
+        "Horizon is a hill — Narrator ascends, suggesting a threshold / liminal crossing",
+        "Scale of the field emphasises the proprietor's ownership — land as political statement",
+        "This location functions as visual bridge from pastoral prologue to the main story"
+      ]
+    }
+  ],
+  "locations_updated": [
+    {
+      "name": "Midsummer Meadow (Narrator's Field)",
+      "update": "Confirmed as frame-narrative location. Specific flora now catalogued: clover, ox-eye daisies, rape blossoms, campanulas, vetch, scabious, plaintains, cornflowers, dodder, thistle (crimson 'Tartar' variety). Thistle grows in a ditch. Bumble-bee present. This is the same location as 'Midsummer Meadow (Narrator's Field)' in the existing register — update with full flora inventory and production notes from this chunk."
+    },
+    {
+      "name": "Ploughed Field (Narrator's Walk)",
+      "update": "Confirmed as black-earth field, freshly ploughed, belonging to a landed proprietor. Vast, hill-bounded, no vegetation. Dusty path crosses it. Same location as 'Ploughed Field (Narrator's Walk)' in existing register — update with ownership detail (landed proprietor), scale, and chromatic notes (black earth / white dust path)."
+    }
+  ],
+  "timeline_events": [
+    {
+      "event": "Narrator walks home through midsummer meadow, gathers nosegay of wildflowers, notices crimson thistle ('Tartar') in a ditch, struggles to pluck it, finally breaks it free — stalk frayed, flower diminished. Reflects on the thistle's tenacity and energy in defending itself.",
+      "time": "Midsummer, afternoon/daytime. Frame narrative — before the main story begins.",
+      "location": "EXT. MIDSUMMER MEADOW / FLOWER FIELD - DAY",
+      "characters": ["Narrator (unnamed, first-person)"],
+      "chunk_id": "chunk_001"
+    },
+    {
+      "event": "Narrator walks home across vast black-earth ploughed field on dusty path toward a hill. Transition from the living meadow to barren, cultivated land.",
+      "time": "Midsummer, daytime. Immediately follows thistle encounter.",
+      "location": "EXT. BLACK-EARTH PLOUGHED FIELD - DAY",
+      "characters": ["Narrator (unnamed, first-person)"],
+      "chunk_id": "chunk_001"
+    }
+  ]
+}

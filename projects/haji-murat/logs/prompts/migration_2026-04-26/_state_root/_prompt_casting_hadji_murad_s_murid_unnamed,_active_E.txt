@@ -1,0 +1,66 @@
+You are a casting director working from the source novel.
+For the character Hadji Murad's Murid (unnamed, active), produce a structured physical + vocal
+archetype that a real casting director could act on.
+
+HARD CONSTRAINTS:
+- Describe a TYPE, not a specific modern actor. Do NOT name any living or
+  historical actor or public figure.
+- This is a FICTIONAL character. Build the archetype from voice_profile, physical_signature, and narrative function. Set historical_reference to null.
+- Draw on the voice profile, want/need, physical_signature, and role from
+  the character bible below. Do NOT invent traits that contradict the bible.
+- Keep every field to 1-2 sentences. Dense, specific, castable.
+
+CHARACTER BIBLE ENTRY:
+{
+  "role": "supporting",
+  "age": "young adult (implied — described as 'strong active murid')",
+  "origin": "Caucasian Muslim, Avar or allied mountain people, Chechnya/Dagestan region",
+  "social_status": "murid — sworn warrior-disciple in the Naqshbandi/Muridist resistance; last remaining of Hadji Murad's once-large retinue",
+  "want": "To protect Hadji Murad's body and dignity through every hour of this flight and deliver him safely to whatever shelter or alliance will save him.",
+  "need": "To accept that absolute devotion to a master cannot substitute for a self — and that a murid whose leader falls must still carry the meaning of that bond forward alone.",
+  "fear": "Failing his master in the one moment that matters; being the murid who survived when Hadji Murad did not, or worse, the one who was absent when the killing stroke fell.",
+  "contradiction": "He displaces the village elder from the bridle out of pure devotion, yet that same preempting zeal — doing for Hadji Murad what custom assigns to the host — quietly asserts a self he claims not to have; his servitude is also a kind of pride.",
+  "physical_signature": "",
+  "voice_profile": {
+    "voice_description": "He speaks rarely and only when necessary, letting action do the work words would slow down. When he does speak, his register is curt, deferential to Hadji Murad and correct but firm toward strangers. His Russian, if used, is broken; his Avar is clipped, practical, weighted with the formulas of the murid brotherhood.",
+    "vocabulary_level": "informal, oral-tradition mountain speech; low formal education but high religious formulaic literacy (Qur'anic phrases, murid oaths); era 1851–1852 Caucasus",
+    "sentence_structure": "Short. Average 4–8 words. Mostly statements and imperatives. Rare questions — and when asked, usually single-word or single-phrase.",
+    "verbal_tics": [
+      "'Bismillah' before action",
+      "addresses Hadji Murad as 'agha' or by honorific, never by name",
+      "'As you say' / 'It is done' as closing phrases",
+      "silence where another man would answer"
+    ],
+    "avoidances": "Never complains about fatigue, hunger, or danger. Never speculates about politics, Shamil's intentions, or Russian strategy — not his place. Never uses Hadji Murad's name familiarly. Never jokes. Never says 'I' when 'we' or silence will do.",
+    "emotional_expression": "Emotion is routed through the body — a tightened grip on the bridle, a turned shoulder, a step placed between Hadji Murad and a stranger. Verbally, feeling leaks only as terser syntax or a single invoked name of God.",
+    "speech_rhythm": "measured, with long silences; hectic only in the instant of action, then back to stillness",
+    "dialog_examples": {
+      "neutral_everyday": "The horse is watered, agha. We can ride.",
+      "under_pressure": "Stay close. I have the bridle.",
+      "hopeful_joyful": "Bismillah. The path is open.",
+      "angry_hurt": "Step back, old man. That is my place.",
+      "vulnerable_honest": "I am the last of them, agha. I will not be less than all of them together."
+    },
+    "subtext_rules": {
+      "when_he_says_'as_you_say,_agha'_he_means": "I have already begun doing it.",
+      "when_he_is_silent_he_means": "I am watching the door, the hands, the horizon — speak to someone else.",
+      "when_he_says_'bismillah'_he_means": "I may not come back from this next minute; witness it.",
+      "when_he_displaces_the_old_man_without_speaking_he_means": "Hospitality is yours, but responsibility is mine, and responsibility outranks custom."
+    }
+  }
+}
+
+GRAPH METADATA:
+- Role: supporting
+- Historical: False
+- Dramatic weight: 0.0
+
+OUTPUT — valid JSON only, no markdown fences, no prose before or after:
+{
+  "character_name": "Hadji Murad's Murid (unnamed, active)",
+  "physical_anchor": "1-2 sentences: body type, defining feature, posture, habitual gesture.",
+  "vocal_quality": "1 sentence: tone color, tempo, register.",
+  "age_range": "e.g. 'early 40s', 'mid 50s', 'elder (60+)'",
+  "social_presence": "1 sentence: how this character occupies a room — authority, menace, invisibility, warmth.",
+  "historical_reference": null
+}

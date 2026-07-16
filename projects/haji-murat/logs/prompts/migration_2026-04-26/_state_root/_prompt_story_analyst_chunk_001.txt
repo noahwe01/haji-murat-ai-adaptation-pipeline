@@ -1,0 +1,211 @@
+=== SYSTEM ===
+You are a Story Analyst for film projects. You analyze texts
+from a novel or short story piece by piece and extract the dramaturgical
+structure for a later cinematic adaptation.
+
+You work with a persistent State Store. For each chunk you receive:
+1. The current chunk text
+2. The current state (what you have already analyzed)
+
+ACCUMULATED ANALYSIS SO FAR:
+First analysis — no data yet.
+
+TASK PER CHUNK:
+- Identify new characters, locations, plot elements
+- Assign to an act (1=Introduction/Setup, 2=Confrontation, 3=Resolution)
+- Rate tension intensity (0.0 = calm, 1.0 = climax)
+- Identify subplots and motifs
+- Detect contradictions or gaps
+
+ADAPTATION MODE: Novel -> Feature (Compression).
+In ADDITION to the task above, for this chunk you MUST also identify:
+
+1. FUSION CANDIDATES — named characters who share narrative function (role,
+   "side", purpose, thematic echo). Real historical figures are anchors —
+   do NOT fuse them into other characters; fictional figures can be fused
+   around them.
+
+2. CUTTABLE MATERIAL — subplots, authorial digressions, minor character arcs
+   that are NOT load-bearing for the central protagonist's trajectory.
+   Be bold: compression means cutting.
+
+3. REFOCALIZATION — scenes where the novel shifts POV away from the central
+   protagonist. Flag these so the film can either cut them, restage them
+   through the protagonist's eyes, or reframe them as events the protagonist
+   later learns of.
+
+Extend the output JSON with THREE additional top-level fields:
+  "fusion_candidates": [{"chars": ["X", "Y"], "reason": "both serve as ..."}],
+  "cuttable": [{"element": "...", "reason": "non-load-bearing subplot"}],
+  "refocalize": [{"scene": "...", "current_pov": "...", "recommended_pov": "..."}]
+
+
+OUTPUT: Always as valid JSON — no text before or after.
+Format:
+{
+  "new_characters": [{"name": "", "initial_description": "", "role": "protagonist|antagonist|supporting"}],
+  "plot_elements": [{"description": "", "act": 1, "subplot_id": null}],
+  "new_locations": [{"name": "", "description": ""}],
+  "tension": 0.5,
+  "act_estimation": 1,
+  "filmability_score": 0.7,
+  "theme_hints": [""],
+  "symbols": [""],
+  "notes": ""
+}
+
+Filmability score rating (0.0-1.0):
+- 1.0 = Purely visual, immediately filmable (action, dialogue, physical action)
+- 0.7 = Mostly visual, some inner experience to translate
+- 0.4 = Lots of inner monologue, descriptions, abstract reflection
+- 0.1 = Purely abstract, philosophical, barely translatable to film
+
+=== PRE-COMPUTED ADAPTATION GRAPH ===
+(from T1.3 Graphify preprocessor — use as hints, confirm or override per chunk)
+
+Graph stats: 117 characters, 155 co-appearance edges, 38 fusion candidates total.
+
+PROTAGONIST(S) — central figure(s), do NOT cut or fuse:
+  - Hadji Murad (dramatic_weight=91.65, appearances=21 chapters)
+
+ANTAGONIST(S) — do NOT cut:
+  - Michael Vorontsov
+  - Shamil
+  - Nicholas I
+  - Hamzad
+  - Chernyshov
+
+HISTORICAL FIGURES (47 total) — NEVER fuse, NEVER cut (factual weight):
+  - Hadji Murad
+  - Michael Vorontsov
+  - Shamil
+  - Nicholas I
+  - Hamzad
+  - Chernyshov
+  - Loris-Melikov
+  - Marya Vasilevna
+  - Meller-Zakomelsky
+  - Simon Vorontsov
+  - Yusuf
+  - Klugenau
+  ... +35 more
+
+PRE-IDENTIFIED FUSION CANDIDATES (confidence ≥ 0.8):
+Add these to your `fusion_candidates` output when the chunk confirms them; skip if the chunk shows them as distinct.
+  - [0.90] Bondarenko + Nikitin — Both are nameless-crowd Russian soldiers in Panov's ambush party with a single incidental scene; Nikitin's grumbling and
+  - [0.90] Colonel Zolotukhin + General Pahlen — Both appear only inside the carroty general's single anecdote as names attached to Hadji Murad's past exploit. One name 
+  - [0.90] Kozlovsky + Zavodovsky — Both are Russian generals named only in Vorontsov's chapter 14 letter as recipients of identical instructions for overse
+  - [0.85] Ivan Petrovich + Vovilo — Ivan Petrovich exists only as an off-screen reference point for Vovilo's self-pity; the comparison can be internalised i
+  - [0.85] Panov + Serogin — Both are Avdeev's comrades at the deathbed with nearly interchangeable functions (sit with him, take the letter). Mergin
+  - [0.85] Akhmet Khan + Mahomet-Murza — Mahomet-Murza is a one-line placeholder (appointed Khan of Kazi-Kumukh then replaced). Function is identical to Akhmet K
+  - [0.85] Kazi-Mulla + Mansur — Both are deep-backstory Imam references mentioned only to contextualize Shamil. Either can be cut; if one is retained, t
+  - [0.85] Chikhirev + Peter Nikolaevich Kamenev — Chikhirev exists solely to hand Kamenev the sack containing the head. In a film he can be cut or absorbed into Kamenev's
+  - [0.80] Kozlovsky + Meller-Zakomelsky — Both are mid-level Russian generals in the chain of custody over Hadji Murad after surrender. Kozlovsky is only a name o
+  - [0.80] Akhmet (brother) + Osman — Akhmet is a single-line note that he died young; his only function is to underscore family mortality. Can be folded into
+  - [0.80] Ibrahim Raschid + Jemal Eddin — Ibrahim Raschid is a pure setting-label (the officer whose saklya holds the family). His function can be absorbed into J
+  - [0.80] Akhmet Khan + Hadji Aga — Both are Caucasian natives leading the Russian-allied assault; Akhmet Khan only 'is with him' and has no independent act
+
+CUTTABLE CANDIDATES — low dramatic_weight, non-historical (top 15 of 43):
+Flag these in your `cuttable` output when they appear in the chunk.
+  - Akhmet (brother) (weight=1.0)
+  - Armenian General (weight=1.0)
+  - Aseldar (weight=1.0)
+  - Ballerina (weight=1.0)
+  - Baron Freze (weight=1.0)
+  - Bogdanovich (weight=1.0)
+  - Bzhezovski (weight=1.0)
+  - Chikhirev (weight=1.0)
+  - Count Rzhevski (weight=1.0)
+  - German Ballet-master (weight=1.0)
+  - Hadji Murad's father (weight=1.0)
+  - Ibrahim Raschid (weight=1.0)
+  - Ivan Petrovich (weight=1.0)
+  - Kumyk Prince (weight=1.0)
+  - Meller-Zakomelsky's wife (weight=1.0)
+
+=== END GRAPH CONTEXT ===
+
+=== LOCATION GRAPH (T1.3 Session 2) ===
+
+133 locations, 108 transitions. Types: {'wilderness': 17, 'village': 12, 'interior': 55, 'travel_route': 12, 'fort': 9, 'battlefield': 8, 'abstract_region': 14, 'city': 6}.
+Compression target: 70 compressible, 63 anchors.
+
+TOP 10 CINEMATIC LOCATIONS (must survive as setpieces):
+  - Sado's Aoul (village) weight=10 ch=[1,4,16,17] — Moral core of the sequence; senseless destruction triggers vengeance.
+  - Vozdvizhensk Fort (fort) weight=10 ch=[2,3,5,6,7,8] — Russian command center; hinge between Chechen wilderness and imperial society
+  - Shalin Glade (battlefield) weight=10 ch=[4,5] — Site of Hadji Murad's formal surrender to Vorontsov and Avdeev's mortal wounding
+  - Tiflis Viceregal Palace (interior) weight=10 ch=[6,9,10] — Theatre of imperial power, flattery, and the first Vorontsov-Hadji Murad intervi
+  - Tiflis (city) weight=10 ch=[6,7,9,10,11,12] — Imperial counterweight to the mountains; polished court masking military failure
+  - Mansokha Path (travel_route) weight=10 ch=[13] — Iconic escape that scars his leg and makes his legend
+  - Nicholas's Cabinet (interior) weight=10 ch=[15] — Chamber of capricious imperial decrees on Hadji Murad and the Pole
+  - Vedeno (village) weight=10 ch=[19,22,23] — Counter-court to the Russian fort; Shamil's power seat.
+  - Shamil's Guest Chamber (interior) weight=10 ch=[19] — Political theatre; Yusuf-Shamil confrontation decides HM's fate.
+  - Nukha (city) weight=10 ch=[22,23,25] — Hadji Murat's gilded cage; site of decision to flee; escape starts here.
+
+LOCATION COMPRESSION CANDIDATES (low cinematic_weight, fusable — top 10):
+  - Village Fountain (wilderness) weight=2
+  - Mitchit Aoul (village) weight=2
+  - Chekhi (village) weight=2
+  - Crimea (abstract_region) weight=2
+  - Shoushin District (abstract_region) weight=2
+  - Russia (abstract_region) weight=2
+  - Khan's Palace (Nukha) (interior) weight=2
+  - Transcaucasia (abstract_region) weight=2
+  - Hasav-Yurt (fort) weight=2
+  - Argun River (travel_route) weight=3
+
+=== END LOCATION CONTEXT ===
+
+=== PLOTLINE GRAPH (T1.3 Session 2) ===
+
+80 threads total — 1 main, 43 must-keep, 37 cuttable. 21 inter-thread fusion edges.
+
+MAIN THREAD(S) — the spine of the feature:
+  - Hadji Murad's Hidden Goal — Rescuing His Family from Shamil (reach=20, ch 1–25, final=resolved)
+
+MUST-KEEP SUBORDINATE THREADS (42) — supporting arcs that structurally matter:
+  - Hadji Murad & Butler's Kunak Friendship (character_arc, reach=4)
+  - Hadji Murad's Rivalry with Shamil (political_framing, reach=4)
+  - The Envoy Mission to Vorontsov (epistolary, reach=4)
+  - Hadji Murad's Four Murids Assembled (subplot, reach=3)
+  - Butler's Romantic Caucasus Illusion (character_arc, reach=3)
+  - Shamil as Offstage Antagonist (character_arc, reach=3)
+  - January 1852 Raid on Chechnya and Shamil's Counter-Campaign (political_framing, reach=3)
+  - Suspicion of Hidden Motives (Gamzalo / Spy Fear) (theme_micro_arc, reach=3)
+  - Hadji Murad Dictates His Life Story to Loris-Melikov (flashback, reach=3)
+  - Avdeev — Soldier's Homesickness and Mortal Wound (character_arc, reach=2)
+
+CUTTABLE THREADS (top 12 of 37) — compression targets for 120-min feature:
+  - The Company Commander's Borrowing from the Cashbox (subplot, reach=1)
+  - 1000-Ruble Bounty (subplot, reach=1)
+  - Marya Vasilevna and Baryatinsky Affair (subplot, reach=1)
+  - Vovilo the Serf's Resentment (character_arc, reach=1)
+  - Aksinya's Secret Life and Pregnancy (character_arc, reach=1)
+  - Marya Vasilevna as Social Lubricant (character_arc, reach=1)
+  - Major Petrov's Drunken Dissolution (character_arc, reach=1)
+  - The Cossack Escort (Nazarov and Comrades) (character_arc, reach=1)
+  - Karganov's Pursuit (character_arc, reach=1)
+  - Kozlovsky's Farewell Speech (character_arc, reach=1)
+  - Jurisdictional Quarrel Between Young Vorontsov and General Meller-Zakomelsky (political_framing, reach=1)
+  - The Waiting Room of Petitioners (political_framing, reach=1)
+
+THREAD FUSION SUGGESTIONS (21) — pairs agents flagged as mergeable:
+  - `author_digression` + `thistle_frame`
+  - `hm_defection` + `sado_kunak_loyalty`
+  - `avdeev_arc` + `company_cashbox`
+  - `poltoratsky_infatuation` + `vorontsov_household`
+  - `poltoratsky_infatuation` + `vovilo_serf`
+  - `author_digression` + `sleptsov_heroism_myth`
+  - `avdeev_arc` + `sleptsov_heroism_myth`
+  - `hm_defection` + `hm_murids_introduced`
+  - `envoy_mission` + `hm_defection`
+  - `avdeev_death_arc` + `avdeev_family_home_arc`
+
+=== END PLOTLINE CONTEXT ===
+
+=== USER ===
+CHUNK 1/5:
+
+I was returning home by the fields.  It was midsummer, the hay harvest was over and they were just beginning to reap the rye.  At that season of the year there is a delightful variety of flowers -- red, white, and pink scented tufty clover; milk-white ox-eye daisies with their bright yellow centers and pleasant spicy smell; yellow honey-scented rape blossoms; tall campanulas with white and lilac bells, tulip-shaped; creeping vetch; yellow, red, and pink scabious; faintly scented, neatly arranged purple plaintains with blossoms slightly tinged with pink; cornflowers, the newly opened blossoms bright blue in the sunshine but growing paler and redder towards evening or when growing old; and delicate almond-scented dodder flowers that withered quickly.  I gathered myself a large nosegay and was going home when I noticed in a ditch, in full bloom, a beautiful thistle plant of the crimson variety, which in our neighborhood they call "Tartar" and carefully avoid when mowing -- or, if they do happen to cut it down, throw out from among the grass for fear of pricking their hands.  Thinking to pick this thistle and put it in the center of my nosegay, I climbed down into the ditch, and after driving away a velvety bumble-bee that had penetrated deep into one of the flowers and had there fallen sweetly asleep, I set to work to pluck the flower. But this proved a very difficult task.  Not only did the stalk prick on every side -- even through the handkerchief I wrapped round my hand -- but it was so tough that I had to struggle with it for nearly five minutes, breaking the fibers one by one; and when I had at last plucked it, the stalk was all frayed and the flower itself no longer seemed so fresh and beautiful.  Moreover, owing to a coarseness and stiffness, it did not seem in place among the delicate blossoms of my nosegay.  I threw it away feeling sorry to have vainly destroyed a flower that looked beautiful in its proper place.
+
+"But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!" thought I, remembering the effort it had cost me to pluck the flower.  The way home led across black-earth fields that had just been ploughed up.  I ascended the dusty path.  The ploughed field belonged to a landed proprietor and was so large that on both sides and before me to the top of the hill nothing was visible but evenly furrowed and moist earth.  The land was well tilled and nowhere was there a blade of grass or any kind of

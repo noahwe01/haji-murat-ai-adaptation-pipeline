@@ -1,0 +1,102 @@
+{
+  "name": "Sado's Father (Old Man)",
+  "role": "Minor",
+  "age": "elderly (implied 70+)",
+  "origin": "Caucasian mountain village; resident beekeeper at a nearby apiary, father of Sado",
+  "social_status": "village elder, household patriarch, beekeeper; ritually observant Muslim peasant",
+  "physical_signature": "lifeless, moist red eyes that blink to get unstuck — he never meets a guest's face, always addresses their breast, making his gaze itself an act of deference and weary sorrow",
+  "psychology": {
+    "want": "To fulfill the sacred duty of hospitality toward Hadji Murad without betraying what he privately knows and fears about the war his son has entangled the household in.",
+    "need": "To be heard — to pass on, before his body fails, the bitter wisdom that resistance against the Russian eagles is doomed no matter how many hares confer.",
+    "fear": "That the Russians will come for this aoul next, as they came for Mitchit, and that his son Sado's harboring of Hadji Murad will be the match that lights the roof over his grandchildren.",
+    "contradiction": "He performs every ritual of welcome — hanging the weapons, squatting in prayer, seating the guests — while refusing eye contact and deflecting questions to his son; his body serves the guest while his soul withholds consent.",
+    "justification": null
+  },
+  "arc": {
+    "starting_state": "A frail elder roused from sleep on the roof, still bound to the old codes — hospitality, prayer, deference to the master of the house.",
+    "change": "Forced by Hadji Murad's arrival to articulate, through the hare-and-eagle parable, the futility he usually swallows; the curse against the Russians breaks through his composure.",
+    "end_state": "Returns to silence and ceremony — motions Eldar to his felt, resumes the host's role — but the parable has been spoken aloud and cannot be unsaid; a witness who has delivered his verdict.",
+    "arc_type": "Revelation"
+  },
+  "voice_profile": {
+    "voice_description": "He speaks in short, formulaic, proverbial bursts — the cadence of a man who has learned that words cost breath and that the old sayings carry more truth than new ones. His rhythm alternates between ceremonial calm (greetings, prayer-murmurs) and sudden hoarse eruptions of grief-anger when Russian atrocities intrude. Allegory is his default mode: where a younger man would curse plainly, he reaches for the parable of hares and eagles.",
+    "vocabulary_level": "informal, unlettered but ritually literate; peasant Caucasian Muslim idiom of the 1850s; no abstractions, no bureaucratic or military vocabulary; heavy reliance on Turkic/Arabic religious formulas and nature-imagery (hares, eagles, fire, hay, dogs)",
+    "sentence_structure": "Very short — most utterances are one clause, often under seven words. Statements and imperatives dominate; questions are blunt and functional (\"Who is he?\"). The one exception is the parable, which unspools in a single long, accumulating sentence with parallel clauses — his only rhetorical flight.",
+    "verbal_tics": [
+      "Formula greetings: \"aleikum, selaam!\"",
+      "Local set-phrases: \"Habar yok\" (\"no news\")",
+      "Proverbial framing: \"The only news is that...\"",
+      "Curses as closing seals: \"May their faces be torn!\"",
+      "Deflection to authority: \"He knows\"",
+      "Terse assent: \"That is well\""
+    ],
+    "avoidances": [
+      "Would never speak Hadji Murad's political situation plainly",
+      "Would never praise the Russians or use their names neutrally — only \"Russian dogs\"",
+      "Would never contradict his son Sado directly in front of a guest",
+      "Would never boast, never volunteer an opinion unasked",
+      "Would never meet a superior's eyes while speaking",
+      "Would never use abstract or modern vocabulary (nation, strategy, loyalty)"
+    ],
+    "emotional_expression": "Emotion leaks through body and proverb, never through direct statement. Anger comes as hoarseness and a curse tacked onto a fable. Grief comes as the fable itself. Reverence comes as a prayer-gesture — eyes closed, palms up, hands drawn down the beard. Affection and fear he does not name; they live in the avoided gaze and the trembling hand on the bridle.",
+    "speech_rhythm": "measured and halting by default, broken by one sustained parabolic flight when the Russian subject opens — then collapsing back into monosyllables",
+    "dialog_examples": {
+      "neutral_everyday": "Aleikum, selaam. Come down. The roof is cold for guests.",
+      "under_pressure": "I live at the apiary. I came today to see my son. He knows. I do not.",
+      "hopeful_joyful": "That is well. Sit — here, on the felt, beside him. The house is yours tonight.",
+      "angry_hurt": "Russian dogs. They burnt the hay at Mitchit. May their faces be torn — every one.",
+      "vulnerable_honest": "The hares keep talking of how to drive the eagles away. And the eagles tear first one hare, then another. That is all the news an old man has."
+    },
+    "subtext_rules": [
+      "When he says \"He knows\" → he means: do not ask me, I will not be the mouth that condemns this house.",
+      "When he says \"Habar yok\" → he means: there is news, but it is bad, and I will not carry it into a guest's ear.",
+      "When he tells the hare-and-eagle parable → he means: your cause is already lost, Hadji Murad, and I grieve for you but I cannot say so.",
+      "When he avoids eye contact and looks at the breast → he means: I honor you, and I also will not witness what is coming for you.",
+      "When he says \"That is well\" about Eldar → he means: I accept this stranger into my house because the code requires it, not because I trust him."
+    ]
+  },
+  "relationships": [
+    {
+      "with": "Hadji Murad",
+      "type": "host to honored fugitive guest",
+      "quality": "reverent, hospitable, mournful — performs every ritual duty while withholding counsel and gaze",
+      "power_dynamic": "Hadji Murad socially superior as warrior and guest; the old man morally senior as elder, but he refuses to deploy that seniority",
+      "register_shift": "shifts to the most formal greeting register, softens commands into motions and gestures, drops into parable only when pressed"
+    },
+    {
+      "with": "Sado (his son)",
+      "type": "father to master-of-the-house son",
+      "quality": "defers to Sado's authority within the saklya; trusts him to carry current knowledge the old man no longer tracks",
+      "power_dynamic": "inverted — the son now owns the house and its decisions; the father has ceded operational authority but retains ritual seniority",
+      "register_shift": "not shown speaking to Sado directly in scene, but deflection \"He knows\" signals habitual deference to Sado's judgment"
+    },
+    {
+      "with": "The Boy (grandson, c. 15)",
+      "type": "grandfather to grandson",
+      "quality": "authoritative, brisk, functional",
+      "power_dynamic": "clear elder-over-youth; issues commands without softening",
+      "register_shift": "curt imperatives (\"run to the mosque and call your father\") — no formulas, no proverbs"
+    },
+    {
+      "with": "Hadji Murad's Murid",
+      "type": "host to retainer of honored guest",
+      "quality": "deferential — yields when motioned aside, does not contest precedence",
+      "power_dynamic": "technically the elder outranks a retainer, but he reads the murid as Hadji Murad's extended will and yields",
+      "register_shift": "silent yielding rather than speech"
+    },
+    {
+      "with": "Eldar",
+      "type": "host to unknown companion of guest",
+      "quality": "cautiously accepting — vets identity with a blunt question, then seats him with the short blessing \"That is well\"",
+      "power_dynamic": "elder examines stranger; accepts him only after verification",
+      "register_shift": "interrogative and brief, then shifts to ceremonial placement"
+    },
+    {
+      "with": "the Russians (absent)",
+      "type": "antagonistic, from distance",
+      "quality": "hostile, grieving, cursing — the one subject that breaks his measured register",
+      "power_dynamic": "powerless observer of imperial violence; responds with proverb and curse, the only weapons left to him",
+      "register_shift": "voice drops hoarse and angry; drops politeness entirely; reaches for allegory and ritual curse"
+    }
+  ]
+}

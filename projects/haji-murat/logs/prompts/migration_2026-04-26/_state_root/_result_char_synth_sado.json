@@ -1,0 +1,79 @@
+{
+  "canonical_name": "Sado",
+  "role": "Supporting",
+  "tier": 2,
+  "casting_suggestion": null,
+  "basic_data": {
+    "age": "about forty",
+    "origin": "Chechen-Aul, Chechen village",
+    "social_status": "Master of his own household; village man of modest means; respected as kunak-host; has a brother (Bata) and a fifteen-year-old son",
+    "physical_signature": "The old worn cap pushed back on a head where the long-unshaved scalp has only just begun to regrow black hair — a man who has been traveling hard, returning home only to shoulder risk again. The gesture of pushing the cap back precedes every serious utterance."
+  },
+  "psychology": {
+    "want": "To honor the kunak-bond and shelter Hadji Murad safely under his roof, and to get him out of Chechen-Aul alive before Shamil's men arrive.",
+    "need": "To live in accordance with the ancient code even when the world around him (Shamil, the people's fear) has abandoned it — to prove that one honest man still keeps his word.",
+    "fear": "That he cannot protect his guest beyond the threshold of his house — that honor inside the saklya is meaningless if the open fields betray it. Secondarily: that his family will pay for his loyalty.",
+    "contradiction": "He is emphatic and absolute about protection inside his walls ('no one shall injure my kunak while I live') yet immediately admits helplessness outside them ('how will it be in the open fields?'). Courage and pragmatism coexist without resolution.",
+    "justification": null
+  },
+  "arc": {
+    "act_1_start": "Offstage — a known kunak of Hadji Murad, his house a presumed refuge.",
+    "act_2_change": "Returns to find his guest hunted by Shamil's decree; performs the hospitality-ritual, pledges his house, then pivots to action: sends his brother Bata as guide. Accepts the weight of the decision without theatrics.",
+    "act_3_end": "Remains the quiet anchor of the Chechen-Aul chapter — a man who kept his word at personal risk. Does not transform; he endures.",
+    "arc_type": "Stagnation"
+  },
+  "voice_profile": {
+    "voice_description": "Sado speaks in short, weighted declarations that arrive only after ritual preparation — the prayer, the stroked face, the settled squat. His speech is grave, older than its speaker, shaped by Chechen hospitality-code and the cadence of men who do not waste breath. When he speaks, the room listens, because each sentence is either a vow, a report, or a command, never decoration.",
+    "vocabulary_level": "informal but formal-in-weight; uneducated in the bookish sense, deeply schooled in custom and religious formula; 19th-century Caucasian village register",
+    "sentence_structure": "Short to medium clauses. Statements and brief imperatives dominate; one rhetorical question per crisis. Average 8–14 words. Compound sentences only when contrasting inside-house and open-field, a signature antithesis.",
+    "verbal_tics": [
+      "Opens grave speech with a prayer-gesture rather than words",
+      "Uses 'my house' / 'my kunak' as anchoring possessives",
+      "Addresses kin by role before name ('brother Bata', 'my son')",
+      "Reaches for the conditional 'we must' when a decision is unavoidable"
+    ],
+    "avoidances": [
+      "Boasting, flattery, or poetic flourish",
+      "Complaints about personal cost",
+      "Questioning a guest's honor or plans",
+      "Speaking of fear in the first person",
+      "Rapid, unconsidered promises"
+    ],
+    "emotional_expression": "Feeling is displaced into ritual and action — the prayer, the cap-gesture, the dispatch of a brother. Warmth shows as provision; alarm shows as the single sober admission ('we must think it over'). He does not name emotions; he performs obligations that imply them.",
+    "speech_rhythm": "measured, with deliberate pauses between clauses; silence carries as much weight as speech",
+    "example_dialogues": {
+      "neutral": "Sit. My house is your house while the lamp burns.",
+      "under_pressure": "In my house, no one shall injure my kunak while I live. But the open fields — we must think it over.",
+      "hopeful": "I will send brother Bata. He knows every gully from here to the Russian line.",
+      "angry_hurt": "Shamil's envoys rode out yesterday. The people fear him. That is all I will say of them.",
+      "vulnerable_honest": "A man's roof is narrow. Beyond it I cannot answer for you — only ride with you, if it comes to that."
+    },
+    "subtext_rules": {
+      "when_he_says_my_house_he_means": "the one patch of earth where the old code still binds — everywhere else has slipped",
+      "when_he_says_we_must_think_it_over_he_means": "I already know we cannot protect you here much longer; decide quickly",
+      "when_he_offers_bata_he_means": "I am committing my own blood to your survival, not just my word",
+      "when_he_reports_shamil_s_order_he_means": "you have hours, not days; do not mistake my calm for time",
+      "when_he_falls_silent_he_means": "the matter is now in God's hands and horses'"
+    }
+  },
+  "relationships": {
+    "hadji_murad": {
+      "type": "kunak (sworn host-guest bond)",
+      "quality": "reverent, protective, unsentimental; a bond older than the current war",
+      "power_dynamic": "Sado is host and therefore formally responsible; Hadji Murad is the higher-status warrior, but inside this saklya Sado's word governs",
+      "register_shift": "most ceremonial register — prayer-gesture, declarative vows, minimal small-talk"
+    },
+    "sados_son": {
+      "type": "father–son, fifteen-year-old",
+      "quality": "firm, economical affection expressed through trust and errand",
+      "power_dynamic": "unquestioned paternal authority; the boy obeys instantly",
+      "register_shift": "bare imperatives, no softening ('Go and call Bata.')"
+    },
+    "bata": {
+      "type": "brother",
+      "quality": "trusted, practical, relied upon for the dangerous errand",
+      "power_dynamic": "Sado is the elder decision-maker; Bata is the executor",
+      "register_shift": "functional third-person reference in front of the guest ('I will send brother Bata'); presumably warmer in private"
+    }
+  }
+}

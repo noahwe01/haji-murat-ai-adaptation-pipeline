@@ -1,0 +1,35 @@
+{
+  "threads": [
+    {
+      "character": "Hadji Murad",
+      "scene_count": 3,
+      "continuity_score": 88,
+      "issues": [
+        {
+          "from_scene": "S004",
+          "to_scene": "S005",
+          "issue_type": "register_shift_underexplained",
+          "severity": "low"
+        }
+      ],
+      "voice_consistency": 93
+    },
+    {
+      "character": "Old man on the saklya roof",
+      "scene_count": 2,
+      "continuity_score": 91,
+      "issues": [
+        {
+          "from_scene": "S004",
+          "to_scene": "S005",
+          "issue_type": "spatial_role_ambiguity",
+          "severity": "low"
+        }
+      ],
+      "voice_consistency": 95
+    }
+  ],
+  "unresolved_promises": [],
+  "overall_continuity_score": 90,
+  "critical_breaks": 0
+}

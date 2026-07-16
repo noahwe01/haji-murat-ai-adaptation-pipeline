@@ -1,0 +1,102 @@
+{
+  "new_characters": [
+    {
+      "name": "The Narrator",
+      "initial_description": "First-person narrator returning home through summer fields; observes the crimson 'Tartar' thistle and is struck by its tenacity. Functions as authorial frame voice rather than dramatic agent.",
+      "role": "supporting"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Narrator walks home across fields in midsummer after the hay harvest, gathering a nosegay of wildflowers.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator notices a crimson 'Tartar' thistle in full bloom in a ditch and tries to pluck it for the center of his bouquet.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "The thistle resists violently — pricks through the handkerchief, tough fibers must be broken one by one; after five minutes of struggle the flower is plucked but ruined.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator discards the ruined thistle, regretting the vain destruction of a beautiful thing, and silently admires its energy and tenacity — seed of the Hadji Murat analogy.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    },
+    {
+      "description": "Narrator continues along a dusty path over a vast ploughed black-earth field belonging to a landed proprietor — transition image toward a landscape emptied of life.",
+      "act": 1,
+      "subplot_id": "thistle_frame"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Summer Fields (Tula Region)",
+      "description": "Midsummer Russian meadowland after the hay harvest; rich catalogue of wildflowers (clover, daisies, campanulas, cornflowers, dodder). Sensory, lyrical, alive."
+    },
+    {
+      "name": "Roadside Ditch",
+      "description": "Narrow ditch beside the field path where the solitary crimson 'Tartar' thistle grows in full bloom; micro-site of the Man vs. Thistle struggle."
+    },
+    {
+      "name": "Ploughed Black-Earth Field",
+      "description": "Vast, evenly furrowed, dusty expanse belonging to a landed proprietor — no blade of grass or green. Visual counterpoint to the flowering meadow."
+    }
+  ],
+  "tension": 0.25,
+  "act_estimation": 1,
+  "filmability_score": 0.55,
+  "theme_hints": [
+    "tenacity of life against overwhelming force",
+    "beauty destroyed by human intrusion",
+    "nature vs. civilization (wild thistle vs. ploughed field)",
+    "the dignity of the defeated adversary",
+    "senseless destruction and belated admiration"
+  ],
+  "symbols": [
+    "the crimson 'Tartar' thistle (central symbol of Hadji Murat)",
+    "the ruined nosegay (aestheticized violence)",
+    "the ploughed black-earth field (imperial erasure / scorched earth)",
+    "the sleeping bumble-bee driven from the flower (interrupted peace)"
+  ],
+  "notes": "Opening frame / authorial prologue. Tolstoi's classical thistle-as-Hadji-Murat metaphor. Non-dramatic: no protagonist, no dialogue, no scene in the dramaturgical sense — a narrator's meditation. Load-bearing thematically (establishes the work's central image and moral lens) but structurally a NARRATOR FRAME, not a scene of the main plot. Decision surface: keep as a short visual opening (thistle close-up + ruined bouquet + ploughed field) with NO voice-over, or dissolve the frame entirely and let the film open on the mountain action. Must NOT be doubled with a closing-frame reprise (NF-08). No historical anchors appear in this chunk; Hadji Murat himself not yet on-screen.",
+  "fusion_candidates": [],
+  "cuttable": [
+    {
+      "element": "Narrator's first-person voice (authorial digression framing the thistle encounter)",
+      "reason": "Auctorial voice, non-dramatized, no protagonist presence — film-unable as prose."
+    },
+    {
+      "element": "Catalogue of wildflowers (clover, daisies, campanulas, cornflowers, dodder, etc.)",
+      "reason": "Literary lyricism; replaceable by a single visual tableau of the summer meadow."
+    },
+    {
+      "element": "Bumble-bee in the thistle blossom",
+      "reason": "Micro-detail with no narrative payoff; atmospheric only."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Thistle struggle in the ditch",
+      "current_pov": "First-person narrator (authorial I)",
+      "recommended_pov": "Objective camera on the thistle itself — dissolve the narrator, keep only the image (thistle, hand, ruined flower, ploughed field). No voice-over. The metaphor carries visually."
+    },
+    {
+      "scene": "Meditation on the thistle's energy and tenacity",
+      "current_pov": "First-person narrator's inner thought",
+      "recommended_pov": "Translate inner thought into image-montage: close-up of battered thistle → hard cut to the Caucasus (opening of Hadji Murat's story). No spoken narration."
+    }
+  ]
+}
+
+DECISIONS:
+- DISSOLVE_FRAME narrator-voice: authorial I non-dramatized, show-don't-tell → CRITERION: NF-04, SS-04
+- KEEP_FRAME thistle-image-opening: single visual prologue carries central metaphor, no closing reprise → CRITERION: NF-08
+- TRANSLATE_TO_VISUAL thistle-meditation: "energy and tenacity" rendered as image montage, not voice-over → CRITERION: SC-06, NF-04
+- CUT_SUBPLOT wildflower-catalogue: literary lyricism, non-load-bearing, replaceable by single tableau → CRITERION: SS-04
+- REFOCAL thistle-struggle: shift from first-person narrator to objective camera on thistle → CRITERION: CF-08, NF-09
+- DEVIATION thistle-frame-retention: M-02 (theme supremacy) overrides aggressive full-cut — crimson Tartar thistle IS the work's premise-bearing image; retained as wordless prologue despite NF-04 pressure to dissolve narrator entirely

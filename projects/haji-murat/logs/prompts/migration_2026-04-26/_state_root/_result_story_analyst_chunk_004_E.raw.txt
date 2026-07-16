@@ -1,0 +1,52 @@
+{
+  "new_characters": [
+    {"name": "Sado", "initial_description": "Old Chechen villager, toothless, thin-necked, wearing greasy beshmet and nightcap; hospitable host who recognizes Hadji Murad and welcomes him into his saklya at great personal risk. Kunak of Hadji Murad.", "role": "supporting"},
+    {"name": "Sado's Son", "initial_description": "Boy of about fifteen with sparkling eyes black as ripe sloes; sent to fetch his father from the mosque; witnesses the guest's arrival.", "role": "supporting"},
+    {"name": "Sado's Wife", "initial_description": "Slight, spare, middle-aged woman in yellow smock, red beshmet and wide blue trousers; silent ritual hostess who arranges cushions for the guest.", "role": "supporting"},
+    {"name": "Hadji Murad's Murid (unnamed, active)", "initial_description": "Strong, active murid accompanying Hadji Murad; dismounts quickly and takes the bridle before the old man can serve the guest.", "role": "supporting"}
+  ],
+  "plot_elements": [
+    {"description": "Hadji Murad arrives at night at Sado's saklya in the Chechen aoul, seeking refuge from Shamil's pursuers.", "act": 1, "subplot_id": "hm_defection"},
+    {"description": "Ritual Selaam-aleikum exchange between Hadji Murad and his old kunak Sado establishes sacred guest-host bond (kunak-loyalty).", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "Sado sends his son to the mosque to fetch the master of the house, signalling that this visit will demand a communal / religious decision.", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "Hadji Murad surrenders weapons (rifle, sword, burka), which are hung beside the host's weapons — visual pledge of trust and temporary disarmament.", "act": 1, "subplot_id": "sado_kunak_loyalty"},
+    {"description": "Hadji Murad walks with a slight limp — callback to the Mansokha-Path leg wound that makes his legend.", "act": 1, "subplot_id": "hm_legend_limp"}
+  ],
+  "new_locations": [
+    {"name": "Sado's Aoul (Chechen village, exterior)", "description": "Night-lit mountain aoul where Hadji Murad seeks shelter; approached on horseback; village of his old kunak Sado. Anchor location (graph weight=10)."},
+    {"name": "Sado's Saklya", "description": "Traditional Chechen house with penthouse, ladder to roof, creaking thin door; interior holds cushions along front wall and a nail-wall for weapons. Moral core of the sequence."}
+  ],
+  "tension": 0.55,
+  "act_estimation": 1,
+  "filmability_score": 0.9,
+  "theme_hints": [
+    "sacred hospitality (kunak) as counter-force to imperial violence",
+    "trust ritualized through gesture and object (weapons surrendered, cushions placed)",
+    "refuge vs. pursuit — the hunted warrior at a friend's threshold"
+  ],
+  "symbols": [
+    "weapons hung on the nail beside the host's — pact of mutual protection",
+    "the limp — legend of escape carried in the body",
+    "the ladder / the creaking door — threshold between wilderness and sanctuary",
+    "the cushions arranged by the silent woman — ritual welcome"
+  ],
+  "notes": "Chunk 4 opens Chapter 4, the arrival at Sado's saklya — one of the moral anchor scenes of the novel and a TOP-10 cinematic location (weight=10). Almost purely visual and behavioural: gesture, threshold, ritual greeting, surrender of weapons. Strong filmability (0.9). Tension is moderate (0.55) — no overt threat yet in this chunk, but the whole scene carries the weight of pursuit offstage. Chunk text is truncated mid-sentence at the weapon-nail description; analysis covers only material visible in the chunk. Sado is a named historical/anchor figure (kunak of Hadji Murad) — NEVER fuse per CF-04. The unnamed active murid is likely one of the Four Murids (Eldar / Khan Mahoma / Khanefi / Gamzalo) — flagged for continuity check with chunk 3. Dominant subplot threads active: hm_defection (main spine), sado_kunak_loyalty (must-keep). No authorial digression in this chunk — pure dramatized action.",
+  "fusion_candidates": [
+    {"chars": ["Sado's Wife", "generic village-women"], "reason": "Sado's wife has a single ritual line ('May thy coming bring happiness!'); if further nameless hostesses appear in later chunks, she absorbs their function as the household-hospitality figure."}
+  ],
+  "cuttable": [
+    {"element": "detailed dressing ritual of the old man descending the ladder (slippers, shaking head, mumbling)", "reason": "Atmospheric prose; filmable in 2 seconds as a single beat. Most micro-gestures non-load-bearing for protagonist trajectory — compress to one telling gesture."}
+  ],
+  "refocalize": [
+    {"scene": "Sado's son running to the mosque to call his father", "current_pov": "omniscient (follows the boy's errand implicitly)", "recommended_pov": "Hadji Murad — he stays inside the saklya; the errand is heard, not seen; the boy's return with the father is the next beat from HM's POV."}
+  ]
+}
+
+DECISIONS:
+- KEEP Sado: historical kunak anchor, moral-core figure at weight-10 location → CF-04, M-03
+- KEEP Sado's Aoul & Sado's Saklya: top-10 cinematic setpiece, moral core of sequence → SC-08, M-02
+- COMPRESS old-man-descending-ladder ritual: atmospheric micro-gestures fail Drive + filmic-necessity tests → SC-01, SC-02
+- FUSE Sado's Wife ← later nameless hostesses: single ritual function, <5 scenes, functional overlap → CF-01
+- REFOCAL boy-running-to-mosque: errand seen/heard from HM inside saklya, not followed → CF-08
+- KEEP weapons-on-nail beat: Voice/ritual signature of kunak-pact, singular visual pledge → M-05, SC-03
+- DEVIATION unnamed active murid: identity unresolved in chunk; defer fusion decision until chunk 3/5 reconciliation rather than premature merge — traceability over speed → M-04

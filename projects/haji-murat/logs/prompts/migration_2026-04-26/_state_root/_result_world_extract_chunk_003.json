@@ -1,0 +1,83 @@
+{
+  "locations_new": [
+    {
+      "name": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+      "literary_description": "he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round",
+      "cinematic_description": "Tight, shadowed alley between stone saklyas carved into a hillside. Low angle on Hadji Murad's horse moving cautiously. His eyes scan doorways and rooftops. The street is deserted — a deliberate choice by a man who knows what surveillance looks like.",
+      "atmosphere": "Paranoia and concealment. A fugitive threading the needle between visibility and safety. The narrowness of the street mirrors his narrowing options.",
+      "recurring": true,
+      "timeframe": "Act 1 — daytime, arrival sequence",
+      "production_notes": [
+        "Stone and clay construction, buildings carved directly into hillside — emphasizes organic, fortress-like quality",
+        "Penthouse (covered porch/overhang) in front of the saklya is key architectural element",
+        "Freshly plastered clay chimney — detail of domestic life amid danger",
+        "Sheepskin as universal prop: bedding, cloak, marker of poverty and simplicity"
+      ]
+    },
+    {
+      "name": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+      "literary_description": "on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin",
+      "cinematic_description": "Flat roof, midday heat. An old man asleep behind a chimney — a sentinel who has stopped watching. Hadji Murad taps him awake with a whip handle. The contrast between the dormant old man and Hadji Murad's coiled alertness captures the scene's tension.",
+      "atmosphere": "Fragile safety. The trust network Hadji Murad relies on is aging and slow. A quiet dread beneath the mundane.",
+      "recurring": false,
+      "timeframe": "Act 1 — daytime, arrival sequence",
+      "production_notes": [
+        "Wooden-heeled slippers by the chimney — costume/prop detail signaling unhurried village life",
+        "Old man's greasy beshmet and nightcap: poverty, comfort, age",
+        "Ladder leaning against roof: vertical movement possible, escape route implied",
+        "Sunburnt, shrivelled neck — physical decay contrasting with Hadji Murad's vitality"
+      ]
+    },
+    {
+      "name": "INT. OLD MAN'S SAKLYA - DAY",
+      "literary_description": "a slight, spare, middle-aged woman in a yellow smock, red beshmet, and wide blue trousers came through an inner door carrying cushions",
+      "cinematic_description": "Dark interior, low ceiling. Warm colour burst as the woman enters — yellow, red, blue against stone grey. She brings cushions: a gesture of hospitality that is also a ritual, almost liturgical. The space contracts around Hadji Murad as he crosses the threshold, limping.",
+      "atmosphere": "Brief sanctuary. Domesticity as refuge. The hospitality ritual creates a fragile bubble of safety — the audience knows it cannot last.",
+      "recurring": false,
+      "timeframe": "Act 1 — daytime, interior arrival",
+      "production_notes": [
+        "Thin, creaking door — sound design opportunity: the creak announces every entry",
+        "Outer door and inner door structure — staging depth, character blocking",
+        "Woman's costume: yellow smock, red beshmet, wide blue trousers — vivid colour palette, cinematically striking against grey stone interiors",
+        "Cushions as prop: comfort offered in a dangerous moment",
+        "Hadji Murad's slight limp — established here, recurring physical motif"
+      ]
+    }
+  ],
+  "locations_updated": [
+    {
+      "name": "Chechen aoul side street / safe saklya",
+      "update": "Confirmed as same location cluster. Now subdivided into: EXT. CHECHEN AOUL SIDE STREET, EXT. OLD MAN'S SAKLYA ROOF, INT. OLD MAN'S SAKLYA. The 'second saklya cut into the hillside' is the specific target — not Sado's saklya, but an unnamed old man's dwelling used as a first safe house."
+    }
+  ],
+  "timeline_events": [
+    {
+      "event": "Hadji Murad and his single murid ride into the aoul, avoiding the main square by taking a narrow side street",
+      "time": "Daytime — exact date unspecified, post-defection, Act 1",
+      "location": "EXT. CHECHEN AOUL SIDE STREET - DAY",
+      "characters": ["Hadji Murad", "Murid (unnamed)"],
+      "chunk_id": "003"
+    },
+    {
+      "event": "Hadji Murad stops at the second saklya cut into the hillside; finds an old man asleep on the roof under a sheepskin; wakes him with his whip handle",
+      "time": "Daytime — continuous from arrival",
+      "location": "EXT. OLD MAN'S SAKLYA ROOF - DAY",
+      "characters": ["Hadji Murad", "Old Man (unnamed)"],
+      "chunk_id": "003"
+    },
+    {
+      "event": "Old man recognizes Hadji Murad, exchanges Selaam greeting; descends ladder; orders his grandson (boy of fifteen) to fetch the boy's father from the mosque",
+      "time": "Daytime — continuous",
+      "location": "EXT. OLD MAN'S SAKLYA ROOF / PENTHOUSE - DAY",
+      "characters": ["Hadji Murad", "Old Man", "Boy (grandson, ~15 years old)"],
+      "chunk_id": "003"
+    },
+    {
+      "event": "Hadji Murad enters the saklya; middle-aged woman comes through inner door with cushions to receive him",
+      "time": "Daytime — continuous",
+      "location": "INT. OLD MAN'S SAKLYA - DAY",
+      "characters": ["Hadji Murad", "Middle-Aged Woman (unnamed, of the household)"],
+      "chunk_id": "003"
+    }
+  ]
+}

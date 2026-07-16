@@ -1,0 +1,208 @@
+{
+  "characters_found": [
+    {
+      "name": "hadji_murad",
+      "direct_quotes": [
+        "May thy sons live!",
+        "Ne habar?",
+        "My murid.  Eldar is his name."
+      ],
+      "speech_descriptors": [
+        "addressed the old man (direct question in Chechen)",
+        "answered the woman's greeting"
+      ],
+      "actions": [
+        "enters the outer door of the saklya",
+        "takes off burka, rifle, and sword and hands them to the old man",
+        "adjusts pistol at his back",
+        "comes up to the cushions and sits down wrapping his Circassian coat closer",
+        "squats beside the old man, closes his eyes, lifts hands palms upward",
+        "repeats a prayer with the old man, strokes face with both hands",
+        "asks the old man 'Ne habar?' (Is there anything new?)",
+        "nods slightly upon understanding the old man's evasion",
+        "asks no more questions after the old man's indirect answer",
+        "introduces Eldar to the old man"
+      ],
+      "inner_states": [
+        "understands that the old man does not wish to say what he knew and what Hadji Murad wanted to know",
+        "respects the old man's reticence — does not press further"
+      ],
+      "social_markers": [
+        "Chechen/Avar warlord and guest",
+        "speaks Chechen ('Ne habar', 'Habar yok')",
+        "armed (burka, rifle, sword, pistol at back) — warrior status",
+        "performs Islamic prayer ritual with host",
+        "wears Circassian coat — regional aristocratic military dress",
+        "speaks formal greeting in Islamic tradition"
+      ],
+      "relationship_dynamics": [
+        {"with": "old_man_(apiarist)", "quality": "respectful deference to elder; trusts him as informant; does not press when evasion is clear"},
+        {"with": "eldar", "quality": "leader–murid bond; introduces him as 'my murid'; commands his positioning in the room"},
+        {"with": "woman_of_the_house", "quality": "formal reciprocal greeting — proper Islamic guest etiquette"}
+      ],
+      "new_info": [
+        "Carries pistol at his back in addition to rifle and sword",
+        "Speaks Chechen fluently (direct dialogue in Chechen dialect)",
+        "Observes Islamic prayer ritual with host — religious identity confirmed",
+        "Is actively seeking information ('Ne habar?') — on the run or in intelligence-gathering mode",
+        "Recognizes and respects indirect communication style of the old man"
+      ]
+    },
+    {
+      "name": "old_man_(apiarist)",
+      "direct_quotes": [
+        "Habar yok",
+        "I live at the apiary and have only today come to see my son....He knows.",
+        "There is no good news.",
+        "The only news is that the hares keep discussing how to drive away the eagles, and the eagles tear first one and then another of them. The other day the Russian dogs burnt the hay in the Mitchit aoul....May their faces be torn!",
+        "That is well."
+      ],
+      "speech_descriptors": [
+        "replied (looking not at Hadji Murad's face but at his breast — indirect, evasive gaze)",
+        "said hoarsely and angrily (about Russians burning hay)",
+        "motioned Eldar to a place (non-verbal direction)"
+      ],
+      "actions": [
+        "hurries forward to open the thin, creaking door into the saklya",
+        "carefully hangs Hadji Murad's rifle and sword on a nail beside the master's weapons",
+        "squats on his bare heels beside Hadji Murad",
+        "closes his eyes, lifts hands palms upward",
+        "repeats prayer with Hadji Murad, strokes face",
+        "answers 'Habar yok' (Nothing new) while looking at HM's chest not his face",
+        "speaks in parable ('hares and eagles') to convey political news indirectly",
+        "points to Eldar and asks who he is",
+        "motions Eldar to a place on felt beside Hadji Murad"
+      ],
+      "inner_states": [
+        "does not wish to say directly what he knows — deliberate evasion",
+        "harbors deep anger toward the Russians (expressed hoarsely and angrily)"
+      ],
+      "social_markers": [
+        "elderly Chechen man (apiarist — beekeeper)",
+        "has lifeless red eyes — age/illness marker",
+        "lives apart at the apiary, visits son in the village",
+        "uses metaphorical/parabolic speech style — oral folk tradition",
+        "speaks Chechen ('Habar yok')",
+        "performs Islamic prayer",
+        "squats on bare heels — humble village elder posture",
+        "aware of local political/military events despite rural isolation"
+      ],
+      "relationship_dynamics": [
+        {"with": "hadji_murad", "quality": "cautious host; informs indirectly via parable; avoids direct disclosure; accepts prayer ritual together — solidarity"},
+        {"with": "eldar", "quality": "neutral assessment ('That is well'); directs him to a seat — authoritative host role"},
+        {"with": "sado_(his_son)", "quality": "lives apart from son; son knows the news — defers knowledge to son"}
+      ],
+      "new_info": [
+        "He is the father of the host (Sado's father or the master of the house's father — referred to as 'my son')",
+        "Has lifeless red eyes — distinctive physical marker",
+        "Uses fable/parable as political speech ('hares and eagles' = Chechens and Russians)",
+        "References concrete recent atrocity: Russians burned hay in the Mitchit aoul",
+        "Deliberately avoids direct disclosure of intelligence to Hadji Murad — protective caution or fear of surveillance"
+      ]
+    },
+    {
+      "name": "woman_of_the_house_(unnamed)",
+      "direct_quotes": [
+        "May thy coming bring happiness!"
+      ],
+      "speech_descriptors": [
+        "said (while bending nearly double arranging cushions)"
+      ],
+      "actions": [
+        "comes through inner door carrying cushions",
+        "bends nearly double to arrange cushions along the front wall for the guest"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "slight, spare, middle-aged Chechen woman",
+        "wears yellow smock, red beshmet, wide blue trousers — traditional Chechen women's dress",
+        "performs domestic service role for male guests",
+        "uses formal Islamic greeting formula"
+      ],
+      "relationship_dynamics": [
+        {"with": "hadji_murad", "quality": "formal host–guest greeting; subservient domestic service posture"}
+      ],
+      "new_info": [
+        "Described physically: slight, spare, middle-aged",
+        "Detailed clothing: yellow smock, red beshmet, wide blue trousers — period-specific visual costume detail",
+        "Enters from inner (private) door — domestic space vs. guest space division in saklya architecture"
+      ]
+    },
+    {
+      "name": "eldar",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "enters the room with strong legs striding softly over earthen floor",
+        "retains only dagger and pistol",
+        "takes off burka, rifle, and sword as Hadji Murad had done",
+        "hangs weapons on same nails as his leader's weapons",
+        "sits down crossing his legs on a piece of felt beside Hadji Murad",
+        "fixes his fine (eyes — sentence truncated)"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "Hadji Murad's murid (devoted follower/disciple)",
+        "armed — warrior class",
+        "physically described as strong-legged, moves softly — disciplined physical presence",
+        "mirrors his leader's gestures precisely (same disarming ritual, same positioning)"
+      ],
+      "relationship_dynamics": [
+        {"with": "hadji_murad", "quality": "absolute loyalty and imitation — mirrors every action of his leader; named and vouched for by HM"},
+        {"with": "old_man_(apiarist)", "quality": "accepted without suspicion after HM's vouching ('That is well')"}
+      ],
+      "new_info": [
+        "Full name revealed: Eldar",
+        "Identified explicitly as Hadji Murad's murid",
+        "Described physically: strong legs, soft movement — disciplined warrior bearing",
+        "Mirrors Hadji Murad's disarming ritual exactly — trained deference and loyalty",
+        "Retains dagger and pistol even after partial disarming — still armed in the host's house"
+      ]
+    },
+    {
+      "name": "old_man_(unnamed_host)",
+      "direct_quotes": [
+        "run to the mosque and call your father"
+      ],
+      "speech_descriptors": [
+        "ordered (hurrying forward)"
+      ],
+      "actions": [
+        "orders a boy (grandson/son) to run to the mosque and call his father",
+        "hurries forward to open the thin, creaking door into the saklya"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "elderly male host",
+        "acts as doorkeeper and welcomer",
+        "has authority over boy in household"
+      ],
+      "relationship_dynamics": [
+        {"with": "hadji_murad", "quality": "welcoming host — opens door, manages household for guest"},
+        {"with": "boy_(host's_grandson/son)", "quality": "commands with authority — sends boy to fetch adult male"}
+      ],
+      "new_info": [
+        "Sends a boy to the mosque to call 'your father' — suggests the adult male head of house is absent (at mosque) when HM arrives"
+      ]
+    },
+    {
+      "name": "boy_(host's_grandson/son)",
+      "direct_quotes": [],
+      "speech_descriptors": [],
+      "actions": [
+        "receives order to run to the mosque and call his father"
+      ],
+      "inner_states": [],
+      "social_markers": [
+        "young boy in the household",
+        "errand-runner — lowest status in domestic hierarchy"
+      ],
+      "relationship_dynamics": [
+        {"with": "old_man_(unnamed_host)", "quality": "obeys orders — subordinate family member"}
+      ],
+      "new_info": [
+        "Sent to mosque to fetch his father — confirms adult male head of house is at mosque during HM's arrival"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pacing_score": 61,
+  "act_balance": {
+    "balanced": false,
+    "issues": [
+      "All scenes tagged '?' — act labels missing.",
+      "Debug-chunk slice (6 scenes, ~8 min) — act structure undetectable."
+    ]
+  },
+  "dialog_density_issues": [
+    "3/6 scenes fully silent",
+    "Dialog ramps S004→S005→S006 (11→14→39%)"
+  ],
+  "dead_zone_verdict": [],
+  "acceleration_check": {
+    "act3_faster_than_act1": null,
+    "note": "Too few scenes."
+  },
+  "variation_verdict": "Insufficient — variation score 28.6 below 40 threshold.",
+  "cut_suggestions": [
+    "S001/S002 thistle duplication — merge or cut one.",
+    "S001-S003 three-silent-scene dead-zone candidate."
+  ],
+  "meta": {
+    "fragment_warning": "Debug-slice only."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "characters_found": [
+    {
+      "name": "Narrator (Authorial I)",
+      "direct_quotes": [
+        "But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!",
+        "Ah, what a destructive creature is man....How many different plant-lives he destroys to support his own existence!",
+        "What vitality!",
+        "Man has conquered everything and destroyed millions of plants, yet this one won't submit."
+      ],
+      "speech_descriptors": [
+        "thought I",
+        "thought I, involuntarily looking around",
+        "I thought"
+      ],
+      "actions": [
+        "Threw away the plucked thistle flower, feeling sorry for having destroyed it in vain",
+        "Walked home across freshly ploughed black-earth fields",
+        "Ascended a dusty path",
+        "Looked around for some living thing in the lifeless black field",
+        "Approached a small clump by the roadside and identified it as the same 'Tartar' thistle",
+        "Observed the mutilated but still-standing thistle in detail",
+        "Remembered a Caucasian episode from years ago, partly witnessed, partly heard from eye-witnesses"
+      ],
+      "inner_states": [
+        "Regret over having vainly destroyed a beautiful flower",
+        "Admiration for the thistle's energy, tenacity, and determination",
+        "Melancholy reflection on man as a destructive creature",
+        "Awareness of the lifelessness of the ploughed field",
+        "Awe at the resilience and refusal to submit of the surviving thistle",
+        "Triggered recollection — the thistle becomes the associative bridge to the Caucasian story he is about to tell"
+      ],
+      "social_markers": [
+        "Educated, reflective 19th-century Russian voice",
+        "Landed-gentry sensibility — observes a proprietor's ploughed fields with cultivated detachment",
+        "Philosophical-moralist register (man vs. nature)",
+        "Literary, elevated prose with rhetorical exclamations",
+        "Positions himself as eyewitness/chronicler — partly seen, partly heard"
+      ],
+      "relationship_dynamics": [
+        {"with": "Nature / the Thistle", "quality": "Reverent, anthropomorphizing — treats the plant as a wounded warrior with body, arm, bowels, eye"},
+        {"with": "Man / Humanity", "quality": "Critical, accusatory — frames man as destroyer of plant-lives"},
+        {"with": "The landed proprietor (implicit)", "quality": "Distant, observational — notes the scale of tilled land without personal engagement"},
+        {"with": "Hadji Murad story (coming)", "quality": "Framing narrator — the thistle's resilience triggers the memory that becomes the tale"}
+      ],
+      "new_info": [
+        "The thistle encounter functions as the frame-narrative trigger for the entire Hadji Murad story",
+        "Narrator explicitly positions the coming tale as a 'Caucasian episode of years ago'",
+        "Narrator's source-claim: partly personal eyewitness, partly second-hand from eye-witnesses — establishes hybrid testimonial authority",
+        "Introduces the governing metaphor of the novella: the mutilated-but-unsubmitting 'Tartar' thistle as emblem of Hadji Murad",
+        "Narrator's worldview: pessimistic about human destructiveness, but drawn to singular vitality that resists it"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+You are the Character Agent in extraction mode.
+You analyze a text chunk and extract ALL information about characters.
+You do not write creative text — only structured extraction.
+
+Chunk text:
+"What vitality!" I thought.  "Man has conquered everything and destroyed millions of plants, yet this one won't submit."  And I remembered a Caucasian episode of years ago, which I had partly seen myself, partly heard of from eye-witnesses, and in part imagined.
+
+The episode, as it has taken shape in my memory and imagination, was as follows.
+
+ 
+
+
+
+ 
+
+It happened towards the end of 1851.
+
+On a cold November evening Hadji Murad rode into Makhmet, a hostile Chechen aoul that lay some fifteen miles from Russian territory and was filled with the scented smoke of burning Kizyak.  The strained chant of the muezzin had just ceased, and though the clear mountain air, impregnated with kizyak smoke, above the lowing of the cattle and the bleating of the sheep that were dispersing among the saklyas (which were crowded together like the cells of honeycomb), could be clearly heard the guttural voices of disputing men, and sounds of women's and children's voices rising from near the fountain below.
+
+This Hadji Murad was Shamil's naib, famous for his exploits, who used never to ride out without his banner and some dozens of murids, who caracoled and showed off before him.  Now wrapped in a hood and burka, from under which protruded a rifle, he rode, a fugitive with one murid only, trying to attract as little attention as possible and peering with his quick black eyes into the faces of those he met on his way.
+
+When he entered the aoul, instead of riding up the road leading to the open square, he turned to the left into a narrow side street, and on reaching the second saklya, which was cut into the hill side, he stopped and looked round.  There was no one under the penthouse in front, but on the roof of the saklya itself, behind the freshly plastered clay chimney, lay a man covered with a sheepskin.  Hadji Murad touched him with the handle of his leather-plaited whip and clicked his tongue, and an old man, wearing a greasy old beshmet and a nightcap, rose from under the sheepskin.
+
+Known characters so far:
+Narrator, Narrator (Authorial I), Hadji Murad, Hadji Murad's murid (unnamed), Old man on the saklya roof, Shamil, Sado, Sado's Son, Sado's Wife, Hadji Murad's Murid (unnamed, active), Sado's Father (Old Man), Eldar
+
+Extract for EVERY character appearing in this chunk:
+
+1. DIRECT QUOTES: Exact dialog lines from the character (verbatim speech)
+2. SPEECH DESCRIPTORS: How the character speaks ("he said quietly", "she exclaimed")
+3. ACTIONS: What the character does in this chunk
+4. INNER STATES: Thoughts, feelings, motivations (if described by the narrator)
+5. SOCIAL MARKERS: Class, education, era, region, speech register
+6. RELATIONSHIP DYNAMICS: How does the character speak/act toward different people?
+7. NEW INFORMATION: What do we learn new about the character in this chunk?
+
+Respond as JSON:
+{
+  "characters_found": [
+    {
+      "name": "...",
+      "direct_quotes": ["..."],
+      "speech_descriptors": ["..."],
+      "actions": ["..."],
+      "inner_states": ["..."],
+      "social_markers": ["..."],
+      "relationship_dynamics": [{"with": "...", "quality": "..."}],
+      "new_info": ["..."]
+    }
+  ]
+}

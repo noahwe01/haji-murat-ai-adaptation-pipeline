@@ -1,0 +1,4991 @@
+{
+  "schema_version": "1.0",
+  "source_text": "sources/hadji_murat.txt (Maude translation, Public Domain)",
+  "chapters_total": 25,
+  "extraction": {
+    "method": "5-agent parallel dispatch, Claude-driven NER + relation extraction",
+    "agents": 5,
+    "date": "2026-04-23"
+  },
+  "nodes": [
+    {
+      "id": "Hadji Murad",
+      "label": "Hadji Murad",
+      "canonical_name": "Hadji Murad",
+      "aliases": [
+        "Hadji Murad",
+        "Hadji Murat",
+        "Lieutenant Hadji Murad",
+        "Shamil's naib",
+        "Shamil's right hand",
+        "murshid",
+        "the naib",
+        "the terrible mountain chief"
+      ],
+      "narrative_function": "protagonist",
+      "historical": true,
+      "appearances": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25
+      ],
+      "appearance_count": 21,
+      "dialogue_volume": "high",
+      "description": "Famous Avar naib and fugitive rebel, formerly Shamil's right hand, now defecting to the Russians. POV character of the framing tale; his arrival at the Russian fort drives the chapters. | Avar warrior and former naib of Shamil who has defected to the Russians. Proud, watchful, and strategic; seeks Russian help to destroy Shamil and free his family. | Avar warrior and former Shamil naib who has defected to the Russians; narrates his life story to Loris-Melikov across chapters 11-13, awaits news of his family in Tiflis. | Avar naib who has defected to the Russians. Now lodged under guard in Major Petrov's fort awaiting action, he charms Butler and Marya Dmitrievna while worrying about his captive family. | Avar chieftain defected to the Russians, trapped between Shamil and Vorontsov. Decides to escape Nukha to rescue his family and is killed in a last stand at a rice field near Benerdzhik.",
+      "degree_centrality": 36,
+      "weighted_centrality": 78.0,
+      "dramatic_weight": 91.65,
+      "source_agents": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Michael Vorontsov",
+      "label": "Michael Vorontsov",
+      "canonical_name": "Michael Vorontsov",
+      "aliases": [
+        "Michael Semenovich Vorontsov",
+        "Prince Simon Mikhailovich Vorontsov",
+        "Prince Vorontsov",
+        "Viceroy",
+        "Vorontsov",
+        "Vorontsov senior",
+        "the Colonel",
+        "the Commander-in-Chief",
+        "the Russian Commander",
+        "the Sirdar",
+        "the Viceroy",
+        "the prince"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        22,
+        25
+      ],
+      "appearance_count": 12,
+      "dialogue_volume": "high",
+      "description": "Commander of the Kurin Regiment, Imperial Aide-de-Camp and son of the Caucasus Commander-in-Chief. Receives Hadji Murad's envoys and formally accepts his surrender in the Shalin glade. | Aging Russian Viceroy of the Caucasus, father of young Vorontsov. English-educated, ambitious courtier who receives Hadji Murad in Tiflis and distrusts him privately while flattering him publicly. | Viceroy of the Caucasus who writes a lengthy French-language report to Chernyshov on 20 December about how to handle Hadji Murad; gave Hadji Murad a repeater watch as a gift. | Viceroy of the Caucasus who stalls Hadji Murad's family-exchange request with vague promises. Appears as a 'weak, bloodless old' figure in Murad's dying memory.",
+      "degree_centrality": 13,
+      "weighted_centrality": 23.0,
+      "dramatic_weight": 55.43,
+      "source_agents": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Shamil",
+      "label": "Shamil",
+      "canonical_name": "Shamil",
+      "aliases": [
+        "Shamil",
+        "red liar",
+        "the Imam",
+        "the Imam Shamil",
+        "the Prophet's voice"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        1,
+        4,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        19,
+        22,
+        23,
+        25
+      ],
+      "appearance_count": 14,
+      "dialogue_volume": "medium",
+      "description": "Imam of Chechnya and Dagestan, referenced only — he has issued a death decree against Hadji Murad after their quarrel. Offstage antagonist whose pursuit frames Hadji Murad's flight. | Imam of the mountaineers and Hadji Murad's sworn enemy. Holds Hadji Murad's family hostage; referenced but not present in these chapters. | Imam of Chechnya and Dagestan, successor to Hamzad; Hadji Murad's rival who holds his family hostage and seeks his death. | Imam of Chechnya and Dagestan, returning to Vedeno after a disputed battle. Holds Hadji Murad's family hostage and threatens Yusuf with blinding to force Hadji Murad's return. | Imam of Chechnya and Daghestan who holds Hadji Murad's family hostage and threatens torture to anyone who aids their rescue. Seen as a pale red-bearded face in Murad's final vision.",
+      "degree_centrality": 5,
+      "weighted_centrality": 6.0,
+      "dramatic_weight": 44.9,
+      "source_agents": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Nicholas I",
+      "label": "Nicholas I",
+      "canonical_name": "Nicholas I",
+      "aliases": [
+        "Emperor Nicholas",
+        "Nicholas",
+        "Tsar",
+        "White Tsar",
+        "l'empereur",
+        "master",
+        "sovereign",
+        "the Emperor",
+        "the great Tsar"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        10,
+        15,
+        16
+      ],
+      "appearance_count": 3,
+      "dialogue_volume": "high",
+      "description": "Russian Tsar referenced as the ultimate authority to whom Hadji Murad pledges service and to whom Vorontsov will appeal for pardon. | Autocratic Emperor of Russia, portrayed as vain, cruel, and sexually predatory; receives Vorontsov's report and endorses a brutal Caucasian policy. | Tsar of Russia, referenced as the issuer of the January 1852 command that triggers the raid into Chechnya opening chapter 16.",
+      "degree_centrality": 11,
+      "weighted_centrality": 11.0,
+      "dramatic_weight": 27.71,
+      "source_agents": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "Butler",
+      "label": "Butler",
+      "canonical_name": "Butler",
+      "aliases": [
+        "the tall handsome officer"
+      ],
+      "narrative_function": "foil",
+      "historical": false,
+      "appearances": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "appearance_count": 5,
+      "dialogue_volume": "high",
+      "description": "Young Russian officer recently exchanged from the Guards to the Caucasus to escape gambling debts. Romantic about war and the mountaineer life, befriends Hadji Murad during his fort stay. | Young Russian officer at the Kurin fort. Loses heavily at cards at Baryatinsky's camp, takes up drink, and witnesses Kamenev display Hadji Murad's severed head.",
+      "degree_centrality": 12,
+      "weighted_centrality": 21.0,
+      "dramatic_weight": 26.83,
+      "source_agents": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Marya Dmitrievna",
+      "label": "Marya Dmitrievna",
+      "canonical_name": "Marya Dmitrievna",
+      "aliases": [
+        "Marya",
+        "Masha"
+      ],
+      "narrative_function": "foil",
+      "historical": false,
+      "appearances": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "appearance_count": 5,
+      "dialogue_volume": "high",
+      "description": "Former surgeon's-orderly daughter, now Major Petrov's faithful freckled common-law wife. Warm, simple-hearted, takes a particular liking to Hadji Murad and defends his character. | The major's common-law partner at the Kurin fort. Rebuffs Butler's advances and calls the officers 'cut-throats' when Kamenev displays Hadji Murad's head.",
+      "degree_centrality": 4,
+      "weighted_centrality": 13.0,
+      "dramatic_weight": 26.83,
+      "source_agents": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Avdeev",
+      "label": "Avdeev",
+      "canonical_name": "Avdeev",
+      "aliases": [
+        "Avdeef",
+        "Avdeev",
+        "Peter",
+        "Peter Avdeev",
+        "Peterkin",
+        "the broadcheeked soldier",
+        "the cheerful soldier"
+      ],
+      "narrative_function": "foil",
+      "historical": false,
+      "appearances": [
+        2,
+        5,
+        7,
+        8
+      ],
+      "appearance_count": 4,
+      "dialogue_volume": "high",
+      "description": "Cheerful Russian soldier who went to war in his brother's place and nurses homesickness. Mortally wounded in the stomach during the skirmish around Hadji Murad's meeting with Vorontsov. | Russian private from the Kurin regiment, mortally wounded in a skirmish. Dies in the fort hospital; had enlisted in place of his married brother.",
+      "degree_centrality": 6,
+      "weighted_centrality": 9.0,
+      "dramatic_weight": 24.0,
+      "source_agents": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "Hamzad",
+      "label": "Hamzad",
+      "canonical_name": "Hamzad",
+      "aliases": [
+        "the Imam Hamzad"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        11,
+        13,
+        23,
+        25
+      ],
+      "appearance_count": 4,
+      "dialogue_volume": "medium",
+      "description": "Second Imam of Dagestan, successor to Kazi-Mulla; lured and murdered the Avar Khans; assassinated in a mosque by Hadji Murad and his brother Osman. | Legendary dzhigit of the song Khanefi sings at dawn — captured white horses, entrenched behind slain horses, died fighting for Ghazavat. Becomes Murad's imaginative template for his own last stand.",
+      "degree_centrality": 5,
+      "weighted_centrality": 6.0,
+      "dramatic_weight": 24.0,
+      "source_agents": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Chernyshov",
+      "label": "Chernyshov",
+      "canonical_name": "Chernyshov",
+      "aliases": [
+        "Minister of War",
+        "Prince Chernyshov"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        14,
+        15
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "high",
+      "description": "Russian Minister of War, a parvenu who resents Vorontsov and tries to present his handling of Hadji Murad unfavorably to the Tsar.",
+      "degree_centrality": 3,
+      "weighted_centrality": 4.0,
+      "dramatic_weight": 22.63,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Khan Mahoma",
+      "label": "Khan Mahoma",
+      "canonical_name": "Khan Mahoma",
+      "aliases": [
+        "Khan Mahoma",
+        "the merry Khan Mahoma",
+        "the merry, black-eyed, lashless Chechen",
+        "the rosy, round-faced fellow"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        1,
+        4,
+        5,
+        12,
+        13,
+        23,
+        25
+      ],
+      "appearance_count": 7,
+      "dialogue_volume": "high",
+      "description": "One of Hadji Murad's four horsemen; rosy and beaming Chechen envoy. Carries the surrender message to Vorontsov alongside Bata. | Hadji Murad's cheerful, reckless murid; gambled 12 kopecks into gold coins in Tiflis; ready to serve either side for the thrill. | Murid who sleeps while the escape is planned and sings 'Il lyakha il Allakh' leisurely during the ditch-fight. Captured alive with Khanefi and Gamzalo.",
+      "degree_centrality": 6,
+      "weighted_centrality": 14.0,
+      "dramatic_weight": 21.17,
+      "source_agents": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Loris-Melikov",
+      "label": "Loris-Melikov",
+      "canonical_name": "Loris-Melikov",
+      "aliases": [
+        "Captain Loris-Melikov"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        23
+      ],
+      "appearance_count": 6,
+      "dialogue_volume": "high",
+      "description": "Vorontsov's aide-de-camp placed in charge of Hadji Murad. Accompanies him to the opera and the ball. | Vorontsov's aide-de-camp, fluent in Tartar, who interviews Hadji Murad and records his biography; assigned to accompany him to Grozny. | Russian officer to whom Hadji Murad previously told the song his mother composed at his birth. Referenced only in memory.",
+      "degree_centrality": 5,
+      "weighted_centrality": 8.0,
+      "dramatic_weight": 19.6,
+      "source_agents": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Marya Vasilevna",
+      "label": "Marya Vasilevna",
+      "canonical_name": "Marya Vasilevna",
+      "aliases": [
+        "Countess Branitski",
+        "Marya Vasilevna",
+        "Princess Elizabeth Ksaverevna Vorontsova",
+        "Princess Marya Vasilevna",
+        "Princess Vorontsov",
+        "Princess Vorontsova",
+        "Princess Vorontsova (the younger)",
+        "marya",
+        "the Sirdar's wife",
+        "the princess"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        3,
+        6,
+        9,
+        10,
+        11,
+        21
+      ],
+      "appearance_count": 6,
+      "dialogue_volume": "high",
+      "description": "Vorontsov's wife, a famous Petersburg beauty with crinoline and flirtatious smile. Flirts with Poltoratsky at cards and pries the Hadji Murad news out of her husband. | Elegant wife of young Vorontsov. Charms Hadji Murad, defuses the conflict with Meller-Zakomelsky, and mediates the social scene. | Wife of the Viceroy Vorontsov. Hosts the Tiflis dinner and evening ball and greets Hadji Murad through the interpreter. | Referenced only as the woman captivated by Hadji Murad's childlike smile. | Young Vorontsov's wife who stays in camp; her presence forces soldiers into nightly ambush duty, earning her resentment. Baryatinsky's affair with her is an open secret.",
+      "degree_centrality": 10,
+      "weighted_centrality": 14.0,
+      "dramatic_weight": 19.6,
+      "source_agents": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Poltoratsky",
+      "label": "Poltoratsky",
+      "canonical_name": "Poltoratsky",
+      "aliases": [
+        "Poltoratsky",
+        "a broad, red-faced man",
+        "a company commander"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        3,
+        5,
+        7,
+        21
+      ],
+      "appearance_count": 4,
+      "dialogue_volume": "high",
+      "description": "Former Guards company commander smitten by Marya Vasilevna. Leads the wood-cutting detail the next morning and first encounters Hadji Murad face-to-face. | Russian officer who visits the dying Avdeev in the hospital to inquire after his soldier. | Butler's host in camp and fellow former cadet. Predicts Kozlovsky will botch the farewell speech and watches Butler lose heavily at cards.",
+      "degree_centrality": 11,
+      "weighted_centrality": 14.0,
+      "dramatic_weight": 16.0,
+      "source_agents": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "Bata",
+      "label": "Bata",
+      "canonical_name": "Bata",
+      "aliases": [
+        "Bata",
+        "brother Bata",
+        "friendly Chechen",
+        "the shorter one"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        1,
+        2,
+        4,
+        5,
+        23,
+        25
+      ],
+      "appearance_count": 6,
+      "dialogue_volume": "medium",
+      "description": "Sinewy sun-blackened Chechen guide hired by Sado to lead Khan Mahoma to the Russians. Carries out the night mission to Vorontsov. | Cheerful murid whose vigorous voice shouts the takbir after the Hamzad song. Takes cartridge pouches from the slain Cossacks and is first wounded in the final stand, shot through the neck.",
+      "degree_centrality": 8,
+      "weighted_centrality": 14.0,
+      "dramatic_weight": 14.7,
+      "source_agents": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "Panov",
+      "label": "Panov",
+      "canonical_name": "Panov",
+      "aliases": [
+        "Panov",
+        "the non-commissioned officer"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        2,
+        5,
+        7
+      ],
+      "appearance_count": 3,
+      "dialogue_volume": "high",
+      "description": "Russian non-commissioned officer in the ambush party at Vozvizhensk. Accepts Bata and the envoy and serves Avdeev after he is wounded. | Comrade of Avdeev who sits with him at his deathbed and records his last message home.",
+      "degree_centrality": 6,
+      "weighted_centrality": 8.0,
+      "dramatic_weight": 13.86,
+      "source_agents": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "Sado",
+      "label": "Sado",
+      "canonical_name": "Sado",
+      "aliases": [
+        "Sado",
+        "the host",
+        "the master of the house"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        1,
+        4,
+        17
+      ],
+      "appearance_count": 3,
+      "dialogue_volume": "high",
+      "description": "Chechen kunak who shelters Hadji Murad in the hostile aoul of Makhmet despite Shamil's death decree. Warns him of the aoul elders and helps him escape. | Chechen villager who had sheltered Hadji Murad. Returns to find his saklya destroyed and his son bayoneted to death by Russian soldiers.",
+      "degree_centrality": 7,
+      "weighted_centrality": 10.0,
+      "dramatic_weight": 13.86,
+      "source_agents": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "Gamzalo",
+      "label": "Gamzalo",
+      "canonical_name": "Gamzalo",
+      "aliases": [
+        "Gamzalo",
+        "a Chechen",
+        "one-eyed Gamzalo",
+        "the red one",
+        "the red-haired Gamzalo"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        4,
+        5,
+        12,
+        23,
+        25
+      ],
+      "appearance_count": 5,
+      "dialogue_volume": "medium",
+      "description": "Scarred one-eyed red-bearded Chechen murid who stands watch at the forest camp. Soldiers remark on his beast-like squint when he meets the Russians. | Hadji Murad's one-eyed red-haired murid who loathes Russians and still reveres Shamil; mistrusted by Loris-Melikov. | Grim murid who hates the Russians and aches to kill them. Finishes off Ignatov and Nazarov in the escape ambush, shrieks with joy at every hit, and is captured alive after the final stand.",
+      "degree_centrality": 7,
+      "weighted_centrality": 14.0,
+      "dramatic_weight": 13.42,
+      "source_agents": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Major Petrov",
+      "label": "Major Petrov",
+      "canonical_name": "Major Petrov",
+      "aliases": [
+        "Ivan Matveich",
+        "Ivan Matveich Petrov",
+        "the major"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "appearance_count": 5,
+      "dialogue_volume": "medium",
+      "description": "Hard-drinking Russian fort commander who lives with Marya Dmitrievna as common-law wife. Receives Hadji Murad under orders and hosts him, treating him with gruff pragmatism. | Drunken fort commander and Marya Dmitrievna's partner. Kisses the severed head of Hadji Murad and boasts of the sword Murad once gave him.",
+      "degree_centrality": 5,
+      "weighted_centrality": 14.0,
+      "dramatic_weight": 13.42,
+      "source_agents": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Eldar",
+      "label": "Eldar",
+      "canonical_name": "Eldar",
+      "aliases": [
+        "Eldar",
+        "my murid",
+        "the Lesghian",
+        "the handsome Eldar",
+        "the strong active murid"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        1,
+        4,
+        5,
+        6,
+        12,
+        13,
+        18,
+        20,
+        23,
+        25
+      ],
+      "appearance_count": 10,
+      "dialogue_volume": "low",
+      "description": "Hadji Murad's loyal young Lesghian murid with ram-like eyes. Silent bodyguard who accompanies him from Sado's saklya to the Russian meeting. | One of Hadji Murad's murids. Reports on the state of the horses and men after the surrender. | Young, strong, devoted murid of Hadji Murad; described as firm and 'made of iron'. | The second of Hadji Murad's murids at the fort. Serves Butler attentively, hands Hadji Murad his burka and sword on departure. | Youngest and most devoted of Hadji Murad's murids. Sews gold into the beshmet, aches to charge with his dagger, and is shot dead falling across Murad's leg in the final fight.",
+      "degree_centrality": 8,
+      "weighted_centrality": 23.0,
+      "dramatic_weight": 12.65,
+      "source_agents": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Meller-Zakomelsky",
+      "label": "Meller-Zakomelsky",
+      "canonical_name": "Meller-Zakomelsky",
+      "aliases": [
+        "Baron",
+        "General Meller-Zakomelsky",
+        "the Baron"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        6
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Russian general commanding at Vozdvizhensk, offended that Hadji Murad's surrender bypassed him. Pompous and status-obsessed, ultimately placated by Marya Vasilevna.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 12.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Simon Vorontsov",
+      "label": "Simon Vorontsov",
+      "canonical_name": "Simon Vorontsov",
+      "aliases": [
+        "Prince Vorontsov (the younger)",
+        "Simon",
+        "Vorontsov (son)",
+        "Young Vorontsov"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        6,
+        9,
+        21
+      ],
+      "appearance_count": 3,
+      "dialogue_volume": "medium",
+      "description": "Young Russian prince and officer at Vozdvizhensk who personally receives Hadji Murad's surrender. Son of the Viceroy; anxious about protocol but ambitious. | Son of the Viceroy, living in a splendid cloth tent at Kurin camp. Receives Butler kindly and introduces him to Baryatinsky at the farewell dinner.",
+      "degree_centrality": 5,
+      "weighted_centrality": 6.0,
+      "dramatic_weight": 10.39,
+      "source_agents": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": "Yusuf",
+      "label": "Yusuf",
+      "canonical_name": "Yusuf",
+      "aliases": [
+        "Hadji Murad's son"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        19,
+        23,
+        25
+      ],
+      "appearance_count": 3,
+      "dialogue_volume": "medium",
+      "description": "Hadji Murad's handsome eighteen-year-old son imprisoned in a seven-foot pit at Vedeno. Admires Shamil out of defiance to his father; forced to write a coercive letter, then tries to stab himself. | Hadji Murad's beloved son whose eyes Shamil has threatened to put out. Appears only in Murad's memory — tall, handsome, eager to ride with his father — and in his dying vision.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 10.39,
+      "source_agents": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Khanefi",
+      "label": "Khanefi",
+      "canonical_name": "Khanefi",
+      "aliases": [
+        "Hadji Murad's sworn brother",
+        "Khanefi",
+        "the Avar",
+        "the Avar Khanefi",
+        "the hairy Avar",
+        "the shaggy Khanefi"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        4,
+        5,
+        12,
+        20,
+        23,
+        25
+      ],
+      "appearance_count": 6,
+      "dialogue_volume": "low",
+      "description": "Hadji Murad's Avar sworn brother who manages his household; thick-set and hairy. Keeps the stud-bred horse with the saddle bags. | Hairy, strong murid who manages Hadji Murad's household; adopted as 'brother' by Patimat after his father killed Hadji Murad's uncle. | One of the two murids Hadji Murad brought with him to the fort. Sworn brother and tenor singer who performs mountain songs for Butler. | Shaggy henchman who sleeps with the horses and sings the Hamzad song before dawn. Acts as loader-servant in the ditch-fight and is bound alive at the end.",
+      "degree_centrality": 8,
+      "weighted_centrality": 16.0,
+      "dramatic_weight": 9.8,
+      "source_agents": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "Nazarov",
+      "label": "Nazarov",
+      "canonical_name": "Nazarov",
+      "aliases": [],
+      "narrative_function": "foil",
+      "historical": false,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Young fresh-faced non-commissioned Cossack and Cross of St George bearer, eldest of a poor Old Believer family. Gives chase when Murad breaks into a gallop and is the first shot, then cut down by Gamzalo.",
+      "degree_centrality": 6,
+      "weighted_centrality": 6.0,
+      "dramatic_weight": 9.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Carroty General",
+      "label": "Carroty General",
+      "canonical_name": "Carroty General",
+      "aliases": [
+        "the brave general",
+        "the carroty general with the bristly mustaches",
+        "the red-haired general"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        9,
+        10
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "medium",
+      "description": "Visiting Russian general whose tactless Dargo 'rescue' anecdote embarrasses Vorontsov at dinner. Returns next day in full uniform to take leave.",
+      "degree_centrality": 4,
+      "weighted_centrality": 5.0,
+      "dramatic_weight": 8.49,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Klugenau",
+      "label": "Klugenau",
+      "canonical_name": "Klugenau",
+      "aliases": [
+        "General Klugenau"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        10,
+        13
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "medium",
+      "description": "Russian general who formerly arrested Hadji Murad on Akhmet Khan's denunciation, precipitating his flight to Shamil. | Russian general who initially defended Hadji Murad and wrote two letters urging him to return; his letters are preserved and shown to Loris-Melikov.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 8.49,
+      "source_agents": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "Akhmet Khan",
+      "label": "Akhmet Khan",
+      "canonical_name": "Akhmet Khan",
+      "aliases": [
+        "Akhmet Khan of Mekhtuli",
+        "Khan of Kazi-Kumukh"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        9,
+        10,
+        13,
+        25
+      ],
+      "appearance_count": 4,
+      "dialogue_volume": "none",
+      "description": "Deceased Avar rival who calumniated Hadji Murad to General Klugenau, forcing him to flee to Shamil. His widow was carried off by Hadji Murad. | Khan of Kazi-Kumukh who hated Hadji Murad over the Sultanetta marriage refusal; slandered him to Klugenau and had him arrested and chained. | Son of Hadji Murad's old enemy, riding with Hadji Aga in the pursuit. Present for the killing and the triumphant gathering round the corpse.",
+      "degree_centrality": 3,
+      "weighted_centrality": 4.0,
+      "dramatic_weight": 8.0,
+      "source_agents": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Arslan Khan",
+      "label": "Arslan Khan",
+      "canonical_name": "Arslan Khan",
+      "aliases": [],
+      "narrative_function": "antagonist",
+      "historical": false,
+      "appearances": [
+        20
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Small Kumukh prince from Tash-Kichu with a blood-feud against Hadji Murad. Ambushes him at the major's porch with a pistol; misses and is disarmed.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 8.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "Hadji Aga",
+      "label": "Hadji Aga",
+      "canonical_name": "Hadji Aga",
+      "aliases": [
+        "Hadji Aga of Mekhtuli"
+      ],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Former kunak of Hadji Murad now gone over to the Russians. Leads two hundred horsemen in the final assault, reaches Murad first and saws off his head.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 8.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Karganov",
+      "label": "Karganov",
+      "canonical_name": "Karganov",
+      "aliases": [],
+      "narrative_function": "antagonist",
+      "historical": true,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Russian military commander of the district who surrounds the clump with militiamen and demands Murad's surrender. Leads the night encirclement and is present at the slaughter.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 8.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Peter Nikolaevich Kamenev",
+      "label": "Peter Nikolaevich Kamenev",
+      "canonical_name": "Peter Nikolaevich Kamenev",
+      "aliases": [
+        "Kamenev",
+        "Peter Nikolaevich"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        24
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "high",
+      "description": "Former comrade of the major sent to tour the forts displaying Hadji Murad's severed head. Announces the death and recounts the escape story to the drunken officers.",
+      "degree_centrality": 4,
+      "weighted_centrality": 4.0,
+      "dramatic_weight": 8.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Patimat",
+      "label": "Patimat",
+      "canonical_name": "Patimat",
+      "aliases": [
+        "Hadji Murad's mother",
+        "the old mother"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        11,
+        12,
+        19
+      ],
+      "appearance_count": 3,
+      "dialogue_volume": "low",
+      "description": "Hadji Murad's mother; refused to wet-nurse Bulach Khan and was wounded by his father with a dagger; composed a song about the event; now in Shamil's hands. | Hadji Murad's grey-haired, fiery-eyed old mother held with the family at Vedeno. Refuses even to watch Shamil's triumphal entry, having always hated him.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 6.93,
+      "source_agents": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "Akim Avdeev",
+      "label": "Akim Avdeev",
+      "canonical_name": "Akim Avdeev",
+      "aliases": [
+        "Akim",
+        "the eldest son"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        8
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Peter's elder brother, a family man of four children, in whose stead Peter enlisted. Drinks and is compared unfavorably to his brother.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Georgian Prince",
+      "label": "Georgian Prince",
+      "canonical_name": "Georgian Prince",
+      "aliases": [
+        "the stupid Georgian prince"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Refined flatterer at Vorontsov's table who redirects the conversation to Hadji Murad's exploits and compares him to Napoleon.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Jemal Eddin",
+      "label": "Jemal Eddin",
+      "canonical_name": "Jemal Eddin",
+      "aliases": [
+        "Shamil's father-in-law",
+        "the teacher"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        19
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Shamil's tall, white-bearded father-in-law, teacher and chief advisor. Drafts the proclamation against surrender and counsels on Hadji Murad's case.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "Kozlovsky",
+      "label": "Kozlovsky",
+      "canonical_name": "Kozlovsky",
+      "aliases": [
+        "General Kozlovsky",
+        "Kozlovsky",
+        "general in command of the left flank"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        6,
+        9,
+        14,
+        21
+      ],
+      "appearance_count": 4,
+      "dialogue_volume": "medium",
+      "description": "Russian general at Grozny commanding the left flank. Referenced as the recipient of Vorontsov's reports. | Russian general commanding at Grozny area who is to supervise Hadji Murad's movements. | Outgoing commander of the left flank, honored at the farewell dinner. Stammers a tearful speech of gratitude to his officers before ceding command to Baryatinsky.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Manana Orbelyani",
+      "label": "Manana Orbelyani",
+      "canonical_name": "Manana Orbelyani",
+      "aliases": [
+        "Princess Manana Orbelyani"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Handsome Georgian princess of about forty-five who dines beside Vorontsov and tactfully deflects the carroty general's dangerous anecdote about Dargo.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Old Avdeev",
+      "label": "Old Avdeev",
+      "canonical_name": "Old Avdeev",
+      "aliases": [
+        "Avdeev's father",
+        "the old man"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        8
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Peasant father of Peter Avdeev, head of the Kurenkov household. Regrets Peter's conscription and nags his elder son Akim.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Old Avdeeva",
+      "label": "Old Avdeeva",
+      "canonical_name": "Old Avdeeva",
+      "aliases": [
+        "Peter's mother",
+        "the old man's wife",
+        "the old woman"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        8
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Peter's mother, who dictates a tearful letter with a ruble enclosed to her son. Grieves publicly and arranges a requiem after news of his death.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 6.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Abu Nutsal Khan",
+      "label": "Abu Nutsal Khan",
+      "canonical_name": "Abu Nutsal Khan",
+      "aliases": [
+        "the eldest Khan"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        11,
+        25
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "low",
+      "description": "Eldest of the three Avar Khans of Khunzakh, foster-brother to Osman; killed by Hamzad's murids after being lured to his tent. | Avar warrior of legend who fought dagger in hand holding up his severed cheek. Appears only as the first image in Murad's dying memory cascade.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 5.66,
+      "source_agents": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "Khansha",
+      "label": "Khansha",
+      "canonical_name": "Khansha",
+      "aliases": [
+        "old Khansha",
+        "the Khansha"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        11,
+        13
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "low",
+      "description": "Mother of the three Avar Khans; sent her sons to their deaths with Hamzad; beheaded on Hamzad's orders by the murid Aseldar.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 5.66,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Prince Baryatinsky",
+      "label": "Prince Baryatinsky",
+      "canonical_name": "Prince Baryatinsky",
+      "aliases": [
+        "Baryatinsky"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        21,
+        24
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "low",
+      "description": "Newly appointed commander of the left flank and old friend of the Viceroy. Hosts the farewell dinner for Kozlovsky and plans the advance through Chechnya.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 5.66,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Prince Tarkhanov",
+      "label": "Prince Tarkhanov",
+      "canonical_name": "Prince Tarkhanov",
+      "aliases": [
+        "Lieutenant-Colonel Prince Tarkhanov",
+        "the prince's interpreter"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        10,
+        14
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "low",
+      "description": "Vorontsov's official interpreter in Tiflis who mediates between Hadji Murad and the Viceroy. | Commander of the Shoushin District who lodged with Hadji Murad in Tiflis, spoke Tartar perfectly, and won his confidence; trusted by Vorontsov for delicate consultations.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 5.66,
+      "source_agents": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "the regimental adjutant",
+      "label": "the regimental adjutant",
+      "canonical_name": "the regimental adjutant",
+      "aliases": [
+        "the adjutant",
+        "the regimental adjutant"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        3,
+        5
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "medium",
+      "description": "Stiff, handsome-faced adjutant who plays cards against Poltoratsky and later rides with Vorontsov to the meeting.",
+      "degree_centrality": 3,
+      "weighted_centrality": 4.0,
+      "dramatic_weight": 4.24,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Aksinya",
+      "label": "Aksinya",
+      "canonical_name": "Aksinya",
+      "aliases": [
+        "Peter's widow",
+        "Peter's wife"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        8
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Peter Avdeev's young wife. Has left the Kurenkov household to live with a shopman by whom she is pregnant; secretly relieved by Peter's death.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 4.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Prince Vasili Dolgoruky",
+      "label": "Prince Vasili Dolgoruky",
+      "canonical_name": "Prince Vasili Dolgoruky",
+      "aliases": [
+        "Assistant-Minister of War",
+        "Dolgoruky"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Assistant Minister of War with bored expression, imitating Nicholas's whiskers; present at the Emperor's audience and at dinner.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 4.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Serogin",
+      "label": "Serogin",
+      "canonical_name": "Serogin",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        7
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Fellow soldier who volunteers to write Avdeev's final letter home.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 4.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Umma Khan",
+      "label": "Umma Khan",
+      "canonical_name": "Umma Khan",
+      "aliases": [
+        "sworn brother",
+        "the second son of the Khan"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        11
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Second Avar Khan, nursed by Hadji Murad's mother, strong but weak-willed; lost money gambling with Russian officers in Tiflis; killed by Hamzad's murids.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 4.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Councillor Kirillov",
+      "label": "Councillor Kirillov",
+      "canonical_name": "Councillor Kirillov",
+      "aliases": [
+        "Kirillov"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        22
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Fat civilian official sent from Tiflis to deliver Hadji Murad's stipend and summon him to meet Argutinski. Hadji Murad slaps him on the bald head and walks out.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 3.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Nikitin",
+      "label": "Nikitin",
+      "canonical_name": "Nikitin",
+      "aliases": [
+        "Nikitin",
+        "the dissatisfied one",
+        "the morose soldier"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        2
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Gloomy Russian soldier in Panov's ambush party who distrusts the company commander's handling of the cashbox.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 3.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Sado's father",
+      "label": "Sado's father",
+      "canonical_name": "Sado's father",
+      "aliases": [
+        "Sado's father",
+        "the old man"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        1
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Toothless greasy-bearded father of Sado who lives at the apiary. Greets Hadji Murad and mutters about Russian incursions.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 3.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Vovilo",
+      "label": "Vovilo",
+      "canonical_name": "Vovilo",
+      "aliases": [
+        "Vovilo",
+        "a domestic serf"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        3
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "medium",
+      "description": "Poltoratsky's over-forty domestic serf who was taken up as a boy and now leads a campaigning life. Drunk on the ordnance sergeant's name day when his master returns.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 3.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Baron Rosen",
+      "label": "Baron Rosen",
+      "canonical_name": "Baron Rosen",
+      "aliases": [
+        "General Rosen",
+        "the Commander-in-Chief"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        11,
+        13
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "none",
+      "description": "Russian Commander-in-Chief at Tiflis who refused to receive Hadji Murad and Umma Khan and failed to deliver promised help; later sent Hadji Murad an officer's commission.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.83,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Bondarenko",
+      "label": "Bondarenko",
+      "canonical_name": "Bondarenko",
+      "aliases": [
+        "Bondarenko",
+        "an Ukrainian",
+        "the third soldier"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        2,
+        18
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "low",
+      "description": "Ukrainian soldier in the ambush party who jokes about jackals and helps escort the Chechen scouts back to the Colonel. | Major Petrov's orderly who appears and is sent to open the front door when Hadji Murad arrives.",
+      "degree_centrality": 4,
+      "weighted_centrality": 4.0,
+      "dramatic_weight": 2.83,
+      "source_agents": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "Bulach Khan",
+      "label": "Bulach Khan",
+      "canonical_name": "Bulach Khan",
+      "aliases": [
+        "the youngest Khan"
+      ],
+      "narrative_function": "supporting",
+      "historical": true,
+      "appearances": [
+        11,
+        13
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "none",
+      "description": "Youngest Avar Khan sent as hostage to Hamzad; later thrown over a precipice by Shamil.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 2.83,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Doctor Andreevsky",
+      "label": "Doctor Andreevsky",
+      "canonical_name": "Doctor Andreevsky",
+      "aliases": [],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        9,
+        10
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "none",
+      "description": "Aide-de-camp and physician at Vorontsov's court noted for his great behind-the-scenes influence. Partner at the ombre table.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.83,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Osman",
+      "label": "Osman",
+      "canonical_name": "Osman",
+      "aliases": [
+        "brother Osman"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        11,
+        13
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "none",
+      "description": "Hadji Murad's eldest brother and foster-brother to Abu Nutsal Khan; killed by Hamzad's murids during the assassination of Hamzad in the mosque.",
+      "degree_centrality": 1,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.83,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Tikhonov",
+      "label": "Tikhonov",
+      "canonical_name": "Tikhonov",
+      "aliases": [
+        "Tikhonov",
+        "his comrade Tikhonov",
+        "his subaltern Tikhonov"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        3,
+        5
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "low",
+      "description": "Poltoratsky's subaltern and bedroom-mate at the fort. Present at the wood-felling detail the next morning.",
+      "degree_centrality": 1,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.83,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Akim's wife",
+      "label": "Akim's wife",
+      "canonical_name": "Akim's wife",
+      "aliases": [
+        "the daughter-in-law"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        8
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Akim's wife, threshing at dawn with the family. Tries to smooth over father-son conflict.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Aminal",
+      "label": "Aminal",
+      "canonical_name": "Aminal",
+      "aliases": [
+        "Shamil's favorite wife"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        19
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Shamil's black-eyed eighteen-year-old favorite wife. Sulks in Zeidat's room because Shamil gave silk to Zeidat instead of her, refusing to come to him.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "Baron Lieven",
+      "label": "Baron Lieven",
+      "canonical_name": "Baron Lieven",
+      "aliases": [
+        "Lieven"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Dinner guest who quips in French about Poland and the Caucasus being Russia's two running sores.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Bulka",
+      "label": "Bulka",
+      "canonical_name": "Bulka",
+      "aliases": [
+        "Vorontsov's stepson",
+        "little Bulka"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        6
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Six-year-old curly-headed stepson of young Vorontsov. Admires Hadji Murad's dagger and receives it as a kunak gift.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Countess Choiseuil",
+      "label": "Countess Choiseuil",
+      "canonical_name": "Countess Choiseuil",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "French friend of Princess Vorontsova at the Tiflis dinner; reacts in French to the Akhmet Khan widow story.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Ferapontov",
+      "label": "Ferapontov",
+      "canonical_name": "Ferapontov",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Tall thin Cossack, a thief and plunderer who sold gunpowder to Gamzalo. Covets Murad's horse on the morning of the escape.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Ignatov",
+      "label": "Ignatov",
+      "canonical_name": "Ignatov",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Sturdy aging Cossack nearing end of service who boasts of his strength. Crushed when his horse falls, then hacked to death by Gamzalo.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Imperial Aide-de-camp",
+      "label": "Imperial Aide-de-camp",
+      "canonical_name": "Imperial Aide-de-camp",
+      "aliases": [
+        "newly appointed aide-de-camp"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Fresh-faced young aide-de-camp with mustaches combed like the Emperor's, ushering Chernyshov into the cabinet.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Kopervine",
+      "label": "Kopervine",
+      "canonical_name": "Kopervine",
+      "aliases": [
+        "Swedish governess's daughter",
+        "yesterday's girl"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Twenty-year-old virgin, daughter of a Swedish governess, who arranged to meet Nicholas at a masquerade and spent an hour with him.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Petrovsky",
+      "label": "Petrovsky",
+      "canonical_name": "Petrovsky",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        20
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Lively Russian officer meeting Hadji Murad for the first time at his farewell gathering. Questions him about Tiflis and later calls him a rogue.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "Polosatov",
+      "label": "Polosatov",
+      "canonical_name": "Polosatov",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Enormous student of the School of Jurisprudence whom Nicholas stops on the embankment and calls a blockhead for not wishing to join the army.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Prussian Ambassador",
+      "label": "Prussian Ambassador",
+      "canonical_name": "Prussian Ambassador",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Dinner guest who feigns surprise at Lieven's remark and flatters Nicholas's strategic genius.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Sado's wife",
+      "label": "Sado's wife",
+      "canonical_name": "Sado's wife",
+      "aliases": [
+        "Sado's wife",
+        "a slight, spare, middle-aged woman",
+        "the thin middle-aged woman"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        1
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Sado's wife who arranges cushions and serves food to the visitors in the guest chamber.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Zeidat",
+      "label": "Zeidat",
+      "canonical_name": "Zeidat",
+      "aliases": [
+        "Shamil's eldest wife"
+      ],
+      "narrative_function": "supporting",
+      "historical": false,
+      "appearances": [
+        19
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Shamil's dark, sharp-nosed, disagreeable eldest wife whom he does not love. Serves him dinner and has been favored with silk over the younger Aminal.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "the Chechen interpreter",
+      "label": "the Chechen interpreter",
+      "canonical_name": "the Chechen interpreter",
+      "aliases": [
+        "a Chechen interpreter",
+        "the Chechen interpreter"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        5
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "low",
+      "description": "Interpreter riding with Vorontsov who renders Hadji Murad's Tartar surrender speech into Russian during the Shalin glade meeting.",
+      "degree_centrality": 2,
+      "weighted_centrality": 2.0,
+      "dramatic_weight": 2.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Sado's son",
+      "label": "Sado's son",
+      "canonical_name": "Sado's son",
+      "aliases": [
+        "a boy of fifteen",
+        "the black-eyed boy",
+        "the boy"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        1,
+        4
+      ],
+      "appearance_count": 2,
+      "dialogue_volume": "none",
+      "description": "Sado's fifteen-year-old son with sloe-black sparkling eyes who runs errands, fetches Bata and brings the horses on the night escape.",
+      "degree_centrality": 2,
+      "weighted_centrality": 4.0,
+      "dramatic_weight": 1.41,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Akhmet (brother)",
+      "label": "Akhmet (brother)",
+      "canonical_name": "Akhmet (brother)",
+      "aliases": [
+        "Akhmet my second brother"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        11
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Hadji Murad's second brother, who died in infancy.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Aleksandr I",
+      "label": "Aleksandr I",
+      "canonical_name": "Aleksandr I",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Former Tsar whose portrait decorates Vorontsov's gold snuff-box; purely iconographic appearance.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Armenian General",
+      "label": "Armenian General",
+      "canonical_name": "Armenian General",
+      "aliases": [
+        "an Armenian general"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Plays ombre with Vorontsov after dinner; learned the game from the prince's valet.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Aseldar",
+      "label": "Aseldar",
+      "canonical_name": "Aseldar",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        13
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Hamzad's favorite murid who beheaded the Khansha; killed by Hadji Murad during the mosque assassination.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Ballerina",
+      "label": "Ballerina",
+      "canonical_name": "Ballerina",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Unnamed ballet dancer who catches Nicholas's eye; he orders a diamond ring presented to her via the German ballet-master.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Baron Freze",
+      "label": "Baron Freze",
+      "canonical_name": "Baron Freze",
+      "aliases": [
+        "Baron Freze",
+        "Kostya",
+        "an ex-officer of the Guards"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        5
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Ex-Guards officer reduced to the ranks for duelling; Poltoratsky's former Cadet College comrade. Drinks with the officers on the drums before being sent back to his company.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Bibikov",
+      "label": "Bibikov",
+      "canonical_name": "Bibikov",
+      "aliases": [
+        "General-Governor of the Western Provinces"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "General-Governor who receives Nicholas's approval to court-martial Uniate peasants; submits silently to cruel orders to protect his career.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Bogdanovich",
+      "label": "Bogdanovich",
+      "canonical_name": "Bogdanovich",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        24
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Russian officer famed for courage with whom Butler goes on two fruitless ambushes. Embodies the 'poetry of warfare' Butler chases to drown his debts.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Bzhezovski",
+      "label": "Bzhezovski",
+      "canonical_name": "Bzhezovski",
+      "aliases": [
+        "student of the Academy of Medicine"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Polish Catholic medical student who stabbed his examiner with a penknife; sentenced by Nicholas to run the gauntlet of 12,000 strokes.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Chikhirev",
+      "label": "Chikhirev",
+      "canonical_name": "Chikhirev",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        24
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Don Cossack escorting Kamenev who carries Hadji Murad's head in a sack in his saddle-bags.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Colonel Zolotukhin",
+      "label": "Colonel Zolotukhin",
+      "canonical_name": "Colonel Zolotukhin",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Russian colonel killed by Hadji Murad during General Pahlen's 1843 campaign, mentioned in the carroty general's anecdote.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Count Rzhevski",
+      "label": "Count Rzhevski",
+      "canonical_name": "Count Rzhevski",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Dinner guest at the Pompeian Hall.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "General Argutinski",
+      "label": "General Argutinski",
+      "canonical_name": "General Argutinski",
+      "aliases": [
+        "Argutinski"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        22
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Russian general whose expected arrival in Tiflis is used by Vorontsov as pretext to postpone Hadji Murad's family-exchange request.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "General Pahlen",
+      "label": "General Pahlen",
+      "canonical_name": "General Pahlen",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        9
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Russian commander whose 1843 detachment was attacked by Hadji Murad after the capture of Gergebel.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "General Sleptsov",
+      "label": "General Sleptsov",
+      "canonical_name": "General Sleptsov",
+      "aliases": [
+        "General Sleptsov"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        5
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Russian general whose recent death in action is the topic of conversation among the officers at the wood-felling. Referenced only as a valorous fallen comrade.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "German Ballet-master",
+      "label": "German Ballet-master",
+      "canonical_name": "German Ballet-master",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Summoned by Nicholas to convey a diamond ring to a favored ballet dancer.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Hadji Murad's father",
+      "label": "Hadji Murad's father",
+      "canonical_name": "Hadji Murad's father",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        11
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Passionate man who struck Hadji Murad's mother with a dagger when she refused to wet-nurse again.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Helena Pavlovna",
+      "label": "Helena Pavlovna",
+      "canonical_name": "Helena Pavlovna",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Grand Duchess whose carriage Nicholas sees approaching the palace; he despises her intellectual circle.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Ibrahim Raschid",
+      "label": "Ibrahim Raschid",
+      "canonical_name": "Ibrahim Raschid",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        19
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Shamil's officer in whose saklya Hadji Murad's women and children are held under guard at Vedeno.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "Ivan Petrovich",
+      "label": "Ivan Petrovich",
+      "canonical_name": "Ivan Petrovich",
+      "aliases": [
+        "Ivan Petrovich",
+        "the ordnance sergeant"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        3
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Ordnance sergeant whose name day party Vovilo attended. Referenced only — married with a salary, envied by Vovilo.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Kazi-Mulla",
+      "label": "Kazi-Mulla",
+      "canonical_name": "Kazi-Mulla",
+      "aliases": [
+        "the Imam Kazi-Mulla"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        11
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "First Imam mentioned in Hadji Murad's backstory, killed before the events of the chapter.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "King of Prussia",
+      "label": "King of Prussia",
+      "canonical_name": "King of Prussia",
+      "aliases": [
+        "brother-in-law the King of Prussia"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Nicholas's brother-in-law, granter of a Prussian constitution, whom Nicholas considers weak and stupid.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Kumyk Prince",
+      "label": "Kumyk Prince",
+      "canonical_name": "Kumyk Prince",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        10
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Local Kumyk noble in the Viceroy's waiting room lodging a complaint against a police official.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Mahomet-Murza",
+      "label": "Mahomet-Murza",
+      "canonical_name": "Mahomet-Murza",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        13
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Briefly appointed Khan of Kazi-Kumukh by Rosen before Akhmet Khan replaced him.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Mansur",
+      "label": "Mansur",
+      "canonical_name": "Mansur",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        12
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Earlier saintly Imam referenced admiringly by Khan Mahoma in contrast to Shamil.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Meller-Zakomelsky's wife",
+      "label": "Meller-Zakomelsky's wife",
+      "canonical_name": "Meller-Zakomelsky's wife",
+      "aliases": [
+        "Meller-Zakomelsky's wife",
+        "madame la generale"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        6
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Model-looking little lady, wife of the general, briefly present during the confrontation.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Michael Pavlovich",
+      "label": "Michael Pavlovich",
+      "canonical_name": "Michael Pavlovich",
+      "aliases": [
+        "brother Michael"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Nicholas's recently deceased brother, recalled with a feeling of sadness and vexation.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Mishkin",
+      "label": "Mishkin",
+      "canonical_name": "Mishkin",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Weakly Cossack lad whom everybody mocks. The only survivor of the escort — gallops back to the fortress to raise the alarm.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Nelidova",
+      "label": "Nelidova",
+      "canonical_name": "Nelidova",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Nicholas's established mistress with powerful shoulders, glimpsed at church during the New Year service.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Petrakov",
+      "label": "Petrakov",
+      "canonical_name": "Petrakov",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Young fair-haired Cossack, his mother's only son, always amiable and jolly. Shot in back and side, dies gasping like a fish with his stomach ripped open.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Prussian Aide-de-camp",
+      "label": "Prussian Aide-de-camp",
+      "canonical_name": "Prussian Aide-de-camp",
+      "aliases": [
+        "King of Prussia's aide-de-camp"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Silent dinner guest to whom the Ambassador had earlier confided about Nicholas's delusion of strategic greatness.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Sado's daughter",
+      "label": "Sado's daughter",
+      "canonical_name": "Sado's daughter",
+      "aliases": [
+        "quite a young girl",
+        "the young girl"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        1
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Young daughter of Sado in red trousers and green beshmet with a silver coin necklace, carrying the ewer and basin.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        1
+      ]
+    },
+    {
+      "id": "Semyon Vorontsov",
+      "label": "Semyon Vorontsov",
+      "canonical_name": "Semyon Vorontsov",
+      "aliases": [
+        "Vorontsov's son",
+        "my son"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        14
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "The younger Vorontsov to whom Hadji Murad first surrendered; referred to by the Viceroy as Hadji Murad's kunak.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Sofiat",
+      "label": "Sofiat",
+      "canonical_name": "Sofiat",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        25
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Hadji Murad's wife, held hostage with the family. Named only in the dying vision passing through Murad's mind.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        5
+      ]
+    },
+    {
+      "id": "Sultanetta",
+      "label": "Sultanetta",
+      "canonical_name": "Sultanetta",
+      "aliases": [
+        "the Khansha's daughter"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        13
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Daughter of the Avar Khansha whose refused marriage triggered Akhmet Khan's hatred of Hadji Murad.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "The Empress",
+      "label": "The Empress",
+      "canonical_name": "The Empress",
+      "aliases": [
+        "the empress"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Nicholas's wife with trembling head and fixed smile, entering the Pompeian Hall for dinner.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "The Professor",
+      "label": "The Professor",
+      "canonical_name": "The Professor",
+      "aliases": [
+        "the examiner"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Medical Academy professor who failed Bzhezovski three times and received trifling knife wounds in the attack.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Trezorka",
+      "label": "Trezorka",
+      "canonical_name": "Trezorka",
+      "aliases": [
+        "the shaggy grey dog"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        16
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Company mascot dog that runs ahead of Butler's returning column with its tail curled up like a commander.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        4
+      ]
+    },
+    {
+      "id": "Uhlan Officer (masquerade)",
+      "label": "Uhlan Officer (masquerade)",
+      "canonical_name": "Uhlan Officer (masquerade)",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Officer discovered in the theater box with his domino-clad partner; yields his seat to a furious Nicholas.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Vanka",
+      "label": "Vanka",
+      "canonical_name": "Vanka",
+      "aliases": [
+        "little orphaned Vanka"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        8
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Aksinya's little orphaned child mentioned in her lament for Peter.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        2
+      ]
+    },
+    {
+      "id": "Volkonski",
+      "label": "Volkonski",
+      "canonical_name": "Volkonski",
+      "aliases": [
+        "Minister of the Court"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Minister of the Court, ordered by Nicholas to pay a pension to Kopervine's mother.",
+      "degree_centrality": 1,
+      "weighted_centrality": 1.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Zachary Chernyshov",
+      "label": "Zachary Chernyshov",
+      "canonical_name": "Zachary Chernyshov",
+      "aliases": [],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        15
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Decembrist relative whose conviction and property Chernyshov pursued; referenced to explain Nicholas's contempt for Chernyshov.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "Zavodovsky",
+      "label": "Zavodovsky",
+      "canonical_name": "Zavodovsky",
+      "aliases": [
+        "General Zavodovsky"
+      ],
+      "narrative_function": "cameo",
+      "historical": true,
+      "appearances": [
+        14
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Russian general mentioned in Vorontsov's letter as recipient of instructions regarding Hadji Murad.",
+      "degree_centrality": 0,
+      "weighted_centrality": 0.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        3
+      ]
+    },
+    {
+      "id": "the tutor",
+      "label": "the tutor",
+      "canonical_name": "the tutor",
+      "aliases": [
+        "a graduate of Petersburg University",
+        "a shaggy young man of gloomy appearance",
+        "the tutor"
+      ],
+      "narrative_function": "cameo",
+      "historical": false,
+      "appearances": [
+        3
+      ],
+      "appearance_count": 1,
+      "dialogue_volume": "none",
+      "description": "Gloomy Petersburg University graduate sent to the Caucasus by Princess Vorontsov as tutor to her son from her first marriage.",
+      "degree_centrality": 3,
+      "weighted_centrality": 3.0,
+      "dramatic_weight": 1.0,
+      "source_agents": [
+        1
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Eldar",
+      "target": "Hadji Murad",
+      "chapters": [
+        1,
+        4,
+        5,
+        6,
+        12,
+        13,
+        18,
+        20,
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally",
+        "family"
+      ],
+      "weight": 10
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Sado",
+      "chapters": [
+        1,
+        4
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Sado's father",
+      "chapters": [
+        1
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Hadji Murad",
+      "chapters": [
+        1,
+        4,
+        5,
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally",
+        "transactional"
+      ],
+      "weight": 5
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Sado's son",
+      "chapters": [
+        1,
+        4
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Sado",
+      "target": "Sado's father",
+      "chapters": [
+        1
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Sado",
+      "target": "Sado's son",
+      "chapters": [
+        1,
+        4
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Sado",
+      "target": "Sado's wife",
+      "chapters": [
+        1
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Sado",
+      "target": "Sado's daughter",
+      "chapters": [
+        1
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Sado",
+      "chapters": [
+        1
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Eldar",
+      "target": "Sado",
+      "chapters": [
+        1,
+        4
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Eldar",
+      "target": "Sado's father",
+      "chapters": [
+        1
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Avdeev",
+      "target": "Panov",
+      "chapters": [
+        2,
+        5,
+        7
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 3
+    },
+    {
+      "source": "Nikitin",
+      "target": "Panov",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bondarenko",
+      "target": "Panov",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Avdeev",
+      "target": "Nikitin",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Avdeev",
+      "target": "Bondarenko",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bondarenko",
+      "target": "Nikitin",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Panov",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Avdeev",
+      "target": "Bata",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Bondarenko",
+      "chapters": [
+        2
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Khan Mahoma",
+      "chapters": [
+        2,
+        4
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        3,
+        9,
+        10
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 3
+    },
+    {
+      "source": "Michael Vorontsov",
+      "target": "Poltoratsky",
+      "chapters": [
+        3,
+        5
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Michael Vorontsov",
+      "target": "the regimental adjutant",
+      "chapters": [
+        3,
+        5
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Michael Vorontsov",
+      "target": "the tutor",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "Poltoratsky",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "the regimental adjutant",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "the tutor",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Poltoratsky",
+      "target": "the regimental adjutant",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Poltoratsky",
+      "target": "the tutor",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Poltoratsky",
+      "target": "Vovilo",
+      "chapters": [
+        3
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Poltoratsky",
+      "target": "Tikhonov",
+      "chapters": [
+        3,
+        5
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Khanefi",
+      "chapters": [
+        4,
+        5,
+        20,
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 5
+    },
+    {
+      "source": "Gamzalo",
+      "target": "Hadji Murad",
+      "chapters": [
+        4,
+        5,
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 4
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Khan Mahoma",
+      "chapters": [
+        4,
+        5,
+        12,
+        13,
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 6
+    },
+    {
+      "source": "Eldar",
+      "target": "Khanefi",
+      "chapters": [
+        4,
+        5
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Eldar",
+      "target": "Gamzalo",
+      "chapters": [
+        4,
+        5,
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 4
+    },
+    {
+      "source": "Eldar",
+      "target": "Khan Mahoma",
+      "chapters": [
+        4,
+        5
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Avdeev",
+      "target": "Poltoratsky",
+      "chapters": [
+        5,
+        7
+      ],
+      "interaction_types": [
+        "ally",
+        "incidental"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Panov",
+      "target": "Poltoratsky",
+      "chapters": [
+        5
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Baron Freze",
+      "target": "Poltoratsky",
+      "chapters": [
+        5
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        5,
+        10,
+        11,
+        14,
+        22
+      ],
+      "interaction_types": [
+        "ally",
+        "transactional"
+      ],
+      "weight": 5
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Poltoratsky",
+      "chapters": [
+        5
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "the Chechen interpreter",
+      "chapters": [
+        5
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Michael Vorontsov",
+      "target": "the Chechen interpreter",
+      "chapters": [
+        5
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Simon Vorontsov",
+      "chapters": [
+        6
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Marya Vasilevna",
+      "chapters": [
+        6,
+        10
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Bulka",
+      "target": "Hadji Murad",
+      "chapters": [
+        6
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "Simon Vorontsov",
+      "chapters": [
+        6,
+        21
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Meller-Zakomelsky",
+      "target": "Simon Vorontsov",
+      "chapters": [
+        6
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "Meller-Zakomelsky",
+      "chapters": [
+        6
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Meller-Zakomelsky",
+      "chapters": [
+        6
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Avdeev",
+      "target": "Serogin",
+      "chapters": [
+        7
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Panov",
+      "target": "Serogin",
+      "chapters": [
+        7
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akim Avdeev",
+      "target": "Old Avdeev",
+      "chapters": [
+        8
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Old Avdeev",
+      "target": "Old Avdeeva",
+      "chapters": [
+        8
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akim's wife",
+      "target": "Old Avdeev",
+      "chapters": [
+        8
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akim Avdeev",
+      "target": "Akim's wife",
+      "chapters": [
+        8
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akim Avdeev",
+      "target": "Old Avdeeva",
+      "chapters": [
+        8
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Aksinya",
+      "target": "Vanka",
+      "chapters": [
+        8
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Manana Orbelyani",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Carroty General",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        9,
+        10
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Georgian Prince",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Doctor Andreevsky",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Armenian General",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Carroty General",
+      "target": "Marya Vasilevna",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Countess Choiseuil",
+      "target": "Marya Vasilevna",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Carroty General",
+      "target": "Manana Orbelyani",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Countess Choiseuil",
+      "target": "Georgian Prince",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Michael Vorontsov",
+      "target": "Simon Vorontsov",
+      "chapters": [
+        9
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Prince Tarkhanov",
+      "chapters": [
+        10
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Loris-Melikov",
+      "chapters": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 4
+    },
+    {
+      "source": "Carroty General",
+      "target": "Hadji Murad",
+      "chapters": [
+        10
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Gamzalo",
+      "target": "Loris-Melikov",
+      "chapters": [
+        12
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Khan Mahoma",
+      "target": "Loris-Melikov",
+      "chapters": [
+        12
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Eldar",
+      "target": "Loris-Melikov",
+      "chapters": [
+        12
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Khanefi",
+      "target": "Loris-Melikov",
+      "chapters": [
+        12
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Gamzalo",
+      "target": "Khan Mahoma",
+      "chapters": [
+        12
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Osman",
+      "chapters": [
+        11,
+        13
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Patimat",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Umma Khan",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Abu Nutsal Khan",
+      "target": "Hadji Murad",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Khansha",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Hamzad",
+      "chapters": [
+        11,
+        13
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Shamil",
+      "chapters": [
+        11,
+        13
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Aseldar",
+      "target": "Hamzad",
+      "chapters": [
+        13
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hamzad",
+      "target": "Khansha",
+      "chapters": [
+        13
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hamzad",
+      "target": "Umma Khan",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Abu Nutsal Khan",
+      "target": "Hamzad",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Baron Rosen",
+      "target": "Umma Khan",
+      "chapters": [
+        11
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akhmet Khan",
+      "target": "Hadji Murad",
+      "chapters": [
+        13,
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Klugenau",
+      "chapters": [
+        13
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akhmet Khan",
+      "target": "Klugenau",
+      "chapters": [
+        13
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Chernyshov",
+      "target": "Nicholas I",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Chernyshov",
+      "target": "Prince Vasili Dolgoruky",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nicholas I",
+      "target": "Prince Vasili Dolgoruky",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Imperial Aide-de-camp",
+      "target": "Nicholas I",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Kopervine",
+      "target": "Nicholas I",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nicholas I",
+      "target": "Uhlan Officer (masquerade)",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nicholas I",
+      "target": "Polosatov",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bibikov",
+      "target": "Nicholas I",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nicholas I",
+      "target": "The Empress",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nicholas I",
+      "target": "Volkonski",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Baron Lieven",
+      "target": "Nicholas I",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nicholas I",
+      "target": "Prussian Ambassador",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Baron Lieven",
+      "target": "Prussian Ambassador",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Prussian Aide-de-camp",
+      "target": "Prussian Ambassador",
+      "chapters": [
+        15
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Chernyshov",
+      "target": "Michael Vorontsov",
+      "chapters": [
+        14,
+        15
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Butler",
+      "target": "Major Petrov",
+      "chapters": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 5
+    },
+    {
+      "source": "Butler",
+      "target": "Marya Dmitrievna",
+      "chapters": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "interaction_types": [
+        "ally",
+        "incidental"
+      ],
+      "weight": 5
+    },
+    {
+      "source": "Major Petrov",
+      "target": "Marya Dmitrievna",
+      "chapters": [
+        16,
+        18,
+        20,
+        21,
+        24
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 5
+    },
+    {
+      "source": "Butler",
+      "target": "Hadji Murad",
+      "chapters": [
+        18,
+        20
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Major Petrov",
+      "chapters": [
+        18,
+        20
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Marya Dmitrievna",
+      "chapters": [
+        18,
+        20
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Butler",
+      "target": "Khanefi",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Butler",
+      "target": "Eldar",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Arslan Khan",
+      "target": "Hadji Murad",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Arslan Khan",
+      "target": "Butler",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Arslan Khan",
+      "target": "Major Petrov",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Butler",
+      "target": "Petrovsky",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Petrovsky",
+      "chapters": [
+        20
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Jemal Eddin",
+      "target": "Shamil",
+      "chapters": [
+        19
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Shamil",
+      "target": "Yusuf",
+      "chapters": [
+        19
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Shamil",
+      "target": "Zeidat",
+      "chapters": [
+        19
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Aminal",
+      "target": "Shamil",
+      "chapters": [
+        19
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Aminal",
+      "target": "Zeidat",
+      "chapters": [
+        19
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Patimat",
+      "target": "Yusuf",
+      "chapters": [
+        19
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Butler",
+      "target": "Poltoratsky",
+      "chapters": [
+        21
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Butler",
+      "target": "Prince Baryatinsky",
+      "chapters": [
+        21
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Butler",
+      "target": "Simon Vorontsov",
+      "chapters": [
+        21
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Butler",
+      "target": "Kozlovsky",
+      "chapters": [
+        21
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Vasilevna",
+      "target": "Prince Baryatinsky",
+      "chapters": [
+        21
+      ],
+      "interaction_types": [
+        "family"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Kozlovsky",
+      "target": "Prince Baryatinsky",
+      "chapters": [
+        21
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Councillor Kirillov",
+      "target": "Hadji Murad",
+      "chapters": [
+        22
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Khanefi",
+      "chapters": [
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Khan Mahoma",
+      "target": "Khanefi",
+      "chapters": [
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Gamzalo",
+      "target": "Khanefi",
+      "chapters": [
+        23,
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 2
+    },
+    {
+      "source": "Butler",
+      "target": "Peter Nikolaevich Kamenev",
+      "chapters": [
+        24
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Marya Dmitrievna",
+      "target": "Peter Nikolaevich Kamenev",
+      "chapters": [
+        24
+      ],
+      "interaction_types": [
+        "incidental"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Major Petrov",
+      "target": "Peter Nikolaevich Kamenev",
+      "chapters": [
+        24
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Chikhirev",
+      "target": "Peter Nikolaevich Kamenev",
+      "chapters": [
+        24
+      ],
+      "interaction_types": [
+        "transactional"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Nazarov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Ferapontov",
+      "target": "Nazarov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Ignatov",
+      "target": "Nazarov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Mishkin",
+      "target": "Nazarov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Nazarov",
+      "target": "Petrakov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Gamzalo",
+      "target": "Nazarov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Gamzalo",
+      "target": "Ignatov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Khanefi",
+      "target": "Mishkin",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Bata",
+      "target": "Mishkin",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Murad",
+      "target": "Karganov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Aga",
+      "target": "Hadji Murad",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "antagonist"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Hadji Aga",
+      "target": "Karganov",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    },
+    {
+      "source": "Akhmet Khan",
+      "target": "Hadji Aga",
+      "chapters": [
+        25
+      ],
+      "interaction_types": [
+        "ally"
+      ],
+      "weight": 1
+    }
+  ],
+  "fusion_candidates": [
+    {
+      "characters": [
+        "Bondarenko",
+        "Nikitin"
+      ],
+      "confidence": 0.9,
+      "reason": "Both are nameless-crowd Russian soldiers in Panov's ambush party with a single incidental scene; Nikitin's grumbling and Bondarenko's jackal joke can be folded into one composite ambush-comrade without losing narrative weight.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Colonel Zolotukhin",
+        "General Pahlen"
+      ],
+      "confidence": 0.9,
+      "reason": "Both appear only inside the carroty general's single anecdote as names attached to Hadji Murad's past exploit. One name suffices; the other can be cut.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Kozlovsky",
+        "Zavodovsky"
+      ],
+      "confidence": 0.9,
+      "reason": "Both are Russian generals named only in Vorontsov's chapter 14 letter as recipients of identical instructions for overseeing Hadji Murad at Grozny. Neither speaks or acts. Can be fused into a single 'Russian line commander' for the screenplay.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Ivan Petrovich",
+        "Vovilo"
+      ],
+      "confidence": 0.85,
+      "reason": "Ivan Petrovich exists only as an off-screen reference point for Vovilo's self-pity; the comparison can be internalised in Vovilo's monologue or dropped entirely.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Panov",
+        "Serogin"
+      ],
+      "confidence": 0.85,
+      "reason": "Both are Avdeev's comrades at the deathbed with nearly interchangeable functions (sit with him, take the letter). Merging into a single comrade tightens the hospital scene without losing emotional weight.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Akhmet Khan",
+        "Mahomet-Murza"
+      ],
+      "confidence": 0.85,
+      "reason": "Mahomet-Murza is a one-line placeholder (appointed Khan of Kazi-Kumukh then replaced). Function is identical to Akhmet Khan's villain role; can collapse into Akhmet Khan without loss.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Kazi-Mulla",
+        "Mansur"
+      ],
+      "confidence": 0.85,
+      "reason": "Both are deep-backstory Imam references mentioned only to contextualize Shamil. Either can be cut; if one is retained, the other merges into the same 'earlier Imam' reference.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Chikhirev",
+        "Peter Nikolaevich Kamenev"
+      ],
+      "confidence": 0.85,
+      "reason": "Chikhirev exists solely to hand Kamenev the sack containing the head. In a film he can be cut or absorbed into Kamenev's escort as wordless action.",
+      "source_agent": 5
+    },
+    {
+      "characters": [
+        "Kozlovsky",
+        "Meller-Zakomelsky"
+      ],
+      "confidence": 0.8,
+      "reason": "Both are mid-level Russian generals in the chain of custody over Hadji Murad after surrender. Kozlovsky is only a name on a report; his function can collapse into Meller-Zakomelsky or be cut entirely.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Akhmet (brother)",
+        "Osman"
+      ],
+      "confidence": 0.8,
+      "reason": "Akhmet is a single-line note that he died young; his only function is to underscore family mortality. Can be folded into Osman's backstory or cut.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Ibrahim Raschid",
+        "Jemal Eddin"
+      ],
+      "confidence": 0.8,
+      "reason": "Ibrahim Raschid is a pure setting-label (the officer whose saklya holds the family). His function can be absorbed into Jemal Eddin or an unnamed guard-officer in Shamil's court without narrative loss.",
+      "source_agent": 4
+    },
+    {
+      "characters": [
+        "Akhmet Khan",
+        "Hadji Aga"
+      ],
+      "confidence": 0.8,
+      "reason": "Both are Caucasian natives leading the Russian-allied assault; Akhmet Khan only 'is with him' and has no independent action beyond being present. Clean merge candidate — the son-of-old-enemy backstory can be folded into Hadji Aga.",
+      "source_agent": 5
+    },
+    {
+      "characters": [
+        "Sado",
+        "Sado's father"
+      ],
+      "confidence": 0.75,
+      "reason": "The old man exists mainly as a greeter and exposition voice at Sado's door; his mutterings about Russian incursions and his hospitality ritual can be absorbed into Sado himself, simplifying the Makhmet-host function to one figure.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Eldar",
+        "Khanefi"
+      ],
+      "confidence": 0.75,
+      "reason": "The two murids accompanying Hadji Murad into the fort function as an undifferentiated loyal-retainer pair. Khanefi sings and is the sworn brother; Eldar serves. A screenplay can fuse their functions into one composite murid without losing plot.",
+      "source_agent": 4
+    },
+    {
+      "characters": [
+        "Sado's daughter",
+        "Sado's wife"
+      ],
+      "confidence": 0.7,
+      "reason": "Both appear only in the single silent serving sequence in Chapter 1; they perform the same non-speaking hospitality function and can be merged into one female household presence.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Armenian General",
+        "Georgian Prince"
+      ],
+      "confidence": 0.7,
+      "reason": "Both are minor courtier figures at Vorontsov's Tiflis table serving the same narrative function (flatterers/atmosphere). A single composite Caucasian courtier can carry the Napoleon-flattery beat and the ombre game.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Helena Pavlovna",
+        "Michael Pavlovich"
+      ],
+      "confidence": 0.7,
+      "reason": "Both are named palace-courtyard glimpses that feed Nicholas's irritation; neither interacts. Fusion into a single 'reform-minded relative' reduces POV noise.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "German Ballet-master",
+        "Volkonski"
+      ],
+      "confidence": 0.7,
+      "reason": "Both are functionaries who execute Nicholas's whims around the ballerina and Kopervine pension. Single 'court functionary' can cover both errands.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Aminal",
+        "Zeidat"
+      ],
+      "confidence": 0.7,
+      "reason": "Shamil's two named wives serve a single dramatic function: illustrating his domestic frustration after the battle. Can be collapsed into one wife who both serves dinner and sulks, preserving the scene beat.",
+      "source_agent": 4
+    },
+    {
+      "characters": [
+        "Hadji Aga",
+        "Karganov"
+      ],
+      "confidence": 0.7,
+      "reason": "Both lead pursuing militia forces that surround Murad's ditch; both call on him to surrender; Hadji Aga does the kill but Karganov is structurally redundant as a second commanding voice. Merging keeps the 'former kunak now enemy' betrayal beat while simplifying the siege.",
+      "source_agent": 5
+    },
+    {
+      "characters": [
+        "Aseldar",
+        "Hamzad"
+      ],
+      "confidence": 0.65,
+      "reason": "Aseldar exists only to execute Hamzad's killings (Khansha) and to be killed by Hadji Murad in the mosque. The beheading can be performed by Hamzad himself on screen to save a minor antagonist.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Abu Nutsal Khan",
+        "Umma Khan"
+      ],
+      "confidence": 0.65,
+      "reason": "Both Avar Khan brothers die in the same Hamzad-tent sequence performing near-identical narrative roles (lured, murdered). Can be consolidated into a single 'Avar Khan brother' to Hadji Murad, simplifying the Khunzakh backstory.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Bogdanovich",
+        "Poltoratsky"
+      ],
+      "confidence": 0.65,
+      "reason": "Both are Butler's military companions who serve the poetry-of-warfare subtheme — one in cards/camp, the other in ambushes. Easily fusable into a single 'Butler's mess-mate' to tighten the Butler subplot.",
+      "source_agent": 5
+    },
+    {
+      "characters": [
+        "Bata",
+        "Khan Mahoma"
+      ],
+      "confidence": 0.6,
+      "reason": "Both serve as paired envoys on the same night-mission to Vorontsov with effectively interchangeable messenger functions in Chapters 2 and 4; a single envoy/guide carrying Hadji Murad's surrender offer streamlines the defection plot.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Countess Choiseuil",
+        "Manana Orbelyani"
+      ],
+      "confidence": 0.6,
+      "reason": "Both are elite women at the Vorontsov dinner who react to the Hadji Murad stories. Orbelyani already carries the functional beat (deflecting the Dargo anecdote); Choiseuil's 'Quelle horreur!' can be absorbed.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Baron Rosen",
+        "Klugenau"
+      ],
+      "confidence": 0.6,
+      "reason": "Both are early Russian generals in Hadji Murad's backstory whose authority vacillates and who fail to protect him. A single 'earlier Russian general' archetype suffices for the Tiflis-flashback compression.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Bondarenko",
+        "Eldar"
+      ],
+      "confidence": 0.6,
+      "reason": "Bondarenko is a one-line orderly cameo who only opens a door. Easily cut entirely or merged with another servant/orderly role; not a fusion with Eldar per se but absorbable into the household.",
+      "source_agent": 4
+    },
+    {
+      "characters": [
+        "Councillor Kirillov",
+        "General Argutinski"
+      ],
+      "confidence": 0.6,
+      "reason": "Both are bureaucratic Russian figures used to stall Murad's family-exchange request. Kirillov delivers the stalling message on Argutinski's behalf; a single 'Tiflis envoy' character can carry both functions.",
+      "source_agent": 5
+    },
+    {
+      "characters": [
+        "Tikhonov",
+        "the regimental adjutant"
+      ],
+      "confidence": 0.55,
+      "reason": "Both are mid-rank Russian officers orbiting Poltoratsky with no individuated arc — one plays cards, the other shares a bedroom. They can be fused into one officer-peer figure for Poltoratsky.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Akhmet Khan",
+        "Klugenau"
+      ],
+      "confidence": 0.55,
+      "reason": "Both exist only in backstory exposition about why Hadji Murad fled to Shamil. A single antagonist figure (or a single line of dialogue) can compress this backstory beat.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Akim's wife",
+        "Old Avdeeva"
+      ],
+      "confidence": 0.55,
+      "reason": "Both are female voices in the Avdeev family chapter whose lines smooth over the father-son conflict or lament Peter. Consolidating into one matriarch figure keeps the peasant-family beat without three speaking women.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "Bibikov",
+        "Volkonski"
+      ],
+      "confidence": 0.55,
+      "reason": "Both appear in chapter 15 as courtiers who silently execute Nicholas's cruel orders. A single 'compliant minister' can carry the Uniate-peasants court-martial beat and the pension errand.",
+      "source_agent": 3
+    },
+    {
+      "characters": [
+        "Butler",
+        "Petrovsky"
+      ],
+      "confidence": 0.55,
+      "reason": "Petrovsky is a one-scene interlocutor at the farewell party who voices suspicion of Hadji Murad. His lines could be redistributed to Butler or the Major; he exists only to provide a dissenting opinion.",
+      "source_agent": 4
+    },
+    {
+      "characters": [
+        "Baron Freze",
+        "Tikhonov"
+      ],
+      "confidence": 0.5,
+      "reason": "Both are Poltoratsky's peer-level comrades in Chapter 5 with minimal dialogue and no independent storyline; either can absorb the other's function at the wood-felling drinking scene.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Loris-Melikov",
+        "Prince Tarkhanov"
+      ],
+      "confidence": 0.5,
+      "reason": "Both serve as Vorontsov's buffer to Hadji Murad in Tiflis (interpreter vs. aide-de-camp). Consolidating into one handler keeps Hadji Murad's Russian-court arc legible. Caveat: Loris-Melikov is historically significant and may warrant preservation for source accuracy.",
+      "source_agent": 2
+    },
+    {
+      "characters": [
+        "the regimental adjutant",
+        "the tutor"
+      ],
+      "confidence": 0.45,
+      "reason": "Both are single-scene supporting faces at the Vorontsov card table with no later narrative function; a film adaptation can drop or merge them into a generic guest role.",
+      "source_agent": 1
+    },
+    {
+      "characters": [
+        "Kozlovsky",
+        "Simon Vorontsov"
+      ],
+      "confidence": 0.45,
+      "reason": "Both are aristocratic Russian officers at the Baryatinsky dinner with ceremonial function and little dramatic agency. If the dinner scene is kept, merging the outgoing general with young Vorontsov (host) streamlines the court-politics beat.",
+      "source_agent": 5
+    },
+    {
+      "characters": [
+        "Patimat",
+        "Sado"
+      ],
+      "confidence": 0.4,
+      "reason": "Both are grief-stricken parental figures mourning Russian-caused destruction within the same narrative beat (chapter 17 / chapter 19 framing). A film could fuse the destroyed-village grief with the mother's grief into one representative lament.",
+      "source_agent": 4
+    }
+  ],
+  "stats": {
+    "total_characters": 118,
+    "historical_figures": 48,
+    "protagonist_antagonist_foil": 15,
+    "cameo_characters": 66,
+    "fusion_candidate_pairs": 38,
+    "high_confidence_fusions": 12
+  }
+}

@@ -1,0 +1,218 @@
+{"segment": "ACT TWO", "scene_facts": [
+{"scene": "14", "characters_active": ["HADJI MURAD", "SIMON VORONTSOV", "MARYA VASILEVNA"], "characters_inert": ["SHAMIL", "ELDAR", "GAMZALO", "KHANEFI", "KHAN MAHOMA"], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "Dismounts before fort gate, surrenders to Russian Tsar", "quote": "he surrenders himself to the will of the Russian Tsar"},
+{"position": 2, "who": "HADJI MURAD", "event": "arrival", "detail": "Enters Vorontsov house with four murids' escort", "quote": "Hadji Murad stands at the center"}
+], "objects": [
+{"object": "French clock", "action": "introduced", "holder": "Vorontsov house mantel", "detail": "Chimes once as Hadji Murad ignores it"},
+{"object": "kinzhal", "action": "used", "holder": "Hadji Murad", "detail": "Boy reaches for it; Hadji Murad lets him touch hilt"}
+], "counts": [
+{"what": "murids escorting Hadji Murad", "value": 4, "quote": "his four murids sit their horses"},
+{"what": "boy's age", "value": 6, "quote": "A boy of six watches"}
+], "time_markers": ["MORNING"], "injuries": []},
+
+{"scene": "15", "characters_active": ["HADJI MURAD", "MARYA VASILEVNA", "SIMON VORONTSOV", "ELDAR"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "SIMON VORONTSOV", "event": "object_transfer", "detail": "Gives gold repeater watch into Hadji Murad's palm", "quote": "Vorontsov sets the watch in his palm"},
+{"position": 2, "who": "HADJI MURAD", "event": "object_transfer", "detail": "Hands the watch back to Vorontsov", "quote": "hands it back face-up"}
+], "objects": [
+{"object": "gold repeater watch", "action": "transferred", "holder": "Simon Vorontsov", "detail": "Given to Hadji Murad, examined, handed back"},
+{"object": "kinzhal", "action": "used", "holder": "Hadji Murad", "detail": "Rests across his knees through the night"}
+], "counts": [
+{"what": "watch chimes", "value": 12, "quote": "twelve thin chimes"}
+], "time_markers": ["AFTERNOON", "Later"], "injuries": []},
+
+{"scene": "16", "characters_active": ["SIMON VORONTSOV", "HADJI MURAD", "MELLER-ZAKOMELSKY"], "characters_inert": [], "ordered_events": [], "objects": [
+{"object": "bench", "action": "used", "holder": "Hadji Murad", "detail": "Runs finger along grain while waiting"}
+], "counts": [
+{"what": "years Meller-Zakomelsky has served", "value": 27, "quote": "twenty-seven years"},
+{"what": "men fighting over jurisdiction", "value": 2, "quote": "Two men are fighting over the right to file him"}
+], "time_markers": ["DAY"], "injuries": []},
+
+{"scene": "17", "characters_active": ["AVDEEV", "DOCTOR", "PANOV", "SEROGIN", "POLTORATSKY"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "AVDEEV", "event": "arrival", "detail": "Carried in on stretcher, lowered onto the last cot", "quote": "carried in and lowered onto the last cot"},
+{"position": 2, "who": "AVDEEV", "event": "physical_action", "detail": "Groans, clamps jaw, presses hands over his belly", "quote": "presses both hands over his belly"},
+{"position": 3, "who": "AVDEEV", "event": "wound", "detail": "Doctor checks and plasters his exit wound", "quote": "turns him to check the exit wound"},
+{"position": 4, "who": "AVDEEV", "event": "speech", "detail": "Says old flogging scars were for money he drank", "quote": "they were for money he drank, long ago"},
+{"position": 5, "who": "PANOV", "event": "arrival", "detail": "Enters hospital with Serogin, caps in hand", "quote": "come in caps in hand"},
+{"position": 6, "who": "AVDEEV", "event": "speech", "detail": "Dictates last words home: village, brother, wife", "quote": "the distance from the village, the brother, the wife"},
+{"position": 7, "who": "AVDEEV", "event": "death", "detail": "Dies in the night; Panov finds his chest still", "quote": "leans to the still chest, straightens"}
+], "objects": [
+{"object": "wax taper/candle", "action": "used", "holder": "Panov", "detail": "Pressed into Avdeev's dying hand, held upright by Panov"},
+{"object": "unlit cigar", "action": "used", "holder": "Poltoratsky", "detail": "Held unlit while watching stretcher pass"}
+], "counts": [
+{"what": "Serogin's age", "value": 28, "quote": "SEROGIN (28)"}
+], "time_markers": ["DAY TO NIGHT", "By night"], "injuries": [
+{"character": "AVDEEV", "injury": "exit wound from gunshot", "quote": "turns him to check the exit wound"},
+{"character": "AVDEEV", "injury": "old flogging scars crossing his back", "quote": "old flogging scars crossing his back like surveyor's lines"}
+]},
+
+{"scene": "18", "characters_active": ["MICHAEL VORONTSOV", "ELIZABETH", "CARROTY GENERAL", "MANANA ORBELYANI"], "characters_inert": ["HADJI MURAD"], "ordered_events": [
+{"position": 1, "who": "MICHAEL VORONTSOV", "event": "object_transfer", "detail": "Receives sealed dispatch from courier in doorway", "quote": "Michael Vorontsov takes a sealed dispatch"}
+], "objects": [
+{"object": "sealed dispatch", "action": "transferred", "holder": "Michael Vorontsov", "detail": "Delivered by courier, announces Hadji Murad's defection"},
+{"object": "wine stem", "action": "used", "holder": "Michael Vorontsov", "detail": "Fingers go still on it at mention of Dargo ambush"}
+], "counts": [
+{"what": "candlelit guests", "value": 30, "quote": "thirty candlelit guests"}
+], "time_markers": ["EVENING"], "injuries": []},
+
+{"scene": "19", "characters_active": ["HADJI MURAD", "TARKHANOV", "MICHAEL VORONTSOV"], "characters_inert": ["SHAMIL", "AKHMET KHAN"], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "Enters Vorontsov's cabinet, makes formal submission", "quote": "Hadji Murad enters in his white Circassian coat"},
+{"position": 2, "who": "HADJI MURAD", "event": "departure", "detail": "Leaves cabinet, passes chained wall-clock without slowing", "quote": "passes a chained wall-clock and does not slow"}
+], "objects": [
+{"object": "chained wall-clock", "action": "introduced", "holder": "Vorontsov's cabinet", "detail": "Hadji Murad passes it without slowing on way out"}
+], "counts": [
+{"what": "year Hadji Murad served faithfully", "value": 1839, "quote": "he served faithfully in 1839"}
+], "time_markers": ["DAY", "1839 (referenced in dialogue)"], "injuries": [
+{"character": "HADJI MURAD", "injury": "lame gait / old leg injury", "quote": "crosses the floor with a lame gait"}
+]},
+
+{"scene": "20", "characters_active": ["HADJI MURAD", "LORIS-MELIKOV", "ELIZABETH"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "departure", "detail": "Rises without explanation, walks into theater corridor", "quote": "walks into the corridor"}
+], "objects": [], "counts": [], "time_markers": ["EVENING", "The next evening"], "injuries": []},
+
+{"scene": "21", "characters_active": ["LORIS-MELIKOV", "HADJI MURAD"], "characters_inert": ["PATIMAT", "KHANSHA"], "ordered_events": [], "objects": [
+{"object": "ivory-handled knife", "action": "used", "holder": "Hadji Murad", "detail": "Whittles wood while recounting his mother's story"},
+{"object": "leather notebook", "action": "used", "holder": "Loris-Melikov", "detail": "Records Hadji Murad's dictated life story"}
+], "counts": [], "time_markers": ["DAY"], "injuries": [
+{"character": "HADJI MURAD", "injury": "scar on his ribs from his mother", "quote": "finding on his body a scar that belongs to her"}
+]},
+
+{"scene": "22", "characters_active": ["HADJI MURAD", "KHANSHA", "ABU NUTSAL KHAN", "HAMZAD", "SHAMIL"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "ABU NUTSAL KHAN", "event": "physical_action", "detail": "Paces in ceremonial dress, fastens silver belt nervously", "quote": "fastening a silver belt with shaking fingers"},
+{"position": 2, "who": "ABU NUTSAL KHAN", "event": "departure", "detail": "Calls for his horse, rides toward Hamzad's camp", "quote": "He calls for his horse"},
+{"position": 3, "who": "HADJI MURAD", "event": "departure", "detail": "Rides at Abu Nutsal's stirrup into the mountains", "quote": "Hadji Murad rides at his stirrup, into the mountains"},
+{"position": 4, "who": "ABU NUTSAL KHAN", "event": "death", "detail": "Shot inside Hamzad's tent while Shamil blocks Hadji Murad", "quote": "A single muffled gunshot, like a hand pressed over a mouth"},
+{"position": 5, "who": "KHANSHA'S SONS (2 hostages, unnamed)", "event": "death", "detail": "Die alongside Abu Nutsal Khan in Hamzad's tent", "quote": "the tent where the Khansha's sons lie still"},
+{"position": 6, "who": "HADJI MURAD", "event": "escape", "detail": "Runs down scree and scrub-oak, does not look back", "quote": "He runs — down scree and scrub-oak"}
+], "objects": [
+{"object": "silver belt", "action": "used", "holder": "Abu Nutsal Khan", "detail": "Fastens it with shaking fingers before riding out"},
+{"object": "bridles", "action": "used", "holder": "Hadji Murad", "detail": "Go slack in his fist as he flees"}
+], "counts": [
+{"what": "brothers already hostage in Hamzad's camp", "value": 2, "quote": "two brothers already hostage in Hamzad's camp"},
+{"what": "amber beads clicks", "value": 2, "quote": "amber beads clicking twice"}
+], "time_markers": ["PAST (FLASHBACK)", "night sky raked with stars", "A cut across years"], "injuries": [
+{"character": "KHANSHA", "injury": "saber scar across her sternum", "quote": "the puckered ridge of a saber scar across her sternum"}
+]},
+
+{"scene": "23", "characters_active": ["HADJI MURAD", "LORIS-MELIKOV", "ELDAR", "GAMZALO", "KHAN MAHOMA", "KHANEFI"], "characters_inert": [], "ordered_events": [], "objects": [
+{"object": "gold repeater watch", "action": "used", "holder": "Hadji Murad", "detail": "Presses spring for twelve chimes while confessing shame"},
+{"object": "rifle", "action": "used", "holder": "Eldar", "detail": "Rests across his knees by the fire"},
+{"object": "bridle", "action": "used", "holder": "Gamzalo", "detail": "Plaits it with fast, tight fingers"},
+{"object": "sack of rice", "action": "used", "holder": "Khanefi", "detail": "Holds it by the dying fire"}
+], "counts": [
+{"what": "watch chimes", "value": 12, "quote": "twelve delicate chimes"},
+{"what": "murids at the fire", "value": 4, "quote": "the four murids keep their separate orbits"}
+], "time_markers": ["NIGHT"], "injuries": [
+{"character": "HADJI MURAD", "injury": "shortened, twisted right leg", "quote": "the shortened, twisted limb flat to the floorboards"}
+]},
+
+{"scene": "24", "characters_active": ["CHERNYSHOV"], "characters_inert": ["MICHAEL VORONTSOV", "NICHOLAS I", "HADJI MURAD"], "ordered_events": [], "objects": [
+{"object": "wax seal", "action": "destroyed", "holder": "Chernyshov", "detail": "Breaks Vorontsov's seal to read the dispatch"},
+{"object": "dispatch", "action": "used", "holder": "Chernyshov", "detail": "Reads then folds it with practiced crease"},
+{"object": "fresh sheet of paper", "action": "introduced", "holder": "Chernyshov", "detail": "Crosses to cabinet, writes and strikes a line"}
+], "counts": [
+{"what": "identical packets stacked by his lamp", "value": 20, "quote": "the twenty identical packets stacked by his lamp"}
+], "time_markers": ["DAY", "Winter"], "injuries": []},
+
+{"scene": "25", "characters_active": ["HADJI MURAD", "LORIS-MELIKOV"], "characters_inert": ["SHAMIL", "SOFIAT", "PATIMAT", "YUSUF"], "ordered_events": [], "objects": [
+{"object": "papakha", "action": "used", "holder": "Hadji Murad", "detail": "Sets it on the table before standing to demand terms"},
+{"object": "map", "action": "used", "holder": "Hadji Murad", "detail": "Traces finger from Vedeno down to the Russian line"},
+{"object": "dagger", "action": "used", "holder": "Hadji Murad", "detail": "Hand rests on hilt, not drawn"}
+], "counts": [
+{"what": "Cossacks requested for guard of honor", "value": 20, "quote": "a guard of honor of twenty chosen Cossacks"}
+], "time_markers": ["AFTERNOON"], "injuries": []},
+
+{"scene": "26", "characters_active": ["SIMON VORONTSOV", "HADJI MURAD", "LORIS-MELIKOV", "MARYA VASILEVNA"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "SIMON VORONTSOV", "event": "object_transfer", "detail": "Slides gold repeater case toward Hadji Murad, who declines it", "quote": "Hadji Murad does not take it"}
+], "objects": [
+{"object": "gold repeater watch", "action": "used", "holder": "Simon Vorontsov", "detail": "Offered across table; Hadji Murad declines to take it"},
+{"object": "two glasses (wine)", "action": "introduced", "holder": "Simon Vorontsov", "detail": "Pours himself, no servant present"},
+{"object": "lamp", "action": "used", "holder": "Marya Vasilevna", "detail": "Pauses in doorway to refill it"}
+], "counts": [
+{"what": "glasses poured", "value": 2, "quote": "pours two glasses himself"}
+], "time_markers": ["EVENING TO MORNING", "grey morning light", "weeks ago (reference)"], "injuries": []},
+
+{"scene": "27", "characters_active": ["CHERNYSHOV", "NICHOLAS I", "LORIS-MELIKOV", "HADJI MURAD"], "characters_inert": ["SOFIAT", "YUSUF", "PATIMAT"], "ordered_events": [
+{"position": 1, "who": "LORIS-MELIKOV", "event": "object_transfer", "detail": "Brings folded authorization sheet to Hadji Murad", "quote": "brings it to Hadji Murad in a single folded sheet"},
+{"position": 2, "who": "HADJI MURAD", "event": "object_transfer", "detail": "Folds the sheet, hands it back without a word", "quote": "folds it along its crease and hands it back"}
+], "objects": [
+{"object": "dispatch/folder", "action": "used", "holder": "Chernyshov", "detail": "Opens the folder for Nicholas's review"},
+{"object": "folded authorization sheet", "action": "transferred", "holder": "Hadji Murad", "detail": "Grants cooperation but names none of his hostage family"}
+], "counts": [
+{"what": "times Polish Catholic must pass through the line", "value": 12, "quote": "pass twelve times through a thousand men"},
+{"what": "men in the gauntlet line", "value": 1000, "quote": "a thousand men"}
+], "time_markers": ["DAY", "EVENING"], "injuries": []},
+
+{"scene": "28", "characters_active": ["SIMON VORONTSOV", "HADJI MURAD"], "characters_inert": ["YUSUF"], "ordered_events": [
+{"position": 1, "who": "GROUP", "event": "departure", "detail": "Vorontsov and Hadji Murad ride back without speaking", "quote": "They ride back without speaking"}
+], "objects": [], "counts": [], "time_markers": ["LATE AFTERNOON"], "injuries": []},
+
+{"scene": "29", "characters_active": ["HADJI MURAD", "SADO"], "characters_inert": ["SADO'S SON"], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "Enters ruined aoul on foot, stops at broken gate", "quote": "Hadji Murad enters on foot, stops at the broken gate"},
+{"position": 2, "who": "SADO'S SON", "event": "death", "detail": "Found dead under a burka in ruined courtyard", "quote": "the small shape of Sado's son"}
+], "objects": [
+{"object": "burka", "action": "used", "holder": "Sado's son", "detail": "Covers the small shape of Sado's dead son"},
+{"object": "spade", "action": "used", "holder": "Sado", "detail": "Hadji Murad sets hand on the shaft to help dig"},
+{"object": "Sado's saklya/aoul", "action": "destroyed", "holder": "Sado", "detail": "Collapsed beams, smoke, ash after destruction"}
+], "counts": [], "time_markers": ["DAY"], "injuries": [
+{"character": "SADO'S WIFE (unnamed mother)", "injury": "self-inflicted facial wounds from grief", "quote": "fingernails dragging blood from her own face"}
+]},
+
+{"scene": "30", "characters_active": ["BUTLER", "HADJI MURAD", "MARYA DMITRIEVNA", "PETROV"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "arrival", "detail": "Rides into fort street on a chestnut horse", "quote": "Hadji Murad on a chestnut, moving in tight controlled steps"}
+], "objects": [
+{"object": "whip", "action": "used", "holder": "Hadji Murad", "detail": "Hangs from his extended two fingers as greeting"},
+{"object": "orders (paper)", "action": "used", "holder": "Petrov", "detail": "Reads orders without sitting, still chewing bread"},
+{"object": "ladle", "action": "used", "holder": "Marya Dmitrievna", "detail": "Rings on iron in place of a verbal answer"},
+{"object": "dagger", "action": "used", "holder": "Hadji Murad", "detail": "Hand rests on hilt while assessing the room"}
+], "counts": [
+{"what": "Butler's age", "value": 24, "quote": "BUTLER (24)"},
+{"what": "Marya Dmitrievna's age", "value": 30, "quote": "MARYA DMITRIEVNA (30)"}
+], "time_markers": ["DAY"], "injuries": []},
+
+{"scene": "31", "characters_active": ["SHAMIL"], "characters_inert": ["HADJI MURAD'S WIVES (unnamed, plural)", "PATIMAT", "YUSUF"], "ordered_events": [
+{"position": 1, "who": "SHAMIL", "event": "arrival", "detail": "Rides into Vedeno amid celebratory gunfire", "quote": "rides into Vedeno on a white Arab"},
+{"position": 2, "who": "SHAMIL", "event": "object_transfer", "detail": "Takes sealed prisoner list from a murid without a glance", "quote": "a murid presents a sealed prisoner list and Shamil takes it"}
+], "objects": [
+{"object": "sealed prisoner list", "action": "transferred", "holder": "Shamil", "detail": "Presented by a murid; Shamil takes it without a glance"}
+], "counts": [], "time_markers": ["DAY", "winter sky"], "injuries": []},
+
+{"scene": "32", "characters_active": ["JEMAL EDDIN", "SHAMIL", "YUSUF"], "characters_inert": ["HADJI MURAD", "SOFIAT", "PATIMAT"], "ordered_events": [
+{"position": 1, "who": "SOFIAT", "event": "capture", "detail": "Intercepted before reaching Russian line, held under guard", "quote": "were intercepted before they reached the Russian line"},
+{"position": 2, "who": "PATIMAT", "event": "capture", "detail": "Intercepted before reaching Russian line, held under guard", "quote": "were intercepted before they reached the Russian line"},
+{"position": 3, "who": "YUSUF", "event": "capture", "detail": "Intercepted before reaching Russian line, held under guard", "quote": "were intercepted before they reached the Russian line"},
+{"position": 4, "who": "YUSUF", "event": "physical_action", "detail": "Brought up from the pit to write letter under duress", "quote": "Yusuf is brought up from the pit, thin, reeking"},
+{"position": 5, "who": "YUSUF", "event": "physical_action", "detail": "Snatches a dagger, drives it at his own throat", "quote": "Yusuf snatches a dagger and drives it at his own throat"},
+{"position": 6, "who": "YUSUF", "event": "capture", "detail": "Murids wrench his arm, force him back into the dark", "quote": "murids wrench his arm and force him back into the dark"}
+], "objects": [
+{"object": "proclamation", "action": "introduced", "holder": "Jemal Eddin", "detail": "Reads proclamation; scribe presses seal after Shamil's nod"},
+{"object": "seal", "action": "used", "holder": "scribe (unnamed)", "detail": "Pressed onto the proclamation after Shamil's nod"},
+{"object": "reed pen", "action": "used", "holder": "Yusuf", "detail": "Shaking over paper as he is forced to write"},
+{"object": "dagger", "action": "used", "holder": "Yusuf", "detail": "Snatched and driven toward his own throat, then wrenched away"},
+{"object": "letter", "action": "introduced", "holder": "Yusuf (forced)", "detail": "Will travel to the Russian fort like a blade"}
+], "counts": [
+{"what": "family members intercepted", "value": 3, "quote": "all three now held under guard in Vedeno"},
+{"what": "Jemal Eddin's age", "value": 30, "quote": "JEMAL EDDIN (30)"}
+], "time_markers": ["DAY"], "injuries": []},
+
+{"scene": "33", "characters_active": ["KHANEFI", "MARYA DMITRIEVNA", "ELDAR", "HADJI MURAD", "BUTLER"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "ELDAR", "event": "object_transfer", "detail": "Carries Hadji Murad's tray through the house", "quote": "Eldar carries Hadji Murad's tray through"}
+], "objects": [
+{"object": "copper bowl", "action": "used", "holder": "Khanefi", "detail": "Holds it in kitchen doorway, directed to water"},
+{"object": "tray", "action": "used", "holder": "Eldar", "detail": "Carries Hadji Murad's tray through the house"}
+], "counts": [
+{"what": "words in Hadji Murad's praise of the song", "value": 4, "quote": "four words from a man who has recognized his own obituary"}
+], "time_markers": ["EVENING"], "injuries": []},
+
+{"scene": "34", "characters_active": ["HADJI MURAD", "ELDAR", "MARYA DMITRIEVNA", "PETROV", "BUTLER"], "characters_inert": [], "ordered_events": [
+{"position": 1, "who": "HADJI MURAD", "event": "object_transfer", "detail": "Gives white burka to Marya Dmitrievna with both hands", "quote": "holds it out with both hands"},
+{"position": 2, "who": "HADJI MURAD", "event": "object_transfer", "detail": "Gives the Gurda sword to Major Petrov", "quote": "The Gurda sword goes to Petrov"},
+{"position": 3, "who": "HADJI MURAD", "event": "departure", "detail": "Mounts and rides away from the fort with his men", "quote": "The riders dwindle"}
+], "objects": [
+{"object": "white burka", "action": "transferred", "holder": "Marya Dmitrievna", "detail": "Given by Hadji Murad via Eldar as a parting gift"},
+{"object": "Gurda sword", "action": "transferred", "holder": "Petrov", "detail": "Given by Hadji Murad as a parting gift"}
+], "counts": [], "time_markers": ["MORNING", "On the morning of departure"], "injuries": [
+{"character": "HADJI MURAD", "injury": "limp (old leg injury)", "quote": "Hadji Murad limps to Marya Dmitrievna"}
+]},
+
+{"scene": "35", "characters_active": ["HADJI MURAD", "LORIS-MELIKOV"], "characters_inert": ["ARGUTINSKI", "SOFIAT", "PATIMAT", "YUSUF"], "ordered_events": [], "objects": [], "counts": [], "time_markers": ["DAY", "next week (referenced, future)"], "injuries": []}
+]}

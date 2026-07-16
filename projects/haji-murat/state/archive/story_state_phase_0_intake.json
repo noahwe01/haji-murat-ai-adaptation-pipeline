@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Hadji Murat",
+    "created_at": "2026-04-24T00:32:21.360328",
+    "status": "initialized",
+    "source_language": "en",
+    "output_language": "en",
+    "target_runtime_minutes": null,
+    "scene_budget": null,
+    "revision_cycle": 0,
+    "source_length_class": null,
+    "word_count": null,
+    "output_mode": "treatment",
+    "expansion_mode": null
+  },
+  "style_manifest": {
+    "genre": "historical war tragedy / anti-imperial fable",
+    "tone": "tragic and sober, epic distance with intimate moments; violence without glorification; moral ambivalence toward empire and resistance",
+    "reference_films": [
+      "Lawrence of Arabia",
+      "The Last Duel (2021)",
+      "The English Patient",
+      "War and Peace (Bondarchuk 1966)",
+      "Come and See",
+      "Ran"
+    ],
+    "language": "en"
+  },
+  "casting": {},
+  "chunks": [],
+  "plot": {
+    "summary": "",
+    "logline": "",
+    "acts": [],
+    "subplots": [],
+    "tension_curve": [],
+    "themes": []
+  },
+  "characters": {},
+  "character_relationships": [],
+  "world": {
+    "locations": [],
+    "timeline": [],
+    "time_period": "",
+    "atmosphere": "",
+    "production_notes": []
+  },
+  "reference_context": {},
+  "impro_material": {},
+  "adapted_scenes": [],
+  "continuity_log": [],
+  "final_script": "",
+  "treatment_text": "",
+  "coverage_report": null,
+  "revision_history": [],
+  "confidence_stats": {
+    "mean": null,
+    "min": null,
+    "max": null,
+    "below_threshold": 0,
+    "distribution": {}
+  }
+}

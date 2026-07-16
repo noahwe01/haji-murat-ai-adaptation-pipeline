@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "adaptation_agent scene output caps",
+  "description": "Mirrors existing SCHEMA_CAPS in agents/adaptation_agent.py. JSON form for documentation + future centralization.",
+  "type": "object",
+  "properties": {
+    "action":           {"type": "string", "maxLength": 800},
+    "visual_note":      {"type": "string", "maxLength": 200},
+    "dialog_draft":     {"type": "array",  "maxItems":  6},
+    "emotional_beats":  {"type": "array",  "maxItems":  8, "items": {"type": "string", "maxLength": 200}},
+    "subplot_threads":  {"type": "array",  "maxItems":  6, "items": {"type": "string", "maxLength": 80}},
+    "transition":       {"type": "string", "maxLength": 200}
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "characters_found": [
+    {
+      "name": "author-narrator",
+      "direct_quotes": [
+        "But what energy and tenacity!  With what determination it defended itself, and how dearly it sold its life!"
+      ],
+      "speech_descriptors": [
+        "internal monologue / thought (introduced with 'thought I')"
+      ],
+      "actions": [
+        "Walking home through fields during midsummer harvest season",
+        "Gathering a nosegay of wildflowers",
+        "Noticing a crimson thistle ('Tartar' variety) in a ditch",
+        "Driving away a bumblebee from the thistle flower",
+        "Wrapping his hand in a handkerchief to protect against thorns",
+        "Struggling for nearly five minutes to pluck the thistle",
+        "Breaking the thistle fibers one by one",
+        "Plucking the thistle — finding it frayed and less beautiful afterwards",
+        "Throwing the thistle away",
+        "Ascending a dusty path across a black-earth ploughed field"
+      ],
+      "inner_states": [
+        "Admiration for the thistle's beauty in its natural setting",
+        "Determined to include the thistle in his nosegay",
+        "Frustration at the difficulty of plucking the thistle",
+        "Regret at having 'vainly destroyed a flower that looked beautiful in its proper place'",
+        "Retrospective admiration for the thistle's tenacity and determination in self-defense",
+        "The act of plucking becomes a meditation on resistance, survival, and the cost of destruction"
+      ],
+      "social_markers": [
+        "Educated, literary sensibility — detailed botanical observation",
+        "Landowner-adjacent class (walks through a landed proprietor's field)",
+        "Russian rural setting, midsummer, late 19th century",
+        "Reflective, philosophically inclined register",
+        "First-person narrator who frames the entire novel through this symbolic prologue"
+      ],
+      "relationship_dynamics": [],
+      "new_info": [
+        "Serves as the frame narrator of the entire novel — his encounter with the thistle is the symbolic prologue that introduces Hadji Murad as a figure of indestructible resistance",
+        "The thistle ('Tartar' variety, locally avoided) is an explicit metaphor for Hadji Murad — beautiful, dangerous, tenacious, ultimately destroyed by outside force",
+        "The narrator's regret at destroying the flower signals his moral stance: sympathy for the conquered, critique of the conqueror",
+        "No other named characters appear in this chunk — this is a purely narratorial framing device"
+      ]
+    }
+  ]
+}

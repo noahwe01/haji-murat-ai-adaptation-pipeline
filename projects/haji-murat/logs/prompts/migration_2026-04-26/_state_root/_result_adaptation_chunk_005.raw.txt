@@ -1,0 +1,100 @@
+ADAPTATION OUTPUT — CHUNK 005
+Hadji Murat | Novel-to-Screenplay | Adaptation Agent
+
+SOURCE PASSAGE SUMMARY:
+Hadji Murad and his murid Eldar arrive at the old man's home at night. Hadji Murad disarms
+himself and the old man hangs the weapons. They pray together. The old man speaks in proverbs
+about Russian violence ("hares and eagles"), deflecting direct news with feigned ignorance.
+The murid Eldar is introduced. The scene establishes the code of hospitality, mountain prayer
+ritual, and the atmosphere of danger and careful speech under imperial occupation.
+
+SCENE DECISIONS:
+- This chunk adapts cleanly into ONE scene (S001): the arrival ritual + veiled conversation.
+- No subplot suppression required — this is the inciting spatial grounding of the story.
+- The narrator's auktorial voice (NF-04) is dissolved; no voice-over. The weapons on the wall
+  and the prayer do the work of establishing the world.
+- The old man's proverb ("hares and eagles") is the scene's emotional and thematic peak —
+  preserved as the closing beat of dialogue (SC-03: value shift, danger→clarity).
+
+RAW SCENE TEXT (for reference):
+
+EXT./INT. CHECHEN SAKLYA — NIGHT
+
+The yard is dark. A dog knows not to bark. A boy — Sado's Son — stands at the gate, watching
+the wood line. Two shapes emerge from the trees: one tall, one shorter. No lanterns. No voices.
+
+Hadji Murad ducks through the low door. The murid Eldar follows. The room is small, clay-
+plastered, lamp-lit. Weapons already on the wall: two long rifles and a sword in a painted
+scabbard, hanging between basins of hammered copper that catch the light.
+
+The Old Man stands. He doesn't speak. He lifts his hands toward Hadji Murad's burka.
+
+Hadji Murad unslings the burka. Then the rifle. Then the sword. Each piece placed in the old
+man's hands without ceremony. The old man hangs them on the nails beside his own — the wall
+now a grammar of weapons. He runs his thumb along the blade before releasing it.
+
+Hadji Murad adjusts the pistol at the small of his back. He crosses to the cushions and sits,
+pulling his Circassian coat closed. The room is warm. The lamp steadies.
+
+The old man lowers himself to his heels beside Hadji Murad. Both men close their eyes. Both
+lift their palms upward. They speak the prayer in unison — brief, spare Arabic syllables —
+then draw their hands down their faces, beards caught between joined palms at the last.
+
+A silence. The kind that has been agreed upon.
+
+HADJI MURAD: Ne habar?
+
+The old man does not look at his face. He looks at the breast of his coat, at the place the
+rifle was.
+
+OLD MAN: Habar yok.
+(a beat)
+I live at the apiary. I only came in today to see my son.
+(his eyes find the floor)
+He knows.
+
+Hadji Murad reads the withholding. He nods once. Asks nothing more.
+
+The door opens. Eldar enters — swift, quiet, reading the room in a glance. He unslings his
+weapons exactly as his master did: burka, rifle, sword. Hangs them on the same nails. Takes
+the dagger and pistol with him. Sits on the felt mat beside Hadji Murad, legs crossed,
+hands loose on his knees.
+
+OLD MAN: (gesturing toward Eldar)
+Who is he?
+
+HADJI MURAD: My murid. Eldar is his name.
+
+OLD MAN: (a slow nod)
+That is well.
+
+He motions Eldar to a place on the felt. Eldar settles. The old man looks between the two men —
+the lamp-light steady on their faces — and then at the wall of weapons that was not there
+an hour ago.
+
+OLD MAN: (voice dropping, gravel-dry)
+There is no good news.
+
+He pauses. Picks up a small clay cup. Sets it down without drinking.
+
+OLD MAN: The hares have been discussing how to drive away the eagles.
+(he draws a breath)
+The eagles tear first one, then another.
+(a silence)
+The other day the Russian dogs burnt the hay in the Mitchit aoul.
+
+He pauses. His jaw tightens.
+
+OLD MAN: May their faces be torn.
+
+The lamp flickers. The weapons on the wall hold still.
+
+Hadji Murad looks at the weapons. Then at Eldar. Eldar has not moved.
+
+DECISIONS:
+- KEEP scene: arrival ritual grounds the film's world, establishes hospitality-code as moral center → SC-01 (passes 2/3 tests: protagonist-drive + theme)
+- TRANSLATE_TO_VISUAL auktorial narrator commentary: "What vitality" and moral exclamations dissolved into weapons-on-wall image → NF-04
+- KEEP old man's proverb ("hares and eagles"): value shift fear→clarity, thematic core → SC-03, M-02
+- CUT redundant detail: old man's "lifeless red eyes" description — untranslatable interiority → SC-06
+- KEEP Eldar introduction: voice-profile anchor moment ("My murid. Eldar is his name.") → M-05
+- DISSOLVE_FRAME narrator voice: no voice-over; spatial details carry the moral weight → NF-04, NF-09

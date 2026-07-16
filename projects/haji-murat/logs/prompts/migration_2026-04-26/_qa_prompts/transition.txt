@@ -1,0 +1,156 @@
+You are a film editor and transition architect. You analyze
+scene-to-scene connections and design transitions that do THEMATIC WORK.
+
+Good transitions are invisible storytelling: they encode pacing, theme, and emotion
+between scenes — not just within them.
+
+SCENE PAIRS (consecutive scenes):
+[S001 → S002]
+  End: EXT. SUMMER FIELD — EDGE OF HARVESTED RYE — LATE AFTERNOON — "He stands for a moment looking down at what he destroyed, then turns and walks away into the rye light."
+  Emotional: The reflexive violence of possession — beauty destroyed in the act of reaching for it
+  ---(Hard cut to black; title HADJI MURAT. 1851.)---
+  Start: EXT. BLACK-EARTH FIELD — DIRT ROAD — LATE AFTERNOON — "A vast ploughed field."
+  Emotional: The refusal to submit — vitality persisting inside destruction
+
+[S002 → S003]
+  End: EXT. BLACK-EARTH FIELD — DIRT ROAD — LATE AFTERNOON — "The thistle remains — alone, erect, surrounded by mud."
+  Emotional: The refusal to submit — vitality persisting inside destruction
+  ---(Hard cut from the thistle to firelight of Chechen village, sound arriving first)---
+  Start: EXT. MAKHMET AOUL - NARROW SIDE STREET - DUSK — "A dry thistle stands at the road's edge — stem broken mid-stalk, head intact, burgundy against grey mud brick."
+  Emotional: Controlled flight — dignity while hunted
+
+[S003 → S004]
+  End: EXT. MAKHMET AOUL - NARROW SIDE STREET - DUSK — "He turns into the side street."
+  Emotional: Controlled flight — dignity while hunted
+  ---(Side street narrows; sound of square falls away.)---
+  Start: EXT. SAKLYA ROOFTOP / PENTHOUSE - MAKHMET - NIGHT FALLING — "Hadji Murad stops at the second saklya, cut into the hillside."
+  Emotional: Sacred debt of hospitality — two men transacting across silence
+
+[S004 → S005]
+  End: EXT. SAKLYA ROOFTOP / PENTHOUSE - MAKHMET - NIGHT FALLING — "His eyes go left along the alley, right up the slope, then return."
+  Emotional: Sacred debt of hospitality — two men transacting across silence
+  ---(Old man descends ladder; alley darkens; smell of warm bread and kizyak smoke; door closes.)---
+  Start: EXT./INT. SADO'S SAKLYA — NIGHT — "The compound is dark."
+  Emotional: Refuge received — fragile, contingent on everything unsaid
+
+[S005 → S006]
+  End: EXT./INT. SADO'S SAKLYA — NIGHT — "The rifles and sword of the master hang between two posts; the old man lifts Hadji Murad's burka, rifle, and sword and a"
+  Emotional: Refuge received — fragile, contingent on everything unsaid
+  ---(Boy runs; bare feet on packed earth; lamp-light shrinks; mosque door carries into next scene)---
+  Start: INT. CHECHEN SAKLYA — NIGHT — "The saklya is small, clay-plastered, warm from a low lamp."
+  Emotional: Danger and hospitality as twin obligations — the room holds both, barely
+
+DECLARED THEMES:
+sacred hospitality (kunak) as counter-force to imperial violence, man as destroyer of life, The native defender crushed in his proper place, trust ritualized through gesture and object (weapons surrendered, cushions placed), coded speech as survival in wartime, memory and historical witness (narrator frame), indomitable vitality vs. destruction (thistle-frame bleeds into HM's fugitive entrance), memory as gateway to story, Senselessness of vain destruction, refuge vs. pursuit — the hunted warrior at a friend's threshold, resistance and refusal to submit, indomitable vitality in the face of destruction, ritual as political identity, hares versus eagles — asymmetric colonial violence, Tenacity of life against destruction, beauty crushed by civilization, Beauty violated by imperial/agricultural force, hostile terrain, divided loyalties — a Chechen aoul is no longer safe for Shamil's naib, hospitality and kunak-loyalty under occupation, fallen greatness — the celebrated warrior reduced to a hunted man
+
+STYLE / REFERENCE FILMS:
+Genre: historical war tragedy / anti-imperial fable
+Reference films: Lawrence of Arabia, The Last Duel (2021), The English Patient, War and Peace (Bondarchuk 1966), Come and See, Ran
+
+───────────────────────────────────────────────
+
+For each scene pair, evaluate the current transition and propose improvements:
+
+TRANSITION TYPES (from strongest to simplest):
+- **MATCH CUT**: Visual element connects two scenes (bone → spaceship, letter → newspaper)
+- **SOUND BRIDGE**: Audio from next scene bleeds into current (church bells over departure)
+- **CONTRAST CUT**: Opposite moods slam together (wedding → funeral, laughter → weeping)
+- **VISUAL RHYME**: Same composition, different context (Maria at window in Act I → Act III)
+- **THEMATIC CUT**: Same idea, different situation (two characters lying in parallel)
+- **QUESTION CUT**: Scene ends with unresolved tension, next scene answers (or doesn't)
+- **SMASH CUT**: Hard, unexpected jump for shock or comedy
+- **TIME CUT**: Same location, different time (season change, aging)
+- **SIMPLE CUT**: No special technique — just move forward (use sparingly)
+
+RULES:
+1. At least 30% of transitions should use a technique (not all SIMPLE CUT)
+2. Act breaks deserve the strongest transitions (match cuts, contrast cuts)
+3. Recurring motifs (snow, letters, the willow) should connect distant scenes
+4. Transitions set pacing rhythm — fast cuts for tension, slow dissolves for reflection
+
+OUTPUT as valid JSON:
+{
+  "transitions": [
+    {
+      "from_scene": "S015",
+      "to_scene": "S016",
+      "current_transition": "CUT TO:",
+      "proposed_type": "sound_bridge",
+      "proposal": "Maria's sob carries over into the howling wind of the next scene",
+      "thematic_link": "Personal grief → Nature's indifference",
+      "priority": "high"
+    }
+  ],
+  "act_break_transitions": [
+    {
+      "break": "Act I → Act II",
+      "from_scene": "S012",
+      "to_scene": "S013",
+      "proposed_type": "match_cut",
+      "proposal": "Maria's hand releasing Vladimir's → same hand releasing a letter into the fire"
+    }
+  ],
+  "motif_connections": [
+    {
+      "motif": "snow",
+      "scenes_connected": ["S001", "S018", "S045"],
+      "visual_rhyme": "Snow as barrier (S001) → snow as erasure (S018) → snow as peace (S045)"
+    }
+  ],
+  "stats": {
+    "total_transitions": 44,
+    "technique_transitions": 15,
+    "technique_pct": 34,
+    "simple_cuts": 29
+  }
+}
+
+METHODOLOGY SKILLS (mandatory application):
+
+### voice-profile-injection
+# Voice Profile Injection — Vollständige 9-Dimensionen-Strategie
+
+## Die 9 Dimensionen eines Voice Profiles
+
+| # | Dimension | Was sie liefert | Token-Budget |
+|---|-----------|----------------|-------------|
+| 1 | `voice_description` | Gesamtcharakter der Stimme, Entwicklung über Akte | ~40 |
+| 2 | `vocabulary_level` | Bildungsgrad, Milieu, Sprachregister | ~15 |
+| 3 | `sentence_structure` | Satzlänge, Komplexität, Muster | ~15 |
+| 4 | `verbal_tics` | Wiederkehrende Ausdrücke, Sprachmuster | ~20 |
+| 5 | `avoidances` | Was die Figur NIE sagt — oft aufschlussreicher als Tics | ~20 |
+| 6 | `emotional_expression` | Wie die Figur Gefühle zeigt/verbirgt | ~30 |
+| 7 | `speech_rhythm` | Tempo, Pausen, Beschleunigung unter Druck | ~15 |
+| 8 | `dialog_examples` | 5 emotionale Zustände mit Beispielzeilen | ~40 |
+| 9 | `subtext_rules` | Was die Figur wirklich meint vs. was sie sagt | ~25 |
+
+**Gesamt: ~200 Tokens pro Charakter** (bei 5-6 Hauptfiguren: ~1000-1200 Tokens)
+
+## Warum alle 9 Dimensionen kritisch sind
+
+### Das Truncation-Problem (v2.0)
+In der ursprünglichen Pipeline wurden nur 3-5 Dimensionen injiziert:
+- `voice_description` (gekürzt)
+- `verbal_tics` (gekappt auf 3)
+- `avoidances` (gekappt auf 3)
+
+**Resultat:** Dialog klang generisch. Figuren waren austauschbar. Coverage-Score für Dialog: 68/100.
+
+### Was die fehlenden Dimensionen bewirken
+
+**`dialog_examples`** sind der größte Hebel: Das LLM bekommt konkrete Referenzzeilen für 5 emotionale Zustände (neutral, unter Druck, hoffnungsvoll, wütend, verletzlich). Das ist Few-Shot-Learning für Dialog-Generierung.
+
+**`subtext_rules`** verhindern On-the-Nose-Dialog: Wenn das LLM weiß, dass Maria "Ich könnte niemals" sagt und damit "Ich bin bereits gebunden" meint, schreibt es besseren Subtext.
+
+**`emotional_expression`** gibt dem LLM die Anweisung, WIE eine Figur Emotion zeigt — nicht nur welche Worte sie benutzt, sondern auch physische Reaktionen, Schweigen, Deflection.
+
+### Caps sind kontraproduktiv
+`verbal_tics[:3]` und `avoidances[:3]` kappe die Liste bei 3 Einträgen. Problem: Oft sind gerade die Einträge 4-5 die subtilsten und differenzierendsten. Bei einer Kurzgeschichte mit nur 4-5 Hauptfiguren hat man Token-Budget für alle Einträge.
+
+## Bewährt (aus Der Schneesturm, 2026-04-07)
+- Volle 9-Dimensionen-Injektion bringt ~5600 Chars für 5 Charaktere
+- Token-Budget bleibt unter 1500 — kein spürbarer Impact auf Kontextfenster
+- Dialog-Beispiele als Few-Shot sind der einzelne größte Qualitätshebel
+
+## Anwendungsregel
+**Immer alle 9 Dimensionen injizieren.** Keine Caps. Die Token-Kosten sind minimal (1-2% des Kontextfensters), der Qualitätsgewinn für Dialog ist massiv.

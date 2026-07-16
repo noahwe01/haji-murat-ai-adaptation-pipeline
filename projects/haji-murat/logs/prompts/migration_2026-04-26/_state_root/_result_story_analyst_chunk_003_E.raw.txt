@@ -1,0 +1,118 @@
+{
+  "new_characters": [
+    {
+      "name": "Narrator (Authorial I)",
+      "initial_description": "First-person authorial voice who recalls a Caucasian episode 'partly seen, partly heard, partly imagined'. Frames the main narrative as a remembered story triggered by the thistle.",
+      "role": "supporting"
+    },
+    {
+      "name": "Hadji Murad",
+      "initial_description": "Famed naib of Shamil, formerly riding out with banner and dozens of murids. Now a fugitive in hood and burka with only one murid, rifle protruding, alert black eyes. Enters hostile Chechen aoul Makhmet on a cold November evening 1851.",
+      "role": "protagonist"
+    },
+    {
+      "name": "Hadji Murad's murid (unnamed)",
+      "initial_description": "Sole remaining companion accompanying Hadji Murad on his covert ride into Makhmet. No further detail yet.",
+      "role": "supporting"
+    },
+    {
+      "name": "Old man on the saklya roof",
+      "initial_description": "Elderly man in greasy beshmet and nightcap, sleeping under a sheepskin on the roof of a hillside saklya. Roused by Hadji Murad's whip-handle and tongue-click — likely Sado or his household member, sheltering the fugitive.",
+      "role": "supporting"
+    },
+    {
+      "name": "Shamil",
+      "initial_description": "Imam of the Caucasian resistance; Hadji Murad is (or was) his naib. Offstage antagonist at this point — Hadji Murad is fleeing his authority.",
+      "role": "antagonist"
+    }
+  ],
+  "plot_elements": [
+    {
+      "description": "Narrator-frame: the thistle triggers memory of a late-1851 Caucasian episode, introduced as part-seen, part-heard, part-imagined.",
+      "act": 1,
+      "subplot_id": "author_digression"
+    },
+    {
+      "description": "Time anchor established: late November 1851, cold evening, hostile Chechen aoul Makhmet, fifteen miles from Russian territory.",
+      "act": 1,
+      "subplot_id": null
+    },
+    {
+      "description": "Hadji Murad, formerly a celebrated naib with banner and murids, arrives as a fugitive — reduced to one murid, hooded, concealed rifle. Reversal of status is the inciting state.",
+      "act": 1,
+      "subplot_id": "hm_defection"
+    },
+    {
+      "description": "Hadji Murad avoids the main square, turns into a narrow side street, stops at a specific hillside saklya — signalling a planned clandestine refuge with a known host.",
+      "act": 1,
+      "subplot_id": "sado_kunak_loyalty"
+    },
+    {
+      "description": "First contact: Hadji Murad wakes the old man on the roof with whip-handle and tongue-click — beginning of the kunak-harboring beat.",
+      "act": 1,
+      "subplot_id": "sado_kunak_loyalty"
+    }
+  ],
+  "new_locations": [
+    {
+      "name": "Makhmet (Chechen aoul)",
+      "description": "Hostile Chechen village fifteen miles from Russian territory. Scented with burning kizyak smoke, lowing cattle, bleating sheep, dispersing herds among honeycomb-clustered saklyas. Muezzin's chant just ceased; guttural disputes and women's/children's voices from the fountain below. Cold November evening, clear mountain air."
+    },
+    {
+      "name": "Sado's saklya (Makhmet)",
+      "description": "Second saklya on a narrow side street, cut into the hillside. Penthouse in front is empty; freshly plastered clay chimney on the roof, where a man sleeps under a sheepskin. Hadji Murad's clandestine refuge point."
+    },
+    {
+      "name": "Village Fountain (Makhmet)",
+      "description": "Below the saklyas; voices of women and children rise from there at dusk. Atmospheric sound layer of the aoul."
+    }
+  ],
+  "tension": 0.55,
+  "act_estimation": 1,
+  "filmability_score": 0.8,
+  "theme_hints": [
+    "indomitable vitality vs. destruction (thistle-frame bleeds into HM's fugitive entrance)",
+    "fallen greatness — the celebrated warrior reduced to a hunted man",
+    "hostile terrain, divided loyalties — a Chechen aoul is no longer safe for Shamil's naib",
+    "memory and historical witness (narrator frame)"
+  ],
+  "symbols": [
+    "hood and burka concealing the rifle (concealment, reduced status)",
+    "single murid (remnant retinue, measure of fall)",
+    "kizyak smoke at dusk (threshold between day and night, safety and danger)",
+    "honeycomb saklyas (communal density the fugitive must navigate unseen)",
+    "muezzin's just-ceased chant (sacred time slipping into profane threat)"
+  ],
+  "fusion_candidates": [],
+  "cuttable": [
+    {
+      "element": "Narrator-frame preamble ('What vitality! ... as follows.')",
+      "reason": "Authorial digression bridging thistle-frame to main narrative — non-dramatized; translate to a clean time-cut into 1851 rather than preserve as voice-over."
+    },
+    {
+      "element": "Ambient-only details of the aoul (muezzin, cattle, fountain voices) beyond a single atmospheric beat",
+      "reason": "World-exposition layer; can be compressed to one establishing shot in the film without plot loss."
+    }
+  ],
+  "refocalize": [
+    {
+      "scene": "Narrator's framing preamble introducing the 1851 episode",
+      "current_pov": "First-person authorial narrator ('I thought', 'I remembered')",
+      "recommended_pov": "Dissolve frame — cut directly from the thistle image to HM riding into Makhmet; no narrator voice-over."
+    },
+    {
+      "scene": "Wide establishing of Makhmet (muezzin, cattle, fountain voices)",
+      "current_pov": "Omniscient authorial panorama over the aoul",
+      "recommended_pov": "Anchor through Hadji Murad's POV — what he sees, hears, avoids as he threads the side street."
+    }
+  ],
+  "notes": "Chunk 3 is the formal opening of the main narrative after the thistle-frame. It establishes: (1) the narrator-frame (to be dissolved per NF-04/NF-08), (2) Hadji Murad's fugitive status as de-facto inciting state (SC-07 candidate — never cut), (3) the first location-anchor Makhmet/Sado's saklya (maps to LOCATION GRAPH 'Sado's Aoul' weight=10). No fusion candidates triggered yet — only HM, one anonymous murid, and an old man (likely Sado, confirm next chunk). Historical-anchor immunity (CF-04) applies to Hadji Murad and Shamil. Thistle-frame + authorial preamble are classic Tolstoi-digression (SS-04/NF-04 territory). Tension mid-range: stealth, not yet overt danger."
+}
+
+DECISIONS:
+- DISSOLVE_FRAME narrator-preamble: Tolstoi authorial 'I' non-dramatized, translate to visual cut → NF-04, NF-08
+- CUT_SUBPLOT author_digression (thistle→memory bridge): non-filmable auctorial commentary → SS-04
+- REFOCAL Makhmet-establishing: omniscient panorama restaged through HM's fugitive POV → CF-08, NF-09
+- KEEP hm_fugitive_entry: reversal from banner-naib to lone fugitive is inciting state of HM's arc → SC-07, M-02
+- KEEP Hadji Murad + Shamil: historical anchors, never fuse → CF-04, M-03
+- COMPRESS aoul-ambient-layer (muezzin/cattle/fountain): reduce to one establishing beat through HM's ears → SC-01, SS-03

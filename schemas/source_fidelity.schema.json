@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "source_fidelity_validator report caps (Q1.2 report-only)",
+  "type": "object",
+  "properties": {
+    "source_fidelity_report": {
+      "type": "object",
+      "properties": {
+        "scene_scores":     {"type": "array", "maxItems": 200},
+        "failed_scene_ids": {"type": "array", "maxItems": 200, "items": {"type": "string", "maxLength": 40}}
+      }
+    }
+  }
+}
